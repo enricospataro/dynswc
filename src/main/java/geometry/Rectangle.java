@@ -61,6 +61,18 @@ public class Rectangle {
     }
     public void incrementCenter(double x,double y) {setCenter(getCenterX()+x,getCenterY()+y);}
     
+    public void add(Rectangle rect) {
+        double x1 = Math.min(getMinX(), rect.getMinX());
+        double y1 = Math.min(getMinY(), rect.getMinY());
+        double x2 = Math.max(getMaxX(), rect.getMaxX());
+        double y2 = Math.max(getMaxY(), rect.getMaxY());
+
+        setRect(x1,y1,x2-x1,y2-y1);
+    }
+    
+    public void move(double dx,double dy) {setRect(x+dx,y+dy,width,height);}
+    public void moveTo(double nx,double ny) {setRect(nx,ny,width,height);}
+    
     // returns true if this rectangle intersects rect on both axes of a quantity more than eps
     public boolean intersection(Rectangle rect,double eps) {
     	boolean x = (this.x + eps < rect.x + rect.width) && (rect.x + eps < this.x + this.width);

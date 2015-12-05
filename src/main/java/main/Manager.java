@@ -82,7 +82,7 @@ public class Manager {
 				
 		List<String> textParts=TextUtils.splitText(text,text.length()/6);
 		
-		setWords(130);
+		setWords(30);
 		setRankingStrategy(new TFIDFRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
@@ -94,18 +94,18 @@ public class Manager {
 		
 		// 2 compute similarity of extracted words
 		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new ContextPreservingStrategy());
+		setLayoutStrategy(new StarForestStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
 		
 		for(int i=0;i<docs.size();i++) {
-		Map<WordPair,Double> similarity = computeSimilarities(docs.get(i));
-		wordGraph = new WordGraph(docs.get(i).getWords(),similarity);
-		wordGraphs.add(wordGraph);
+			Map<WordPair,Double> similarity = computeSimilarities(docs.get(i));
+			wordGraph = new WordGraph(docs.get(i).getWords(),similarity);
+			wordGraphs.add(wordGraph);
 
-		// 3 run a layout algorithm
-		layoutResults.add(layout(wordGraph));}
+			// 3 run a layout algorithm
+			layoutResults.add(layout(wordGraph));}
 		
 		setFrames(300);
 		setMorphingStrategy(new SimpleMorphing(frames));

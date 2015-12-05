@@ -11,7 +11,7 @@ public class Word implements Comparable<Word>, Cloneable{
     private double score;
     private List<Integer> sentences;
 
-    public Word(String word, double score) {
+    public Word(String word,double score) {
     	this.word=word;
     	this.stem=null;
     	this.score=score;

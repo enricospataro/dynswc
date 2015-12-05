@@ -44,9 +44,11 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
         
         execute();     
         
-        lastResult = new LayoutResult(words,wordPositions);
+        lastResult = createResult();
         return lastResult;
     }
+    
+    protected LayoutResult createResult() {return new LayoutResult(words,wordPositions);}
 	public void createBoundingBoxes() {IntStream.range(0,words.size()).forEach(i -> wordPositions.add(getBoundingBox(words.get(i))));}
 	public Rectangle getBoundingBox(Word word) {return boundingBox.getBoundingBox(word);}
 }

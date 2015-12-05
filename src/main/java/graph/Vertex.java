@@ -3,11 +3,11 @@ package main.java.graph;
 import main.java.nlp.Word;
 
 public class Vertex extends Word {
-    private Graph graph;
+	private Graph g;
 
-    public Vertex(String word,double score,Graph graph) {
-        super(word,score);
-        this.graph=graph;
+    public Vertex(String word,double weight,Graph g) {
+        super(word,weight);
+        this.g=g;
     }
-    public int getDegree() {return graph.degreeOf(this);} 
+    public int getDegree() {return this.g.degreeOf(this);}
 }

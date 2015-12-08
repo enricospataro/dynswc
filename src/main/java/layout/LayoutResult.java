@@ -15,7 +15,7 @@ public class LayoutResult {
 
     public LayoutResult(List<Word> words,List<Rectangle> positions) {
     	this.words=words;
-        wordPositions = new HashMap<>(); 
+        this.wordPositions = new HashMap<>(); 
         IntStream.range(0,words.size()).forEach(i -> wordPositions.put(words.get(i),positions.get(i)));
     }
     
@@ -26,5 +26,5 @@ public class LayoutResult {
     
     public List<Word> getWords() {return words;}
     public Rectangle getWordPosition(Word w) {return wordPositions.get(w);}
-    public Map<Word,Rectangle> getWordPositionsMap() {return wordPositions;}
+    public Map<Word,Rectangle> getWordPositionMap() {return wordPositions;}
 }

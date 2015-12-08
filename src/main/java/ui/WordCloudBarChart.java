@@ -9,6 +9,7 @@ import java.util.Comparator;
 import java.util.List;
 
 import main.java.layout.LayoutResult;
+import main.java.main.Manager;
 import main.java.nlp.Word;
 
 import org.jfree.chart.ChartFactory;
@@ -31,12 +32,14 @@ public class WordCloudBarChart {
 	JFreeChart chart;
 	ChartPanel chartPanel;
 	
-	public WordCloudBarChart(LayoutResult result,int length) {
+	public WordCloudBarChart(LayoutResult result) {
 		
 		rankedWords = result.getWords();
 		Collections.sort(rankedWords,Comparator.reverseOrder());
 
-		this.length=length;
+		this.length=Manager.getWords();
+		if(length>10) length=10;
+		
         CategoryDataset dataset = createDataset();
         chart = createChart(dataset);
         chartPanel = new ChartPanel(chart);

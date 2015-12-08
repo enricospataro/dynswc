@@ -69,7 +69,7 @@ public class SimpleMorphing implements MorphingStrategy {
 	private Map<Word,Rectangle> morphCommonWords(int iter) {
 		Map<Word,Rectangle> positionsResult=new HashMap<>();
 		for(Word cw:commonWords) {
-			Word cwA=resultA.getWordPositionsMap().keySet().stream().filter(w -> w.getStem().equals(cw.getStem())).findFirst().get();
+			Word cwA=resultA.getWordPositionMap().keySet().stream().filter(w -> w.getStem().equals(cw.getStem())).findFirst().get();
 			Rectangle rectA=resultA.getWordPosition(cwA);
 			Rectangle rectB=resultB.getWordPosition(cw);
 			Word cloneA=(Word)cwA.clone();

@@ -6,9 +6,10 @@ import java.util.List;
 
 public class Word implements Comparable<Word>, Cloneable{
 	
-	private String word;
-    private String stem;
-    private double score;
+	protected String word;
+    protected String stem;
+    protected double score;
+    
     private List<Integer> sentences;
 
     public Word(String word,double score) {
@@ -31,6 +32,8 @@ public class Word implements Comparable<Word>, Cloneable{
     public void incrementScore(double s) {setScore(score+s);}
     public void decrementScore(double s) {setScore(score-s);}
     
+    @Override
+    public int hashCode() {return word.hashCode();}
     @Override
     public boolean equals(Object o) {
         if (!(o instanceof Word))return false;

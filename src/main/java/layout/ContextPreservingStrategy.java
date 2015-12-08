@@ -140,7 +140,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     	double avgStep = 0;
     	
 		List<Word> lastWords = lastResult.getWords();
-		Map<Word,Rectangle> lastWordPositions = lastResult.getWordPositionsMap();
+		Map<Word,Rectangle> lastWordPositions = lastResult.getWordPositionMap();
 
 		List<Word> commonWords = new ArrayList<>(words);
 		commonWords.retainAll(lastWords);
@@ -225,9 +225,9 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         double dist = GeometryUtils.rectToRectDistance(rect,lastRect);        
 
 //        double force = maxScore*maxScore/k*k; // tante iterazioni ma poco movimento
-//        double force = Math.sqrt(dist)/k*k;
+        double force = Math.sqrt(dist)/k*k;
 // 	  	double force = dist/k*k;
-   	  double force = 2/k;        
+//   	  double force = 2/k;        
 //     	  double force = k*k*dist;        
 //        if(T<0.5) force *= T;
 

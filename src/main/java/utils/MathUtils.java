@@ -11,7 +11,7 @@ public class MathUtils {
                 res[i][j] = m[i][j];
         return res;
     }
-
+    
     public static double[] randomUnitLengthVector(int n, int randomSeed)  {
         Random rnd = new Random(randomSeed);
         double[] x = new double[n];

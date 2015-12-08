@@ -63,7 +63,7 @@ public class WordCloudFrame extends JFrame {
 			List<RenderedWord> rw = RenderedWord.renderWords(res.getWords(),res,colorHandlers.get(i));
 
 			WordCloudPanel panel = new WordCloudPanel(rw,width,height,minX,minY,maxX,maxY);
-			WordCloudBarChart barChart = new WordCloudBarChart(res,10);
+			WordCloudBarChart barChart = new WordCloudBarChart(res);
 		
 			panels.add(panel);
 			charts.add(barChart);

@@ -79,7 +79,7 @@ public class SimpleMorphingTest {
 		
 		List<LayoutResult> results=sm.morph(resultA,resultB);
 		
-		for(LayoutResult res:results) System.out.println(res.getWordPositionsMap());	
+		for(LayoutResult res:results) System.out.println(res.getWordPositionMap());	
 		System.out.println(results.get(0).getWordPosition(w2).getCenterX());System.out.println(results.get(1).getWordPosition(w2).getCenterX());
 	}
 }

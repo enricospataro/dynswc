@@ -37,10 +37,10 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
     
     public final LayoutResult layout(WordGraph wordGraph) {
         this.wordGraph=wordGraph;
-        words=wordGraph.getWords();
-        similarity=wordGraph.getSimilarity();
-        wordPositions=new ArrayList<Rectangle>(words.size());
-        wordPositionsMap=new HashMap<>();
+        this.words=wordGraph.getWords();
+        this.similarity=wordGraph.getSimilarity();
+        this.wordPositions=new ArrayList<Rectangle>(words.size());
+        this.wordPositionsMap=new HashMap<>();
         
         execute();     
         
@@ -48,7 +48,13 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
         return lastResult;
     }
     
-    protected LayoutResult createResult() {return new LayoutResult(words,wordPositions);}
-	public void createBoundingBoxes() {IntStream.range(0,words.size()).forEach(i -> wordPositions.add(getBoundingBox(words.get(i))));}
+    protected LayoutResult createResult() {
+    	IntStream.range(0,words.size()).forEach(i -> wordPositionsMap.put(words.get(i),wordPositions.get(i)));
+    	return new LayoutResult(words,wordPositions);
+//    	return new LayoutResult(wordPositionsMap);
+    }
+	public void createBoundingBoxes() {
+		IntStream.range(0,words.size()).forEach(i -> wordPositions.add(getBoundingBox(words.get(i))));
+	}	
 	public Rectangle getBoundingBox(Word word) {return boundingBox.getBoundingBox(word);}
 }

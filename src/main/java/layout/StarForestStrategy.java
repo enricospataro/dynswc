@@ -24,6 +24,8 @@ import java.util.stream.IntStream;
  */
 public class StarForestStrategy extends BaseLayoutStrategy {
 	
+	private int numIterations = 0;
+	
     public StarForestStrategy()  {super();}
 
     @Override
@@ -32,11 +34,12 @@ public class StarForestStrategy extends BaseLayoutStrategy {
         Graph g = new Graph(wordGraph); 
         
         List<LayoutResult> forest = greedyExtractStarForest(g);
-
-        WordPlacer wordPlacer = new ClusterForceDirectedPlacer(wordGraph,forest,boundingBox);
+        
+        WordPlacer wordPlacer = new ClusterForceDirectedPlacer(wordGraph,forest,boundingBox,lastResult);
         IntStream.range(0,words.size()).forEach(i -> wordPositions.add(wordPlacer.getRectangleForWord(words.get(i))));
 
-        new ForceDirectedUniformity<Rectangle>(0.25).run(wordPositions);
+//        new ForceDirectedOverlapRemoval<>(0.55).run(wordPositions);
+        new ForceDirectedUniformity<Rectangle>(0.5).run(wordPositions);   
     }
 
     private List<LayoutResult> greedyExtractStarForest(Graph g) {
@@ -53,7 +56,7 @@ public class StarForestStrategy extends BaseLayoutStrategy {
                     double sum = 0;
                     for(Edge e:g.edgesOf(v))  {
                         Vertex u = g.getOtherSide(e,v);
-                        if(!usedVertices.contains(u))  sum += g.getEdgeWeight(e);
+                        if(!usedVertices.contains(u)) sum += g.getEdgeWeight(e);
                     }
 
                     if(bestStarCenter == null || sum>bestSum)  {
@@ -66,7 +69,7 @@ public class StarForestStrategy extends BaseLayoutStrategy {
             if(bestStarCenter==null) break;
 
             assert(!usedVertices.contains(bestStarCenter));
-            
+
             //run FPTAS on the star
             Graph star = createStar(bestStarCenter,usedVertices,g);      
             SingleStarStrategy ssa = new SingleStarStrategy();
@@ -74,10 +77,11 @@ public class StarForestStrategy extends BaseLayoutStrategy {
 
             //take the star
             result.add(ssa.layout(wordGraph));
+            
             //update used
             usedVertices.addAll(ssa.getRealizedVertices());
-        }
-
+            
+        	}
         return result;
     }
 
@@ -86,16 +90,16 @@ public class StarForestStrategy extends BaseLayoutStrategy {
         for(Vertex v:g.vertexSet())
             if(!usedVertices.contains(v)) words.add(v);
 
-        Map<WordPair, Double> weights = new HashMap<WordPair, Double>();
+        Map<WordPair,Double> weights = new HashMap<WordPair,Double>();
         for(Vertex v:g.vertexSet()) {
             if(center.equals(v)) continue;
-            if(usedVertices.contains(v))   continue;
-            if(!g.containsEdge(center,v))  continue;
+            if(usedVertices.contains(v)) continue;
+            if(!g.containsEdge(center,v)) continue;
 
             WordPair wp = new WordPair(center,v);
             Edge edge = g.getEdge(center,v);
-            weights.put(wp, g.getEdgeWeight(edge));
-        }
+            weights.put(wp,g.getEdgeWeight(edge));
+        }    
         return new Graph(words,weights);
     }
 }

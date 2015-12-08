@@ -80,7 +80,7 @@ public class Manager {
 		File tokenModel = new File("src/main/resources/opennlp/en-token.bin");
 		tokenizer = getTokenizer(tokenModel);
 				
-		List<String> textParts=TextUtils.splitText(text,text.length()/6);
+		List<String> textParts=TextUtils.splitText(text,text.length()/4);
 		
 		setWords(30);
 		setRankingStrategy(new TFIDFRanking());
@@ -94,7 +94,7 @@ public class Manager {
 		
 		// 2 compute similarity of extracted words
 		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new StarForestStrategy());
+		setLayoutStrategy(new CycleCoverStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -103,9 +103,10 @@ public class Manager {
 			Map<WordPair,Double> similarity = computeSimilarities(docs.get(i));
 			wordGraph = new WordGraph(docs.get(i).getWords(),similarity);
 			wordGraphs.add(wordGraph);
-
+			
 			// 3 run a layout algorithm
-			layoutResults.add(layout(wordGraph));}
+			layoutResults.add(layout(wordGraph));
+		}
 		
 		setFrames(300);
 		setMorphingStrategy(new SimpleMorphing(frames));

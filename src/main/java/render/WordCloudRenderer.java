@@ -95,12 +95,13 @@ public class WordCloudRenderer {
             Rectangle rect = rw.getBoundingBox();
             allRects.add(rect);
         }
-        double panelWidth = width - 2*offset;
-        double panelHeight = height - 2*offset;
       
+      double panelWidth = width - 2*offset;
+      double panelHeight = height - 2*offset;
         
       double sigmoid =  1/(1+Math.exp(-0.2*Manager.getWords()));
       scaleFactor = sigmoid*Math.min(panelWidth/(maxX-minX),panelHeight/(maxY-minY));
+      
       shiftX = -1*minX;
       shiftY = -1*minY;
       shiftX = -1*minX + offset/scaleFactor;

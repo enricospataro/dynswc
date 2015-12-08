@@ -1,9 +1,11 @@
 package test.java;
 
 import static org.junit.Assert.*;
+import main.java.graph.Edge;
 import main.java.graph.Graph;
 import main.java.graph.Vertex;
 
+import org.jgrapht.graph.SimpleGraph;
 import org.junit.Test;
 
 

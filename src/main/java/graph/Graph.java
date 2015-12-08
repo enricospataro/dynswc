@@ -17,6 +17,7 @@ import java.util.Map;
 import org.jgrapht.graph.SimpleWeightedGraph;
 
 public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
+	
     private static final long serialVersionUID = -2417190563746825008L;
 
     public Graph() {super(Edge.class);}
@@ -25,7 +26,7 @@ public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
 
     public Graph(List<Word> words,Map<WordPair,Double> weights) {
         super(Edge.class);
-
+        
         List<Vertex> vertices = new ArrayList<>();
         Map<Word,Vertex> wordToVertex = new HashMap<>();
         
@@ -35,7 +36,7 @@ public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
             wordToVertex.put(w,v);
         }
         
-        Map<UnorderedPair<Vertex,Vertex>,Double> vertexWeights = new HashMap<UnorderedPair<Vertex, Vertex>, Double>();
+        Map<UnorderedPair<Vertex,Vertex>,Double> vertexWeights = new HashMap<UnorderedPair<Vertex,Vertex>,Double>();
         for(WordPair cur:weights.keySet()) {
             Vertex v1 = wordToVertex.get(cur.getFirst());
             Vertex v2 = wordToVertex.get(cur.getSecond());
@@ -47,7 +48,7 @@ public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
     }
 
     public List<Word> getWords() {return new ArrayList<Word>(vertexSet());}
-
+    
     public Map<WordPair,Double> getSimilarities() {
         Map<WordPair, Double> ret = new HashMap<WordPair, Double>();
 

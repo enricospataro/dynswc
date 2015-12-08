@@ -46,7 +46,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
 
         for(int i=0;i<words.size();i++)
             for(int j=i+1;j<words.size();j++) {
-                if(!AdjacenciesMetric.close(wordPositions.get(i),wordPositions.get(j)))  continue;
+                if(!AdjacenciesMetric.close(wordPositions.get(i),wordPositions.get(j))) continue;
 
                 Edge edge = graph.getEdge((Vertex)words.get(i),(Vertex)words.get(j));
                 ret += graph.getEdgeWeight(edge);
@@ -56,14 +56,14 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
 
     public List<Vertex> getRealizedVertices() {
         List<Vertex> result = new ArrayList<>();
-
+        
         for(Vertex v:graph.vertexSet()) {
             if(v.equals(center)) {
                 result.add(center);
                 continue;
             }
-            if(!graph.containsEdge(center,v))  continue;
-
+            if(!graph.containsEdge(center,v)) continue;
+            
             result.add(v);
         }
         return result;
@@ -72,36 +72,35 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
     @Override
     protected void execute() {
         wordIndex = new HashMap<>();
-        for(int i=0;i<words.size();i++)  wordIndex.put(words.get(i),i);
+        for(int i=0;i<words.size();i++) wordIndex.put(words.get(i),i);
 
         createBoundingBoxes();
-
+        
         computeKnapsacks();
-
         // get the four corner boxes
         Iterator<Edge> it = graph.weightOrderedEdgeIterator(true);
         int found = 0;
         Vertex[] cornerVertices = new Vertex[4];
         while(found<4 && it.hasNext()) {
             Edge e = it.next();
-            Vertex child = graph.getOtherSide(e, center);
+            Vertex child = graph.getOtherSide(e,center);
 
-            if(boxesNotRealized.contains(child))  {
+            if(boxesNotRealized.contains(child)) {
                 cornerVertices[found++] = child;
                 boxesNotRealized.remove(child);
             }
         }
-
+        
         // center box, position 0,0
-        Rectangle centerRect = wordPositions.get(wordIndex.get(center));
-        wordPositions.add(wordIndex.get(center),centerRect);
-
+        Rectangle centerRect = wordPositions.get(wordIndex.get(center));     
+        wordPositions.set(wordIndex.get(center),centerRect);
+        
         //sides
-        layoutTop(centerRect, found, cornerVertices);
-        layoutBottom(centerRect, found, cornerVertices);
-        layoutRight(centerRect, found, cornerVertices);
-        layoutLeft(centerRect, found, cornerVertices);
-
+        layoutTop(centerRect,found,cornerVertices);
+        layoutBottom(centerRect,found,cornerVertices);
+        layoutRight(centerRect,found,cornerVertices);
+        layoutLeft(centerRect,found,cornerVertices);
+        
         //checkSanity();
     }
 
@@ -118,7 +117,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
 
     private void layoutRight(Rectangle centerRect,int found,Vertex[] cornerVertices) {
         double taken = 0;
-        for(Vertex v : sortBoxes(boxesRight))  {
+        for(Vertex v:sortBoxes(boxesRight))  {
         	Rectangle wordRect = wordPositions.get(wordIndex.get(v));
             // translate to right and up
             wordRect.move(centerRect.getWidth(), taken);
@@ -242,7 +241,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             if(graph.edgesOf(v).size()>1) {
                 if(center==null) {
                     // found the center
-                    center = v;
+                    center = v; 
                 }
 //                else {
 //                    // TODO remove
@@ -265,8 +264,9 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             // pair or single vertex
             center = graph.vertexSet().iterator().next();
         }
+        
+        this.center = center;
 
-        this.center = center; 
         Rectangle centerRect = wordPositions.get(wordIndex.get(center)); 
 
         final int horizontalSize = (int)Math.round(centerRect.getWidth() * (SIZE_SCALING));
@@ -296,8 +296,8 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
 
             Rectangle bb = wordPositions.get(wordIndex.get(v));
 
-            heights[k] = (int)Math.round(bb.getHeight() * (SIZE_SCALING)) + 1;
-            widths[k] = (int)Math.round(bb.getWidth() * (SIZE_SCALING)) + 1;
+            heights[k] = (int) (Math.round(bb.getHeight() * (SIZE_SCALING)) + 1);
+            widths[k] = (int) (Math.round(bb.getWidth() * (SIZE_SCALING)) + 1);
 
             //Logger.log("Putting width: " + widths[k]);
             //Logger.log("Pixel width: " + this.bbGenerator.getBoundingBox(v, v.weight).getWidth());
@@ -342,7 +342,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
                     instance = new KnapsackInstance(0, children.size(), horizontalSize, widthCopy, marginalValues);
                 }
                 else  {
-                    int[] heightCopy = heights.clone();
+                	int[] heightCopy = heights.clone();
                     instance = new KnapsackInstance(0, children.size(), verticalSize, heightCopy, marginalValues);
                 }
 
@@ -367,7 +367,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             // =========
             // top
             // =========
-            int topDelta;
+            double topDelta;
 
             KnapsackFPTAS topFPTAS = solver.solveFor(top, true);
             topDelta = topFPTAS.getKnapsackCost() - valueTop;
@@ -375,7 +375,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             // =========
             // bottom
             // =========
-            int bottomDelta;
+            double bottomDelta;
 
             KnapsackFPTAS bottomFPTAS = solver.solveFor(bottom, true);
             bottomDelta = bottomFPTAS.getKnapsackCost() - valueBottom;
@@ -383,7 +383,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             // =========
             // left
             // =========
-            int leftDelta;
+            double leftDelta;
 
             KnapsackFPTAS leftFPTAS = solver.solveFor(left, false);
             leftDelta = leftFPTAS.getKnapsackCost() - valueLeft;
@@ -391,13 +391,13 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             // =========
             // right
             // =========
-            int rightDelta;
+            double rightDelta;
 
             KnapsackFPTAS rightFPTAS = solver.solveFor(right, false);
             rightDelta = rightFPTAS.getKnapsackCost() - valueRight;
 
             // Let's see who won!
-            int maxDelta = Math.max(Math.max(topDelta, bottomDelta), Math.max(leftDelta, rightDelta));
+            double maxDelta = Math.max(Math.max(topDelta, bottomDelta), Math.max(leftDelta, rightDelta));
             if(maxDelta<=0) {
                 // No improvement!
                 //Logger.log("Top value: " + topFPTAS.getKnapsackCost());
@@ -415,7 +415,7 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             if(maxDelta==topDelta) {
                 // top won!
                 setToReplace = top;
-                valueTop = topFPTAS.getKnapsackCost();
+                valueTop = (int) topFPTAS.getKnapsackCost();
                 winningElements = topFPTAS.getKnapsackConfiguration();
             }
             else if(maxDelta==bottomDelta)  {

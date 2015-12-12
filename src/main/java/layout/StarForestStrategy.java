@@ -18,12 +18,15 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.IntStream;
 
+import org.jgrapht.alg.ConnectivityInspector;
+
 /**
  * @author spupyrev 
  * Aug 29, 2013 
  */
 public class StarForestStrategy extends BaseLayoutStrategy {
 	
+	private WordPlacer wordPlacer;
 	private int numIterations = 0;
 	
     public StarForestStrategy()  {super();}
@@ -35,11 +38,14 @@ public class StarForestStrategy extends BaseLayoutStrategy {
         
         List<LayoutResult> forest = greedyExtractStarForest(g);
         
-        WordPlacer wordPlacer = new ClusterForceDirectedPlacer(wordGraph,forest,boundingBox,lastResult);
+        if(numIterations!=0) wordPlacer = new ClusterForceDirectedPlacer(wordGraph,forest,boundingBox,lastResult);
+        else wordPlacer = new ClusterForceDirectedPlacer(wordGraph,forest,boundingBox,null);
+        
         IntStream.range(0,words.size()).forEach(i -> wordPositions.add(wordPlacer.getRectangleForWord(words.get(i))));
-
-//        new ForceDirectedOverlapRemoval<>(0.55).run(wordPositions);
-        new ForceDirectedUniformity<Rectangle>(0.5).run(wordPositions);   
+        
+        new ForceDirectedUniformity<Rectangle>(0.25).run(wordPositions);
+        
+        numIterations++; 
     }
 
     private List<LayoutResult> greedyExtractStarForest(Graph g) {

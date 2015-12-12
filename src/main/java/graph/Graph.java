@@ -41,9 +41,9 @@ public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
             Vertex v1 = wordToVertex.get(cur.getFirst());
             Vertex v2 = wordToVertex.get(cur.getSecond());
 
-            UnorderedPair<Vertex, Vertex> newPair = new UnorderedPair<Vertex, Vertex>(v1,v2);
+            UnorderedPair<Vertex,Vertex> newPair = new UnorderedPair<Vertex,Vertex>(v1,v2);
             vertexWeights.put(newPair,weights.get(cur));
-        }
+        }         
         construct(vertices,vertexWeights);
     }
 
@@ -77,12 +77,13 @@ public class Graph extends SimpleWeightedGraph<Vertex,Edge> {
         for(Vertex v:vertices) addVertex(v);
         
         //adding edges
-        for(UnorderedPair<Vertex, Vertex> pair:weights.keySet())  {
+        for(UnorderedPair<Vertex,Vertex> pair:weights.keySet())  {
             if(pair.getFirst().equals(pair.getSecond())) continue;
-
-            Edge e = addEdge(pair.getFirst(), pair.getSecond());
-            setEdgeWeight(e, weights.get(pair));
+            
+            Edge e = addEdge(pair.getFirst(),pair.getSecond());
+            setEdgeWeight(e,weights.get(pair));
         }
+        
     }
 
     public List<Graph> getComponents() {

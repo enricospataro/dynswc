@@ -52,8 +52,8 @@ public class Rectangle {
     public double getMaxY() {return y+height;}
     public double getMinY() {return y;}
 
-    public double getCenterX() {return x + width/2.0;}
-    public double getCenterY() {return y + height/2.0;}
+    public double getCenterX() {return x + (width/2.0);}
+    public double getCenterY() {return y + (height/2.0);}
     public Point getCenter() {return new Point(getCenterX(),getCenterY());}
     public void setCenter(double x, double y) {
         setX(x-(width/2));
@@ -62,10 +62,10 @@ public class Rectangle {
     public void incrementCenter(double x,double y) {setCenter(getCenterX()+x,getCenterY()+y);}
     
     public void add(Rectangle rect) {
-        double x1 = Math.min(getMinX(), rect.getMinX());
-        double y1 = Math.min(getMinY(), rect.getMinY());
-        double x2 = Math.max(getMaxX(), rect.getMaxX());
-        double y2 = Math.max(getMaxY(), rect.getMaxY());
+        double x1 = Math.min(getMinX(),rect.getMinX());
+        double y1 = Math.min(getMinY(),rect.getMinY());
+        double x2 = Math.max(getMaxX(),rect.getMaxX());
+        double y2 = Math.max(getMaxY(),rect.getMaxY());
 
         setRect(x1,y1,x2-x1,y2-y1);
     }

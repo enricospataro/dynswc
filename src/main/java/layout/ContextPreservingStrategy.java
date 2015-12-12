@@ -118,7 +118,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 	        if(numIterations % 5 == 0) T *= 0.95;
 	    }
 //		new ForceDirectedOverlapRemoval<>(0.15).run(wordPositions);
-	    new ForceDirectedUniformity<>(0.1).run(wordPositions);
+//	    new ForceDirectedUniformity<>(0.1).run(wordPositions);
 	}
 
 	/**
@@ -150,7 +150,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 		
 		// compute attractive force between the common words of the two layouts
 		for(Word w:commonWords) {
-
+			
 			Rectangle rect = wordPositionsMap.get(w);
 	    	Word w1 = lastWordPositions.keySet().stream().filter(w0 -> w0.getStem().equals(w.getStem())).findFirst().get();
 
@@ -163,7 +163,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 
             // move the rectangle
 //            dxy = normalize(dxy,bb);
-            rect.setRect(rect.getX() + dxy.getX(),rect.getY() + dxy.getY(),rect.getWidth(),rect.getHeight());
+            rect.setRect(lastRect.getX()+dxy.getX(),lastRect.getY()+dxy.getY(),rect.getWidth(),rect.getHeight());
 //	    	System.out.println(w.getWord()+"::::"+rect.toString());
 //	    	System.out.println(w1.getWord()+"::::"+lastRect.toString());
             assert (!Double.isNaN(rect.getX()));
@@ -217,27 +217,30 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     }
     
     private Point computeAttractiveForce(Rectangle bb,Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
-    	Point dxy = new Point();
     	
+    	Point dxy = new Point();
         double cnt = 0;
-
-        double k = Math.max(w.getScore(),maxScore/5.0);
-        double dist = GeometryUtils.rectToRectDistance(rect,lastRect);        
-
-//        double force = maxScore*maxScore/k*k; // tante iterazioni ma poco movimento
-        double force = Math.sqrt(dist)/k*k;
-// 	  	double force = dist/k*k;
-//   	  double force = 2/k;        
-//     	  double force = k*k*dist;        
-//        if(T<0.5) force *= T;
-
+        
+        double k = Math.max(w.getScore(),maxScore/5.0);     
+        
+        // distance between the two rectangles
         Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
-        double len = dir.length();
+        double len = dir.length(); 
+        
+//        double force = maxScore*maxScore/k*k; // tante iterazioni ma poco movimento
+//        double force = maxScore/k; // non male
+//        double force = dist/k; // benino ma compattazione non eccezionale
+// 	  	double force = dist/k*k;
+     	  double force = 1 - k/(maxScore+1);        // bene
+//     	  double force = dist*(1 - k*k/(maxScore*maxScore));    // bene
+        if(T<0.5) force *= T;
 
-        if(len>EPS) {
-        	dir.scale(1.0/Math.sqrt(len));
+        System.out.println("score "+ k);
+        System.out.println("force "+ force);
+        System.out.println("dist " + len);
+        if(len>EPS) {System.out.println("p1: "+dir);
         	dir.scale(force);
-
+        	System.out.println("p2: "+dir);
         	dxy.add(dir);
         	cnt++;
         }

@@ -25,7 +25,9 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
     private Graph graph;
     private List<Edge> edgesInMatching;
     private boolean useGreedy = false;
-
+    private int numIterations=0;
+    private WordPlacer wordPlacer;
+    
     public CycleCoverStrategy() {super();}
 
     public void setUseGreedy(boolean useGreedy) {
@@ -45,10 +47,11 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
             tme.run();
             edgesInMatching = tme.getMatchedEdges();
         }
-
+       
         checkConsistency(edgesInMatching);
+       
+        List<List<Vertex>> cycles = getCycles(edgesInMatching); 
 
-        List<List<Vertex>> cycles = getCycles(edgesInMatching);
         int CYCLE_SIZE_LIMIT = 12;
         cycles = breakLongCycles(cycles, CYCLE_SIZE_LIMIT);
         
@@ -56,7 +59,7 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
         for(List<Vertex> c:cycles)  {
             BaseLayoutStrategy algo = null;
 
-            if(c.size() <= CYCLE_SIZE_LIMIT)  algo = new SingleCycleStrategy();
+            if(c.size() <= CYCLE_SIZE_LIMIT) algo = new SingleCycleStrategy();
             else algo = new SinglePathStrategy();
            
             cycleLayouts.add(algo.layout(new WordGraph(getCycleWords(c), getCycleWeights(c))));
@@ -64,18 +67,22 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
 
 //        Logger.println("#cycles: " + cycles.size());
 //        Logger.println("weight: " + getRealizedWeight());
-
-        WordPlacer wordPlacer = new ClusterForceDirectedPlacer(wordGraph,cycleLayouts,boundingBox);
+        
+        if(numIterations!=0) wordPlacer = new ClusterForceDirectedPlacer(wordGraph,cycleLayouts,boundingBox,lastResult);
+        else wordPlacer = new ClusterForceDirectedPlacer(wordGraph,cycleLayouts,boundingBox,null);
+        
         IntStream.range(0,words.size()).forEach(i -> wordPositions.add(wordPlacer.getRectangleForWord(words.get(i))));
         
         new ForceDirectedUniformity<Rectangle>(0.25).run(wordPositions);
+        
+        numIterations++;
     }
 
     private List<List<Vertex>> breakLongCycles(List<List<Vertex>> cycles, int cycleSizeLimit) {
         List<List<Vertex>> result = new ArrayList<List<Vertex>>();
         for(List<Vertex> c:cycles)
-           if(c.size() <= cycleSizeLimit)  result.add(c);
-           else result.addAll(breakLongCycle(c, cycleSizeLimit));
+           if(c.size() <= cycleSizeLimit) result.add(c);
+           else result.addAll(breakLongCycle(c,cycleSizeLimit));
 
         return result;
     }
@@ -85,13 +92,13 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
         List<Vertex> cur = new ArrayList<Vertex>();
         for(Vertex v:c) {
             cur.add(v);
-            if(cur.size() >= cycleSizeLimit) {
+            if(cur.size() >= cycleSizeLimit) { 
                 result.add(new ArrayList<Vertex>(cur));
                 cur.clear();
             }
         }
 
-        if(cur.size()>0) result.add(new ArrayList<Vertex>(cur));
+        if(cur.size()>1) result.add(new ArrayList<Vertex>(cur)); 
 
         return result;
     }
@@ -114,7 +121,7 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
            if(!used.contains(v)) {
                 List<Vertex> cycle = new ArrayList<Vertex>();
                 dfs(v, v, next, used, cycle);
-
+                
                 result.add(cycle);
             }
         return result;
@@ -130,7 +137,6 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
 
     private List<Word> getCycleWords(List<Vertex> cycle) {
         List<Word> res = new ArrayList<Word>();
-
         for(int i=0;i<cycle.size();i++) res.add(cycle.get(i));
        
         return res;
@@ -146,15 +152,16 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
                 WordPair wp = new WordPair(u, v);
                 res.put(wp, (i == j ? 1.0 : 0));
             }
-
+        
         for(int i=0;i<cycle.size();i++) {
-            Vertex now = cycle.get(i);
+        	Vertex now = cycle.get(i);
             Vertex next = cycle.get((i + 1) % cycle.size());
-
-            Edge edge = graph.getEdge(now, next);
+            if(now.equals(next)) continue; // errore nel codice di pupyrev: cicli di un vertice!
+            
+            Edge edge = graph.getEdge(now,next);
             double weight = graph.getEdgeWeight(edge);
             WordPair wp = new WordPair(now, next);
-            res.put(wp, weight);
+            res.put(wp,weight);
         }
         return res;
     }

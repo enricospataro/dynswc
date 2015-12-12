@@ -9,18 +9,17 @@ import main.java.geometry.BoundingBox;
 import main.java.geometry.Point;
 import main.java.geometry.Rectangle;
 import main.java.layout.ForceDirectedOverlapRemoval;
+import main.java.layout.ForceDirectedUniformity;
 import main.java.layout.LayoutResult;
-import main.java.layout.LayoutUtils;
 import main.java.layout.WordGraph;
 import main.java.layout.mds.DistanceScaling;
+import main.java.main.Manager;
 import main.java.nlp.Word;
 import main.java.nlp.WordPair;
-import mdsj.MDSJ;
+import main.java.utils.GeometryUtils;
+import main.java.utils.MathUtils;
 
-/**
- * @author spupyrev
- * May 3, 2013
- */
+
 public class ClusterForceDirectedPlacer implements WordPlacer {
 	
     private static final double EPS = 1e-6;
@@ -39,7 +38,8 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
 
     private BoundingBox bb;
 
-    public ClusterForceDirectedPlacer(WordGraph wordGraph, List<? extends LayoutResult> singlePlacers, BoundingBox bb,LayoutResult lastResult)     {
+    public ClusterForceDirectedPlacer(WordGraph wordGraph, List<? extends LayoutResult> singlePlacers, 
+    		BoundingBox bb,LayoutResult lastResult)     {
         this.wordGraph = wordGraph;
         this.words = wordGraph.getWords();
         this.similarities = wordGraph.getSimilarity();
@@ -67,7 +67,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         
         initialPlacement();
         
-        if(numIterations!=0) runForceDirected(lastResult);
+        if(lastResult!=null) runForceDirected(lastResult);
         
         runForceDirected();
 
@@ -126,7 +126,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
                 avgSim /= cnt;
             
                 desiredDistance[i][j] = desiredDistance[j][i] = 
-                		LayoutUtils.idealDistanceConverter(avgSim) * maxWordSize * SCALING;
+                		MathUtils.idealDistanceConverter(avgSim) * maxWordSize * SCALING;
 
             }    	
 
@@ -149,13 +149,26 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         while(numIterations++ < TOTAL_ITERATIONS)  {
             if(numIterations % 1000 == 0)  System.out.println("Finished Iteration " + numIterations);
 
-            if(!doIteration())  break;
+            if(!doIteration()) break;
 
             //cooling down the temperature (max allowed step is decreased)
-            if (numIterations % 5 == 0)
-                T *= 0.95;
+            if(numIterations % 5 == 0) T *= 0.95;
         }
     }
+    
+    private void runForceDirected(LayoutResult lastResult) {
+
+		int numIterations = 0;
+		
+		while(numIterations++ < TOTAL_ITERATIONS)  {
+	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration " + numIterations);
+
+	        if(!doIteration(lastResult)) break;
+
+	        //cooling down the temperature (max allowed step is decreased)
+	        if(numIterations % 5 == 0) T *= 0.95;
+	    } 
+	}
 
     int ni = 0;
 
@@ -167,7 +180,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         int i = 0;
         while(i++ < iters) {
             ni++;
-            if(!doIteration())  return false;
+            if(!doIteration()) return false;
 
             if(ni % 5 == 0)  T *= 0.95;
         }
@@ -211,7 +224,79 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         //System.out.println("avgStep = " + avgStep);
         return avgStep > 0.0001;
     }
+    
+    private boolean doIteration(LayoutResult lastResult) {
+    	
+    	Rectangle bb = computeBoundingBox(clusters);
+    	double avgStep = 0;
+    	
+		List<Word> lastWords = lastResult.getWords();
+		Map<Word,Rectangle> lastWordPositions = lastResult.getWordPositionMap();
+		
+		List<Word> commonWords = new ArrayList<>(words);
+		commonWords.retainAll(lastWords);
+				
+		double maxScore = computeMaxScore(commonWords);
+		
+		// compute attractive force between the common words of the two layouts
+		for(Cluster c:clusters) {
+            for(Word w:c.wordPositions.keySet()) {
+				if(commonWords.contains(w)) {			
+					Rectangle rect = c.wordPositions.get(w);
+					Word w1 = lastWordPositions.keySet().stream()
+							.filter(w0 -> w0.getStem().equals(w.getStem())).findFirst().get();
 
+					Rectangle lastRect = lastWordPositions.get(w1);
+					
+					Point dxy = new Point();
+					dxy.add(computeAttractiveForce(bb,w1,rect,lastRect,maxScore));
+					
+					// move the rectangle
+//           		dxy = normalize(dxy,bb);
+					rect.setRect(lastRect.getX() + dxy.getX(),lastRect.getY() + dxy.getY(),rect.getWidth(),rect.getHeight());				
+//	    			System.out.println(w.getWord()+"::::"+rect.toString());
+//	    			System.out.println(w1.getWord()+"::::"+lastRect.toString());
+					assert(!Double.isNaN(rect.getX()));
+					assert(!Double.isNaN(rect.getY()));
+					avgStep += dxy.computeDistance(new Point());
+					c.wordPositions.put(w,rect);
+				}
+            }
+		}
+		avgStep /= commonWords.size();
+        return avgStep > Math.max(bb.getWidth(),bb.getHeight())/10000.0;
+	}
+    
+    private Point computeAttractiveForce(Rectangle bb,Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
+    	
+    	Point dxy = new Point();
+        double cnt = 0;
+        
+        double k = Math.max(w.getScore(),maxScore/5.0);     
+
+     	// distance between the two rectangles
+        Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
+        double len = dir.length(); 
+//        double force = Math.log10(1 + maxScore/k); // molto bene
+//     	double force = 1 - k/maxScore;	// bene  	
+//     	  double force = (1 - k*k/(maxScore*maxScore));    // bene
+//     	if(T<0.5) force *= T;
+        double force = 1/Math.sqrt(k);
+        System.out.println("score "+ k);
+        System.out.println("force "+ force);
+        System.out.println("dist " + len);
+        if(len>EPS) {System.out.println("p1: "+dir);
+        	dir.scale(force);
+        	System.out.println("p2: "+dir);
+        	dxy.add(dir);
+        	cnt++;
+        }
+
+        if(cnt==0.0) cnt = 1;
+        dxy.scale(1.0/cnt);
+
+        return dxy;
+	}
     private Point computeAttractiveForce(Rectangle bb, List<Cluster> clusters, Cluster cluster) {
         Point dxy = new Point(0, 0);
 
@@ -277,10 +362,19 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
                 wordPositions.put(w,c.actualWordPosition(w));
 
         List<Rectangle> rects = new ArrayList<>(words.size());
-        for(int i=0;i<words.size();i++)
-            rects.add(wordPositions.get(words.get(i)));
-
+        for(int i=0;i<words.size();i++) rects.add(wordPositions.get(words.get(i)));
+        
+//        new ForceDirectedUniformity<Rectangle>(0.1).run(rects);
         new ForceDirectedOverlapRemoval<Rectangle>(0.25).run(rects);
+    }
+    
+    private double computeMaxScore(List<Word> words){
+        double maxScore = 0;
+        for(int i=0;i<words.size();i++) {
+            maxScore = Math.max(maxScore,words.get(i).getScore());
+            assert (words.get(i).getScore() > 0.001);
+        }
+        return maxScore;
     }
 
     private class Cluster  {
@@ -306,7 +400,6 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         boolean overlap(List<Cluster> list) {
             for(Cluster c:list) {
                 if(c.equals(this)) continue;
-
                 if(overlap(c)) return true;
             }
             return false;
@@ -325,7 +418,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
 
         Rectangle actualWordPosition(Word word) {
             Rectangle r1 = wordPositions.get(word);
-            return new Rectangle(r1.getX()+center.getX(), r1.getY() + center.getY(), r1.getWidth(), r1.getHeight());
+            return new Rectangle(r1.getX(), r1.getY(), r1.getWidth(), r1.getHeight());
         }
 
         Point computeRepulsiveForce(Rectangle bb, Cluster other)  {

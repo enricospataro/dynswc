@@ -26,17 +26,16 @@ public class WordGraphStats {
         this.distance = distance;
     }
     public double weightedDegree(Word w) {
-        if (!weightedDegree.containsKey(w)) createWeightedDegree(w);
+        if(!weightedDegree.containsKey(w)) createWeightedDegree(w);
         return weightedDegree.get(w);
     }
     public Integer[] nonZeroAdjacency(Word w) {
-        if (!nonZeroAdjacency.containsKey(w)) createNonZeroAdjacency(w);
+        if(!nonZeroAdjacency.containsKey(w)) createNonZeroAdjacency(w);
         return nonZeroAdjacency.get(w);
     }
     public double shortestPath(Word w1, Word w2) {
-        WordPair wp = new WordPair(w1, w2);
-        if (!shortestPaths.containsKey(wp))
-            createShortestPaths(w1);
+        WordPair wp = new WordPair(w1,w2);
+        if(!shortestPaths.containsKey(wp))  createShortestPaths(w1);
 
         return shortestPaths.get(wp);
     }
@@ -56,18 +55,17 @@ public class WordGraphStats {
         
     	for(int i=0;i<words.size();i++) {
             Word p=words.get(i);
-            if (w.equals(p)) continue;
+            if(w.equals(p)) continue;
 
             WordPair wp = new WordPair(w,p);
-            if (similarity.get(wp)>0) adj.add(i);
+            if(similarity.get(wp)>0) adj.add(i);
         }
     	Integer[] adjArray = new Integer[adj.size()]; 
         nonZeroAdjacency.put(w,adj.toArray(adjArray));
     }
-    private void createShortestPaths(Word s)  {
+    private void createShortestPaths(Word s) {
         Map<Word,Integer> wIndex = new HashMap<>();
-        for(int i=0; i<words.size(); i++)
-            wIndex.put(words.get(i), i);
+        for(int i=0;i<words.size();i++) wIndex.put(words.get(i),i);
 
         double INF = 123456789.0;
 
@@ -82,21 +80,21 @@ public class WordGraphStats {
             Word now = q.poll();
 
             int v = wIndex.get(now);
-            for(int i=0; i<words.size();i++) {
+            for(int i=0;i<words.size();i++) {
                 Word next = words.get(i);
                 WordPair wp = new WordPair(now, next);
-                if (distance.containsKey(wp)) {
+                if(distance.containsKey(wp)) {
                     double len = distance.get(wp);
-                    if (dist[i] > dist[v] + len) {
-                        dist[i] = dist[v] + len;
-                        q.add(next);
+                    if(dist[i] > dist[v] + len) {
+                       dist[i] = dist[v] + len;
+                       q.add(next);
                     }
                 }
             }
         }
-        for(int i=0; i<words.size();i++) {
-            WordPair wp = new WordPair(s, words.get(i));
-            shortestPaths.put(wp, dist[i]);
+        for(int i=0;i<words.size();i++) {
+            WordPair wp = new WordPair(s,words.get(i));
+            shortestPaths.put(wp,dist[i]);
         }
     }
 }

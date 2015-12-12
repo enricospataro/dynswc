@@ -80,7 +80,7 @@ public class Manager {
 		File tokenModel = new File("src/main/resources/opennlp/en-token.bin");
 		tokenizer = getTokenizer(tokenModel);
 				
-		List<String> textParts=TextUtils.splitText(text,text.length()/4);
+		List<String> textParts=TextUtils.splitText(text,text.length()/6);
 		
 		setWords(30);
 		setRankingStrategy(new TFIDFRanking());
@@ -108,7 +108,7 @@ public class Manager {
 			layoutResults.add(layout(wordGraph));
 		}
 		
-		setFrames(300);
+		setFrames(250);
 		setMorphingStrategy(new SimpleMorphing(frames));
 		
 		// execute morphing between wordclouds
@@ -173,11 +173,9 @@ public class Manager {
 	
 	public void setSentenceDetector(File sentModel) {
 		SentenceModel sentenceModel = null;
-		try {
-			sentenceModel = new SentenceModel(sentModel);
-		} 
-		catch (InvalidFormatException e) {e.printStackTrace();} 
-	    catch (IOException e) {e.printStackTrace();}
+		try {sentenceModel = new SentenceModel(sentModel);} 
+		catch(InvalidFormatException e) {e.printStackTrace();} 
+	    catch(IOException e) {e.printStackTrace();}
 		sentDetector = new ApacheSentenceDetector(sentenceModel);
 	}
 	

@@ -7,6 +7,7 @@ import java.util.Map;
 
 import main.java.nlp.Word;
 import main.java.nlp.WordPair;
+import main.java.utils.MathUtils;
 
 
 public class WordGraph {
@@ -18,6 +19,9 @@ public class WordGraph {
     public WordGraph(List<Word> words,Map<WordPair,Double> similarity)  {
         this.words = words;
         this.similarity = similarity;
+        
+        checkConsistency();
+        
         initDistances();
         stats = new WordGraphStats(words,similarity,distance);
     }
@@ -48,14 +52,9 @@ public class WordGraph {
     		for(int j=0;j<words.size();j++) {
     			WordPair wp = new WordPair(words.get(i),words.get(j));
     			double simil = similarity.get(wp);
-    			double dist = convertSimilarity(simil);
+    			double dist = MathUtils.idealDistanceConverter(simil);
     			distance.put(wp,dist);
     		}
-    }
-    private double convertSimilarity(double similarity) {
-    	double s=0.05;
-        double d = -Math.log((1.0-s) * similarity + s);
-        return Math.max(d,0.0);
     }
     
     void reorderWords(int startIndex) {

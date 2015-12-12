@@ -42,7 +42,7 @@ public class Word implements Comparable<Word>, Cloneable{
     public int compareTo(Word o) {
         return Double.compare(score, o.score); }
 
-    public String toString() {return stem;}
+//    public String toString() {return stem;}
 
     @Override
     public Object clone() {

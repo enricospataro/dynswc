@@ -164,18 +164,18 @@ public class GeometryUtils {
      * @return Distance of x from l1->l2
      */
     public static double rectToRectDistance(Rectangle rect1,Rectangle rect2) {
-        double dx = difference(rect1.getMinX(),rect1.getMaxX(),rect2.getMinX(),rect2.getMaxX());
-        double dy = difference(rect1.getMinY(),rect1.getMaxY(),rect2.getMinY(),rect2.getMaxY());
+    	double dx = difference(rect1.getMinX(), rect1.getMaxX(), rect2.getMinX(), rect2.getMaxX());
+        double dy = difference(rect1.getMinY(), rect1.getMaxY(), rect2.getMinY(), rect2.getMaxY());
 
-        assert(dx>=0);
-        assert(dy>=0);
+        assert(dx >= 0);
+        assert(dy >= 0);
 
         return Math.sqrt(dx*dx + dy*dy);
     }
     private static double difference(double m1,double M1,double m2,double M2) {
         if(M1<=m2) return m2-M1;
         if(M2<=m1) return m1-M2;
-        //return Math.min(M1, M2) - Math.max(m1, m2);
+//        return Math.min(M1, M2) - Math.max(m1, m2);
         return 0;
     }
 }

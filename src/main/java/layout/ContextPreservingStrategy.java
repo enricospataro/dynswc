@@ -111,7 +111,6 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 		
 		while(numIterations++ < TOTAL_ITERATIONS)  {
 	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration " + numIterations);
-
 	        if(!doIteration(lastResult)) break;
 
 	        //cooling down the temperature (max allowed step is decreased)
@@ -155,17 +154,13 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 	    	Word w1 = lastWordPositions.keySet().stream().filter(w0 -> w0.getStem().equals(w.getStem())).findFirst().get();
 
 			Rectangle lastRect = lastWordPositions.get(w1);
-//	    	System.out.println(w.getWord()+"::::"+rect.toString());
-//	    	System.out.println(w1.getWord()+"::::"+lastRect.toString());
             Point dxy = new Point();
 
             dxy.add(computeAttractiveForce(bb,w1,rect,lastRect,maxScore));
 
             // move the rectangle
-//            dxy = normalize(dxy,bb);
-            rect.setRect(lastRect.getX()+dxy.getX(),lastRect.getY()+dxy.getY(),rect.getWidth(),rect.getHeight());
-//	    	System.out.println(w.getWord()+"::::"+rect.toString());
-//	    	System.out.println(w1.getWord()+"::::"+lastRect.toString());
+            rect.setRect(rect.getX()+dxy.getX(),rect.getY()+dxy.getY(),rect.getWidth(),rect.getHeight());
+
             assert (!Double.isNaN(rect.getX()));
             assert (!Double.isNaN(rect.getY()));
             avgStep += dxy.computeDistance(new Point());
@@ -218,35 +213,18 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     
     private Point computeAttractiveForce(Rectangle bb,Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
     	
-    	Point dxy = new Point();
-        double cnt = 0;
-        
+    	Point dxy = new Point();     
         double k = Math.max(w.getScore(),maxScore/5.0);     
         
         // distance between the two rectangles
         Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
         double len = dir.length(); 
         
-//        double force = maxScore*maxScore/k*k; // tante iterazioni ma poco movimento
-//        double force = maxScore/k; // non male
-//        double force = dist/k; // benino ma compattazione non eccezionale
-// 	  	double force = dist/k*k;
-     	  double force = 1 - k/(maxScore+1);        // bene
-//     	  double force = dist*(1 - k*k/(maxScore*maxScore));    // bene
-        if(T<0.5) force *= T;
+        double force = maxScore*maxScore/(k*k);
 
-        System.out.println("score "+ k);
-        System.out.println("force "+ force);
-        System.out.println("dist " + len);
-        if(len>EPS) {System.out.println("p1: "+dir);
-        	dir.scale(force);
-        	System.out.println("p2: "+dir);
-        	dxy.add(dir);
-        	cnt++;
-        }
-
-        if(cnt==0.0) cnt = 1;
-        dxy.scale(1.0/cnt);
+    	dir.normalize();
+        dir.scale(force); 
+        dxy.add(dir);
 
         return dxy;
 	}

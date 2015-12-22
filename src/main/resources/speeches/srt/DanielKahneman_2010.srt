@@ -1,0 +1,1780 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+Everybody talks about happiness these days.
+
+2
+00:00:14,820 --> 00:00:17,820
+I had somebody count the number of books
+
+3
+00:00:17,820 --> 00:00:20,820
+with "happiness" in the title published in the last five years
+
+4
+00:00:20,820 --> 00:00:25,820
+and they gave up after about 40, and there were many more.
+
+5
+00:00:25,820 --> 00:00:28,820
+There is a huge wave of interest in happiness,
+
+6
+00:00:28,820 --> 00:00:30,820
+among researchers.
+
+7
+00:00:30,820 --> 00:00:32,820
+There is a lot of happiness coaching.
+
+8
+00:00:32,820 --> 00:00:34,820
+Everybody would like to make people happier.
+
+9
+00:00:34,820 --> 00:00:38,820
+But in spite of all this flood of work,
+
+10
+00:00:38,820 --> 00:00:40,820
+there are several cognitive traps
+
+11
+00:00:40,820 --> 00:00:43,820
+that sort of make it almost impossible to think straight
+
+12
+00:00:43,820 --> 00:00:45,820
+about happiness.
+
+13
+00:00:45,820 --> 00:00:48,820
+And my talk today will be mostly about these cognitive traps.
+
+14
+00:00:48,820 --> 00:00:51,820
+This applies to laypeople thinking about their own happiness,
+
+15
+00:00:51,820 --> 00:00:54,820
+and it applies to scholars thinking about happiness,
+
+16
+00:00:54,820 --> 00:00:58,820
+because it turns out we're just as messed up as anybody else is.
+
+17
+00:00:58,820 --> 00:01:00,820
+The first of these traps
+
+18
+00:01:00,820 --> 00:01:03,820
+is a reluctance to admit complexity.
+
+19
+00:01:03,820 --> 00:01:06,820
+It turns out that the word "happiness"
+
+20
+00:01:06,820 --> 00:01:09,820
+is just not a useful word anymore,
+
+21
+00:01:09,820 --> 00:01:12,820
+because we apply it to too many different things.
+
+22
+00:01:12,820 --> 00:01:15,820
+I think there is one particular meaning to which we might restrict it,
+
+23
+00:01:15,820 --> 00:01:17,820
+but by and large,
+
+24
+00:01:17,820 --> 00:01:19,820
+this is something that we'll have to give up
+
+25
+00:01:19,820 --> 00:01:23,820
+and we'll have to adopt the more complicated view
+
+26
+00:01:23,820 --> 00:01:25,820
+of what well-being is.
+
+27
+00:01:25,820 --> 00:01:29,820
+The second trap is a confusion between experience and memory;
+
+28
+00:01:29,820 --> 00:01:32,820
+basically, it's between being happy in your life,
+
+29
+00:01:32,820 --> 00:01:34,820
+and being happy about your life
+
+30
+00:01:34,820 --> 00:01:36,820
+or happy with your life.
+
+31
+00:01:36,820 --> 00:01:38,820
+And those are two very different concepts,
+
+32
+00:01:38,820 --> 00:01:41,820
+and they're both lumped in the notion of happiness.
+
+33
+00:01:41,820 --> 00:01:44,820
+And the third is the focusing illusion,
+
+34
+00:01:44,820 --> 00:01:47,820
+and it's the unfortunate fact that we can't think about any circumstance
+
+35
+00:01:47,820 --> 00:01:49,820
+that affects well-being
+
+36
+00:01:49,820 --> 00:01:51,820
+without distorting its importance.
+
+37
+00:01:51,820 --> 00:01:54,820
+I mean, this is a real cognitive trap.
+
+38
+00:01:54,820 --> 00:01:57,820
+There's just no way of getting it right.
+
+39
+00:01:57,820 --> 00:01:59,820
+Now, I'd like to start with an example
+
+40
+00:01:59,820 --> 00:02:04,820
+of somebody who had a question-and-answer session
+
+41
+00:02:04,820 --> 00:02:08,820
+after one of my lectures reported a story,
+
+42
+00:02:08,820 --> 00:02:09,820
+and that was a story --
+
+43
+00:02:09,820 --> 00:02:12,820
+He said he'd been listening to a symphony,
+
+44
+00:02:12,820 --> 00:02:15,820
+and it was absolutely glorious music
+
+45
+00:02:15,820 --> 00:02:18,820
+and at the very end of the recording,
+
+46
+00:02:18,820 --> 00:02:20,820
+there was a dreadful screeching sound.
+
+47
+00:02:20,820 --> 00:02:22,820
+And then he added, really quite emotionally,
+
+48
+00:02:22,820 --> 00:02:26,820
+it ruined the whole experience.
+
+49
+00:02:26,820 --> 00:02:28,820
+But it hadn't.
+
+50
+00:02:28,820 --> 00:02:31,820
+What it had ruined were the memories of the experience.
+
+51
+00:02:31,820 --> 00:02:33,820
+He had had the experience.
+
+52
+00:02:33,820 --> 00:02:35,820
+He had had 20 minutes of glorious music.
+
+53
+00:02:35,820 --> 00:02:37,820
+They counted for nothing
+
+54
+00:02:37,820 --> 00:02:40,820
+because he was left with a memory;
+
+55
+00:02:40,820 --> 00:02:42,820
+the memory was ruined,
+
+56
+00:02:42,820 --> 00:02:45,820
+and the memory was all that he had gotten to keep.
+
+57
+00:02:45,820 --> 00:02:48,820
+What this is telling us, really,
+
+58
+00:02:48,820 --> 00:02:50,820
+is that we might be thinking of ourselves and of other people
+
+59
+00:02:50,820 --> 00:02:52,820
+in terms of two selves.
+
+60
+00:02:52,820 --> 00:02:55,820
+There is an experiencing self,
+
+61
+00:02:55,820 --> 00:02:57,820
+who lives in the present
+
+62
+00:02:57,820 --> 00:02:59,820
+and knows the present,
+
+63
+00:02:59,820 --> 00:03:01,820
+is capable of re-living the past,
+
+64
+00:03:01,820 --> 00:03:04,820
+but basically it has only the present.
+
+65
+00:03:04,820 --> 00:03:07,820
+It's the experiencing self that the doctor approaches --
+
+66
+00:03:07,820 --> 00:03:08,820
+you know, when the doctor asks,
+
+67
+00:03:08,820 --> 00:03:12,820
+"Does it hurt now when I touch you here?"
+
+68
+00:03:12,820 --> 00:03:15,820
+And then there is a remembering self,
+
+69
+00:03:15,820 --> 00:03:19,820
+and the remembering self is the one that keeps score,
+
+70
+00:03:19,820 --> 00:03:21,820
+and maintains the story of our life,
+
+71
+00:03:21,820 --> 00:03:24,820
+and it's the one that the doctor approaches
+
+72
+00:03:24,820 --> 00:03:26,820
+in asking the question,
+
+73
+00:03:26,820 --> 00:03:29,820
+"How have you been feeling lately?"
+
+74
+00:03:29,820 --> 00:03:32,820
+or "How was your trip to Albania?" or something like that.
+
+75
+00:03:32,820 --> 00:03:35,820
+Those are two very different entities,
+
+76
+00:03:35,820 --> 00:03:38,820
+the experiencing self and the remembering self,
+
+77
+00:03:38,820 --> 00:03:42,820
+and getting confused between them is part of the mess
+
+78
+00:03:42,820 --> 00:03:45,820
+about the notion of happiness.
+
+79
+00:03:45,820 --> 00:03:48,820
+Now, the remembering self
+
+80
+00:03:48,820 --> 00:03:51,820
+is a storyteller.
+
+81
+00:03:51,820 --> 00:03:55,820
+And that really starts with a basic response of our memories --
+
+82
+00:03:55,820 --> 00:03:57,820
+it starts immediately.
+
+83
+00:03:57,820 --> 00:04:00,820
+We don't only tell stories when we set out to tell stories.
+
+84
+00:04:00,820 --> 00:04:03,820
+Our memory tells us stories,
+
+85
+00:04:03,820 --> 00:04:05,820
+that is, what we get to keep from our experiences
+
+86
+00:04:05,820 --> 00:04:07,820
+is a story.
+
+87
+00:04:07,820 --> 00:04:12,820
+And let me begin with one example.
+
+88
+00:04:12,820 --> 00:04:14,820
+This is an old study.
+
+89
+00:04:14,820 --> 00:04:17,820
+Those are actual patients undergoing a painful procedure.
+
+90
+00:04:17,820 --> 00:04:20,820
+I won't go into detail. It's no longer painful these days,
+
+91
+00:04:20,820 --> 00:04:24,820
+but it was painful when this study was run in the 1990s.
+
+92
+00:04:24,820 --> 00:04:27,820
+They were asked to report on their pain every 60 seconds.
+
+93
+00:04:27,820 --> 00:04:30,820
+Here are two patients,
+
+94
+00:04:30,820 --> 00:04:32,820
+those are their recordings.
+
+95
+00:04:32,820 --> 00:04:35,820
+And you are asked, "Who of them suffered more?"
+
+96
+00:04:35,820 --> 00:04:37,820
+And it's a very easy question.
+
+97
+00:04:37,820 --> 00:04:39,820
+Clearly, Patient B suffered more --
+
+98
+00:04:39,820 --> 00:04:41,820
+his colonoscopy was longer,
+
+99
+00:04:41,820 --> 00:04:44,820
+and every minute of pain that Patient A had,
+
+100
+00:04:44,820 --> 00:04:47,820
+Patient B had, and more.
+
+101
+00:04:47,820 --> 00:04:50,820
+But now there is another question:
+
+102
+00:04:50,820 --> 00:04:53,820
+"How much did these patients think they suffered?"
+
+103
+00:04:53,820 --> 00:04:55,820
+And here is a surprise.
+
+104
+00:04:55,820 --> 00:04:57,820
+The surprise is that Patient A
+
+105
+00:04:57,820 --> 00:05:00,820
+had a much worse memory of the colonoscopy
+
+106
+00:05:00,820 --> 00:05:02,820
+than Patient B.
+
+107
+00:05:02,820 --> 00:05:05,820
+The stories of the colonoscopies were different,
+
+108
+00:05:05,820 --> 00:05:11,820
+and because a very critical part of the story is how it ends.
+
+109
+00:05:11,820 --> 00:05:14,820
+And neither of these stories is very inspiring or great --
+
+110
+00:05:14,820 --> 00:05:18,820
+but one of them is this distinct ... (Laughter)
+
+111
+00:05:18,820 --> 00:05:21,820
+but one of them is distinctly worse than the other.
+
+112
+00:05:21,820 --> 00:05:23,820
+And the one that is worse
+
+113
+00:05:23,820 --> 00:05:26,820
+is the one where pain was at its peak at the very end;
+
+114
+00:05:26,820 --> 00:05:28,820
+it's a bad story.
+
+115
+00:05:28,820 --> 00:05:30,820
+How do we know that?
+
+116
+00:05:30,820 --> 00:05:33,820
+Because we asked these people after their colonoscopy,
+
+117
+00:05:33,820 --> 00:05:34,820
+and much later, too,
+
+118
+00:05:34,820 --> 00:05:36,820
+"How bad was the whole thing, in total?"
+
+119
+00:05:36,820 --> 00:05:40,820
+And it was much worse for A than for B, in memory.
+
+120
+00:05:40,820 --> 00:05:42,820
+Now this is a direct conflict
+
+121
+00:05:42,820 --> 00:05:45,820
+between the experiencing self and the remembering self.
+
+122
+00:05:45,820 --> 00:05:48,820
+From the point of view of the experiencing self,
+
+123
+00:05:48,820 --> 00:05:50,820
+clearly, B had a worse time.
+
+124
+00:05:50,820 --> 00:05:53,820
+Now, what you could do with Patient A,
+
+125
+00:05:53,820 --> 00:05:56,820
+and we actually ran clinical experiments,
+
+126
+00:05:56,820 --> 00:05:58,820
+and it has been done, and it does work --
+
+127
+00:05:58,820 --> 00:06:03,820
+you could actually extend the colonoscopy of Patient A
+
+128
+00:06:03,820 --> 00:06:06,820
+by just keeping the tube in without jiggling it too much.
+
+129
+00:06:06,820 --> 00:06:09,820
+That will cause the patient
+
+130
+00:06:09,820 --> 00:06:12,820
+to suffer, but just a little
+
+131
+00:06:12,820 --> 00:06:14,820
+and much less than before.
+
+132
+00:06:14,820 --> 00:06:16,820
+And if you do that for a couple of minutes,
+
+133
+00:06:16,820 --> 00:06:18,820
+you have made the experiencing self
+
+134
+00:06:18,820 --> 00:06:20,820
+of Patient A worse off,
+
+135
+00:06:20,820 --> 00:06:23,820
+and you have the remembering self of Patient A
+
+136
+00:06:23,820 --> 00:06:25,820
+a lot better off,
+
+137
+00:06:25,820 --> 00:06:27,820
+because now you have endowed Patient A
+
+138
+00:06:27,820 --> 00:06:29,820
+with a better story
+
+139
+00:06:29,820 --> 00:06:32,820
+about his experience.
+
+140
+00:06:32,820 --> 00:06:35,820
+What defines a story?
+
+141
+00:06:35,820 --> 00:06:37,820
+And that is true of the stories
+
+142
+00:06:37,820 --> 00:06:39,820
+that memory delivers for us,
+
+143
+00:06:39,820 --> 00:06:42,820
+and it's also true of the stories that we make up.
+
+144
+00:06:42,820 --> 00:06:46,820
+What defines a story are changes,
+
+145
+00:06:46,820 --> 00:06:49,820
+significant moments and endings.
+
+146
+00:06:49,820 --> 00:06:51,820
+Endings are very, very important
+
+147
+00:06:51,820 --> 00:06:55,820
+and, in this case, the ending dominated.
+
+148
+00:06:55,820 --> 00:06:57,820
+Now, the experiencing self
+
+149
+00:06:57,820 --> 00:07:00,820
+lives its life continuously.
+
+150
+00:07:00,820 --> 00:07:03,820
+It has moments of experience, one after the other.
+
+151
+00:07:03,820 --> 00:07:06,820
+And you can ask: What happens to these moments?
+
+152
+00:07:06,820 --> 00:07:08,820
+And the answer is really straightforward:
+
+153
+00:07:08,820 --> 00:07:10,820
+They are lost forever.
+
+154
+00:07:10,820 --> 00:07:12,820
+I mean, most of the moments of our life --
+
+155
+00:07:12,820 --> 00:07:15,820
+and I calculated, you know, the psychological present
+
+156
+00:07:15,820 --> 00:07:17,820
+is said to be about three seconds long;
+
+157
+00:07:17,820 --> 00:07:19,820
+that means that, you know,
+
+158
+00:07:19,820 --> 00:07:21,820
+in a life there are about 600 million of them;
+
+159
+00:07:21,820 --> 00:07:24,820
+in a month, there are about 600,000 --
+
+160
+00:07:24,820 --> 00:07:28,820
+most of them don't leave a trace.
+
+161
+00:07:28,820 --> 00:07:30,820
+Most of them are completely ignored
+
+162
+00:07:30,820 --> 00:07:32,820
+by the remembering self.
+
+163
+00:07:32,820 --> 00:07:34,820
+And yet, somehow you get the sense
+
+164
+00:07:34,820 --> 00:07:36,820
+that they should count,
+
+165
+00:07:36,820 --> 00:07:39,820
+that what happens during these moments of experience
+
+166
+00:07:39,820 --> 00:07:41,820
+is our life.
+
+167
+00:07:41,820 --> 00:07:43,820
+It's the finite resource that we're spending
+
+168
+00:07:43,820 --> 00:07:45,820
+while we're on this earth.
+
+169
+00:07:45,820 --> 00:07:47,820
+And how to spend it
+
+170
+00:07:47,820 --> 00:07:49,820
+would seem to be relevant,
+
+171
+00:07:49,820 --> 00:07:51,820
+but that is not the story
+
+172
+00:07:51,820 --> 00:07:53,820
+that the remembering self keeps for us.
+
+173
+00:07:53,820 --> 00:07:55,820
+So we have the remembering self
+
+174
+00:07:55,820 --> 00:07:57,820
+and the experiencing self,
+
+175
+00:07:57,820 --> 00:07:59,820
+and they're really quite distinct.
+
+176
+00:07:59,820 --> 00:08:01,820
+The biggest difference between them
+
+177
+00:08:01,820 --> 00:08:04,820
+is in the handling of time.
+
+178
+00:08:04,820 --> 00:08:07,820
+From the point of view of the experiencing self,
+
+179
+00:08:07,820 --> 00:08:09,820
+if you have a vacation,
+
+180
+00:08:09,820 --> 00:08:12,820
+and the second week is just as good as the first,
+
+181
+00:08:12,820 --> 00:08:15,820
+then the two-week vacation
+
+182
+00:08:15,820 --> 00:08:18,820
+is twice as good as the one-week vacation.
+
+183
+00:08:18,820 --> 00:08:21,820
+That's not the way it works at all for the remembering self.
+
+184
+00:08:21,820 --> 00:08:23,820
+For the remembering self, a two-week vacation
+
+185
+00:08:23,820 --> 00:08:26,820
+is barely better than the one-week vacation
+
+186
+00:08:26,820 --> 00:08:28,820
+because there are no new memories added.
+
+187
+00:08:28,820 --> 00:08:31,820
+You have not changed the story.
+
+188
+00:08:31,820 --> 00:08:33,820
+And in this way,
+
+189
+00:08:33,820 --> 00:08:36,820
+time is actually the critical variable
+
+190
+00:08:36,820 --> 00:08:39,820
+that distinguishes a remembering self
+
+191
+00:08:39,820 --> 00:08:41,820
+from an experiencing self;
+
+192
+00:08:41,820 --> 00:08:44,820
+time has very little impact on the story.
+
+193
+00:08:45,820 --> 00:08:48,820
+Now, the remembering self does more
+
+194
+00:08:48,820 --> 00:08:50,820
+than remember and tell stories.
+
+195
+00:08:50,820 --> 00:08:54,820
+It is actually the one that makes decisions
+
+196
+00:08:54,820 --> 00:08:56,820
+because, if you have a patient who has had, say,
+
+197
+00:08:56,820 --> 00:08:59,820
+two colonoscopies with two different surgeons
+
+198
+00:08:59,820 --> 00:09:02,820
+and is deciding which of them to choose,
+
+199
+00:09:02,820 --> 00:09:05,820
+then the one that chooses
+
+200
+00:09:05,820 --> 00:09:09,820
+is the one that has the memory that is less bad,
+
+201
+00:09:09,820 --> 00:09:11,820
+and that's the surgeon that will be chosen.
+
+202
+00:09:11,820 --> 00:09:13,820
+The experiencing self
+
+203
+00:09:13,820 --> 00:09:16,820
+has no voice in this choice.
+
+204
+00:09:16,820 --> 00:09:19,820
+We actually don't choose between experiences,
+
+205
+00:09:19,820 --> 00:09:22,820
+we choose between memories of experiences.
+
+206
+00:09:22,820 --> 00:09:25,820
+And even when we think about the future,
+
+207
+00:09:25,820 --> 00:09:28,820
+we don't think of our future normally as experiences.
+
+208
+00:09:28,820 --> 00:09:30,820
+We think of our future
+
+209
+00:09:30,820 --> 00:09:33,820
+as anticipated memories.
+
+210
+00:09:33,820 --> 00:09:35,820
+And basically you can look at this,
+
+211
+00:09:35,820 --> 00:09:38,820
+you know, as a tyranny of the remembering self,
+
+212
+00:09:38,820 --> 00:09:40,820
+and you can think of the remembering self
+
+213
+00:09:40,820 --> 00:09:42,820
+sort of dragging the experiencing self
+
+214
+00:09:42,820 --> 00:09:44,820
+through experiences that
+
+215
+00:09:44,820 --> 00:09:46,820
+the experiencing self doesn't need.
+
+216
+00:09:46,820 --> 00:09:48,820
+I have that sense that
+
+217
+00:09:48,820 --> 00:09:50,820
+when we go on vacations
+
+218
+00:09:50,820 --> 00:09:52,820
+this is very frequently the case;
+
+219
+00:09:52,820 --> 00:09:54,820
+that is, we go on vacations,
+
+220
+00:09:54,820 --> 00:09:56,820
+to a very large extent,
+
+221
+00:09:56,820 --> 00:09:59,820
+in the service of our remembering self.
+
+222
+00:09:59,820 --> 00:10:02,820
+And this is a bit hard to justify I think.
+
+223
+00:10:02,820 --> 00:10:05,820
+I mean, how much do we consume our memories?
+
+224
+00:10:05,820 --> 00:10:07,820
+That is one of the explanations
+
+225
+00:10:07,820 --> 00:10:09,820
+that is given for the dominance
+
+226
+00:10:09,820 --> 00:10:11,820
+of the remembering self.
+
+227
+00:10:11,820 --> 00:10:13,820
+And when I think about that, I think about a vacation
+
+228
+00:10:13,820 --> 00:10:16,820
+we had in Antarctica a few years ago,
+
+229
+00:10:16,820 --> 00:10:19,820
+which was clearly the best vacation I've ever had,
+
+230
+00:10:19,820 --> 00:10:21,820
+and I think of it relatively often,
+
+231
+00:10:21,820 --> 00:10:23,820
+relative to how much I think of other vacations.
+
+232
+00:10:23,820 --> 00:10:27,820
+And I probably have consumed
+
+233
+00:10:27,820 --> 00:10:29,820
+my memories of that three-week trip, I would say,
+
+234
+00:10:29,820 --> 00:10:32,820
+for about 25 minutes in the last four years.
+
+235
+00:10:32,820 --> 00:10:35,820
+Now, if I had ever opened the folder
+
+236
+00:10:35,820 --> 00:10:38,820
+with the 600 pictures in it,
+
+237
+00:10:38,820 --> 00:10:40,820
+I would have spent another hour.
+
+238
+00:10:40,820 --> 00:10:42,820
+Now, that is three weeks,
+
+239
+00:10:42,820 --> 00:10:44,820
+and that is at most an hour and a half.
+
+240
+00:10:44,820 --> 00:10:46,820
+There seems to be a discrepancy.
+
+241
+00:10:46,820 --> 00:10:48,820
+Now, I may be a bit extreme, you know,
+
+242
+00:10:48,820 --> 00:10:51,820
+in how little appetite I have for consuming memories,
+
+243
+00:10:51,820 --> 00:10:54,820
+but even if you do more of this,
+
+244
+00:10:54,820 --> 00:10:57,820
+there is a genuine question:
+
+245
+00:10:57,820 --> 00:11:01,820
+Why do we put so much weight on memory
+
+246
+00:11:01,820 --> 00:11:04,820
+relative to the weight that we put on experiences?
+
+247
+00:11:04,820 --> 00:11:06,820
+So I want you to think
+
+248
+00:11:06,820 --> 00:11:09,820
+about a thought experiment.
+
+249
+00:11:09,820 --> 00:11:11,820
+Imagine that for your next vacation,
+
+250
+00:11:11,820 --> 00:11:14,820
+you know that at the end of the vacation
+
+251
+00:11:14,820 --> 00:11:17,820
+all your pictures will be destroyed,
+
+252
+00:11:17,820 --> 00:11:19,820
+and you'll get an amnesic drug
+
+253
+00:11:19,820 --> 00:11:21,820
+so that you won't remember anything.
+
+254
+00:11:21,820 --> 00:11:25,820
+Now, would you choose the same vacation? (Laughter)
+
+255
+00:11:25,820 --> 00:11:30,820
+And if you would choose a different vacation,
+
+256
+00:11:30,820 --> 00:11:32,820
+there is a conflict between your two selves,
+
+257
+00:11:32,820 --> 00:11:35,820
+and you need to think about how to adjudicate that conflict,
+
+258
+00:11:35,820 --> 00:11:38,820
+and it's actually not at all obvious, because
+
+259
+00:11:38,820 --> 00:11:41,820
+if you think in terms of time,
+
+260
+00:11:41,820 --> 00:11:44,820
+then you get one answer,
+
+261
+00:11:44,820 --> 00:11:47,820
+and if you think in terms of memories,
+
+262
+00:11:47,820 --> 00:11:49,820
+you might get another answer.
+
+263
+00:11:49,820 --> 00:11:52,820
+Why do we pick the vacations we do
+
+264
+00:11:52,820 --> 00:11:55,820
+is a problem that confronts us
+
+265
+00:11:55,820 --> 00:11:57,820
+with a choice between the two selves.
+
+266
+00:11:57,820 --> 00:12:00,820
+Now, the two selves
+
+267
+00:12:00,820 --> 00:12:02,820
+bring up two notions of happiness.
+
+268
+00:12:02,820 --> 00:12:04,820
+There are really two concepts of happiness
+
+269
+00:12:04,820 --> 00:12:07,820
+that we can apply, one per self.
+
+270
+00:12:07,820 --> 00:12:12,820
+So you can ask: How happy is the experiencing self?
+
+271
+00:12:12,820 --> 00:12:14,820
+And then you would ask: How happy are the moments
+
+272
+00:12:14,820 --> 00:12:17,820
+in the experiencing self's life?
+
+273
+00:12:17,820 --> 00:12:19,820
+And they're all -- happiness for moments
+
+274
+00:12:19,820 --> 00:12:21,820
+is a fairly complicated process.
+
+275
+00:12:21,820 --> 00:12:24,820
+What are the emotions that can be measured?
+
+276
+00:12:24,820 --> 00:12:26,820
+And, by the way, now we are capable
+
+277
+00:12:26,820 --> 00:12:28,820
+of getting a pretty good idea
+
+278
+00:12:28,820 --> 00:12:32,820
+of the happiness of the experiencing self over time.
+
+279
+00:12:34,820 --> 00:12:37,820
+If you ask for the happiness of the remembering self,
+
+280
+00:12:37,820 --> 00:12:39,820
+it's a completely different thing.
+
+281
+00:12:39,820 --> 00:12:42,820
+This is not about how happily a person lives.
+
+282
+00:12:42,820 --> 00:12:45,820
+It is about how satisfied or pleased the person is
+
+283
+00:12:45,820 --> 00:12:49,820
+when that person thinks about her life.
+
+284
+00:12:49,820 --> 00:12:51,820
+Very different notion.
+
+285
+00:12:51,820 --> 00:12:54,820
+Anyone who doesn't distinguish those notions
+
+286
+00:12:54,820 --> 00:12:56,820
+is going to mess up the study of happiness,
+
+287
+00:12:56,820 --> 00:12:59,820
+and I belong to a crowd of students of well-being,
+
+288
+00:12:59,820 --> 00:13:03,820
+who've been messing up the study of happiness for a long time
+
+289
+00:13:03,820 --> 00:13:05,820
+in precisely this way.
+
+290
+00:13:05,820 --> 00:13:07,820
+The distinction between the
+
+291
+00:13:07,820 --> 00:13:09,820
+happiness of the experiencing self
+
+292
+00:13:09,820 --> 00:13:12,820
+and the satisfaction of the remembering self
+
+293
+00:13:12,820 --> 00:13:14,820
+has been recognized in recent years,
+
+294
+00:13:14,820 --> 00:13:17,820
+and there are now efforts to measure the two separately.
+
+295
+00:13:17,820 --> 00:13:20,820
+The Gallup Organization has a world poll
+
+296
+00:13:20,820 --> 00:13:22,820
+where more than half a million people
+
+297
+00:13:22,820 --> 00:13:24,820
+have been asked questions
+
+298
+00:13:24,820 --> 00:13:26,820
+about what they think of their life
+
+299
+00:13:26,820 --> 00:13:28,820
+and about their experiences,
+
+300
+00:13:28,820 --> 00:13:31,820
+and there have been other efforts along those lines.
+
+301
+00:13:31,820 --> 00:13:34,820
+So in recent years, we have begun to learn
+
+302
+00:13:34,820 --> 00:13:37,820
+about the happiness of the two selves.
+
+303
+00:13:37,820 --> 00:13:40,820
+And the main lesson I think that we have learned
+
+304
+00:13:40,820 --> 00:13:42,820
+is they are really different.
+
+305
+00:13:42,820 --> 00:13:47,820
+You can know how satisfied somebody is with their life,
+
+306
+00:13:47,820 --> 00:13:49,820
+and that really doesn't teach you much
+
+307
+00:13:49,820 --> 00:13:52,820
+about how happily they're living their life,
+
+308
+00:13:52,820 --> 00:13:54,820
+and vice versa.
+
+309
+00:13:54,820 --> 00:13:56,820
+Just to give you a sense of the correlation,
+
+310
+00:13:56,820 --> 00:13:58,820
+the correlation is about .5.
+
+311
+00:13:58,820 --> 00:14:01,820
+What that means is if you met somebody,
+
+312
+00:14:01,820 --> 00:14:05,820
+and you were told, "Oh his father is six feet tall,"
+
+313
+00:14:05,820 --> 00:14:07,820
+how much would you know about his height?
+
+314
+00:14:07,820 --> 00:14:09,820
+Well, you would know something about his height,
+
+315
+00:14:09,820 --> 00:14:11,820
+but there's a lot of uncertainty.
+
+316
+00:14:11,820 --> 00:14:13,820
+You have that much uncertainty.
+
+317
+00:14:13,820 --> 00:14:17,820
+If I tell you that somebody ranked their life eight on a scale of ten,
+
+318
+00:14:17,820 --> 00:14:19,820
+you have a lot of uncertainty
+
+319
+00:14:19,820 --> 00:14:21,820
+about how happy they are
+
+320
+00:14:21,820 --> 00:14:23,820
+with their experiencing self.
+
+321
+00:14:23,820 --> 00:14:25,820
+So the correlation is low.
+
+322
+00:14:25,820 --> 00:14:28,820
+We know something about what controls
+
+323
+00:14:28,820 --> 00:14:30,820
+satisfaction of the happiness self.
+
+324
+00:14:30,820 --> 00:14:32,820
+We know that money is very important,
+
+325
+00:14:32,820 --> 00:14:34,820
+goals are very important.
+
+326
+00:14:34,820 --> 00:14:38,820
+We know that happiness is mainly
+
+327
+00:14:38,820 --> 00:14:41,820
+being satisfied with people that we like,
+
+328
+00:14:41,820 --> 00:14:44,820
+spending time with people that we like.
+
+329
+00:14:44,820 --> 00:14:46,820
+There are other pleasures, but this is dominant.
+
+330
+00:14:46,820 --> 00:14:49,820
+So if you want to maximize the happiness of the two selves,
+
+331
+00:14:49,820 --> 00:14:51,820
+you are going to end up
+
+332
+00:14:51,820 --> 00:14:53,820
+doing very different things.
+
+333
+00:14:53,820 --> 00:14:55,820
+The bottom line of what I've said here
+
+334
+00:14:55,820 --> 00:14:59,820
+is that we really should not think of happiness
+
+335
+00:14:59,820 --> 00:15:01,820
+as a substitute for well-being.
+
+336
+00:15:01,820 --> 00:15:04,820
+It is a completely different notion.
+
+337
+00:15:04,820 --> 00:15:07,820
+Now, very quickly,
+
+338
+00:15:07,820 --> 00:15:11,820
+another reason we cannot think straight about happiness
+
+339
+00:15:11,820 --> 00:15:18,820
+is that we do not attend to the same things
+
+340
+00:15:18,820 --> 00:15:21,820
+when we think about life, and we actually live.
+
+341
+00:15:21,820 --> 00:15:26,820
+So, if you ask the simple question of how happy people are in California,
+
+342
+00:15:26,820 --> 00:15:29,820
+you are not going to get to the correct answer.
+
+343
+00:15:29,820 --> 00:15:31,820
+When you ask that question,
+
+344
+00:15:31,820 --> 00:15:33,820
+you think people must be happier in California
+
+345
+00:15:33,820 --> 00:15:35,820
+if, say, you live in Ohio.
+
+346
+00:15:35,820 --> 00:15:37,820
+(Laughter)
+
+347
+00:15:37,820 --> 00:15:40,820
+And what happens is
+
+348
+00:15:40,820 --> 00:15:44,820
+when you think about living in California,
+
+349
+00:15:44,820 --> 00:15:46,820
+you are thinking of the contrast
+
+350
+00:15:46,820 --> 00:15:49,820
+between California and other places,
+
+351
+00:15:49,820 --> 00:15:51,820
+and that contrast, say, is in climate.
+
+352
+00:15:51,820 --> 00:15:53,820
+Well, it turns out that climate
+
+353
+00:15:53,820 --> 00:15:56,820
+is not very important to the experiencing self
+
+354
+00:15:56,820 --> 00:15:59,820
+and it's not even very important to the reflective self
+
+355
+00:15:59,820 --> 00:16:02,820
+that decides how happy people are.
+
+356
+00:16:02,820 --> 00:16:06,820
+But now, because the reflective self is in charge,
+
+357
+00:16:06,820 --> 00:16:08,820
+you may end up -- some people may end up
+
+358
+00:16:08,820 --> 00:16:10,820
+moving to California.
+
+359
+00:16:10,820 --> 00:16:13,820
+And it's sort of interesting to trace what is going to happen
+
+360
+00:16:13,820 --> 00:16:16,820
+to people who move to California in the hope of getting happier.
+
+361
+00:16:16,820 --> 00:16:18,820
+Well, their experiencing self
+
+362
+00:16:18,820 --> 00:16:20,820
+is not going to get happier.
+
+363
+00:16:20,820 --> 00:16:22,820
+We know that.
+
+364
+00:16:23,820 --> 00:16:26,820
+But one thing will happen: They will think they are happier,
+
+365
+00:16:26,820 --> 00:16:30,820
+because, when they think about it,
+
+366
+00:16:30,820 --> 00:16:34,820
+they'll be reminded of how horrible the weather was in Ohio,
+
+367
+00:16:34,820 --> 00:16:37,820
+and they will feel they made the right decision.
+
+368
+00:16:37,820 --> 00:16:39,820
+It is very difficult
+
+369
+00:16:39,820 --> 00:16:41,820
+to think straight about well-being,
+
+370
+00:16:41,820 --> 00:16:44,820
+and I hope I have given you a sense
+
+371
+00:16:44,820 --> 00:16:46,820
+of how difficult it is.
+
+372
+00:16:46,820 --> 00:16:48,820
+Thank you.
+
+373
+00:16:48,820 --> 00:16:51,820
+(Applause)
+
+374
+00:16:51,820 --> 00:16:54,820
+Chris Anderson: Thank you. I've got a question for you.
+
+375
+00:16:55,820 --> 00:16:57,820
+Thank you so much.
+
+376
+00:16:57,820 --> 00:17:01,820
+Now, when we were on the phone a few weeks ago,
+
+377
+00:17:01,820 --> 00:17:04,820
+you mentioned to me that there was quite an interesting result
+
+378
+00:17:04,820 --> 00:17:06,820
+came out of that Gallup survey.
+
+379
+00:17:06,820 --> 00:17:08,820
+Is that something you can share
+
+380
+00:17:08,820 --> 00:17:10,820
+since you do have a few moments left now?
+
+381
+00:17:10,820 --> 00:17:12,820
+Daniel Kahneman: Sure.
+
+382
+00:17:12,820 --> 00:17:15,820
+I think the most interesting result that we found in the Gallup survey
+
+383
+00:17:15,820 --> 00:17:18,820
+is a number, which we absolutely did not expect to find.
+
+384
+00:17:18,820 --> 00:17:20,820
+We found that with respect to the happiness
+
+385
+00:17:20,820 --> 00:17:23,820
+of the experiencing self.
+
+386
+00:17:23,820 --> 00:17:28,820
+When we looked at how feelings,
+
+387
+00:17:28,820 --> 00:17:30,820
+vary with income.
+
+388
+00:17:30,820 --> 00:17:33,820
+And it turns out that, below an income
+
+389
+00:17:33,820 --> 00:17:36,820
+of 60,000 dollars a year, for Americans --
+
+390
+00:17:36,820 --> 00:17:39,820
+and that's a very large sample of Americans, like 600,000,
+
+391
+00:17:39,820 --> 00:17:41,820
+so it's a large representative sample --
+
+392
+00:17:41,820 --> 00:17:43,820
+below an income of 600,000 dollars a year...
+
+393
+00:17:43,820 --> 00:17:45,820
+CA: 60,000.
+
+394
+00:17:45,820 --> 00:17:47,820
+DK: 60,000.
+
+395
+00:17:47,820 --> 00:17:49,820
+(Laughter)
+
+396
+00:17:49,820 --> 00:17:53,820
+60,000 dollars a year, people are unhappy,
+
+397
+00:17:53,820 --> 00:17:56,820
+and they get progressively unhappier the poorer they get.
+
+398
+00:17:56,820 --> 00:17:59,820
+Above that, we get an absolutely flat line.
+
+399
+00:17:59,820 --> 00:18:02,820
+I mean I've rarely seen lines so flat.
+
+400
+00:18:02,820 --> 00:18:04,820
+Clearly, what is happening is
+
+401
+00:18:04,820 --> 00:18:07,820
+money does not buy you experiential happiness,
+
+402
+00:18:07,820 --> 00:18:10,820
+but lack of money certainly buys you misery,
+
+403
+00:18:10,820 --> 00:18:12,820
+and we can measure that misery
+
+404
+00:18:12,820 --> 00:18:14,820
+very, very clearly.
+
+405
+00:18:14,820 --> 00:18:17,820
+In terms of the other self, the remembering self,
+
+406
+00:18:17,820 --> 00:18:19,820
+you get a different story.
+
+407
+00:18:19,820 --> 00:18:22,820
+The more money you earn, the more satisfied you are.
+
+408
+00:18:22,820 --> 00:18:24,820
+That does not hold for emotions.
+
+409
+00:18:24,820 --> 00:18:27,820
+CA: But Danny, the whole American endeavor is about
+
+410
+00:18:27,820 --> 00:18:30,820
+life, liberty, the pursuit of happiness.
+
+411
+00:18:30,820 --> 00:18:34,820
+If people took seriously that finding,
+
+412
+00:18:34,820 --> 00:18:37,820
+I mean, it seems to turn upside down
+
+413
+00:18:37,820 --> 00:18:39,820
+everything we believe about, like for example,
+
+414
+00:18:39,820 --> 00:18:41,820
+taxation policy and so forth.
+
+415
+00:18:41,820 --> 00:18:44,820
+Is there any chance that politicians, that the country generally,
+
+416
+00:18:44,820 --> 00:18:47,820
+would take a finding like that seriously
+
+417
+00:18:47,820 --> 00:18:49,820
+and run public policy based on it?
+
+418
+00:18:49,820 --> 00:18:51,820
+DK: You know I think that there is recognition
+
+419
+00:18:51,820 --> 00:18:54,820
+of the role of happiness research in public policy.
+
+420
+00:18:54,820 --> 00:18:56,820
+The recognition is going to be slow in the United States,
+
+421
+00:18:56,820 --> 00:18:58,820
+no question about that,
+
+422
+00:18:58,820 --> 00:19:00,820
+but in the U.K., it is happening,
+
+423
+00:19:00,820 --> 00:19:02,820
+and in other countries it is happening.
+
+424
+00:19:02,820 --> 00:19:05,820
+People are recognizing that they ought
+
+425
+00:19:05,820 --> 00:19:07,820
+to be thinking of happiness
+
+426
+00:19:07,820 --> 00:19:09,820
+when they think of public policy.
+
+427
+00:19:09,820 --> 00:19:11,820
+It's going to take a while,
+
+428
+00:19:11,820 --> 00:19:14,820
+and people are going to debate
+
+429
+00:19:14,820 --> 00:19:16,820
+whether they want to study experience happiness,
+
+430
+00:19:16,820 --> 00:19:18,820
+or whether they want to study life evaluation,
+
+431
+00:19:18,820 --> 00:19:21,820
+so we need to have that debate fairly soon.
+
+432
+00:19:21,820 --> 00:19:23,820
+How to enhance happiness
+
+433
+00:19:23,820 --> 00:19:26,820
+goes very different ways depending on how you think,
+
+434
+00:19:26,820 --> 00:19:28,820
+and whether you think of the remembering self
+
+435
+00:19:28,820 --> 00:19:30,820
+or you think of the experiencing self.
+
+436
+00:19:30,820 --> 00:19:33,820
+This is going to influence policy, I think, in years to come.
+
+437
+00:19:33,820 --> 00:19:36,820
+In the United States, efforts are being made
+
+438
+00:19:36,820 --> 00:19:39,820
+to measure the experience happiness of the population.
+
+439
+00:19:39,820 --> 00:19:42,820
+This is going to be, I think, within the next decade or two,
+
+440
+00:19:42,820 --> 00:19:44,820
+part of national statistics.
+
+441
+00:19:44,820 --> 00:19:48,820
+CA: Well, it seems to me that this issue will -- or at least should be --
+
+442
+00:19:48,820 --> 00:19:50,820
+the most interesting policy discussion to track
+
+443
+00:19:50,820 --> 00:19:52,820
+over the next few years.
+
+444
+00:19:52,820 --> 00:19:54,820
+Thank you so much for inventing behavioral economics.
+
+445
+00:19:54,820 --> 00:19:56,820
+Thank you, Danny Kahneman.
+

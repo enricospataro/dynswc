@@ -161,7 +161,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
 		int numIterations = 0;
 		
 		while(numIterations++ < TOTAL_ITERATIONS)  {
-	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration " + numIterations);
+	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration: " + numIterations);
 
 	        if(!doIteration(lastResult)) break;
 
@@ -243,16 +243,14 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
             for(Word w:c.wordPositions.keySet()) {
 				if(commonWords.contains(w)) {			
 					Rectangle rect = c.wordPositions.get(w);
-					Word w1 = lastWordPositions.keySet().stream()
-							.filter(w0 -> w0.getStem().equals(w.getStem())).findFirst().get();
+					Rectangle lastRect = lastWordPositions.get(w);
 
-					Rectangle lastRect = lastWordPositions.get(w1);
-					Point dxy = new Point();
-					
-					dxy.add(computeAttractiveForce(bb,w1,rect,lastRect,maxScore));
+					Point dxy = new Point();					
+					dxy.add(computeAttractiveForce(bb,w,rect,lastRect,maxScore));
 					
 					// move the rectangle
-					rect.setRect(rect.getX() + dxy.getX(),rect.getY() + dxy.getY(),rect.getWidth(),rect.getHeight());				
+					rect.setRect(rect.getX()+dxy.getX(),rect.getY()+dxy.getY(),
+							rect.getWidth(),rect.getHeight());				
 
 					assert(!Double.isNaN(rect.getX()));
 					assert(!Double.isNaN(rect.getY()));
@@ -275,13 +273,12 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
         double len = dir.length(); 
         
-//        double force = Math.log10(1 + maxScore/k); // molto bene
-//     	double force = 1 - k/maxScore;	// bene  	
-//     	  double force = (1 - k*k/(maxScore*maxScore));    // bene
-        double force = maxScore*maxScore/(k*k);
-
+//      double force = Math.pow(2,k);
+//      double force = k*k;
+        double force = Math.sqrt(k)*k;
+//        double force = k;
+        
         dir.normalize();
-//    	dir.scale(1/Math.sqrt(len));
         dir.scale(force); 
         dxy.add(dir);
 

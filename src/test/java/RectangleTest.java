@@ -2,6 +2,7 @@ package test.java;
 
 import static org.junit.Assert.*;
 import main.java.geometry.Rectangle;
+import main.java.utils.GeometryUtils;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -68,7 +69,7 @@ public class RectangleTest {
 	
 	@Test
 	public void testPositionY() {
-		//setup
+		// setup
 		Rectangle r1 = new Rectangle(1,1,5,4);
 		Rectangle r2 = new Rectangle(2,2,3,4);
 		Rectangle r3 = new Rectangle(1.5,1.5,2,3);
@@ -79,5 +80,36 @@ public class RectangleTest {
 		Assert.assertFalse(Rectangle.positionY(r4,r3,eps));
 		Assert.assertFalse(Rectangle.positionY(r2,r3,eps));
 		Assert.assertFalse(Rectangle.positionY(r3,r1,eps));
+	}
+	
+	@Test
+	public void testMinDistance() {
+		// setup
+		Rectangle r1 = new Rectangle(1,3,3,2);
+		Rectangle r2 = new Rectangle(5,1,2,2);
+		Rectangle r3 = new Rectangle(1,1,2,1);
+		Rectangle r4 = new Rectangle(5,4,2,2);
+		Rectangle r5 = new Rectangle(8,1,3,2);
+		double actual=0;
+		
+		// exercise and verify		
+		actual=GeometryUtils.rectToRectDistance(r1,r2);		
+		Assert.assertEquals(1.0,actual,0.0);
+		
+		actual=GeometryUtils.rectToRectDistance(r1,r3);
+		Assert.assertEquals(1.0,actual,0.0);
+		
+		actual=GeometryUtils.rectToRectDistance(r3,r5);
+		Assert.assertEquals(5.0,actual,0.0);
+		
+		actual=GeometryUtils.rectToRectDistance(r2,r4);
+		Assert.assertEquals(1.0,actual,0.0);
+		
+		actual=GeometryUtils.rectToRectDistance(r4,r5);
+		Assert.assertEquals(Math.sqrt(2.0),actual,0.0);
+		
+		actual=GeometryUtils.rectToRectDistance(r1,r5);
+		Assert.assertEquals(4.0,actual,0.0);
+		
 	}
 }

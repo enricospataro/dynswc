@@ -1,0 +1,1672 @@
+﻿1
+00:00:12,818 --> 00:00:14,821
+Why does the universe exist?
+
+2
+00:00:14,821 --> 00:00:18,816
+Why is there — Okay. Okay. (Laughter)
+
+3
+00:00:18,816 --> 00:00:21,658
+This is a cosmic mystery. Be solemn.
+
+4
+00:00:21,658 --> 00:00:25,234
+Why is there a world, why are we in it,
+
+5
+00:00:25,234 --> 00:00:27,113
+and why is there something rather than nothing at all?
+
+6
+00:00:27,113 --> 00:00:31,759
+I mean, this is the super ultimate "why" question?
+
+7
+00:00:31,759 --> 00:00:33,994
+So I'm going to talk about the mystery of existence,
+
+8
+00:00:33,994 --> 00:00:35,550
+the puzzle of existence,
+
+9
+00:00:35,550 --> 00:00:38,464
+where we are now in addressing it,
+
+10
+00:00:38,464 --> 00:00:40,714
+and why you should care,
+
+11
+00:00:40,714 --> 00:00:42,630
+and I hope you do care.
+
+12
+00:00:42,630 --> 00:00:45,456
+The philosopher Arthur Schopenhauer said that
+
+13
+00:00:45,456 --> 00:00:49,236
+those who don't wonder about
+the contingency of their existence,
+
+14
+00:00:49,236 --> 00:00:52,093
+of the contingency of the world's existence,
+
+15
+00:00:52,093 --> 00:00:53,756
+are mentally deficient.
+
+16
+00:00:53,756 --> 00:00:57,703
+That's a little harsh, but still. (Laughter)
+
+17
+00:00:57,703 --> 00:00:59,380
+So this has been called the most sublime
+
+18
+00:00:59,380 --> 00:01:01,674
+and awesome mystery,
+
+19
+00:01:01,674 --> 00:01:04,343
+the deepest and most far-reaching question
+
+20
+00:01:04,343 --> 00:01:05,403
+man can pose.
+
+21
+00:01:05,403 --> 00:01:07,117
+It's obsessed great thinkers.
+
+22
+00:01:07,117 --> 00:01:08,721
+Ludwig Wittgenstein, perhaps the greatest
+
+23
+00:01:08,721 --> 00:01:11,051
+philosopher of the 20th century,
+
+24
+00:01:11,051 --> 00:01:13,534
+was astonished that there should be a world at all.
+
+25
+00:01:13,534 --> 00:01:17,538
+He wrote in his "Tractatus," Proposition 4.66,
+
+26
+00:01:17,538 --> 00:01:20,228
+"It is not how things are in the world
+
+27
+00:01:20,228 --> 00:01:21,580
+that is the mystical,
+
+28
+00:01:21,580 --> 00:01:23,915
+it's that the world exists."
+
+29
+00:01:23,915 --> 00:01:26,133
+And if you don't like taking your epigrams
+
+30
+00:01:26,133 --> 00:01:29,044
+from a philosopher, try a scientist.
+
+31
+00:01:29,044 --> 00:01:31,645
+John Archibald Wheeler, one of the great physicists
+
+32
+00:01:31,645 --> 00:01:32,871
+of the 20th century,
+
+33
+00:01:32,871 --> 00:01:34,796
+the teacher of Richard Feynman,
+
+34
+00:01:34,796 --> 00:01:37,456
+the coiner of the term "black hole,"
+
+35
+00:01:37,456 --> 00:01:39,879
+he said, "I want to know
+
+36
+00:01:39,879 --> 00:01:41,612
+how come the quantum,
+
+37
+00:01:41,612 --> 00:01:44,756
+how come the universe, how come existence?"
+
+38
+00:01:44,756 --> 00:01:46,755
+And my friend Martin Amis —
+
+39
+00:01:46,755 --> 00:01:49,432
+sorry that I'll be doing a lot of
+name-dropping in this talk,
+
+40
+00:01:49,432 --> 00:01:50,807
+so get used to it —
+
+41
+00:01:50,807 --> 00:01:55,783
+my dear friend Martin Amis once said
+
+42
+00:01:55,783 --> 00:01:59,003
+that we're about five Einsteins away from answering
+
+43
+00:01:59,003 --> 00:02:01,039
+the mystery of where the universe came from.
+
+44
+00:02:01,039 --> 00:02:03,020
+And I've no doubt there are five Einsteins
+
+45
+00:02:03,020 --> 00:02:05,207
+in the audience tonight.
+
+46
+00:02:05,207 --> 00:02:06,710
+Any Einsteins? Show of hands? No? No? No?
+
+47
+00:02:06,710 --> 00:02:07,872
+No Einsteins? Okay.
+
+48
+00:02:07,872 --> 00:02:12,094
+So this question, why is there
+something rather than nothing,
+
+49
+00:02:12,094 --> 00:02:14,062
+this sublime question, was posed rather late
+
+50
+00:02:14,062 --> 00:02:16,372
+in intellectual history.
+
+51
+00:02:16,372 --> 00:02:18,851
+It was towards the end of the 17th century,
+
+52
+00:02:18,851 --> 00:02:21,813
+the philosopher Leibniz who asked it,
+
+53
+00:02:21,813 --> 00:02:23,556
+a very smart guy, Leibniz,
+
+54
+00:02:23,556 --> 00:02:25,706
+who invented the calculus
+
+55
+00:02:25,706 --> 00:02:28,560
+independently of Isaac Newton,
+at about the same time,
+
+56
+00:02:28,560 --> 00:02:31,162
+but for Leibniz, who asked why is
+there something rather than nothing,
+
+57
+00:02:31,162 --> 00:02:33,355
+this was not a great mystery.
+
+58
+00:02:33,355 --> 00:02:35,751
+He either was or pretended to be
+
+59
+00:02:35,751 --> 00:02:38,507
+an Orthodox Christian in his metaphysical outlook,
+
+60
+00:02:38,507 --> 00:02:41,522
+and he said it's obvious why the world exists:
+
+61
+00:02:41,522 --> 00:02:43,984
+because God created it.
+
+62
+00:02:43,984 --> 00:02:47,269
+And God created, indeed, out of nothing at all.
+
+63
+00:02:47,269 --> 00:02:48,780
+That's how powerful God is.
+
+64
+00:02:48,780 --> 00:02:52,422
+He doesn't need any preexisting
+materials to fashion a world out of.
+
+65
+00:02:52,422 --> 00:02:54,582
+He can make it out of sheer nothingness,
+
+66
+00:02:54,582 --> 00:02:56,056
+creation ex nihilo.
+
+67
+00:02:56,056 --> 00:02:57,001
+And by the way, this is what
+
+68
+00:02:57,001 --> 00:02:59,840
+most Americans today believe.
+
+69
+00:02:59,840 --> 00:03:01,554
+There is no mystery of existence for them.
+
+70
+00:03:01,554 --> 00:03:03,122
+God made it.
+
+71
+00:03:03,122 --> 00:03:05,708
+So let's put this in an equation.
+
+72
+00:03:05,708 --> 00:03:08,335
+I don't have any slides so
+I'm going to mime my visuals,
+
+73
+00:03:08,335 --> 00:03:09,770
+so use your imaginations.
+
+74
+00:03:09,770 --> 00:03:15,624
+So it's God + nothing = the world.
+
+75
+00:03:15,624 --> 00:03:18,938
+Okay? Now that's the equation.
+
+76
+00:03:18,938 --> 00:03:20,671
+And so maybe you don't believe in God.
+
+77
+00:03:20,671 --> 00:03:22,501
+Maybe you're a scientific atheist
+
+78
+00:03:22,501 --> 00:03:25,835
+or an unscientific atheist,
+and you don't believe in God,
+
+79
+00:03:25,835 --> 00:03:27,253
+and you're not happy with it.
+
+80
+00:03:27,253 --> 00:03:29,957
+By the way, even if we have this equation,
+
+81
+00:03:29,957 --> 00:03:31,859
+God + nothing = the world,
+
+82
+00:03:31,859 --> 00:03:33,545
+there's already a problem:
+
+83
+00:03:33,545 --> 00:03:36,579
+Why does God exist?
+
+84
+00:03:36,579 --> 00:03:38,782
+God doesn't exist by logic alone
+
+85
+00:03:38,782 --> 00:03:40,595
+unless you believe the ontological argument,
+
+86
+00:03:40,595 --> 00:03:42,922
+and I hope you don't, because
+it's not a good argument.
+
+87
+00:03:42,922 --> 00:03:46,083
+So it's conceivable, if God were to exist,
+
+88
+00:03:46,083 --> 00:03:49,233
+he might wonder, I'm eternal, I'm all-powerful,
+
+89
+00:03:49,233 --> 00:03:51,663
+but where did I come from?
+
+90
+00:03:51,663 --> 00:03:53,833
+(Laughter)
+
+91
+00:03:53,833 --> 00:03:55,252
+Whence then am I?
+
+92
+00:03:55,252 --> 00:03:58,460
+God speaks in a more formal English.
+
+93
+00:03:58,460 --> 00:04:00,449
+(Laughter)
+
+94
+00:04:00,449 --> 00:04:03,497
+And so one theory is that God was so bored with
+
+95
+00:04:03,497 --> 00:04:05,286
+pondering the puzzle of His own existence
+
+96
+00:04:05,286 --> 00:04:08,208
+that He created the world just to distract himself.
+
+97
+00:04:08,208 --> 00:04:10,320
+But anyway, let's forget about God.
+
+98
+00:04:10,320 --> 00:04:11,677
+Take God out of the equation: We have
+
+99
+00:04:11,677 --> 00:04:14,800
+________ + nothing = the world.
+
+100
+00:04:14,800 --> 00:04:16,581
+Now, if you're a Buddhist,
+
+101
+00:04:16,581 --> 00:04:18,325
+you might want to stop right there,
+
+102
+00:04:18,325 --> 00:04:20,294
+because essentially what you've got is
+
+103
+00:04:20,294 --> 00:04:21,870
+nothing = the world,
+
+104
+00:04:21,870 --> 00:04:23,383
+and by symmetry of identity, that means
+
+105
+00:04:23,383 --> 00:04:25,738
+the world = nothing. Okay?
+
+106
+00:04:25,738 --> 00:04:28,157
+And to a Buddhist, the world
+is just a whole lot of nothing.
+
+107
+00:04:28,157 --> 00:04:31,263
+It's just a big cosmic vacuity.
+
+108
+00:04:31,263 --> 00:04:33,815
+And we think there's a lot of something out there
+
+109
+00:04:33,815 --> 00:04:36,380
+but that's because we're enslaved by our desires.
+
+110
+00:04:36,380 --> 00:04:39,091
+If we let our desires melt away,
+
+111
+00:04:39,091 --> 00:04:41,971
+we'll see the world for what it truly is,
+
+112
+00:04:41,971 --> 00:04:43,951
+a vacuity, nothingness,
+
+113
+00:04:43,951 --> 00:04:46,133
+and we'll slip into this happy state of nirvana
+
+114
+00:04:46,133 --> 00:04:47,956
+which has been defined as having
+
+115
+00:04:47,956 --> 00:04:51,274
+just enough life to enjoy being dead. (Laughter)
+
+116
+00:04:51,274 --> 00:04:53,153
+So that's the Buddhist thinking.
+
+117
+00:04:53,153 --> 00:04:56,652
+But I'm a Westerner, and I'm still concerned
+
+118
+00:04:56,652 --> 00:04:58,635
+with the puzzle of existence, so I've got
+
+119
+00:04:58,635 --> 00:05:00,243
+________ + —
+
+120
+00:05:00,243 --> 00:05:02,401
+this is going to get serious in a minute, so —
+
+121
+00:05:02,401 --> 00:05:05,427
+________ + nothing = the world.
+
+122
+00:05:05,427 --> 00:05:06,650
+What are we going to put in that blank?
+
+123
+00:05:06,650 --> 00:05:08,498
+Well, how about science?
+
+124
+00:05:08,498 --> 00:05:12,049
+Science is our best guide to the nature of reality,
+
+125
+00:05:12,049 --> 00:05:15,064
+and the most fundamental science is physics.
+
+126
+00:05:15,064 --> 00:05:18,034
+That tells us what naked reality really is,
+
+127
+00:05:18,034 --> 00:05:20,660
+that reveals what I call TAUFOTU,
+
+128
+00:05:20,660 --> 00:05:23,650
+the True And Ultimate Furniture Of The Universe.
+
+129
+00:05:23,650 --> 00:05:26,302
+So maybe physics can fill this blank,
+
+130
+00:05:26,302 --> 00:05:31,364
+and indeed, since about the late 1960s or around 1970,
+
+131
+00:05:31,364 --> 00:05:35,027
+physicists have purported to give
+
+132
+00:05:35,027 --> 00:05:38,147
+a purely scientific explanation of how
+
+133
+00:05:38,147 --> 00:05:41,142
+a universe like ours could have popped into existence
+
+134
+00:05:41,142 --> 00:05:43,021
+out of sheer nothingness,
+
+135
+00:05:43,021 --> 00:05:46,101
+a quantum fluctuation out of the void.
+
+136
+00:05:46,101 --> 00:05:48,159
+Stephen Hawking is one of these physicists,
+
+137
+00:05:48,159 --> 00:05:50,465
+more recently Alex Vilenkin,
+
+138
+00:05:50,465 --> 00:05:52,198
+and the whole thing has been popularized
+
+139
+00:05:52,198 --> 00:05:54,391
+by another very fine physicist and friend of mine,
+
+140
+00:05:54,391 --> 00:05:56,923
+Lawrence Krauss, who wrote a book called
+
+141
+00:05:56,923 --> 00:05:59,049
+"A Universe from Nothing,"
+
+142
+00:05:59,049 --> 00:06:01,265
+and Lawrence thinks that he's given —
+
+143
+00:06:01,265 --> 00:06:03,346
+he's a militant atheist, by the way,
+
+144
+00:06:03,346 --> 00:06:04,970
+so he's gotten God out of the picture.
+
+145
+00:06:04,970 --> 00:06:07,351
+The laws of quantum field theory,
+
+146
+00:06:07,351 --> 00:06:09,252
+the state-of-the-art physics, can show how
+
+147
+00:06:09,252 --> 00:06:10,570
+out of sheer nothingness,
+
+148
+00:06:10,570 --> 00:06:12,795
+no space, no time, no matter, nothing,
+
+149
+00:06:12,795 --> 00:06:16,240
+a little nugget of false vacuum
+
+150
+00:06:16,240 --> 00:06:18,213
+can fluctuate into existence,
+
+151
+00:06:18,213 --> 00:06:20,195
+and then, by the miracle of inflation,
+
+152
+00:06:20,195 --> 00:06:23,280
+blow up into this huge and variegated cosmos
+
+153
+00:06:23,280 --> 00:06:25,035
+we see around us.
+
+154
+00:06:25,035 --> 00:06:28,589
+Okay, this is a really ingenious scenario.
+
+155
+00:06:28,589 --> 00:06:31,357
+It's very speculative. It's fascinating.
+
+156
+00:06:31,357 --> 00:06:33,685
+But I've got a big problem with it,
+
+157
+00:06:33,685 --> 00:06:35,570
+and the problem is this:
+
+158
+00:06:35,570 --> 00:06:37,041
+It's a pseudo-religious point of view.
+
+159
+00:06:37,041 --> 00:06:39,037
+Now, Lawrence thinks he's an atheist,
+
+160
+00:06:39,037 --> 00:06:41,785
+but he's still in thrall to a religious worldview.
+
+161
+00:06:41,785 --> 00:06:46,554
+He sees physical laws as being like divine commands.
+
+162
+00:06:46,554 --> 00:06:48,604
+The laws of quantum field theory for him
+
+163
+00:06:48,604 --> 00:06:51,215
+are like fiat lux, "Let there be light."
+
+164
+00:06:51,215 --> 00:06:55,654
+The laws have some sort of ontological power or clout
+
+165
+00:06:55,654 --> 00:06:57,761
+that they can form the abyss,
+
+166
+00:06:57,761 --> 00:06:59,601
+that it's pregnant with being.
+
+167
+00:06:59,601 --> 00:07:02,508
+They can call a world into existence out of nothing.
+
+168
+00:07:02,508 --> 00:07:04,455
+But that's a very primitive view of what
+
+169
+00:07:04,455 --> 00:07:05,928
+a physical law is, right?
+
+170
+00:07:05,928 --> 00:07:09,183
+We know that physical laws are actually
+
+171
+00:07:09,183 --> 00:07:12,227
+generalized descriptions of patterns and regularities
+
+172
+00:07:12,227 --> 00:07:13,432
+in the world.
+
+173
+00:07:13,432 --> 00:07:15,805
+They don't exist outside the world.
+
+174
+00:07:15,805 --> 00:07:17,785
+They don't have any ontic cloud of their own.
+
+175
+00:07:17,785 --> 00:07:19,780
+They can't call a world into existence
+
+176
+00:07:19,780 --> 00:07:21,098
+out of nothingness.
+
+177
+00:07:21,098 --> 00:07:22,629
+That's a very primitive view
+
+178
+00:07:22,629 --> 00:07:24,813
+of what a scientific law is.
+
+179
+00:07:24,813 --> 00:07:26,808
+And if you don't believe me on this,
+
+180
+00:07:26,808 --> 00:07:28,610
+listen to Stephen Hawking,
+
+181
+00:07:28,610 --> 00:07:32,645
+who himself put forward a model of the cosmos
+
+182
+00:07:32,645 --> 00:07:33,721
+that was self-contained,
+
+183
+00:07:33,721 --> 00:07:37,359
+didn't require any outside cause, any creator,
+
+184
+00:07:37,359 --> 00:07:39,087
+and after proposing this,
+
+185
+00:07:39,087 --> 00:07:41,501
+Hawking admitted that he was still puzzled.
+
+186
+00:07:41,501 --> 00:07:44,813
+He said, this model is just equations.
+
+187
+00:07:44,813 --> 00:07:47,672
+What breathes fire into the equations
+
+188
+00:07:47,672 --> 00:07:50,594
+and creates a world for them to describe?
+
+189
+00:07:50,594 --> 00:07:51,727
+He was puzzled by this,
+
+190
+00:07:51,727 --> 00:07:55,532
+so equations themselves can't do the magic,
+
+191
+00:07:55,532 --> 00:07:57,670
+can't resolve the puzzle of existence.
+
+192
+00:07:57,670 --> 00:08:00,583
+And besides, even if the laws could do that,
+
+193
+00:08:00,583 --> 00:08:02,406
+why this set of laws?
+
+194
+00:08:02,406 --> 00:08:04,970
+Why quantum field theory that describes
+
+195
+00:08:04,970 --> 00:08:06,670
+a universe with a certain number of forces
+
+196
+00:08:06,670 --> 00:08:07,719
+and particles and so forth?
+
+197
+00:08:07,719 --> 00:08:10,010
+Why not a completely different set of laws?
+
+198
+00:08:10,010 --> 00:08:13,298
+There are many, many mathematically
+consistent sets of laws.
+
+199
+00:08:13,298 --> 00:08:16,737
+Why not no laws at all? Why not sheer nothingness?
+
+200
+00:08:16,737 --> 00:08:18,469
+So this is a problem, believe it or not,
+
+201
+00:08:18,469 --> 00:08:21,467
+that reflective physicists really think a lot about,
+
+202
+00:08:21,467 --> 00:08:24,575
+and at this point they tend to go metaphysical,
+
+203
+00:08:24,575 --> 00:08:26,790
+say, well, maybe the set of laws
+
+204
+00:08:26,790 --> 00:08:28,037
+that describes our universe,
+
+205
+00:08:28,037 --> 00:08:29,772
+it's just one set of laws
+
+206
+00:08:29,772 --> 00:08:31,808
+and it describes one part of reality,
+
+207
+00:08:31,808 --> 00:08:34,604
+but maybe every consistent set of laws
+
+208
+00:08:34,604 --> 00:08:36,390
+describes another part of reality,
+
+209
+00:08:36,390 --> 00:08:40,323
+and in fact all possible physical worlds
+
+210
+00:08:40,323 --> 00:08:42,774
+really exist, they're all out there.
+
+211
+00:08:42,774 --> 00:08:45,057
+We just see a little tiny part of reality
+
+212
+00:08:45,057 --> 00:08:47,600
+that's described by the laws of quantum field theory,
+
+213
+00:08:47,600 --> 00:08:49,332
+but there are many, many other worlds,
+
+214
+00:08:49,332 --> 00:08:51,098
+parts of reality that are described
+
+215
+00:08:51,098 --> 00:08:53,055
+by vastly different theories
+
+216
+00:08:53,055 --> 00:08:56,071
+that are different from ours in ways we can't imagine,
+
+217
+00:08:56,071 --> 00:08:59,816
+that are inconceivably exotic.
+
+218
+00:08:59,816 --> 00:09:01,553
+Steven Weinberg, the father
+
+219
+00:09:01,553 --> 00:09:03,994
+of the standard model of particle physics,
+
+220
+00:09:03,994 --> 00:09:06,820
+has actually flirted with this idea himself,
+
+221
+00:09:06,820 --> 00:09:11,063
+that all possible realities actually exist.
+
+222
+00:09:11,063 --> 00:09:14,152
+Also, a younger physicist, Max Tegmark,
+
+223
+00:09:14,152 --> 00:09:18,528
+who believes that all mathematical structures exist,
+
+224
+00:09:18,528 --> 00:09:20,665
+and mathematical existence is the same thing
+
+225
+00:09:20,665 --> 00:09:22,432
+as physical existence,
+
+226
+00:09:22,432 --> 00:09:24,750
+so we have this vastly rich multiverse
+
+227
+00:09:24,750 --> 00:09:28,191
+that encompasses every logical possibility.
+
+228
+00:09:28,191 --> 00:09:31,701
+Now, in taking this metaphysical way out,
+
+229
+00:09:31,701 --> 00:09:33,973
+these physicists and also philosophers are actually
+
+230
+00:09:33,973 --> 00:09:36,495
+reaching back to a very old idea
+
+231
+00:09:36,495 --> 00:09:37,952
+that goes back to Plato.
+
+232
+00:09:37,952 --> 00:09:41,150
+It's the principle of plenitude or fecundity,
+
+233
+00:09:41,150 --> 00:09:43,063
+or the great chain of being,
+
+234
+00:09:43,063 --> 00:09:46,930
+that reality is actually as full as possible.
+
+235
+00:09:46,930 --> 00:09:48,631
+It's as far removed from nothingness
+
+236
+00:09:48,631 --> 00:09:51,526
+as it could possibly be.
+
+237
+00:09:51,526 --> 00:09:54,020
+So we have these two extremes now.
+
+238
+00:09:54,020 --> 00:09:57,319
+We have sheer nothingness on one side,
+
+239
+00:09:57,319 --> 00:09:59,817
+and we have this vision of a reality
+
+240
+00:09:59,817 --> 00:10:03,000
+that encompasses every conceivable world
+
+241
+00:10:03,000 --> 00:10:05,729
+at the other extreme: the fullest possible reality,
+
+242
+00:10:05,729 --> 00:10:08,622
+nothingness, the simplest possible reality.
+
+243
+00:10:08,622 --> 00:10:11,501
+Now what's in between these two extremes?
+
+244
+00:10:11,501 --> 00:10:13,528
+There are all kinds of intermediate realities
+
+245
+00:10:13,528 --> 00:10:16,475
+that include some things and leave out others.
+
+246
+00:10:16,475 --> 00:10:18,071
+So one of these intermediate realities
+
+247
+00:10:18,071 --> 00:10:23,766
+is, say, the most mathematically elegant reality,
+
+248
+00:10:23,766 --> 00:10:25,441
+that leaves out the inelegant bits,
+
+249
+00:10:25,441 --> 00:10:28,087
+the ugly asymmetries and so forth.
+
+250
+00:10:28,087 --> 00:10:30,413
+Now, there are some physicists who will tell you
+
+251
+00:10:30,413 --> 00:10:34,047
+that we're actually living in the most elegant reality.
+
+252
+00:10:34,047 --> 00:10:36,994
+I think that Brian Greene is in the audience,
+
+253
+00:10:36,994 --> 00:10:40,607
+and he has written a book
+called "The Elegant Universe."
+
+254
+00:10:40,607 --> 00:10:42,878
+He claims that the universe we live in mathematically
+
+255
+00:10:42,878 --> 00:10:44,587
+is very elegant.
+
+256
+00:10:44,587 --> 00:10:46,270
+Don't believe him. (Laughter)
+
+257
+00:10:46,270 --> 00:10:49,357
+It's a pious hope, I wish it were true,
+
+258
+00:10:49,357 --> 00:10:51,270
+but I think the other day he admitted to me
+
+259
+00:10:51,270 --> 00:10:54,334
+it's really an ugly universe.
+
+260
+00:10:54,334 --> 00:10:55,710
+It's stupidly constructed,
+
+261
+00:10:55,710 --> 00:10:58,964
+it's got way too many arbitrary coupling constants
+
+262
+00:10:58,964 --> 00:11:00,630
+and mass ratios
+
+263
+00:11:00,630 --> 00:11:03,408
+and superfluous families of elementary particles,
+
+264
+00:11:03,408 --> 00:11:05,556
+and what the hell is dark energy?
+
+265
+00:11:05,556 --> 00:11:08,955
+It's a stick and bubble gum contraption.
+
+266
+00:11:08,955 --> 00:11:12,958
+It's not an elegant universe. (Laughter)
+
+267
+00:11:12,958 --> 00:11:15,701
+And then there's the best of all possible worlds
+
+268
+00:11:15,701 --> 00:11:17,291
+in an ethical sense.
+
+269
+00:11:17,291 --> 00:11:18,470
+You should get solemn now,
+
+270
+00:11:18,470 --> 00:11:21,665
+because a world in which sentient beings
+
+271
+00:11:21,665 --> 00:11:23,285
+don't suffer needlessly,
+
+272
+00:11:23,285 --> 00:11:25,154
+in which there aren't things like
+
+273
+00:11:25,154 --> 00:11:27,369
+childhood cancer or the Holocaust.
+
+274
+00:11:27,369 --> 00:11:28,620
+This is an ethical conception.
+
+275
+00:11:28,620 --> 00:11:30,685
+Anyway, so between nothingness
+
+276
+00:11:30,685 --> 00:11:32,318
+and the fullest possible reality,
+
+277
+00:11:32,318 --> 00:11:33,863
+various special realities.
+
+278
+00:11:33,863 --> 00:11:36,143
+Nothingness is special. It's the simplest.
+
+279
+00:11:36,143 --> 00:11:39,653
+Then there's the most elegant possible reality.
+
+280
+00:11:39,653 --> 00:11:41,017
+That's special.
+
+281
+00:11:41,017 --> 00:11:43,669
+The fullest possible reality, that's special.
+
+282
+00:11:43,669 --> 00:11:45,185
+But what are we leaving out here?
+
+283
+00:11:45,185 --> 00:11:47,921
+There's also just the crummy,
+
+284
+00:11:47,921 --> 00:11:49,676
+generic realities
+
+285
+00:11:49,676 --> 00:11:52,297
+that aren't special in any way,
+
+286
+00:11:52,297 --> 00:11:53,849
+that are sort of random.
+
+287
+00:11:53,849 --> 00:11:56,576
+They're infinitely removed from nothingness,
+
+288
+00:11:56,576 --> 00:12:00,502
+but they fall infinitely short of complete fullness.
+
+289
+00:12:00,502 --> 00:12:03,022
+They're a mixture of chaos and order,
+
+290
+00:12:03,022 --> 00:12:07,220
+of mathematical elegance and ugliness.
+
+291
+00:12:07,220 --> 00:12:09,005
+So I would describe these realities
+
+292
+00:12:09,005 --> 00:12:13,132
+as an infinite, mediocre, incomplete mess,
+
+293
+00:12:13,132 --> 00:12:16,512
+a generic reality, a kind of cosmic junk shot.
+
+294
+00:12:16,512 --> 00:12:18,696
+And these realities,
+
+295
+00:12:18,696 --> 00:12:20,962
+is there a deity in any of these realities?
+
+296
+00:12:20,962 --> 00:12:23,373
+Maybe, but the deity isn't perfect
+
+297
+00:12:23,373 --> 00:12:25,709
+like the Judeo-Christian deity.
+
+298
+00:12:25,709 --> 00:12:29,016
+The deity isn't all-good and all-powerful.
+
+299
+00:12:29,016 --> 00:12:32,347
+It might be instead 100 percent malevolent
+
+300
+00:12:32,347 --> 00:12:34,450
+but only 80 percent effective,
+
+301
+00:12:34,450 --> 00:12:40,587
+which pretty much describes the world
+we see around us, I think. (Laughter)
+
+302
+00:12:40,587 --> 00:12:43,319
+So I would like to propose that the resolution
+
+303
+00:12:43,319 --> 00:12:45,155
+to the mystery of existence
+
+304
+00:12:45,155 --> 00:12:49,245
+is that the reality we exist in
+
+305
+00:12:49,245 --> 00:12:51,301
+is one of these generic realities.
+
+306
+00:12:51,301 --> 00:12:53,956
+Reality has to turn out some way.
+
+307
+00:12:53,956 --> 00:12:56,026
+It can either turn out to be nothing
+
+308
+00:12:56,026 --> 00:12:59,707
+or everything or something in between.
+
+309
+00:12:59,707 --> 00:13:03,398
+So if it has some special feature,
+
+310
+00:13:03,398 --> 00:13:05,588
+like being really elegant or really full
+
+311
+00:13:05,588 --> 00:13:07,196
+or really simple, like nothingness,
+
+312
+00:13:07,196 --> 00:13:08,997
+that would require an explanation.
+
+313
+00:13:08,997 --> 00:13:12,156
+But if it's just one of these random, generic realities,
+
+314
+00:13:12,156 --> 00:13:14,306
+there's no further explanation for it.
+
+315
+00:13:14,306 --> 00:13:15,690
+And indeed, I would say
+
+316
+00:13:15,690 --> 00:13:17,670
+that's the reality we live in.
+
+317
+00:13:17,670 --> 00:13:19,927
+That's what science is telling us.
+
+318
+00:13:19,927 --> 00:13:21,258
+At the beginning of the week,
+
+319
+00:13:21,258 --> 00:13:24,374
+we got the exciting information that
+
+320
+00:13:24,374 --> 00:13:27,513
+the theory of inflation, which predicts a big,
+
+321
+00:13:27,513 --> 00:13:31,483
+infinite, messy, arbitrary, pointless reality,
+
+322
+00:13:31,483 --> 00:13:35,308
+it's like a big frothing champagne
+
+323
+00:13:35,308 --> 00:13:37,992
+coming out of a bottle endlessly,
+
+324
+00:13:37,992 --> 00:13:40,084
+a vast universe, mostly a wasteland
+
+325
+00:13:40,084 --> 00:13:44,350
+with little pockets of charm and order and peace,
+
+326
+00:13:44,350 --> 00:13:46,715
+this has been confirmed,
+
+327
+00:13:46,715 --> 00:13:49,617
+this inflationary scenario, by the observations
+
+328
+00:13:49,617 --> 00:13:51,710
+made by radio telescopes in Antarctica
+
+329
+00:13:51,710 --> 00:13:54,533
+that looked at the signature of the gravitational waves
+
+330
+00:13:54,533 --> 00:13:56,457
+from just before the Big Bang.
+
+331
+00:13:56,457 --> 00:13:58,302
+I'm sure you all know about this.
+
+332
+00:13:58,302 --> 00:14:01,126
+So anyway, I think there's some evidence
+
+333
+00:14:01,126 --> 00:14:04,613
+that this really is the reality that we're stuck with.
+
+334
+00:14:04,613 --> 00:14:07,720
+Now, why should you care?
+
+335
+00:14:07,720 --> 00:14:08,956
+Well — (Laughter) —
+
+336
+00:14:08,956 --> 00:14:12,380
+the question, "Why does the world exist?"
+
+337
+00:14:12,380 --> 00:14:14,059
+that's the cosmic question, it sort of rhymes
+
+338
+00:14:14,059 --> 00:14:15,513
+with a more intimate question:
+
+339
+00:14:15,513 --> 00:14:18,596
+Why do I exist? Why do you exist?
+
+340
+00:14:18,596 --> 00:14:22,196
+you know, our existence would
+seem to be amazingly improbable,
+
+341
+00:14:22,196 --> 00:14:26,515
+because there's an enormous number
+of genetically possible humans,
+
+342
+00:14:26,515 --> 00:14:27,919
+if you can compute it by looking at
+
+343
+00:14:27,919 --> 00:14:30,261
+the number of the genes and the
+number of alleles and so forth,
+
+344
+00:14:30,261 --> 00:14:32,557
+and a back-of-the-envelope calculation will tell you
+
+345
+00:14:32,557 --> 00:14:34,712
+there are about 10 to the 10,000th
+
+346
+00:14:34,712 --> 00:14:36,372
+possible humans, genetically.
+
+347
+00:14:36,372 --> 00:14:39,840
+That's between a googol and a googolplex.
+
+348
+00:14:39,840 --> 00:14:41,456
+And the number of the actual
+humans that have existed
+
+349
+00:14:41,456 --> 00:14:43,950
+is 100 billion, maybe 50 billion,
+
+350
+00:14:43,950 --> 00:14:46,015
+an infinitesimal fraction, so all of us,
+
+351
+00:14:46,015 --> 00:14:47,945
+we've won this amazing cosmic lottery.
+
+352
+00:14:47,945 --> 00:14:50,064
+We're here. Okay.
+
+353
+00:14:50,064 --> 00:14:52,985
+So what kind of reality do we want to live in?
+
+354
+00:14:52,985 --> 00:14:55,235
+Do we want to live in a special reality?
+
+355
+00:14:55,235 --> 00:14:59,464
+What if we were living in the
+most elegant possible reality?
+
+356
+00:14:59,464 --> 00:15:01,973
+Imagine the existential pressure on us
+
+357
+00:15:01,973 --> 00:15:03,812
+to live up to that, to be elegant,
+
+358
+00:15:03,812 --> 00:15:05,678
+not to pull down the tone of it.
+
+359
+00:15:05,678 --> 00:15:08,759
+Or, what if we were living
+in the fullest possible reality?
+
+360
+00:15:08,759 --> 00:15:10,770
+Well then our existence would be guaranteed,
+
+361
+00:15:10,770 --> 00:15:12,548
+because every possible thing
+
+362
+00:15:12,548 --> 00:15:13,914
+exists in that reality,
+
+363
+00:15:13,914 --> 00:15:16,075
+but our choices would be meaningless.
+
+364
+00:15:16,075 --> 00:15:19,070
+If I really struggle morally and agonize
+
+365
+00:15:19,070 --> 00:15:21,150
+and I decide to do the right thing,
+
+366
+00:15:21,150 --> 00:15:22,345
+what difference does it make,
+
+367
+00:15:22,345 --> 00:15:24,370
+because there are an infinite number
+
+368
+00:15:24,370 --> 00:15:25,384
+of versions of me
+
+369
+00:15:25,384 --> 00:15:26,781
+also doing the right thing
+
+370
+00:15:26,781 --> 00:15:28,436
+and an infinite number doing the wrong thing.
+
+371
+00:15:28,436 --> 00:15:30,276
+So my choices are meaningless.
+
+372
+00:15:30,276 --> 00:15:32,560
+So we don't want to live in that special reality.
+
+373
+00:15:32,560 --> 00:15:35,147
+And as for the special reality of nothingness,
+
+374
+00:15:35,147 --> 00:15:37,374
+we wouldn't be having this conversation.
+
+375
+00:15:37,374 --> 00:15:44,309
+So I think living in a generic reality that's mediocre,
+
+376
+00:15:44,309 --> 00:15:46,205
+there are nasty bits and nice bits
+
+377
+00:15:46,205 --> 00:15:47,747
+and we could make the nice bits bigger
+
+378
+00:15:47,747 --> 00:15:50,086
+and the nasty bits smaller
+
+379
+00:15:50,086 --> 00:15:52,977
+and that gives us a kind of purpose in life.
+
+380
+00:15:52,977 --> 00:15:54,383
+The universe is absurd,
+
+381
+00:15:54,383 --> 00:15:56,110
+but we can still construct a purpose,
+
+382
+00:15:56,110 --> 00:15:57,050
+and that's a pretty good one,
+
+383
+00:15:57,050 --> 00:15:59,715
+and the overall mediocrity of reality
+
+384
+00:15:59,715 --> 00:16:02,320
+kind of resonates nicely with the mediocrity
+
+385
+00:16:02,320 --> 00:16:04,632
+we all feel in the core of our being.
+
+386
+00:16:04,632 --> 00:16:06,266
+And I know you feel it.
+
+387
+00:16:06,266 --> 00:16:07,370
+I know you're all special,
+
+388
+00:16:07,370 --> 00:16:09,692
+but you're still kind of secretly mediocre,
+
+389
+00:16:09,692 --> 00:16:11,081
+don't you think?
+
+390
+00:16:11,081 --> 00:16:13,018
+(Laughter) (Applause)
+
+391
+00:16:13,018 --> 00:16:17,070
+So anyway, you may say, this 
+puzzle, the mystery of existence,
+
+392
+00:16:17,070 --> 00:16:18,488
+it's just silly mystery-mongering.
+
+393
+00:16:18,488 --> 00:16:22,355
+You're not astonished at the existence of the universe
+
+394
+00:16:22,355 --> 00:16:23,990
+and you're in good company.
+
+395
+00:16:23,990 --> 00:16:26,206
+Bertrand Russell said,
+
+396
+00:16:26,206 --> 00:16:29,861
+"I should say the universe is just there, and that's all."
+
+397
+00:16:29,861 --> 00:16:31,262
+Just a brute fact.
+
+398
+00:16:31,262 --> 00:16:34,096
+And my professor at Columbia, Sidney Morgenbesser,
+
+399
+00:16:34,096 --> 00:16:35,805
+a great philosophical wag,
+
+400
+00:16:35,805 --> 00:16:37,422
+when I said to him, "Professor Morgenbesser,
+
+401
+00:16:37,422 --> 00:16:39,918
+why is there something rather than nothing?"
+
+402
+00:16:39,918 --> 00:16:42,068
+And he said, "Oh, even if there was nothing,
+
+403
+00:16:42,068 --> 00:16:44,064
+you still wouldn't be satisfied."
+
+404
+00:16:44,064 --> 00:16:47,813
+So — (Laughter) — okay.
+
+405
+00:16:47,813 --> 00:16:50,175
+So you're not astonished. I don't care.
+
+406
+00:16:50,175 --> 00:16:53,148
+But I will tell you something to conclude
+
+407
+00:16:53,148 --> 00:16:55,426
+that I guarantee you will astonish you,
+
+408
+00:16:55,426 --> 00:16:58,093
+because it's astonished all of the brilliant,
+
+409
+00:16:58,093 --> 00:17:00,406
+wonderful people I've met at this TED conference,
+
+410
+00:17:00,406 --> 00:17:02,620
+when I've told them, and it's this:
+
+411
+00:17:02,620 --> 00:17:07,122
+Never in my life have I had a cell phone.
+
+412
+00:17:07,122 --> 00:17:08,999
+Thank you.
+
+413
+00:17:08,999 --> 00:17:12,999
+(Laughter) (Applause)
+

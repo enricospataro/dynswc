@@ -1,0 +1,1424 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+When I was president of the American Psychological Association,
+
+2
+00:00:14,820 --> 00:00:16,820
+they tried to media-train me,
+
+3
+00:00:16,820 --> 00:00:20,820
+and an encounter I had with CNN
+
+4
+00:00:20,820 --> 00:00:23,820
+summarizes what I'm going to be talking about today,
+
+5
+00:00:23,820 --> 00:00:27,820
+which is the eleventh reason to be optimistic.
+
+6
+00:00:27,820 --> 00:00:32,820
+The editor of Discover told us 10 of them,
+
+7
+00:00:33,820 --> 00:00:35,820
+I'm going to give you the eleventh.
+
+8
+00:00:35,820 --> 00:00:39,820
+So they came to me -- CNN -- and they said, "Professor Seligman,
+
+9
+00:00:39,820 --> 00:00:44,820
+would you tell us about the state of psychology today?
+
+10
+00:00:44,820 --> 00:00:47,820
+We'd like to interview you about that." And I said, "Great."
+
+11
+00:00:47,820 --> 00:00:52,820
+And she said, "But this is CNN, so you only get a sound bite."
+
+12
+00:00:52,820 --> 00:00:55,820
+So I said, "Well, how many words do I get?"
+
+13
+00:00:55,820 --> 00:00:57,820
+And she said, "Well, one."
+
+14
+00:00:57,820 --> 00:00:58,820
+(Laughter)
+
+15
+00:00:58,820 --> 00:01:02,820
+And cameras rolled, and she said, "Professor Seligman,
+
+16
+00:01:02,820 --> 00:01:06,820
+what is the state of psychology today?"
+
+17
+00:01:06,820 --> 00:01:08,820
+"Good."
+
+18
+00:01:08,820 --> 00:01:10,820
+(Laughter)
+
+19
+00:01:10,820 --> 00:01:13,820
+"Cut. Cut. That won't do.
+
+20
+00:01:13,820 --> 00:01:17,820
+We'd really better give you a longer sound bite."
+
+21
+00:01:17,820 --> 00:01:21,820
+"Well, how many words do I get this time?" "I think, well, you get two.
+
+22
+00:01:21,820 --> 00:01:27,820
+Doctor Seligman, what is the state of psychology today?"
+
+23
+00:01:27,820 --> 00:01:29,820
+"Not good."
+
+24
+00:01:29,820 --> 00:01:38,820
+(Laughter)
+
+25
+00:01:38,820 --> 00:01:40,820
+"Look, Doctor Seligman,
+
+26
+00:01:40,820 --> 00:01:43,820
+we can see you're really not comfortable in this medium.
+
+27
+00:01:43,820 --> 00:01:46,820
+We'd better give you a real sound bite.
+
+28
+00:01:46,820 --> 00:01:49,820
+This time you can have three words.
+
+29
+00:01:49,820 --> 00:01:54,820
+Professor Seligman, what is the state of psychology today?"
+
+30
+00:01:54,820 --> 00:01:59,820
+"Not good enough." And that's what I'm going to be talking about.
+
+31
+00:01:59,820 --> 00:02:03,820
+I want to say why psychology was good, why it was not good
+
+32
+00:02:03,820 --> 00:02:07,820
+and how it may become, in the next 10 years, good enough.
+
+33
+00:02:07,820 --> 00:02:12,820
+And by parallel summary, I want to say the same thing about technology,
+
+34
+00:02:12,820 --> 00:02:16,820
+about entertainment and design, because I think the issues are very similar.
+
+35
+00:02:16,820 --> 00:02:19,820
+So, why was psychology good?
+
+36
+00:02:19,820 --> 00:02:24,820
+Well, for more than 60 years, psychology worked within the disease model.
+
+37
+00:02:24,820 --> 00:02:26,820
+Ten years ago, when I was on an airplane
+
+38
+00:02:26,820 --> 00:02:30,820
+and I introduced myself to my seatmate, and told them what I did,
+
+39
+00:02:30,820 --> 00:02:32,820
+they'd move away from me.
+
+40
+00:02:32,820 --> 00:02:35,820
+And because, quite rightly, they were saying
+
+41
+00:02:35,820 --> 00:02:39,820
+psychology is about finding what's wrong with you. Spot the loony.
+
+42
+00:02:39,820 --> 00:02:44,820
+And now, when I tell people what I do, they move toward me.
+
+43
+00:02:44,820 --> 00:02:47,820
+And what was good about psychology,
+
+44
+00:02:47,820 --> 00:02:51,820
+about the 30 billion dollar investment NIMH made,
+
+45
+00:02:51,820 --> 00:02:53,820
+about working in the disease model,
+
+46
+00:02:53,820 --> 00:02:55,820
+about what you mean by psychology,
+
+47
+00:02:55,820 --> 00:03:00,820
+is that, 60 years ago, none of the disorders were treatable --
+
+48
+00:03:00,820 --> 00:03:02,820
+it was entirely smoke and mirrors.
+
+49
+00:03:02,820 --> 00:03:04,820
+And now, 14 of the disorders are treatable,
+
+50
+00:03:04,820 --> 00:03:06,820
+two of them actually curable.
+
+51
+00:03:06,820 --> 00:03:11,820
+And the other thing that happened is that a science developed,
+
+52
+00:03:11,820 --> 00:03:13,820
+a science of mental illness.
+
+53
+00:03:13,820 --> 00:03:21,820
+That we found out that we could take fuzzy concepts -- like depression, alcoholism --
+
+54
+00:03:21,820 --> 00:03:23,820
+and measure them with rigor.
+
+55
+00:03:23,820 --> 00:03:27,820
+That we could create a classification of the mental illnesses.
+
+56
+00:03:27,820 --> 00:03:32,820
+That we could understand the causality of the mental illnesses.
+
+57
+00:03:32,820 --> 00:03:36,820
+We could look across time at the same people --
+
+58
+00:03:36,820 --> 00:03:40,820
+people, for example, who were genetically vulnerable to schizophrenia --
+
+59
+00:03:40,820 --> 00:03:44,820
+and ask what the contribution of mothering, of genetics are,
+
+60
+00:03:44,820 --> 00:03:47,820
+and we could isolate third variables
+
+61
+00:03:47,820 --> 00:03:50,820
+by doing experiments on the mental illnesses.
+
+62
+00:03:50,820 --> 00:03:54,820
+And best of all, we were able, in the last 50 years,
+
+63
+00:03:54,820 --> 00:03:58,820
+to invent drug treatments and psychological treatments.
+
+64
+00:03:58,820 --> 00:04:02,820
+And then we were able to test them rigorously,
+
+65
+00:04:02,820 --> 00:04:05,820
+in random assignment, placebo controlled designs,
+
+66
+00:04:05,820 --> 00:04:09,820
+throw out the things that didn't work, keep the things that actively did.
+
+67
+00:04:09,820 --> 00:04:16,820
+And the conclusion of that is that psychology and psychiatry, over the last 60 years,
+
+68
+00:04:16,820 --> 00:04:22,820
+can actually claim that we can make miserable people less miserable.
+
+69
+00:04:22,820 --> 00:04:27,820
+And I think that's terrific. I'm proud of it.
+
+70
+00:04:29,820 --> 00:04:34,820
+But what was not good, the consequences of that were three things.
+
+71
+00:04:34,820 --> 00:04:36,820
+The first was moral,
+
+72
+00:04:36,820 --> 00:04:40,820
+that psychologists and psychiatrists became victimologists, pathologizers,
+
+73
+00:04:40,820 --> 00:04:45,820
+that our view of human nature was that if you were in trouble, bricks fell on you.
+
+74
+00:04:45,820 --> 00:04:48,820
+And we forgot that people made choices and decisions.
+
+75
+00:04:48,820 --> 00:04:52,820
+We forgot responsibility. That was the first cost.
+
+76
+00:04:52,820 --> 00:04:56,820
+The second cost was that we forgot about you people.
+
+77
+00:04:56,820 --> 00:05:00,820
+We forgot about improving normal lives.
+
+78
+00:05:00,820 --> 00:05:06,820
+We forgot about a mission to make relatively untroubled people happier,
+
+79
+00:05:06,820 --> 00:05:12,820
+more fulfilled, more productive. And "genius," "high-talent," became a dirty word.
+
+80
+00:05:12,820 --> 00:05:14,820
+No one works on that.
+
+81
+00:05:14,820 --> 00:05:18,820
+And the third problem about the disease model is,
+
+82
+00:05:18,820 --> 00:05:21,820
+in our rush to do something about people in trouble,
+
+83
+00:05:21,820 --> 00:05:26,820
+in our rush to do something about repairing damage,
+
+84
+00:05:26,820 --> 00:05:29,820
+it never occurred to us to develop interventions
+
+85
+00:05:29,820 --> 00:05:33,820
+to make people happier, positive interventions.
+
+86
+00:05:33,820 --> 00:05:35,820
+So that was not good.
+
+87
+00:05:35,820 --> 00:05:40,820
+And so, that's what led people like Nancy Etcoff, Dan Gilbert,
+
+88
+00:05:40,820 --> 00:05:44,820
+Mike Csikszentmihalyi and myself to work in something I call positive psychology,
+
+89
+00:05:44,820 --> 00:05:46,820
+which has three aims.
+
+90
+00:05:46,820 --> 00:05:51,820
+The first is that psychology should be just as concerned
+
+91
+00:05:51,820 --> 00:05:55,820
+with human strength as it is with weakness.
+
+92
+00:05:55,820 --> 00:06:02,820
+It should be just as concerned with building strength as with repairing damage.
+
+93
+00:06:02,820 --> 00:06:04,820
+It should be interested in the best things in life.
+
+94
+00:06:04,820 --> 00:06:10,820
+And it should be just as concerned with making the lives of normal people fulfilling,
+
+95
+00:06:10,820 --> 00:06:15,820
+and with genius, with nurturing high talent.
+
+96
+00:06:15,820 --> 00:06:19,820
+So in the last 10 years and the hope for the future,
+
+97
+00:06:19,820 --> 00:06:23,820
+we've seen the beginnings of a science of positive psychology,
+
+98
+00:06:23,820 --> 00:06:26,820
+a science of what makes life worth living.
+
+99
+00:06:26,820 --> 00:06:30,820
+It turns out that we can measure different forms of happiness.
+
+100
+00:06:30,820 --> 00:06:34,820
+And any of you, for free, can go to that website
+
+101
+00:06:34,820 --> 00:06:37,820
+and take the entire panoply of tests of happiness.
+
+102
+00:06:37,820 --> 00:06:42,820
+You can ask, how do you stack up for positive emotion, for meaning,
+
+103
+00:06:42,820 --> 00:06:46,820
+for flow, against literally tens of thousands of other people?
+
+104
+00:06:46,820 --> 00:06:52,820
+We created the opposite of the diagnostic manual of the insanities:
+
+105
+00:06:52,820 --> 00:06:57,820
+a classification of the strengths and virtues that looks at the sex ratio,
+
+106
+00:06:57,820 --> 00:06:59,820
+how they're defined, how to diagnose them,
+
+107
+00:06:59,820 --> 00:07:03,820
+what builds them and what gets in their way.
+
+108
+00:07:04,820 --> 00:07:08,820
+We found that we could discover the causation of the positive states,
+
+109
+00:07:08,820 --> 00:07:12,820
+the relationship between left hemispheric activity
+
+110
+00:07:12,820 --> 00:07:18,820
+and right hemispheric activity as a cause of happiness.
+
+111
+00:07:19,820 --> 00:07:22,820
+I've spent my life working on extremely miserable people,
+
+112
+00:07:22,820 --> 00:07:24,820
+and I've asked the question,
+
+113
+00:07:24,820 --> 00:07:27,820
+how do extremely miserable people differ from the rest of you?
+
+114
+00:07:27,820 --> 00:07:32,820
+And starting about six years ago, we asked about extremely happy people.
+
+115
+00:07:32,820 --> 00:07:34,820
+And how do they differ from the rest of us?
+
+116
+00:07:34,820 --> 00:07:37,820
+And it turns out there's one way.
+
+117
+00:07:38,820 --> 00:07:40,820
+They're not more religious, they're not in better shape,
+
+118
+00:07:40,820 --> 00:07:43,820
+they don't have more money, they're not better looking,
+
+119
+00:07:43,820 --> 00:07:46,820
+they don't have more good events and fewer bad events.
+
+120
+00:07:46,820 --> 00:07:51,820
+The one way in which they differ: they're extremely social.
+
+121
+00:07:51,820 --> 00:07:54,820
+They don't sit in seminars on Saturday morning.
+
+122
+00:07:54,820 --> 00:07:58,820
+(Laughter)
+
+123
+00:07:58,820 --> 00:08:00,820
+They don't spend time alone.
+
+124
+00:08:00,820 --> 00:08:02,820
+Each of them is in a romantic relationship
+
+125
+00:08:02,820 --> 00:08:05,820
+and each has a rich repertoire of friends.
+
+126
+00:08:05,820 --> 00:08:10,820
+But watch out here. This is merely correlational data, not causal,
+
+127
+00:08:10,820 --> 00:08:15,820
+and it's about happiness in the first Hollywood sense I'm going to talk about:
+
+128
+00:08:15,820 --> 00:08:19,820
+happiness of ebullience and giggling and good cheer.
+
+129
+00:08:19,820 --> 00:08:23,820
+And I'm going to suggest to you that's not nearly enough, in just a moment.
+
+130
+00:08:23,820 --> 00:08:28,820
+We found we could begin to look at interventions over the centuries,
+
+131
+00:08:28,820 --> 00:08:30,820
+from the Buddha to Tony Robbins.
+
+132
+00:08:30,820 --> 00:08:33,820
+About 120 interventions have been proposed
+
+133
+00:08:33,820 --> 00:08:36,820
+that allegedly make people happy.
+
+134
+00:08:36,820 --> 00:08:41,820
+And we find that we've been able to manualize many of them,
+
+135
+00:08:41,820 --> 00:08:44,820
+and we actually carry out random assignment
+
+136
+00:08:44,820 --> 00:08:46,820
+efficacy and effectiveness studies.
+
+137
+00:08:46,820 --> 00:08:50,820
+That is, which ones actually make people lastingly happier?
+
+138
+00:08:50,820 --> 00:08:53,820
+In a couple of minutes, I'll tell you about some of those results.
+
+139
+00:08:53,820 --> 00:09:00,820
+But the upshot of this is that the mission I want psychology to have,
+
+140
+00:09:00,820 --> 00:09:04,820
+in addition to its mission of curing the mentally ill,
+
+141
+00:09:04,820 --> 00:09:08,820
+and in addition to its mission of making miserable people less miserable,
+
+142
+00:09:08,820 --> 00:09:12,820
+is can psychology actually make people happier?
+
+143
+00:09:12,820 --> 00:09:16,820
+And to ask that question -- happy is not a word I use very much --
+
+144
+00:09:16,820 --> 00:09:20,820
+we've had to break it down into what I think is askable about happy.
+
+145
+00:09:20,820 --> 00:09:23,820
+And I believe there are three different --
+
+146
+00:09:23,820 --> 00:09:27,820
+and I call them different because different interventions build them,
+
+147
+00:09:27,820 --> 00:09:30,820
+it's possible to have one rather than the other --
+
+148
+00:09:30,820 --> 00:09:32,820
+three different happy lives.
+
+149
+00:09:32,820 --> 00:09:35,820
+The first happy life is the pleasant life.
+
+150
+00:09:35,820 --> 00:09:40,820
+This is a life in which you have as much positive emotion as you possibly can,
+
+151
+00:09:40,820 --> 00:09:42,820
+and the skills to amplify it.
+
+152
+00:09:42,820 --> 00:09:44,820
+The second is a life of engagement --
+
+153
+00:09:44,820 --> 00:09:51,820
+a life in your work, your parenting, your love, your leisure, time stops for you.
+
+154
+00:09:52,820 --> 00:09:54,820
+That's what Aristotle was talking about.
+
+155
+00:09:54,820 --> 00:09:56,820
+And third, the meaningful life.
+
+156
+00:09:56,820 --> 00:09:59,820
+So I want to say a little bit about each of those lives
+
+157
+00:09:59,820 --> 00:10:01,820
+and what we know about them.
+
+158
+00:10:01,820 --> 00:10:06,820
+The first life is the pleasant life and it's simply, as best we can find it,
+
+159
+00:10:06,820 --> 00:10:08,820
+it's having as many of the pleasures as you can,
+
+160
+00:10:08,820 --> 00:10:11,820
+as much positive emotion as you can,
+
+161
+00:10:11,820 --> 00:10:17,820
+and learning the skills -- savoring, mindfulness -- that amplify them,
+
+162
+00:10:17,820 --> 00:10:20,820
+that stretch them over time and space.
+
+163
+00:10:20,820 --> 00:10:24,820
+But the pleasant life has three drawbacks,
+
+164
+00:10:24,820 --> 00:10:30,820
+and it's why positive psychology is not happy-ology and why it doesn't end here.
+
+165
+00:10:30,820 --> 00:10:33,820
+The first drawback is that it turns out the pleasant life,
+
+166
+00:10:33,820 --> 00:10:38,820
+your experience of positive emotion, is heritable,
+
+167
+00:10:38,820 --> 00:10:44,820
+about 50 percent heritable, and, in fact, not very modifiable.
+
+168
+00:10:44,820 --> 00:10:48,820
+So the different tricks that Matthieu [Ricard] and I and others know
+
+169
+00:10:48,820 --> 00:10:52,820
+about increasing the amount of positive emotion in your life
+
+170
+00:10:52,820 --> 00:10:56,820
+are 15 to 20 percent tricks, getting more of it.
+
+171
+00:10:56,820 --> 00:11:04,820
+Second is that positive emotion habituates. It habituates rapidly, indeed.
+
+172
+00:11:04,820 --> 00:11:09,820
+It's all like French vanilla ice cream, the first taste is a 100 percent;
+
+173
+00:11:09,820 --> 00:11:13,820
+by the time you're down to the sixth taste, it's gone.
+
+174
+00:11:14,820 --> 00:11:18,820
+And, as I said, it's not particularly malleable.
+
+175
+00:11:18,820 --> 00:11:21,820
+And this leads to the second life.
+
+176
+00:11:21,820 --> 00:11:23,820
+And I have to tell you about my friend, Len,
+
+177
+00:11:23,820 --> 00:11:29,820
+to talk about why positive psychology is more than positive emotion,
+
+178
+00:11:29,820 --> 00:11:31,820
+more than building pleasure.
+
+179
+00:11:31,820 --> 00:11:35,820
+In two of the three great arenas of life, by the time Len was 30,
+
+180
+00:11:35,820 --> 00:11:41,820
+Len was enormously successful. The first arena was work.
+
+181
+00:11:41,820 --> 00:11:43,820
+By the time he was 20, he was an options trader.
+
+182
+00:11:43,820 --> 00:11:46,820
+By the time he was 25, he was a multimillionaire
+
+183
+00:11:46,820 --> 00:11:49,820
+and the head of an options trading company.
+
+184
+00:11:49,820 --> 00:11:54,820
+Second, in play -- he's a national champion bridge player.
+
+185
+00:11:55,820 --> 00:12:01,820
+But in the third great arena of life, love, Len is an abysmal failure.
+
+186
+00:12:01,820 --> 00:12:07,820
+And the reason he was, was that Len is a cold fish.
+
+187
+00:12:07,820 --> 00:12:08,820
+(Laughter)
+
+188
+00:12:09,820 --> 00:12:12,820
+Len is an introvert.
+
+189
+00:12:13,820 --> 00:12:17,820
+American women said to Len, when he dated them,
+
+190
+00:12:17,820 --> 00:12:21,820
+"You're no fun. You don't have positive emotion. Get lost."
+
+191
+00:12:21,820 --> 00:12:27,820
+And Len was wealthy enough to be able to afford a Park Avenue psychoanalyst,
+
+192
+00:12:27,820 --> 00:12:31,820
+who for five years tried to find the sexual trauma
+
+193
+00:12:31,820 --> 00:12:34,820
+that had somehow locked positive emotion inside of him.
+
+194
+00:12:34,820 --> 00:12:38,820
+But it turned out there wasn't any sexual trauma.
+
+195
+00:12:38,820 --> 00:12:42,820
+It turned out that -- Len grew up in Long Island
+
+196
+00:12:42,820 --> 00:12:48,820
+and he played football and watched football, and played bridge --
+
+197
+00:12:48,820 --> 00:12:53,820
+Len is in the bottom five percent of what we call positive affectivities.
+
+198
+00:12:53,820 --> 00:12:57,820
+The question is, is Len unhappy? And I want to say not.
+
+199
+00:12:57,820 --> 00:13:01,820
+Contrary to what psychology told us about the bottom 50 percent
+
+200
+00:13:01,820 --> 00:13:04,820
+of the human race in positive affectivity,
+
+201
+00:13:04,820 --> 00:13:07,820
+I think Len is one of the happiest people I know.
+
+202
+00:13:07,820 --> 00:13:10,820
+He's not consigned to the hell of unhappiness
+
+203
+00:13:10,820 --> 00:13:16,820
+and that's because Len, like most of you, is enormously capable of flow.
+
+204
+00:13:16,820 --> 00:13:21,820
+When he walks onto the floor of the American Exchange at 9:30 in the morning,
+
+205
+00:13:21,820 --> 00:13:24,820
+time stops for him. And it stops till the closing bell.
+
+206
+00:13:24,820 --> 00:13:26,820
+When the first card is played,
+
+207
+00:13:26,820 --> 00:13:30,820
+until 10 days later, the tournament is over, time stops for Len.
+
+208
+00:13:30,820 --> 00:13:34,820
+And this is indeed what Mike Csikszentmihalyi has been talking about,
+
+209
+00:13:34,820 --> 00:13:39,820
+about flow. And it's distinct from pleasure in a very important way.
+
+210
+00:13:39,820 --> 00:13:44,820
+Pleasure has raw feels: you know it's happening. It's thought and feeling.
+
+211
+00:13:44,820 --> 00:13:52,820
+But what Mike told you yesterday -- during flow, you can't feel anything.
+
+212
+00:13:53,820 --> 00:13:57,820
+You're one with the music. Time stops.
+
+213
+00:13:57,820 --> 00:13:59,820
+You have intense concentration.
+
+214
+00:13:59,820 --> 00:14:04,820
+And this is indeed the characteristic of what we think of as the good life.
+
+215
+00:14:04,820 --> 00:14:07,820
+And we think there's a recipe for it,
+
+216
+00:14:07,820 --> 00:14:09,820
+and it's knowing what your highest strengths are.
+
+217
+00:14:09,820 --> 00:14:11,820
+And again, there's a valid test
+
+218
+00:14:11,820 --> 00:14:14,820
+of what your five highest strengths are.
+
+219
+00:14:14,820 --> 00:14:20,820
+And then re-crafting your life to use them as much as you possibly can.
+
+220
+00:14:20,820 --> 00:14:23,820
+Re-crafting your work, your love,
+
+221
+00:14:23,820 --> 00:14:26,820
+your play, your friendship, your parenting.
+
+222
+00:14:26,820 --> 00:14:31,820
+Just one example. One person I worked with was a bagger at Genuardi's.
+
+223
+00:14:31,820 --> 00:14:33,820
+Hated the job.
+
+224
+00:14:33,820 --> 00:14:35,820
+She's working her way through college.
+
+225
+00:14:36,820 --> 00:14:39,820
+Her highest strength was social intelligence,
+
+226
+00:14:39,820 --> 00:14:44,820
+so she re-crafted bagging to make the encounter with her
+
+227
+00:14:44,820 --> 00:14:46,820
+the social highlight of every customer's day.
+
+228
+00:14:46,820 --> 00:14:49,820
+Now obviously she failed.
+
+229
+00:14:49,820 --> 00:14:52,820
+But what she did was to take her highest strengths,
+
+230
+00:14:52,820 --> 00:14:56,820
+and re-craft work to use them as much as possible.
+
+231
+00:14:56,820 --> 00:14:58,820
+What you get out of that is not smiley-ness.
+
+232
+00:14:58,820 --> 00:15:00,820
+You don't look like Debbie Reynolds.
+
+233
+00:15:00,820 --> 00:15:05,820
+You don't giggle a lot. What you get is more absorption.
+
+234
+00:15:05,820 --> 00:15:09,820
+So, that's the second path. The first path, positive emotion.
+
+235
+00:15:09,820 --> 00:15:13,820
+The second path is eudaimonian flow.
+
+236
+00:15:13,820 --> 00:15:15,820
+And the third path is meaning.
+
+237
+00:15:15,820 --> 00:15:19,820
+This is the most venerable of the happinesses, traditionally.
+
+238
+00:15:19,820 --> 00:15:25,820
+And meaning, in this view, consists of -- very parallel to eudaimonia --
+
+239
+00:15:25,820 --> 00:15:31,820
+it consists of knowing what your highest strengths are, and using them
+
+240
+00:15:31,820 --> 00:15:37,820
+to belong to and in the service of something larger than you are.
+
+241
+00:15:38,820 --> 00:15:43,820
+I mentioned that for all three kinds of lives, the pleasant life,
+
+242
+00:15:43,820 --> 00:15:48,820
+the good life, the meaningful life, people are now hard at work on the question,
+
+243
+00:15:48,820 --> 00:15:52,820
+are there things that lastingly change those lives?
+
+244
+00:15:52,820 --> 00:15:58,820
+And the answer seems to be yes. And I'll just give you some samples of it.
+
+245
+00:15:58,820 --> 00:16:00,820
+It's being done in a rigorous manner.
+
+246
+00:16:00,820 --> 00:16:05,820
+It's being done in the same way that we test drugs to see what really works.
+
+247
+00:16:05,820 --> 00:16:10,820
+So we do random assignment, placebo controlled,
+
+248
+00:16:10,820 --> 00:16:13,820
+long-term studies of different interventions.
+
+249
+00:16:13,820 --> 00:16:17,820
+And just to sample the kind of interventions that we find have an effect,
+
+250
+00:16:17,820 --> 00:16:21,820
+when we teach people about the pleasant life,
+
+251
+00:16:21,820 --> 00:16:23,820
+how to have more pleasure in your life,
+
+252
+00:16:23,820 --> 00:16:29,820
+one of your assignments is to take the mindfulness skills, the savoring skills,
+
+253
+00:16:29,820 --> 00:16:33,820
+and you're assigned to design a beautiful day.
+
+254
+00:16:33,820 --> 00:16:38,820
+Next Saturday, set a day aside, design yourself a beautiful day,
+
+255
+00:16:38,820 --> 00:16:42,820
+and use savoring and mindfulness to enhance those pleasures.
+
+256
+00:16:42,820 --> 00:16:48,820
+And we can show in that way that the pleasant life is enhanced.
+
+257
+00:16:49,820 --> 00:16:55,820
+Gratitude visit. I want you all to do this with me now, if you would.
+
+258
+00:16:55,820 --> 00:16:57,820
+Close your eyes.
+
+259
+00:16:57,820 --> 00:17:05,820
+I'd like you to remember someone who did something enormously important
+
+260
+00:17:05,820 --> 00:17:09,820
+that changed your life in a good direction,
+
+261
+00:17:09,820 --> 00:17:12,820
+and who you never properly thanked.
+
+262
+00:17:12,820 --> 00:17:15,820
+The person has to be alive. OK.
+
+263
+00:17:15,820 --> 00:17:17,820
+Now, OK, you can open your eyes.
+
+264
+00:17:17,820 --> 00:17:19,820
+I hope all of you have such a person.
+
+265
+00:17:19,820 --> 00:17:23,820
+Your assignment, when you're learning the gratitude visit,
+
+266
+00:17:23,820 --> 00:17:27,820
+is to write a 300-word testimonial to that person,
+
+267
+00:17:27,820 --> 00:17:30,820
+call them on the phone in Phoenix,
+
+268
+00:17:30,820 --> 00:17:35,820
+ask if you can visit, don't tell them why, show up at their door,
+
+269
+00:17:35,820 --> 00:17:41,820
+you read the testimonial -- everyone weeps when this happens.
+
+270
+00:17:41,820 --> 00:17:45,820
+And what happens is when we test people one week later, a month later,
+
+271
+00:17:45,820 --> 00:17:50,820
+three months later, they're both happier and less depressed.
+
+272
+00:17:51,820 --> 00:17:55,820
+Another example is a strength date, in which we get couples
+
+273
+00:17:55,820 --> 00:17:58,820
+to identify their highest strengths on the strengths test,
+
+274
+00:17:58,820 --> 00:18:04,820
+and then to design an evening in which they both use their strengths,
+
+275
+00:18:04,820 --> 00:18:07,820
+and we find this is a strengthener of relationships.
+
+276
+00:18:07,820 --> 00:18:09,820
+And fun versus philanthropy.
+
+277
+00:18:09,820 --> 00:18:12,820
+But it's so heartening to be in a group like this,
+
+278
+00:18:12,820 --> 00:18:16,820
+in which so many of you have turned your lives to philanthropy.
+
+279
+00:18:16,820 --> 00:18:19,820
+Well, my undergraduates and the people I work with haven't discovered this,
+
+280
+00:18:19,820 --> 00:18:23,820
+so we actually have people do something altruistic
+
+281
+00:18:23,820 --> 00:18:26,820
+and do something fun, and to contrast it.
+
+282
+00:18:26,820 --> 00:18:29,820
+And what you find is when you do something fun,
+
+283
+00:18:29,820 --> 00:18:31,820
+it has a square wave walk set.
+
+284
+00:18:31,820 --> 00:18:37,820
+When you do something philanthropic to help another person, it lasts and it lasts.
+
+285
+00:18:37,820 --> 00:18:41,820
+So those are examples of positive interventions.
+
+286
+00:18:41,820 --> 00:18:46,820
+So, the next to last thing I want to say is
+
+287
+00:18:46,820 --> 00:18:49,820
+we're interested in how much life satisfaction people have.
+
+288
+00:18:49,820 --> 00:18:53,820
+And this is really what you're about. And that's our target variable.
+
+289
+00:18:53,820 --> 00:18:57,820
+And we ask the question as a function of the three different lives,
+
+290
+00:18:57,820 --> 00:18:59,820
+how much life satisfaction do you get?
+
+291
+00:18:59,820 --> 00:19:05,820
+So we ask -- and we've done this in 15 replications involving thousands of people --
+
+292
+00:19:05,820 --> 00:19:07,820
+to what extent does the pursuit of pleasure,
+
+293
+00:19:07,820 --> 00:19:11,820
+the pursuit of positive emotion, the pleasant life,
+
+294
+00:19:11,820 --> 00:19:14,820
+the pursuit of engagement, time stopping for you,
+
+295
+00:19:14,820 --> 00:19:18,820
+and the pursuit of meaning contribute to life satisfaction?
+
+296
+00:19:18,820 --> 00:19:22,820
+And our results surprised us, but they were backward of what we thought.
+
+297
+00:19:22,820 --> 00:19:27,820
+It turns out the pursuit of pleasure has almost no contribution to life satisfaction.
+
+298
+00:19:27,820 --> 00:19:30,820
+The pursuit of meaning is the strongest.
+
+299
+00:19:30,820 --> 00:19:34,820
+The pursuit of engagement is also very strong.
+
+300
+00:19:34,820 --> 00:19:38,820
+Where pleasure matters is if you have both engagement
+
+301
+00:19:38,820 --> 00:19:42,820
+and you have meaning, then pleasure's the whipped cream and the cherry.
+
+302
+00:19:42,820 --> 00:19:50,820
+Which is to say, the full life -- the sum is greater than the parts, if you've got all three.
+
+303
+00:19:50,820 --> 00:19:53,820
+Conversely, if you have none of the three,
+
+304
+00:19:53,820 --> 00:19:55,820
+the empty life, the sum is less than the parts.
+
+305
+00:19:55,820 --> 00:19:57,820
+And what we're asking now is
+
+306
+00:19:57,820 --> 00:20:01,820
+does the very same relationship, physical health, morbidity,
+
+307
+00:20:01,820 --> 00:20:06,820
+how long you live and productivity, follow the same relationship?
+
+308
+00:20:06,820 --> 00:20:08,820
+That is, in a corporation,
+
+309
+00:20:08,820 --> 00:20:14,820
+is productivity a function of positive emotion, engagement and meaning?
+
+310
+00:20:15,820 --> 00:20:18,820
+Is health a function of positive engagement,
+
+311
+00:20:18,820 --> 00:20:20,820
+of pleasure, and of meaning in life?
+
+312
+00:20:20,820 --> 00:20:25,820
+And there is reason to think the answer to both of those may well be yes.
+
+313
+00:20:27,820 --> 00:20:34,820
+So, Chris said that the last speaker had a chance to try to integrate what he heard,
+
+314
+00:20:34,820 --> 00:20:39,820
+and so this was amazing for me. I've never been in a gathering like this.
+
+315
+00:20:40,820 --> 00:20:43,820
+I've never seen speakers stretch beyond themselves so much,
+
+316
+00:20:43,820 --> 00:20:46,820
+which was one of the remarkable things.
+
+317
+00:20:46,820 --> 00:20:50,820
+But I found that the problems of psychology seemed to be parallel
+
+318
+00:20:50,820 --> 00:20:55,820
+to the problems of technology, entertainment and design in the following way.
+
+319
+00:20:55,820 --> 00:20:59,820
+We all know that technology, entertainment and design
+
+320
+00:20:59,820 --> 00:21:05,820
+have been and can be used for destructive purposes.
+
+321
+00:21:05,820 --> 00:21:09,820
+We also know that technology, entertainment and design
+
+322
+00:21:09,820 --> 00:21:12,820
+can be used to relieve misery.
+
+323
+00:21:12,820 --> 00:21:16,820
+And by the way, the distinction between relieving misery
+
+324
+00:21:16,820 --> 00:21:19,820
+and building happiness is extremely important.
+
+325
+00:21:19,820 --> 00:21:22,820
+I thought, when I first became a therapist 30 years ago,
+
+326
+00:21:22,820 --> 00:21:28,820
+that if I was good enough to make someone not depressed,
+
+327
+00:21:28,820 --> 00:21:34,820
+not anxious, not angry, that I'd make them happy.
+
+328
+00:21:34,820 --> 00:21:39,820
+And I never found that. I found the best you could ever do was to get to zero.
+
+329
+00:21:39,820 --> 00:21:41,820
+But they were empty.
+
+330
+00:21:41,820 --> 00:21:46,820
+And it turns out the skills of happiness, the skills of the pleasant life,
+
+331
+00:21:46,820 --> 00:21:49,820
+the skills of engagement, the skills of meaning,
+
+332
+00:21:49,820 --> 00:21:53,820
+are different from the skills of relieving misery.
+
+333
+00:21:53,820 --> 00:21:56,820
+And so, the parallel thing holds
+
+334
+00:21:56,820 --> 00:22:00,820
+with technology, entertainment and design, I believe.
+
+335
+00:22:00,820 --> 00:22:07,820
+That is, it is possible for these three drivers of our world
+
+336
+00:22:07,820 --> 00:22:13,820
+to increase happiness, to increase positive emotion,
+
+337
+00:22:13,820 --> 00:22:15,820
+and that's typically how they've been used.
+
+338
+00:22:15,820 --> 00:22:18,820
+But once you fractionate happiness the way I do --
+
+339
+00:22:18,820 --> 00:22:21,820
+not just positive emotion, that's not nearly enough --
+
+340
+00:22:21,820 --> 00:22:24,820
+there's flow in life, and there's meaning in life.
+
+341
+00:22:24,820 --> 00:22:26,820
+As Laura Lee told us,
+
+342
+00:22:26,820 --> 00:22:30,820
+design, and, I believe, entertainment and technology,
+
+343
+00:22:30,820 --> 00:22:34,820
+can be used to increase meaning engagement in life as well.
+
+344
+00:22:34,820 --> 00:22:38,820
+So in conclusion, the eleventh reason for optimism,
+
+345
+00:22:38,820 --> 00:22:42,820
+in addition to the space elevator,
+
+346
+00:22:42,820 --> 00:22:47,820
+is that I think with technology, entertainment and design,
+
+347
+00:22:47,820 --> 00:22:51,820
+we can actually increase the amount of tonnage
+
+348
+00:22:51,820 --> 00:22:53,820
+of human happiness on the planet.
+
+349
+00:22:53,820 --> 00:22:59,820
+And if technology can, in the next decade or two, increase the pleasant life,
+
+350
+00:22:59,820 --> 00:23:03,820
+the good life and the meaningful life, it will be good enough.
+
+351
+00:23:03,820 --> 00:23:09,820
+If entertainment can be diverted to also increase positive emotion,
+
+352
+00:23:09,820 --> 00:23:13,820
+meaning, eudaimonia, it will be good enough.
+
+353
+00:23:13,820 --> 00:23:19,820
+And if design can increase positive emotion,
+
+354
+00:23:19,820 --> 00:23:22,820
+eudaimonia, and flow and meaning,
+
+355
+00:23:22,820 --> 00:23:27,820
+what we're all doing together will become good enough. Thank you.
+
+356
+00:23:27,820 --> 00:23:35,820
+(Applause)
+

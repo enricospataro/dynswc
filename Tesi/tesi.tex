@@ -23,36 +23,46 @@
 \addtolength{\textheight}{75pt} %Margini
 \oddsidemargin 30pt
 
+\usepackage[latin1]{inputenc}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{url}
+\usepackage{subfigure}
+\usepackage{cite}
+\usepackage{multirow}
 
 \begin{document} %Inizio Documento
 
 %%FRONTESPIZIO%%=========================================
 \begin{titlepage}
  \begin{center}
-     \includegraphics[width=6cm]{img/logo.png}\\ %Logo dell'Università, cambiare il percorso, se necessario
+     \includegraphics[width=6cm]{img/logo.png}\\ %Logo dell'Universit√ , cambiare il percorso, se necessario
      \vspace{1em}
-     {\Large \textsc{Universit\`a degli studi di Perugia}}\\
+     {\Large \textsc{Universit‡  degli studi di Perugia}}\\
      \vspace{1em}
-     {\Large \textsc{Facolt\`a di Ingegneria}}\\
+     {\Large \textsc{Facolt‡  di Ingegneria}}\\
      \vspace{2em}
      {\normalsize Tesi di Laurea in}\\
      \vspace{1em}
-     {\Large \textsc{CORSO DI STUDI}}\\
+     {\Large \textsc{Ingegneria Informatica e dell'Automazione}}\\
      \vspace{8em}
-     {\LARGE \textbf{TITOLO TESI}}\\
+     {\LARGE \textbf{Generazione automatica di Word Cloud dinamiche}}\\
  \end{center}
  
  \vskip 2.5cm
   \begin{center}
     \begin{tabular}{c c c c c c c c}
       Relatore & & & & & & & Candidato \\[0.2cm]
-      \Large{\textit{NOME RELATORE}} & & & & & & & \Large{\textit{NOME CANDIDATO}}\\[0.4cm]
+      \Large{\textit{Prof. Carla Binucci}} & & & & & & & \Large{\textit{Enrico Spataro}}\\[0.4cm]
+      Co-relatore & & & & & & & \\[0.2cm]
+\Large{\textit{Prof. Walter Didimo}}  
     \end{tabular}
   \end{center}
 
 \vskip 2.5cm
 \begin{center}
-{\normalsize Anno Accademico XXXX/XXXX}
+{\normalsize Anno Accademico 2014/2015}
 \end{center}
 \end{titlepage}
 
@@ -87,10 +97,11 @@
 %%CAPITOLI===============================================
 \input{cap1_introduzione} %nome del file LaTeX del capitolo
 %...
-
+\input{cap2}
+\input{wordcloud_gen}
 %%APPENDICI==============================================
-\appendix
-\input{appendiceA}
+% \appendix
+% \input{appendiceA}
 %...
 
 %%BIBLIOGRAFIA============================================

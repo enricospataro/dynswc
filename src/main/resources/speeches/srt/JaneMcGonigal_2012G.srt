@@ -1,0 +1,1877 @@
+﻿1
+00:00:13,113 --> 00:00:16,922
+I'm a gamer, so I like to have goals.
+
+2
+00:00:16,946 --> 00:00:21,126
+I like special missions
+and secret objectives.
+
+3
+00:00:21,150 --> 00:00:24,817
+So here's my special mission
+for this talk:
+
+4
+00:00:24,841 --> 00:00:29,591
+I'm going to try to increase the life span
+of every single person in this room
+
+5
+00:00:29,615 --> 00:00:31,778
+by seven and a half minutes.
+
+6
+00:00:32,214 --> 00:00:34,922
+Literally, you will live seven
+and a half minutes longer
+
+7
+00:00:34,946 --> 00:00:36,397
+than you would have otherwise,
+
+8
+00:00:36,421 --> 00:00:38,127
+just because you watched this talk.
+
+9
+00:00:39,374 --> 00:00:41,570
+Some of you are looking
+a little bit skeptical.
+
+10
+00:00:41,594 --> 00:00:43,310
+That's okay, because check it out --
+
+11
+00:00:43,334 --> 00:00:46,087
+I have math to prove that it is possible.
+
+12
+00:00:46,111 --> 00:00:47,584
+It won't make much sense now.
+
+13
+00:00:47,608 --> 00:00:48,920
+I'll explain it all later,
+
+14
+00:00:48,944 --> 00:00:51,183
+just pay attention
+to the number at the bottom:
+
+15
+00:00:51,207 --> 00:00:54,483
++7.68245837 minutes.
+
+16
+00:00:54,507 --> 00:00:58,002
+That will be my gift to you
+if I'm successful in my mission.
+
+17
+00:00:58,026 --> 00:01:01,195
+Now, you have a secret mission too.
+
+18
+00:01:01,219 --> 00:01:04,730
+Your mission is to figure out
+how you want to spend
+
+19
+00:01:04,754 --> 00:01:06,794
+your extra seven and a half minutes.
+
+20
+00:01:06,818 --> 00:01:09,366
+And I think you should do
+something unusual with them,
+
+21
+00:01:09,390 --> 00:01:10,920
+because these are bonus minutes.
+
+22
+00:01:10,944 --> 00:01:12,912
+You weren't going to have them anyway.
+
+23
+00:01:12,936 --> 00:01:16,936
+Now, because I'm a game designer,
+you might be thinking to yourself,
+
+24
+00:01:16,960 --> 00:01:19,381
+I know what she wants us to do
+with those minutes,
+
+25
+00:01:19,405 --> 00:01:21,532
+she wants us to spend them playing games.
+
+26
+00:01:21,556 --> 00:01:24,018
+Now this is a totally
+reasonable assumption,
+
+27
+00:01:24,042 --> 00:01:26,804
+given that I have made quite
+a habit of encouraging people
+
+28
+00:01:26,828 --> 00:01:28,450
+to spend more time playing games.
+
+29
+00:01:28,474 --> 00:01:30,730
+For example, in my first TED Talk,
+
+30
+00:01:30,754 --> 00:01:34,921
+I did propose that we should spend
+21 billion hours a week,
+
+31
+00:01:34,945 --> 00:01:37,042
+as a planet, playing video games.
+
+32
+00:01:37,066 --> 00:01:40,429
+Now, 21 billion hours, it's a lot of time.
+
+33
+00:01:40,453 --> 00:01:44,763
+It's so much time, in fact,
+that the number one unsolicited comment
+
+34
+00:01:44,787 --> 00:01:47,065
+that I have heard from people
+all over the world
+
+35
+00:01:47,089 --> 00:01:48,946
+since I gave that talk, is this:
+
+36
+00:01:49,758 --> 00:01:53,256
+Jane, games are great and all,
+but on your deathbed,
+
+37
+00:01:53,280 --> 00:01:56,777
+are you really going to wish you spent
+more time playing Angry Birds?
+
+38
+00:01:56,801 --> 00:01:57,801
+(Laughter)
+
+39
+00:01:57,825 --> 00:01:59,950
+This idea is so pervasive --
+
+40
+00:01:59,974 --> 00:02:02,868
+that games are a waste of time
+that we will come to regret --
+
+41
+00:02:02,892 --> 00:02:05,041
+that I hear it literally everywhere I go.
+
+42
+00:02:05,065 --> 00:02:06,960
+For example, true story:
+
+43
+00:02:06,984 --> 00:02:08,324
+Just a few weeks ago,
+
+44
+00:02:08,348 --> 00:02:11,674
+this cab driver, upon finding out
+that a friend and I were in town
+
+45
+00:02:11,698 --> 00:02:13,587
+for a game developers' conference,
+
+46
+00:02:13,611 --> 00:02:16,682
+turned around and said -- and I quote --
+
+47
+00:02:16,706 --> 00:02:19,272
+"I hate games. Waste of life.
+
+48
+00:02:19,296 --> 00:02:23,900
+Imagine getting to the end of your life
+and regretting all that time."
+
+49
+00:02:24,554 --> 00:02:27,149
+Now, I want to take
+this problem seriously.
+
+50
+00:02:27,173 --> 00:02:29,704
+I want games to be
+a force for good in the world.
+
+51
+00:02:29,728 --> 00:02:32,504
+I don't want gamers to regret
+the time they spent playing,
+
+52
+00:02:32,528 --> 00:02:34,630
+time that I encouraged them to spend.
+
+53
+00:02:34,654 --> 00:02:37,713
+So I have been thinking about this
+question a lot lately.
+
+54
+00:02:38,288 --> 00:02:40,076
+When we're on our deathbeds,
+
+55
+00:02:40,100 --> 00:02:42,977
+will we regret the time
+we spent playing games?
+
+56
+00:02:43,719 --> 00:02:46,210
+Now, this may surprise you,
+but it turns out
+
+57
+00:02:46,234 --> 00:02:49,378
+there is actually some scientific research
+on this question.
+
+58
+00:02:49,402 --> 00:02:50,651
+It's true.
+
+59
+00:02:50,675 --> 00:02:52,266
+Hospice workers,
+
+60
+00:02:52,290 --> 00:02:55,201
+the people who take care of us
+at the end of our lives,
+
+61
+00:02:55,225 --> 00:03:00,002
+recently issued a report
+on the most frequently expressed regrets
+
+62
+00:03:00,026 --> 00:03:03,735
+that people say when they are
+literally on their deathbeds.
+
+63
+00:03:04,227 --> 00:03:06,521
+And that's what I want
+to share with you today --
+
+64
+00:03:06,545 --> 00:03:09,688
+the top five regrets of the dying.
+
+65
+00:03:10,630 --> 00:03:11,672
+Number one:
+
+66
+00:03:12,720 --> 00:03:15,426
+I wish I hadn't worked so hard.
+
+67
+00:03:17,618 --> 00:03:18,676
+Number two:
+
+68
+00:03:19,278 --> 00:03:22,087
+I wish I had stayed
+in touch with my friends.
+
+69
+00:03:23,166 --> 00:03:24,297
+Number three:
+
+70
+00:03:24,321 --> 00:03:26,788
+I wish I had let myself be happier.
+
+71
+00:03:29,542 --> 00:03:30,729
+Number four:
+
+72
+00:03:30,753 --> 00:03:33,940
+I wish I'd had the courage
+to express my true self.
+
+73
+00:03:35,644 --> 00:03:37,089
+And number five:
+
+74
+00:03:37,113 --> 00:03:39,797
+I wish I'd lived a life true to my dreams,
+
+75
+00:03:39,821 --> 00:03:41,826
+instead of what others expected of me.
+
+76
+00:03:43,925 --> 00:03:47,407
+Now, as far as I know, no one ever
+told one of the hospice workers,
+
+77
+00:03:47,431 --> 00:03:50,502
+"I wish I'd spent more
+time playing video games,"
+
+78
+00:03:50,526 --> 00:03:53,106
+but when I hear these top five
+regrets of the dying,
+
+79
+00:03:53,130 --> 00:03:55,922
+I can't help but hear
+five deep human cravings
+
+80
+00:03:55,946 --> 00:03:57,946
+that games actually help us fulfill.
+
+81
+00:03:57,970 --> 00:04:00,641
+For example, I wish
+I hadn't worked so hard.
+
+82
+00:04:00,665 --> 00:04:03,372
+For many people, this means,
+I wish I'd spent more time
+
+83
+00:04:03,396 --> 00:04:06,085
+with my family, with my kids
+when they were growing up.
+
+84
+00:04:06,109 --> 00:04:10,258
+Well, we know that playing games together
+has tremendous family benefits.
+
+85
+00:04:10,282 --> 00:04:13,680
+A recent study from Brigham
+Young University School of Family Life
+
+86
+00:04:13,704 --> 00:04:17,927
+reported that parents who spend more time
+playing video games with their kids
+
+87
+00:04:17,951 --> 00:04:21,010
+have much stronger
+real-life relationships with them.
+
+88
+00:04:22,630 --> 00:04:25,222
+"I wish I'd stayed in touch
+with my friends."
+
+89
+00:04:25,246 --> 00:04:26,690
+Hundreds of millions of people
+
+90
+00:04:26,714 --> 00:04:29,852
+use social games like FarmVille
+or Words With Friends
+
+91
+00:04:29,876 --> 00:04:33,181
+to stay in daily contact
+with real-life friends and family.
+
+92
+00:04:33,205 --> 00:04:36,673
+A recent study from
+the University of Michigan
+
+93
+00:04:36,697 --> 00:04:42,957
+showed that these games are incredibly
+powerful relationship-management tools.
+
+94
+00:04:43,418 --> 00:04:47,229
+They help us stay connected
+with people in our social network
+
+95
+00:04:47,253 --> 00:04:49,349
+that we would otherwise grow distant from,
+
+96
+00:04:49,373 --> 00:04:51,174
+if we weren't playing games together.
+
+97
+00:04:51,673 --> 00:04:53,466
+"I wish I'd let myself be happier."
+
+98
+00:04:53,490 --> 00:04:56,871
+Well, here I can't help but think
+of the groundbreaking clinical trials
+
+99
+00:04:56,895 --> 00:04:59,799
+recently conducted
+at East Carolina University
+
+100
+00:04:59,823 --> 00:05:02,674
+that showed that online games
+can outperform
+
+101
+00:05:02,698 --> 00:05:06,416
+pharmaceuticals for treating
+clinical anxiety and depression.
+
+102
+00:05:06,955 --> 00:05:09,947
+Just 30 minutes of online game play a day
+
+103
+00:05:09,971 --> 00:05:12,944
+was enough to create
+dramatic boosts in mood
+
+104
+00:05:12,968 --> 00:05:15,529
+and long-term increases in happiness.
+
+105
+00:05:17,365 --> 00:05:20,000
+"I wish I'd had the courage
+to express my true self."
+
+106
+00:05:20,024 --> 00:05:23,658
+Well, avatars are a way
+to express our true selves,
+
+107
+00:05:23,682 --> 00:05:27,014
+our most heroic, idealized
+version of who we might become.
+
+108
+00:05:27,038 --> 00:05:30,656
+You can see that in this alter ego
+portrait by Robbie Cooper
+
+109
+00:05:30,680 --> 00:05:32,786
+of a gamer with his avatar.
+
+110
+00:05:33,180 --> 00:05:36,650
+And Stanford University has been
+doing research for five years now
+
+111
+00:05:36,674 --> 00:05:40,827
+to document how playing a game
+with an idealized avatar
+
+112
+00:05:40,851 --> 00:05:43,621
+changes how we think and act in real life,
+
+113
+00:05:43,645 --> 00:05:46,605
+making us more courageous, more ambitious,
+
+114
+00:05:46,629 --> 00:05:48,796
+more committed to our goals.
+
+115
+00:05:50,272 --> 00:05:52,364
+"I wish I'd led a life true to my dreams,
+
+116
+00:05:52,388 --> 00:05:54,194
+and not what others expected of me."
+
+117
+00:05:54,218 --> 00:05:55,500
+Are games doing this yet?
+
+118
+00:05:55,524 --> 00:05:59,000
+I'm not sure, so I've left
+a Super Mario question mark.
+
+119
+00:05:59,024 --> 00:06:00,818
+We're going to come back to this one.
+
+120
+00:06:01,365 --> 00:06:04,881
+But in the meantime,
+perhaps you're wondering,
+
+121
+00:06:04,905 --> 00:06:07,840
+who is this game designer
+to be talking to us
+
+122
+00:06:07,864 --> 00:06:09,287
+about deathbed regrets?
+
+123
+00:06:09,676 --> 00:06:13,033
+And it's true, I've never
+worked in a hospice,
+
+124
+00:06:13,057 --> 00:06:15,186
+I've never been on my deathbed.
+
+125
+00:06:15,970 --> 00:06:21,263
+But recently I did spend
+three months in bed, wanting to die.
+
+126
+00:06:22,176 --> 00:06:23,693
+Really wanting to die.
+
+127
+00:06:24,056 --> 00:06:25,580
+Now let me tell you that story.
+
+128
+00:06:26,437 --> 00:06:29,541
+It started two years ago, when I hit
+my head and got a concussion.
+
+129
+00:06:29,565 --> 00:06:31,338
+The concussion didn't heal properly,
+
+130
+00:06:31,362 --> 00:06:35,119
+and after 30 days, I was left
+with symptoms like nonstop headaches,
+
+131
+00:06:35,143 --> 00:06:37,881
+nausea, vertigo, memory loss, mental fog.
+
+132
+00:06:38,465 --> 00:06:40,869
+My doctor told me that in order
+to heal my brain,
+
+133
+00:06:40,893 --> 00:06:41,917
+I had to rest it.
+
+134
+00:06:41,941 --> 00:06:44,574
+So I had to avoid everything
+that triggered my symptoms.
+
+135
+00:06:44,598 --> 00:06:47,469
+For me that meant no reading,
+no writing, no video games,
+
+136
+00:06:47,493 --> 00:06:50,549
+no work or email, no running,
+no alcohol, no caffeine.
+
+137
+00:06:50,573 --> 00:06:53,542
+In other words -- and I think
+you see where this is going --
+
+138
+00:06:53,566 --> 00:06:54,646
+no reason to live.
+
+139
+00:06:54,670 --> 00:06:55,671
+(Laughter)
+
+140
+00:06:55,695 --> 00:06:57,536
+Of course it's meant to be funny,
+
+141
+00:06:57,560 --> 00:07:01,454
+but in all seriousness,
+suicidal ideation is quite common
+
+142
+00:07:01,478 --> 00:07:03,123
+with traumatic brain injuries.
+
+143
+00:07:03,441 --> 00:07:06,636
+It happens to one in three,
+and it happened to me.
+
+144
+00:07:07,063 --> 00:07:11,636
+My brain started telling me,
+"Jane, you want to die."
+
+145
+00:07:12,241 --> 00:07:14,717
+It said, "You're never going
+to get better."
+
+146
+00:07:15,617 --> 00:07:18,542
+It said, "The pain will never end."
+
+147
+00:07:19,204 --> 00:07:23,362
+And these voices became
+so persistent and so persuasive
+
+148
+00:07:23,386 --> 00:07:28,495
+that I started to legitimately
+fear for my life,
+
+149
+00:07:28,519 --> 00:07:32,996
+which is the time that I said
+to myself after 34 days --
+
+150
+00:07:33,020 --> 00:07:35,083
+and I will never forget this moment --
+
+151
+00:07:35,107 --> 00:07:38,490
+I said, "I am either going to kill myself
+
+152
+00:07:38,514 --> 00:07:41,117
+or I'm going to turn this into a game."
+
+153
+00:07:41,141 --> 00:07:42,286
+Now, why a game?
+
+154
+00:07:42,310 --> 00:07:46,414
+I knew from researching the psychology
+of games for more than a decade
+
+155
+00:07:46,438 --> 00:07:48,145
+that when we play a game --
+
+156
+00:07:48,169 --> 00:07:50,200
+and this is
+in the scientific literature --
+
+157
+00:07:50,224 --> 00:07:52,993
+we tackle tough challenges
+with more creativity,
+
+158
+00:07:53,017 --> 00:07:54,694
+more determination, more optimism,
+
+159
+00:07:54,718 --> 00:07:57,266
+and we're more likely
+to reach out to others for help.
+
+160
+00:07:57,290 --> 00:08:00,309
+I wanted to bring these gamer traits
+to my real-life challenge,
+
+161
+00:08:00,333 --> 00:08:02,329
+so I created a role-playing recovery game
+
+162
+00:08:02,353 --> 00:08:04,237
+called Jane the Concussion Slayer.
+
+163
+00:08:04,261 --> 00:08:07,055
+Now this became my new secret identity,
+
+164
+00:08:07,079 --> 00:08:10,479
+and the first thing I did as a slayer
+was call my twin sister --
+
+165
+00:08:10,503 --> 00:08:12,811
+I have an identical
+twin sister named Kelly --
+
+166
+00:08:12,835 --> 00:08:16,553
+and tell her, "I'm playing
+a game to heal my brain,
+
+167
+00:08:16,577 --> 00:08:18,200
+and I want you to play with me."
+
+168
+00:08:18,649 --> 00:08:22,046
+This was an easier way to ask for help.
+
+169
+00:08:22,707 --> 00:08:24,945
+She became my first ally in the game,
+
+170
+00:08:24,969 --> 00:08:26,905
+my husband Kiyash joined next,
+
+171
+00:08:26,929 --> 00:08:30,323
+and together we identified
+and battled the bad guys.
+
+172
+00:08:30,347 --> 00:08:33,435
+Now this was anything
+that could trigger my symptoms
+
+173
+00:08:33,459 --> 00:08:35,523
+and therefore slow down
+the healing process,
+
+174
+00:08:35,547 --> 00:08:37,895
+things like bright lights
+and crowded spaces.
+
+175
+00:08:37,919 --> 00:08:40,940
+We also collected and activated power-ups.
+
+176
+00:08:40,964 --> 00:08:43,901
+This was anything I could do
+on even my worst day
+
+177
+00:08:43,925 --> 00:08:46,068
+to feel just a little bit good,
+
+178
+00:08:46,092 --> 00:08:47,996
+just a little bit productive.
+
+179
+00:08:48,020 --> 00:08:50,713
+Things like cuddling
+my dog for 10 minutes,
+
+180
+00:08:50,737 --> 00:08:54,005
+or getting out of bed and walking
+around the block just once.
+
+181
+00:08:54,029 --> 00:08:55,769
+Now the game was that simple:
+
+182
+00:08:55,793 --> 00:08:58,927
+Adopt a secret identity,
+recruit your allies,
+
+183
+00:08:58,951 --> 00:09:01,500
+battle the bad guys,
+activate the power-ups.
+
+184
+00:09:01,975 --> 00:09:03,935
+But even with a game so simple,
+
+185
+00:09:03,959 --> 00:09:06,498
+within just a couple days
+of starting to play,
+
+186
+00:09:06,522 --> 00:09:10,329
+that fog of depression
+and anxiety went away.
+
+187
+00:09:10,353 --> 00:09:12,789
+It just vanished. It felt like a miracle.
+
+188
+00:09:12,813 --> 00:09:15,301
+Now it wasn't a miracle cure
+for the headaches
+
+189
+00:09:15,325 --> 00:09:16,564
+or the cognitive symptoms.
+
+190
+00:09:16,588 --> 00:09:18,305
+That lasted for more than a year,
+
+191
+00:09:18,329 --> 00:09:20,942
+and it was the hardest year
+of my life by far.
+
+192
+00:09:21,519 --> 00:09:23,829
+But even when I still had the symptoms,
+
+193
+00:09:23,853 --> 00:09:27,510
+even while I was still in pain,
+I stopped suffering.
+
+194
+00:09:28,543 --> 00:09:30,995
+Now what happened next
+with the game surprised me.
+
+195
+00:09:31,019 --> 00:09:33,080
+I put up some blog posts
+and videos online,
+
+196
+00:09:33,104 --> 00:09:34,525
+explaining how to play.
+
+197
+00:09:34,549 --> 00:09:37,080
+But not everybody
+has a concussion, obviously,
+
+198
+00:09:37,104 --> 00:09:39,336
+not everyone wants to be "the slayer,"
+
+199
+00:09:39,360 --> 00:09:41,676
+so I renamed the game SuperBetter.
+
+200
+00:09:42,060 --> 00:09:45,266
+And soon, I started hearing
+from people all over the world
+
+201
+00:09:45,290 --> 00:09:47,576
+who were adopting
+their own secret identity,
+
+202
+00:09:47,600 --> 00:09:50,901
+recruiting their own allies,
+and they were getting "super better,"
+
+203
+00:09:50,925 --> 00:09:54,807
+facing challenges
+like cancer and chronic pain,
+
+204
+00:09:54,831 --> 00:09:57,140
+depression and Crohn's disease.
+
+205
+00:09:57,164 --> 00:10:01,521
+Even people were playing it
+for terminal diagnoses like ALS.
+
+206
+00:10:01,545 --> 00:10:05,164
+And I could tell from their messages
+and their videos
+
+207
+00:10:05,188 --> 00:10:08,751
+that the game was helping them
+in the same ways that it helped me.
+
+208
+00:10:08,775 --> 00:10:11,627
+They talked about feeling
+stronger and braver.
+
+209
+00:10:12,106 --> 00:10:16,312
+They talked about feeling better
+understood by their friends and family.
+
+210
+00:10:16,336 --> 00:10:18,879
+And they even talked
+about feeling happier,
+
+211
+00:10:18,903 --> 00:10:20,983
+even though they were in pain,
+
+212
+00:10:21,007 --> 00:10:24,374
+even though they were tackling
+the toughest challenge of their lives.
+
+213
+00:10:24,398 --> 00:10:28,259
+Now at the time, I'm thinking
+to myself, what is going on here?
+
+214
+00:10:28,283 --> 00:10:33,176
+I mean, how could a game
+so trivial intervene so powerfully
+
+215
+00:10:33,200 --> 00:10:37,127
+in such serious, and in some cases
+life-and-death, circumstances?
+
+216
+00:10:37,151 --> 00:10:38,922
+I mean, if it hadn't worked for me,
+
+217
+00:10:38,946 --> 00:10:41,453
+there's no way I would have
+believed it was possible.
+
+218
+00:10:41,477 --> 00:10:43,896
+Well, it turns out
+there's some science here, too.
+
+219
+00:10:44,961 --> 00:10:49,659
+Some people get stronger and happier
+after a traumatic event.
+
+220
+00:10:49,683 --> 00:10:51,476
+And that's what was happening to us.
+
+221
+00:10:51,500 --> 00:10:53,621
+The game was helping us experience
+
+222
+00:10:53,645 --> 00:10:56,775
+what scientists call
+post-traumatic growth,
+
+223
+00:10:56,799 --> 00:10:58,999
+which is not something
+we usually hear about.
+
+224
+00:10:59,023 --> 00:11:01,888
+We usually hear about
+post-traumatic stress disorder.
+
+225
+00:11:01,912 --> 00:11:04,504
+But scientists now know
+that a traumatic event
+
+226
+00:11:04,528 --> 00:11:07,394
+doesn't doom us to suffer indefinitely.
+
+227
+00:11:07,418 --> 00:11:09,758
+Instead, we can use it as a springboard
+
+228
+00:11:09,782 --> 00:11:13,278
+to unleash our best qualities
+and lead happier lives.
+
+229
+00:11:13,302 --> 00:11:17,944
+Here are the top five things that people
+with post-traumatic growth say:
+
+230
+00:11:17,968 --> 00:11:19,492
+"My priorities have changed."
+
+231
+00:11:19,516 --> 00:11:21,826
+"I'm not afraid to do
+what makes me happy."
+
+232
+00:11:22,373 --> 00:11:25,000
+"I feel closer to my friends and family."
+
+233
+00:11:25,643 --> 00:11:28,967
+"I understand myself better.
+I know who I really am now."
+
+234
+00:11:29,683 --> 00:11:32,774
+"I have a new sense of meaning
+and purpose in my life."
+
+235
+00:11:33,234 --> 00:11:36,250
+"I'm better able to focus
+on my goals and dreams."
+
+236
+00:11:36,274 --> 00:11:38,369
+Now, does this sound familiar?
+
+237
+00:11:38,393 --> 00:11:42,625
+It should, because the top five traits
+of post-traumatic growth
+
+238
+00:11:42,649 --> 00:11:48,139
+are essentially the direct opposite
+of the top five regrets of the dying.
+
+239
+00:11:48,163 --> 00:11:49,703
+Now this is interesting, right?
+
+240
+00:11:49,727 --> 00:11:52,423
+It seems that somehow, a traumatic event
+
+241
+00:11:52,447 --> 00:11:56,587
+can unlock our ability to lead
+a life with fewer regrets.
+
+242
+00:11:56,611 --> 00:11:57,907
+But how does it work?
+
+243
+00:11:57,931 --> 00:12:00,452
+How do you get from trauma to growth?
+
+244
+00:12:00,476 --> 00:12:03,227
+Or better yet, is there a way
+to get all the benefits
+
+245
+00:12:03,251 --> 00:12:05,748
+of post-traumatic growth
+without the trauma,
+
+246
+00:12:05,772 --> 00:12:08,201
+without having to hit
+your head in the first place?
+
+247
+00:12:08,225 --> 00:12:09,708
+That would be good, right?
+
+248
+00:12:09,732 --> 00:12:12,107
+I wanted to understand
+the phenomenon better,
+
+249
+00:12:12,131 --> 00:12:15,322
+so I devoured the scientific literature,
+and here's what I learned.
+
+250
+00:12:15,687 --> 00:12:18,539
+There are four kinds
+of strength, or resilience,
+
+251
+00:12:18,563 --> 00:12:21,679
+that contribute to post-traumatic growth,
+
+252
+00:12:21,703 --> 00:12:24,277
+and there are scientifically
+validated activities
+
+253
+00:12:24,301 --> 00:12:28,741
+that you can do every day to build up
+these four kinds of resilience,
+
+254
+00:12:28,765 --> 00:12:30,534
+and you don't need a trauma to do it.
+
+255
+00:12:30,558 --> 00:12:33,144
+I could tell you what these four
+types of strength are,
+
+256
+00:12:33,168 --> 00:12:35,271
+but I'd rather you
+experience them firsthand.
+
+257
+00:12:35,295 --> 00:12:38,244
+I'd rather we all start building them up
+together right now.
+
+258
+00:12:38,268 --> 00:12:39,699
+Here's what we're going to do.
+
+259
+00:12:39,723 --> 00:12:41,500
+We'll play a quick game together.
+
+260
+00:12:41,524 --> 00:12:43,923
+This is where you earn
+the seven and a half minutes
+
+261
+00:12:43,947 --> 00:12:45,947
+of bonus life that I promised you earlier.
+
+262
+00:12:45,971 --> 00:12:48,618
+All you have to do
+is successfully complete
+
+263
+00:12:48,642 --> 00:12:50,959
+the first four SuperBetter quests.
+
+264
+00:12:50,983 --> 00:12:53,625
+And I feel like you can do it.
+I have confidence in you.
+
+265
+00:12:53,649 --> 00:12:55,009
+So, everybody ready?
+
+266
+00:12:55,033 --> 00:12:57,296
+This is your first quest. Here we go.
+
+267
+00:12:57,320 --> 00:13:00,052
+Pick one: Stand up and take three steps,
+
+268
+00:13:00,076 --> 00:13:02,718
+or make your hands into fists,
+raise them over your head
+
+269
+00:13:02,742 --> 00:13:04,671
+as high as you can for five seconds, go!
+
+270
+00:13:06,524 --> 00:13:08,509
+All right, I like the people doing both.
+
+271
+00:13:08,533 --> 00:13:10,138
+You are overachievers. Very good.
+
+272
+00:13:10,162 --> 00:13:11,231
+(Laughter)
+
+273
+00:13:11,255 --> 00:13:12,278
+Well done, everyone.
+
+274
+00:13:12,302 --> 00:13:14,438
+That is worth +1 physical resilience,
+
+275
+00:13:14,462 --> 00:13:17,184
+which means that your body
+can withstand more stress
+
+276
+00:13:17,208 --> 00:13:18,723
+and heal itself faster.
+
+277
+00:13:18,747 --> 00:13:20,058
+We know from the research
+
+278
+00:13:20,082 --> 00:13:23,448
+that the number one thing you can do
+to boost your physical resilience
+
+279
+00:13:23,472 --> 00:13:24,748
+is to not sit still.
+
+280
+00:13:24,772 --> 00:13:25,972
+That's all it takes.
+
+281
+00:13:25,996 --> 00:13:29,192
+Every single second
+that you are not sitting still,
+
+282
+00:13:29,216 --> 00:13:31,984
+you are actively improving
+the health of your heart,
+
+283
+00:13:32,008 --> 00:13:33,317
+and your lungs and brains.
+
+284
+00:13:33,626 --> 00:13:35,349
+Everybody ready for your next quest?
+
+285
+00:13:36,000 --> 00:13:38,293
+I want you to snap
+your fingers exactly 50 times,
+
+286
+00:13:38,317 --> 00:13:41,820
+or count backwards from 100
+by seven, like this: 100, 93...
+
+287
+00:13:41,844 --> 00:13:42,857
+Go!
+
+288
+00:13:42,881 --> 00:13:46,309
+(Snapping)
+
+289
+00:13:46,333 --> 00:13:47,396
+Don't give up.
+
+290
+00:13:47,420 --> 00:13:50,211
+(Snapping)
+
+291
+00:13:50,235 --> 00:13:52,267
+Don't let the people
+counting down from 100
+
+292
+00:13:52,291 --> 00:13:53,997
+interfere with your counting to 50.
+
+293
+00:13:54,021 --> 00:13:56,909
+(Snapping)
+
+294
+00:13:56,933 --> 00:13:58,482
+(Laughter)
+
+295
+00:13:58,506 --> 00:14:02,210
+Nice. Wow. That's the first
+time I've ever seen that.
+
+296
+00:14:02,234 --> 00:14:04,726
+Bonus physical resilience.
+Well done, everyone.
+
+297
+00:14:05,210 --> 00:14:07,296
+Now that's worth +1 mental resilience,
+
+298
+00:14:07,320 --> 00:14:09,987
+which means you have more
+mental focus, more discipline,
+
+299
+00:14:10,011 --> 00:14:11,837
+determination and willpower.
+
+300
+00:14:11,861 --> 00:14:13,649
+We know from the scientific research
+
+301
+00:14:13,673 --> 00:14:15,800
+that willpower
+actually works like a muscle.
+
+302
+00:14:15,824 --> 00:14:18,575
+It gets stronger the more you exercise it.
+
+303
+00:14:18,599 --> 00:14:21,951
+So tackling a tiny challenge
+without giving up,
+
+304
+00:14:21,975 --> 00:14:25,333
+even one as absurd as snapping
+your fingers exactly 50 times
+
+305
+00:14:25,357 --> 00:14:27,215
+or counting backwards from 100 by seven
+
+306
+00:14:27,239 --> 00:14:30,811
+is actually a scientifically validated way
+to boost your willpower.
+
+307
+00:14:30,835 --> 00:14:32,813
+So good job. Quest number three.
+
+308
+00:14:32,837 --> 00:14:36,101
+Pick one: Because of the room,
+fate's really determined this for you,
+
+309
+00:14:36,125 --> 00:14:37,509
+but here are the two options.
+
+310
+00:14:37,533 --> 00:14:39,987
+If you're inside,
+find a window and look out of it.
+
+311
+00:14:40,011 --> 00:14:42,539
+If you're outside,
+find a window and look in.
+
+312
+00:14:42,563 --> 00:14:45,164
+Or do a quick YouTube
+or Google image search
+
+313
+00:14:45,188 --> 00:14:46,960
+for "baby [your favorite animal.]"
+
+314
+00:14:46,984 --> 00:14:49,785
+Do it on your phones,
+or just shout out some baby animals,
+
+315
+00:14:49,809 --> 00:14:51,361
+and I'll put them on the screen.
+
+316
+00:14:51,385 --> 00:14:52,841
+So, what do we want to see?
+
+317
+00:14:52,865 --> 00:14:58,318
+Sloth, giraffe, elephant, snake.
+Okay, let's see what we got.
+
+318
+00:14:58,342 --> 00:15:03,039
+Baby dolphin and baby llamas.
+Everybody look.
+
+319
+00:15:03,595 --> 00:15:04,813
+Got that?
+
+320
+00:15:04,837 --> 00:15:07,068
+Okay, one more. Baby elephant.
+
+321
+00:15:07,092 --> 00:15:08,257
+(Audience) Oh!
+
+322
+00:15:08,281 --> 00:15:09,742
+We're clapping for that?
+
+323
+00:15:09,766 --> 00:15:10,950
+That's amazing.
+
+324
+00:15:10,974 --> 00:15:12,066
+(Laughter)
+
+325
+00:15:12,090 --> 00:15:15,589
+All right, what we're just feeling there
+is plus-one emotional resilience,
+
+326
+00:15:15,613 --> 00:15:18,115
+which means you have the ability
+to provoke powerful,
+
+327
+00:15:18,139 --> 00:15:20,597
+positive emotions like curiosity or love,
+
+328
+00:15:20,621 --> 00:15:22,473
+which we feel looking at baby animals,
+
+329
+00:15:22,497 --> 00:15:23,724
+when you need them most.
+
+330
+00:15:23,748 --> 00:15:26,402
+Here's a secret from the scientific
+literature for you.
+
+331
+00:15:26,426 --> 00:15:30,127
+If you can manage to experience
+three positive emotions
+
+332
+00:15:30,151 --> 00:15:32,652
+for every one negative emotion
+
+333
+00:15:32,676 --> 00:15:35,644
+over the course of an hour, a day, a week,
+
+334
+00:15:35,668 --> 00:15:37,740
+you dramatically improve your health
+
+335
+00:15:37,764 --> 00:15:41,324
+and your ability to successfully tackle
+any problem you're facing.
+
+336
+00:15:41,348 --> 00:15:44,603
+And this is called the three-to-one
+positive emotion ratio.
+
+337
+00:15:44,627 --> 00:15:47,285
+It's my favorite
+SuperBetter trick, so keep it up.
+
+338
+00:15:47,309 --> 00:15:49,380
+All right, pick one, last quest:
+
+339
+00:15:49,404 --> 00:15:51,236
+Shake someone's hand for six seconds,
+
+340
+00:15:51,260 --> 00:15:52,967
+or send someone a quick thank you
+
+341
+00:15:52,991 --> 00:15:54,897
+by text, email, Facebook or Twitter. Go!
+
+342
+00:15:54,921 --> 00:15:59,865
+(Chatting)
+
+343
+00:15:59,889 --> 00:16:01,584
+Looking good, looking good.
+
+344
+00:16:03,306 --> 00:16:04,511
+Nice, nice.
+
+345
+00:16:05,385 --> 00:16:06,448
+Keep it up.
+
+346
+00:16:07,167 --> 00:16:08,168
+I love it!
+
+347
+00:16:08,192 --> 00:16:11,584
+All right, everybody,
+that is +1 social resilience,
+
+348
+00:16:11,608 --> 00:16:14,831
+which means you actually get
+more strength from your friends,
+
+349
+00:16:14,855 --> 00:16:16,952
+your neighbors, your family,
+your community.
+
+350
+00:16:16,976 --> 00:16:20,461
+Now, a great way to boost
+social resilience is gratitude.
+
+351
+00:16:20,485 --> 00:16:21,752
+Touch is even better.
+
+352
+00:16:21,776 --> 00:16:23,303
+Here's one more secret for you:
+
+353
+00:16:23,327 --> 00:16:25,572
+Shaking someone's hand for six seconds
+
+354
+00:16:25,596 --> 00:16:28,608
+dramatically raises the level
+of oxytocin in your bloodstream,
+
+355
+00:16:28,632 --> 00:16:30,474
+now that's the trust hormone.
+
+356
+00:16:30,498 --> 00:16:32,723
+That means that all of you
+who just shook hands
+
+357
+00:16:32,747 --> 00:16:36,135
+are biochemically primed to like
+and want to help each other.
+
+358
+00:16:36,159 --> 00:16:38,687
+This will linger during the break,
+
+359
+00:16:38,711 --> 00:16:41,097
+so take advantage
+of the networking opportunities.
+
+360
+00:16:41,121 --> 00:16:42,167
+(Laughter)
+
+361
+00:16:42,191 --> 00:16:44,897
+Well, you have successfully
+completed your four quests,
+
+362
+00:16:44,921 --> 00:16:47,324
+let's see if I've successfully
+completed my mission
+
+363
+00:16:47,348 --> 00:16:49,733
+to give you seven and a half
+minutes of bonus life.
+
+364
+00:16:49,757 --> 00:16:52,558
+Now I get to share one more
+little bit of science with you.
+
+365
+00:16:52,582 --> 00:16:56,742
+It turns out that people who regularly
+boost these four types of resilience --
+
+366
+00:16:56,766 --> 00:16:59,281
+physical, mental, emotional and social --
+
+367
+00:16:59,305 --> 00:17:01,738
+live 10 years longer than everyone else.
+
+368
+00:17:01,762 --> 00:17:02,824
+So this is true.
+
+369
+00:17:02,848 --> 00:17:06,631
+If you are regularly achieving
+the three-to-one positive emotion ratio,
+
+370
+00:17:06,655 --> 00:17:09,782
+if you are never sitting still
+for more than an hour at a time,
+
+371
+00:17:09,806 --> 00:17:13,651
+if you are reaching out to one person
+you care about every single day,
+
+372
+00:17:13,675 --> 00:17:17,778
+if you are tackling tiny goals
+to boost your willpower,
+
+373
+00:17:17,802 --> 00:17:20,129
+you will live 10 years longer
+than everyone else,
+
+374
+00:17:20,153 --> 00:17:22,868
+and here's where that math
+I showed you earlier comes in.
+
+375
+00:17:22,892 --> 00:17:26,891
+So, the average life expectancy
+in the U.S. and the U.K. is 78.1 years,
+
+376
+00:17:26,915 --> 00:17:30,019
+but we know from more than 1,000
+peer-reviewed scientific studies
+
+377
+00:17:30,043 --> 00:17:33,638
+that you can add 10 years of life
+by boosting your four types of resilience.
+
+378
+00:17:33,662 --> 00:17:37,197
+So every single year that you are boosting
+your four types of resilience,
+
+379
+00:17:37,221 --> 00:17:39,470
+you're actually earning
+.128 more years of life
+
+380
+00:17:39,494 --> 00:17:44,043
+or 46 more days of life,
+or 67,298 more minutes of life,
+
+381
+00:17:44,067 --> 00:17:48,357
+which means every single day,
+you are earning 184 minutes of life,
+
+382
+00:17:48,381 --> 00:17:51,858
+or every single hour that you are boosting
+your four types of resilience,
+
+383
+00:17:51,882 --> 00:17:55,123
+like we just did together,
+you are earning 7.68245837
+
+384
+00:17:55,147 --> 00:17:56,218
+more minutes of life.
+
+385
+00:17:56,242 --> 00:17:59,154
+Congratulations, those seven
+and a half minutes are all yours.
+
+386
+00:17:59,178 --> 00:18:00,654
+You totally earned them.
+
+387
+00:18:00,678 --> 00:18:01,685
+Yeah!
+
+388
+00:18:01,709 --> 00:18:03,003
+(Applause)
+
+389
+00:18:03,027 --> 00:18:04,063
+Awesome.
+
+390
+00:18:04,854 --> 00:18:06,112
+Wait, wait, wait.
+
+391
+00:18:07,469 --> 00:18:10,600
+You still have your special mission,
+your secret mission.
+
+392
+00:18:10,624 --> 00:18:13,664
+How are you going to spend
+these minutes of bonus life?
+
+393
+00:18:13,688 --> 00:18:15,381
+Well, here's my suggestion.
+
+394
+00:18:15,405 --> 00:18:19,023
+These seven and a half bonus minutes
+are kind of like genie's wishes.
+
+395
+00:18:19,047 --> 00:18:22,521
+You can use your first wish
+to wish for a million more wishes.
+
+396
+00:18:22,545 --> 00:18:23,592
+Pretty clever, right?
+
+397
+00:18:23,616 --> 00:18:27,447
+So, if you spend these
+seven and a half minutes today
+
+398
+00:18:27,471 --> 00:18:30,081
+doing something that makes you happy,
+
+399
+00:18:30,105 --> 00:18:31,824
+or that gets you physically active,
+
+400
+00:18:31,848 --> 00:18:34,927
+or puts you in touch
+with someone you care about,
+
+401
+00:18:34,951 --> 00:18:37,760
+or even just tackling a tiny challenge,
+
+402
+00:18:37,784 --> 00:18:41,409
+you're going to boost your resilience,
+so you're going to earn more minutes.
+
+403
+00:18:41,433 --> 00:18:43,888
+And the good news is,
+you can keep going like that.
+
+404
+00:18:43,912 --> 00:18:46,192
+Every hour of the day,
+every day of your life,
+
+405
+00:18:46,216 --> 00:18:47,624
+all the way to your deathbed,
+
+406
+00:18:47,648 --> 00:18:50,601
+which will now be 10 years later
+than it would have otherwise.
+
+407
+00:18:50,901 --> 00:18:54,059
+And when you get there, more than likely,
+
+408
+00:18:54,083 --> 00:18:57,599
+you will not have
+any of those top five regrets,
+
+409
+00:18:57,623 --> 00:19:00,472
+because you will have built up
+the strength and resilience
+
+410
+00:19:00,496 --> 00:19:03,179
+to lead a life truer to your dreams.
+
+411
+00:19:03,956 --> 00:19:07,195
+And with 10 extra years,
+you might even have enough time
+
+412
+00:19:07,219 --> 00:19:09,138
+to play a few more games.
+
+413
+00:19:09,162 --> 00:19:10,241
+Thank you.
+
+414
+00:19:10,265 --> 00:19:12,720
+(Applause)
+

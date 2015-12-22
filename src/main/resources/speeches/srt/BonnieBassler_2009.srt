@@ -1,0 +1,1576 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+Bacteria are the oldest living organisms on the earth.
+
+2
+00:00:14,820 --> 00:00:16,820
+They've been here for billions of years,
+
+3
+00:00:16,820 --> 00:00:20,820
+and what they are are single-celled microscopic organisms.
+
+4
+00:00:20,820 --> 00:00:23,820
+So they are one cell and they have this special property
+
+5
+00:00:23,820 --> 00:00:25,820
+that they only have one piece of DNA.
+
+6
+00:00:25,820 --> 00:00:27,820
+They have very few genes,
+
+7
+00:00:27,820 --> 00:00:31,820
+and genetic information to encode all of the traits that they carry out.
+
+8
+00:00:31,820 --> 00:00:33,820
+And the way bacteria make a living
+
+9
+00:00:33,820 --> 00:00:36,820
+is that they consume nutrients from the environment,
+
+10
+00:00:36,820 --> 00:00:39,820
+they grow to twice their size, they cut themselves down in the middle,
+
+11
+00:00:39,820 --> 00:00:42,820
+and one cell becomes two, and so on and so on.
+
+12
+00:00:42,820 --> 00:00:46,820
+They just grow and divide, and grow and divide -- so a kind of boring life,
+
+13
+00:00:46,820 --> 00:00:48,820
+except that what I would argue is that you have
+
+14
+00:00:48,820 --> 00:00:51,820
+an amazing interaction with these critters.
+
+15
+00:00:51,820 --> 00:00:54,820
+I know you guys think of yourself as humans, and this is sort of how I think of you.
+
+16
+00:00:54,820 --> 00:00:56,820
+This man is supposed to represent
+
+17
+00:00:56,820 --> 00:00:58,820
+a generic human being,
+
+18
+00:00:58,820 --> 00:01:02,820
+and all of the circles in that man are all of the cells that make up your body.
+
+19
+00:01:02,820 --> 00:01:05,820
+There is about a trillion human cells that make each one of us
+
+20
+00:01:05,820 --> 00:01:08,820
+who we are and able to do all the things that we do,
+
+21
+00:01:08,820 --> 00:01:11,820
+but you have 10 trillion bacterial cells
+
+22
+00:01:11,820 --> 00:01:13,820
+in you or on you at any moment in your life.
+
+23
+00:01:13,820 --> 00:01:15,820
+So, 10 times more bacterial cells
+
+24
+00:01:15,820 --> 00:01:18,820
+than human cells on a human being.
+
+25
+00:01:18,820 --> 00:01:20,820
+And of course it's the DNA that counts,
+
+26
+00:01:20,820 --> 00:01:22,820
+so here's all the A, T, Gs and Cs
+
+27
+00:01:22,820 --> 00:01:25,820
+that make up your genetic code, and give you all your charming characteristics.
+
+28
+00:01:25,820 --> 00:01:27,820
+You have about 30,000 genes.
+
+29
+00:01:27,820 --> 00:01:30,820
+Well it turns out you have 100 times more bacterial genes
+
+30
+00:01:30,820 --> 00:01:34,820
+playing a role in you or on you all of your life.
+
+31
+00:01:34,820 --> 00:01:37,820
+At the best, you're 10 percent human,
+
+32
+00:01:37,820 --> 00:01:39,820
+but more likely about one percent human,
+
+33
+00:01:39,820 --> 00:01:41,820
+depending on which of these metrics you like.
+
+34
+00:01:41,820 --> 00:01:43,820
+I know you think of yourself as human beings,
+
+35
+00:01:43,820 --> 00:01:47,820
+but I think of you as 90 or 99 percent bacterial.
+
+36
+00:01:47,820 --> 00:01:48,820
+(Laughter)
+
+37
+00:01:48,820 --> 00:01:51,820
+These bacteria are not passive riders,
+
+38
+00:01:51,820 --> 00:01:54,820
+these are incredibly important, they keep us alive.
+
+39
+00:01:54,820 --> 00:01:57,820
+They cover us in an invisible body armor
+
+40
+00:01:57,820 --> 00:01:59,820
+that keeps environmental insults out
+
+41
+00:01:59,820 --> 00:02:01,820
+so that we stay healthy.
+
+42
+00:02:01,820 --> 00:02:03,820
+They digest our food, they make our vitamins,
+
+43
+00:02:03,820 --> 00:02:05,820
+they actually educate your immune system
+
+44
+00:02:05,820 --> 00:02:07,820
+to keep bad microbes out.
+
+45
+00:02:07,820 --> 00:02:09,820
+So they do all these amazing things
+
+46
+00:02:09,820 --> 00:02:13,820
+that help us and are vital for keeping us alive,
+
+47
+00:02:13,820 --> 00:02:15,820
+and they never get any press for that.
+
+48
+00:02:15,820 --> 00:02:17,820
+But they get a lot of press because they do a lot of
+
+49
+00:02:17,820 --> 00:02:19,820
+terrible things as well.
+
+50
+00:02:19,820 --> 00:02:22,820
+So, there's all kinds of bacteria on the Earth
+
+51
+00:02:22,820 --> 00:02:25,820
+that have no business being in you or on you at any time,
+
+52
+00:02:25,820 --> 00:02:29,820
+and if they are, they make you incredibly sick.
+
+53
+00:02:29,820 --> 00:02:32,820
+And so, the question for my lab is whether you want to think about all the
+
+54
+00:02:32,820 --> 00:02:36,820
+good things that bacteria do, or all the bad things that bacteria do.
+
+55
+00:02:36,820 --> 00:02:38,820
+The question we had is how could they do anything at all?
+
+56
+00:02:38,820 --> 00:02:40,820
+I mean they're incredibly small,
+
+57
+00:02:40,820 --> 00:02:42,820
+you have to have a microscope to see one.
+
+58
+00:02:42,820 --> 00:02:45,820
+They live this sort of boring life where they grow and divide,
+
+59
+00:02:45,820 --> 00:02:50,820
+and they've always been considered to be these asocial reclusive organisms.
+
+60
+00:02:50,820 --> 00:02:53,820
+And so it seemed to us that they are just too small to have an impact
+
+61
+00:02:53,820 --> 00:02:55,820
+on the environment
+
+62
+00:02:55,820 --> 00:02:57,820
+if they simply act as individuals.
+
+63
+00:02:57,820 --> 00:02:59,820
+And so we wanted to think if there couldn't be a different
+
+64
+00:02:59,820 --> 00:03:01,820
+way that bacteria live.
+
+65
+00:03:01,820 --> 00:03:05,820
+The clue to this came from another marine bacterium,
+
+66
+00:03:05,820 --> 00:03:08,820
+and it's a bacterium called Vibrio fischeri.
+
+67
+00:03:08,820 --> 00:03:11,820
+What you're looking at on this slide is just a person from my lab
+
+68
+00:03:11,820 --> 00:03:14,820
+holding a flask of a liquid culture of a bacterium,
+
+69
+00:03:14,820 --> 00:03:17,820
+a harmless beautiful bacterium that comes from the ocean,
+
+70
+00:03:17,820 --> 00:03:19,820
+named Vibrio fischeri.
+
+71
+00:03:19,820 --> 00:03:22,820
+This bacterium has the special property that it makes light,
+
+72
+00:03:22,820 --> 00:03:24,820
+so it makes bioluminescence,
+
+73
+00:03:24,820 --> 00:03:26,820
+like fireflies make light.
+
+74
+00:03:26,820 --> 00:03:28,820
+We're not doing anything to the cells here.
+
+75
+00:03:28,820 --> 00:03:30,820
+We just took the picture by turning the lights off in the room,
+
+76
+00:03:30,820 --> 00:03:32,820
+and this is what we see.
+
+77
+00:03:32,820 --> 00:03:34,820
+What was actually interesting to us
+
+78
+00:03:34,820 --> 00:03:36,820
+was not that the bacteria made light,
+
+79
+00:03:36,820 --> 00:03:38,820
+but when the bacteria made light.
+
+80
+00:03:38,820 --> 00:03:41,820
+What we noticed is when the bacteria were alone,
+
+81
+00:03:41,820 --> 00:03:44,820
+so when they were in dilute suspension, they made no light.
+
+82
+00:03:44,820 --> 00:03:46,820
+But when they grew to a certain cell number
+
+83
+00:03:46,820 --> 00:03:50,820
+all the bacteria turned on light simultaneously.
+
+84
+00:03:50,820 --> 00:03:54,820
+The question that we had is how can bacteria, these primitive organisms,
+
+85
+00:03:54,820 --> 00:03:56,820
+tell the difference from times when they're alone,
+
+86
+00:03:56,820 --> 00:03:58,820
+and times when they're in a community,
+
+87
+00:03:58,820 --> 00:04:01,820
+and then all do something together.
+
+88
+00:04:01,820 --> 00:04:05,820
+What we've figured out is that the way that they do that is that they talk to each other,
+
+89
+00:04:05,820 --> 00:04:07,820
+and they talk with a chemical language.
+
+90
+00:04:07,820 --> 00:04:10,820
+This is now supposed to be my bacterial cell.
+
+91
+00:04:10,820 --> 00:04:13,820
+When it's alone it doesn't make any light.
+
+92
+00:04:13,820 --> 00:04:17,820
+But what it does do is to make and secrete small molecules
+
+93
+00:04:17,820 --> 00:04:19,820
+that you can think of like hormones,
+
+94
+00:04:19,820 --> 00:04:22,820
+and these are the red triangles, and when the bacteria is alone
+
+95
+00:04:22,820 --> 00:04:25,820
+the molecules just float away and so no light.
+
+96
+00:04:25,820 --> 00:04:27,820
+But when the bacteria grow and double
+
+97
+00:04:27,820 --> 00:04:30,820
+and they're all participating in making these molecules,
+
+98
+00:04:30,820 --> 00:04:34,820
+the molecule -- the extracellular amount of that molecule
+
+99
+00:04:34,820 --> 00:04:37,820
+increases in proportion to cell number.
+
+100
+00:04:37,820 --> 00:04:39,820
+And when the molecule hits a certain amount
+
+101
+00:04:39,820 --> 00:04:42,820
+that tells the bacteria how many neighbors there are,
+
+102
+00:04:42,820 --> 00:04:44,820
+they recognize that molecule
+
+103
+00:04:44,820 --> 00:04:47,820
+and all of the bacteria turn on light in synchrony.
+
+104
+00:04:47,820 --> 00:04:49,820
+That's how bioluminescence works --
+
+105
+00:04:49,820 --> 00:04:51,820
+they're talking with these chemical words.
+
+106
+00:04:51,820 --> 00:04:55,820
+The reason that Vibrio fischeri is doing that comes from the biology.
+
+107
+00:04:55,820 --> 00:04:58,820
+Again, another plug for the animals in the ocean,
+
+108
+00:04:58,820 --> 00:05:01,820
+Vibrio fischeri lives in this squid.
+
+109
+00:05:01,820 --> 00:05:03,820
+What you are looking at is the Hawaiian Bobtail Squid,
+
+110
+00:05:03,820 --> 00:05:05,820
+and it's been turned on its back,
+
+111
+00:05:05,820 --> 00:05:08,820
+and what I hope you can see are these two glowing lobes
+
+112
+00:05:08,820 --> 00:05:11,820
+and these house the Vibrio fischeri cells,
+
+113
+00:05:11,820 --> 00:05:13,820
+they live in there, at high cell number
+
+114
+00:05:13,820 --> 00:05:15,820
+that molecule is there, and they're making light.
+
+115
+00:05:15,820 --> 00:05:18,820
+The reason the squid is willing to put up with these shenanigans
+
+116
+00:05:18,820 --> 00:05:20,820
+is because it wants that light.
+
+117
+00:05:20,820 --> 00:05:22,820
+The way that this symbiosis works
+
+118
+00:05:22,820 --> 00:05:26,820
+is that this little squid lives just off the coast of Hawaii,
+
+119
+00:05:26,820 --> 00:05:28,820
+just in sort of shallow knee-deep water.
+
+120
+00:05:28,820 --> 00:05:31,820
+The squid is nocturnal, so during the day
+
+121
+00:05:31,820 --> 00:05:33,820
+it buries itself in the sand and sleeps,
+
+122
+00:05:33,820 --> 00:05:36,820
+but then at night it has to come out to hunt.
+
+123
+00:05:36,820 --> 00:05:38,820
+On bright nights when there is lots of starlight or moonlight
+
+124
+00:05:38,820 --> 00:05:41,820
+that light can penetrate the depth of the water
+
+125
+00:05:41,820 --> 00:05:44,820
+the squid lives in, since it's just in those couple feet of water.
+
+126
+00:05:44,820 --> 00:05:47,820
+What the squid has developed is a shutter
+
+127
+00:05:47,820 --> 00:05:51,820
+that can open and close over this specialized light organ housing the bacteria.
+
+128
+00:05:51,820 --> 00:05:53,820
+Then it has detectors on its back
+
+129
+00:05:53,820 --> 00:05:57,820
+so it can sense how much starlight or moonlight is hitting its back.
+
+130
+00:05:57,820 --> 00:05:59,820
+And it opens and closes the shutter
+
+131
+00:05:59,820 --> 00:06:01,820
+so the amount of light coming out of the bottom --
+
+132
+00:06:01,820 --> 00:06:03,820
+which is made by the bacterium --
+
+133
+00:06:03,820 --> 00:06:05,820
+exactly matches how much light hits the squid's back,
+
+134
+00:06:05,820 --> 00:06:07,820
+so the squid doesn't make a shadow.
+
+135
+00:06:07,820 --> 00:06:10,820
+It actually uses the light from the bacteria
+
+136
+00:06:10,820 --> 00:06:13,820
+to counter-illuminate itself in an anti-predation device
+
+137
+00:06:13,820 --> 00:06:15,820
+so predators can't see its shadow,
+
+138
+00:06:15,820 --> 00:06:17,820
+calculate its trajectory, and eat it.
+
+139
+00:06:17,820 --> 00:06:20,820
+This is like the stealth bomber of the ocean.
+
+140
+00:06:20,820 --> 00:06:21,820
+(Laughter)
+
+141
+00:06:21,820 --> 00:06:24,820
+But then if you think about it, the squid has this terrible problem
+
+142
+00:06:24,820 --> 00:06:27,820
+because it's got this dying, thick culture of bacteria
+
+143
+00:06:27,820 --> 00:06:29,820
+and it can't sustain that.
+
+144
+00:06:29,820 --> 00:06:31,820
+And so what happens is every morning when the sun comes up
+
+145
+00:06:31,820 --> 00:06:34,820
+the squid goes back to sleep, it buries itself in the sand,
+
+146
+00:06:34,820 --> 00:06:37,820
+and it's got a pump that's attached to its circadian rhythm,
+
+147
+00:06:37,820 --> 00:06:42,820
+and when the sun comes up it pumps out like 95 percent of the bacteria.
+
+148
+00:06:42,820 --> 00:06:45,820
+Now the bacteria are dilute, that little hormone molecule is gone,
+
+149
+00:06:45,820 --> 00:06:47,820
+so they're not making light --
+
+150
+00:06:47,820 --> 00:06:49,820
+but of course the squid doesn't care. It's asleep in the sand.
+
+151
+00:06:49,820 --> 00:06:51,820
+And as the day goes by the bacteria double,
+
+152
+00:06:51,820 --> 00:06:54,820
+they release the molecule, and then light comes on
+
+153
+00:06:54,820 --> 00:06:57,820
+at night, exactly when the squid wants it.
+
+154
+00:06:57,820 --> 00:07:00,820
+First we figured out how this bacterium does this,
+
+155
+00:07:00,820 --> 00:07:03,820
+but then we brought the tools of molecular biology to this
+
+156
+00:07:03,820 --> 00:07:05,820
+to figure out really what's the mechanism.
+
+157
+00:07:05,820 --> 00:07:09,820
+And what we found -- so this is now supposed to be, again, my bacterial cell --
+
+158
+00:07:09,820 --> 00:07:11,820
+is that Vibrio fischeri has a protein --
+
+159
+00:07:11,820 --> 00:07:14,820
+that's the red box -- it's an enzyme that makes
+
+160
+00:07:14,820 --> 00:07:17,820
+that little hormone molecule, the red triangle.
+
+161
+00:07:17,820 --> 00:07:19,820
+And then as the cells grow, they're all releasing that molecule
+
+162
+00:07:19,820 --> 00:07:22,820
+into the environment, so there's lots of molecule there.
+
+163
+00:07:22,820 --> 00:07:26,820
+And the bacteria also have a receptor on their cell surface
+
+164
+00:07:26,820 --> 00:07:29,820
+that fits like a lock and key with that molecule.
+
+165
+00:07:29,820 --> 00:07:32,820
+These are just like the receptors on the surfaces of your cells.
+
+166
+00:07:32,820 --> 00:07:35,820
+When the molecule increases to a certain amount --
+
+167
+00:07:35,820 --> 00:07:37,820
+which says something about the number of cells --
+
+168
+00:07:37,820 --> 00:07:39,820
+it locks down into that receptor
+
+169
+00:07:39,820 --> 00:07:41,820
+and information comes into the cells
+
+170
+00:07:41,820 --> 00:07:43,820
+that tells the cells to turn on
+
+171
+00:07:43,820 --> 00:07:46,820
+this collective behavior of making light.
+
+172
+00:07:46,820 --> 00:07:49,820
+Why this is interesting is because in the past decade
+
+173
+00:07:49,820 --> 00:07:51,820
+we have found that this is not just some anomaly
+
+174
+00:07:51,820 --> 00:07:54,820
+of this ridiculous, glow-in-the-dark bacterium that lives in the ocean --
+
+175
+00:07:54,820 --> 00:07:57,820
+all bacteria have systems like this.
+
+176
+00:07:57,820 --> 00:08:00,820
+So now what we understand is that all bacteria can talk to each other.
+
+177
+00:08:00,820 --> 00:08:03,820
+They make chemical words, they recognize those words,
+
+178
+00:08:03,820 --> 00:08:05,820
+and they turn on group behaviors
+
+179
+00:08:05,820 --> 00:08:10,820
+that are only successful when all of the cells participate in unison.
+
+180
+00:08:10,820 --> 00:08:13,820
+We have a fancy name for this: we call it quorum sensing.
+
+181
+00:08:13,820 --> 00:08:15,820
+They vote with these chemical votes,
+
+182
+00:08:15,820 --> 00:08:19,820
+the vote gets counted, and then everybody responds to the vote.
+
+183
+00:08:19,820 --> 00:08:21,820
+What's important for today's talk
+
+184
+00:08:21,820 --> 00:08:23,820
+is that we know that there are hundreds of behaviors
+
+185
+00:08:23,820 --> 00:08:26,820
+that bacteria carry out in these collective fashions.
+
+186
+00:08:26,820 --> 00:08:29,820
+But the one that's probably the most important to you is virulence.
+
+187
+00:08:29,820 --> 00:08:32,820
+It's not like a couple bacteria get in you
+
+188
+00:08:32,820 --> 00:08:34,820
+and they start secreting some toxins --
+
+189
+00:08:34,820 --> 00:08:37,820
+you're enormous, that would have no effect on you. You're huge.
+
+190
+00:08:37,820 --> 00:08:40,820
+What they do, we now understand,
+
+191
+00:08:40,820 --> 00:08:43,820
+is they get in you, they wait, they start growing,
+
+192
+00:08:43,820 --> 00:08:45,820
+they count themselves with these little molecules,
+
+193
+00:08:45,820 --> 00:08:47,820
+and they recognize when they have the right cell number
+
+194
+00:08:47,820 --> 00:08:51,820
+that if all of the bacteria launch their virulence attack together,
+
+195
+00:08:51,820 --> 00:08:55,820
+they are going to be successful at overcoming an enormous host.
+
+196
+00:08:55,820 --> 00:08:59,820
+Bacteria always control pathogenicity with quorum sensing.
+
+197
+00:08:59,820 --> 00:09:01,820
+That's how it works.
+
+198
+00:09:01,820 --> 00:09:04,820
+We also then went to look at what are these molecules --
+
+199
+00:09:04,820 --> 00:09:07,820
+these were the red triangles on my slides before.
+
+200
+00:09:07,820 --> 00:09:09,820
+This is the Vibrio fischeri molecule.
+
+201
+00:09:09,820 --> 00:09:11,820
+This is the word that it talks with.
+
+202
+00:09:11,820 --> 00:09:13,820
+So then we started to look at other bacteria,
+
+203
+00:09:13,820 --> 00:09:16,820
+and these are just a smattering of the molecules that we've discovered.
+
+204
+00:09:16,820 --> 00:09:18,820
+What I hope you can see
+
+205
+00:09:18,820 --> 00:09:20,820
+is that the molecules are related.
+
+206
+00:09:20,820 --> 00:09:22,820
+The left-hand part of the molecule is identical
+
+207
+00:09:22,820 --> 00:09:25,820
+in every single species of bacteria.
+
+208
+00:09:25,820 --> 00:09:29,820
+But the right-hand part of the molecule is a little bit different in every single species.
+
+209
+00:09:29,820 --> 00:09:31,820
+What that does is to confer
+
+210
+00:09:31,820 --> 00:09:35,820
+exquisite species specificities to these languages.
+
+211
+00:09:35,820 --> 00:09:39,820
+Each molecule fits into its partner receptor and no other.
+
+212
+00:09:39,820 --> 00:09:42,820
+So these are private, secret conversations.
+
+213
+00:09:42,820 --> 00:09:46,820
+These conversations are for intraspecies communication.
+
+214
+00:09:46,820 --> 00:09:50,820
+Each bacteria uses a particular molecule that's its language
+
+215
+00:09:50,820 --> 00:09:54,820
+that allows it to count its own siblings.
+
+216
+00:09:54,820 --> 00:09:56,820
+Once we got that far we thought
+
+217
+00:09:56,820 --> 00:09:59,820
+we were starting to understand that bacteria have these social behaviors.
+
+218
+00:09:59,820 --> 00:10:02,820
+But what we were really thinking about is that most of the time
+
+219
+00:10:02,820 --> 00:10:05,820
+bacteria don't live by themselves, they live in incredible mixtures,
+
+220
+00:10:05,820 --> 00:10:09,820
+with hundreds or thousands of other species of bacteria.
+
+221
+00:10:09,820 --> 00:10:12,820
+And that's depicted on this slide. This is your skin.
+
+222
+00:10:12,820 --> 00:10:15,820
+So this is just a picture -- a micrograph of your skin.
+
+223
+00:10:15,820 --> 00:10:17,820
+Anywhere on your body, it looks pretty much like this,
+
+224
+00:10:17,820 --> 00:10:21,820
+and what I hope you can see is that there's all kinds of bacteria there.
+
+225
+00:10:21,820 --> 00:10:25,820
+And so we started to think if this really is about communication in bacteria,
+
+226
+00:10:25,820 --> 00:10:27,820
+and it's about counting your neighbors,
+
+227
+00:10:27,820 --> 00:10:30,820
+it's not enough to be able to only talk within your species.
+
+228
+00:10:30,820 --> 00:10:32,820
+There has to be a way to take a census
+
+229
+00:10:32,820 --> 00:10:35,820
+of the rest of the bacteria in the population.
+
+230
+00:10:35,820 --> 00:10:37,820
+So we went back to molecular biology
+
+231
+00:10:37,820 --> 00:10:39,820
+and started studying different bacteria,
+
+232
+00:10:39,820 --> 00:10:41,820
+and what we've found now is that
+
+233
+00:10:41,820 --> 00:10:43,820
+in fact, bacteria are multilingual.
+
+234
+00:10:43,820 --> 00:10:46,820
+They all have a species-specific system --
+
+235
+00:10:46,820 --> 00:10:48,820
+they have a molecule that says "me."
+
+236
+00:10:48,820 --> 00:10:51,820
+But then, running in parallel to that is a second system
+
+237
+00:10:51,820 --> 00:10:53,820
+that we've discovered, that's generic.
+
+238
+00:10:53,820 --> 00:10:56,820
+So, they have a second enzyme that makes a second signal
+
+239
+00:10:56,820 --> 00:10:58,820
+and it has its own receptor,
+
+240
+00:10:58,820 --> 00:11:01,820
+and this molecule is the trade language of bacteria.
+
+241
+00:11:01,820 --> 00:11:03,820
+It's used by all different bacteria
+
+242
+00:11:03,820 --> 00:11:07,820
+and it's the language of interspecies communication.
+
+243
+00:11:07,820 --> 00:11:10,820
+What happens is that bacteria are able to count
+
+244
+00:11:10,820 --> 00:11:13,820
+how many of me and how many of you.
+
+245
+00:11:13,820 --> 00:11:15,820
+They take that information inside,
+
+246
+00:11:15,820 --> 00:11:17,820
+and they decide what tasks to carry out
+
+247
+00:11:17,820 --> 00:11:21,820
+depending on who's in the minority and who's in the majority
+
+248
+00:11:21,820 --> 00:11:23,820
+of any given population.
+
+249
+00:11:23,820 --> 00:11:25,820
+Then again we turn to chemistry,
+
+250
+00:11:25,820 --> 00:11:28,820
+and we figured out what this generic molecule is --
+
+251
+00:11:28,820 --> 00:11:31,820
+that was the pink ovals on my last slide, this is it.
+
+252
+00:11:31,820 --> 00:11:33,820
+It's a very small, five-carbon molecule.
+
+253
+00:11:33,820 --> 00:11:36,820
+What the important thing is that we learned
+
+254
+00:11:36,820 --> 00:11:39,820
+is that every bacterium has exactly the same enzyme
+
+255
+00:11:39,820 --> 00:11:41,820
+and makes exactly the same molecule.
+
+256
+00:11:41,820 --> 00:11:43,820
+So they're all using this molecule
+
+257
+00:11:43,820 --> 00:11:45,820
+for interspecies communication.
+
+258
+00:11:45,820 --> 00:11:48,820
+This is the bacterial Esperanto.
+
+259
+00:11:48,820 --> 00:11:49,820
+(Laughter)
+
+260
+00:11:49,820 --> 00:11:51,820
+Once we got that far, we started to learn
+
+261
+00:11:51,820 --> 00:11:54,820
+that bacteria can talk to each other with this chemical language.
+
+262
+00:11:54,820 --> 00:11:56,820
+But what we started to think is that maybe there is something
+
+263
+00:11:56,820 --> 00:11:58,820
+practical that we can do here as well.
+
+264
+00:11:58,820 --> 00:12:01,820
+I've told you that bacteria do have all these social behaviors,
+
+265
+00:12:01,820 --> 00:12:04,820
+they communicate with these molecules.
+
+266
+00:12:04,820 --> 00:12:07,820
+Of course, I've also told you that one of the important things they do
+
+267
+00:12:07,820 --> 00:12:10,820
+is to initiate pathogenicity using quorum sensing.
+
+268
+00:12:10,820 --> 00:12:12,820
+We thought, what if we made these bacteria
+
+269
+00:12:12,820 --> 00:12:15,820
+so they can't talk or they can't hear?
+
+270
+00:12:15,820 --> 00:12:18,820
+Couldn't these be new kinds of antibiotics?
+
+271
+00:12:18,820 --> 00:12:20,820
+Of course, you've just heard and you already know
+
+272
+00:12:20,820 --> 00:12:22,820
+that we're running out of antibiotics.
+
+273
+00:12:22,820 --> 00:12:25,820
+Bacteria are incredibly multi-drug-resistant right now,
+
+274
+00:12:25,820 --> 00:12:29,820
+and that's because all of the antibiotics that we use kill bacteria.
+
+275
+00:12:29,820 --> 00:12:31,820
+They either pop the bacterial membrane,
+
+276
+00:12:31,820 --> 00:12:34,820
+they make the bacterium so it can't replicate its DNA.
+
+277
+00:12:34,820 --> 00:12:37,820
+We kill bacteria with traditional antibiotics
+
+278
+00:12:37,820 --> 00:12:39,820
+and that selects for resistant mutants.
+
+279
+00:12:39,820 --> 00:12:42,820
+And so now of course we have this global problem
+
+280
+00:12:42,820 --> 00:12:44,820
+in infectious diseases.
+
+281
+00:12:44,820 --> 00:12:47,820
+We thought, well what if we could sort of do behavior modifications,
+
+282
+00:12:47,820 --> 00:12:50,820
+just make these bacteria so they can't talk, they can't count,
+
+283
+00:12:50,820 --> 00:12:53,820
+and they don't know to launch virulence.
+
+284
+00:12:53,820 --> 00:12:56,820
+And so that's exactly what we've done, and we've sort of taken two strategies.
+
+285
+00:12:56,820 --> 00:12:58,820
+The first one is we've targeted
+
+286
+00:12:58,820 --> 00:13:01,820
+the intraspecies communication system.
+
+287
+00:13:01,820 --> 00:13:04,820
+So we made molecules that look kind of like the real molecules --
+
+288
+00:13:04,820 --> 00:13:06,820
+which you saw -- but they're a little bit different.
+
+289
+00:13:06,820 --> 00:13:08,820
+And so they lock into those receptors,
+
+290
+00:13:08,820 --> 00:13:11,820
+and they jam recognition of the real thing.
+
+291
+00:13:11,820 --> 00:13:13,820
+By targeting the red system,
+
+292
+00:13:13,820 --> 00:13:15,820
+what we are able to do is to make
+
+293
+00:13:15,820 --> 00:13:20,820
+species-specific, or disease-specific, anti-quorum sensing molecules.
+
+294
+00:13:20,820 --> 00:13:23,820
+We've also done the same thing with the pink system.
+
+295
+00:13:23,820 --> 00:13:26,820
+We've taken that universal molecule and turned it around a little bit
+
+296
+00:13:26,820 --> 00:13:28,820
+so that we've made antagonists
+
+297
+00:13:28,820 --> 00:13:30,820
+of the interspecies communication system.
+
+298
+00:13:30,820 --> 00:13:35,820
+The hope is that these will be used as broad-spectrum antibiotics
+
+299
+00:13:35,820 --> 00:13:37,820
+that work against all bacteria.
+
+300
+00:13:37,820 --> 00:13:40,820
+To finish I'll just show you the strategy.
+
+301
+00:13:40,820 --> 00:13:42,820
+In this one I'm just using the interspecies molecule,
+
+302
+00:13:42,820 --> 00:13:44,820
+but the logic is exactly the same.
+
+303
+00:13:44,820 --> 00:13:47,820
+What you know is that when that bacterium gets into the animal,
+
+304
+00:13:47,820 --> 00:13:49,820
+in this case, a mouse,
+
+305
+00:13:49,820 --> 00:13:51,820
+it doesn't initiate virulence right away.
+
+306
+00:13:51,820 --> 00:13:54,820
+It gets in, it starts growing, it starts secreting
+
+307
+00:13:54,820 --> 00:13:56,820
+its quorum sensing molecules.
+
+308
+00:13:56,820 --> 00:13:58,820
+It recognizes when it has enough bacteria
+
+309
+00:13:58,820 --> 00:14:00,820
+that now they're going to launch their attack,
+
+310
+00:14:00,820 --> 00:14:02,820
+and the animal dies.
+
+311
+00:14:02,820 --> 00:14:05,820
+What we've been able to do is to give these virulent infections,
+
+312
+00:14:05,820 --> 00:14:09,820
+but we give them in conjunction with our anti-quorum sensing molecules --
+
+313
+00:14:09,820 --> 00:14:11,820
+so these are molecules that look kind of like the real thing,
+
+314
+00:14:11,820 --> 00:14:14,820
+but they're a little bit different which I've depicted on this slide.
+
+315
+00:14:14,820 --> 00:14:17,820
+What we now know is that if we treat the animal
+
+316
+00:14:17,820 --> 00:14:21,820
+with a pathogenic bacterium -- a multi-drug-resistant pathogenic bacterium --
+
+317
+00:14:21,820 --> 00:14:25,820
+in the same time we give our anti-quorum sensing molecule,
+
+318
+00:14:25,820 --> 00:14:27,820
+in fact, the animal lives.
+
+319
+00:14:27,820 --> 00:14:31,820
+We think that this is the next generation of antibiotics
+
+320
+00:14:31,820 --> 00:14:33,820
+and it's going to get us around, at least initially,
+
+321
+00:14:33,820 --> 00:14:35,820
+this big problem of resistance.
+
+322
+00:14:35,820 --> 00:14:38,820
+What I hope you think, is that bacteria can talk to each other,
+
+323
+00:14:38,820 --> 00:14:41,820
+they use chemicals as their words,
+
+324
+00:14:41,820 --> 00:14:44,820
+they have an incredibly complicated chemical lexicon
+
+325
+00:14:44,820 --> 00:14:46,820
+that we're just now starting to learn about.
+
+326
+00:14:46,820 --> 00:14:49,820
+Of course what that allows bacteria to do
+
+327
+00:14:49,820 --> 00:14:51,820
+is to be multicellular.
+
+328
+00:14:51,820 --> 00:14:54,820
+So in the spirit of TED they're doing things together
+
+329
+00:14:54,820 --> 00:14:56,820
+because it makes a difference.
+
+330
+00:14:56,820 --> 00:15:00,820
+What happens is that bacteria have these collective behaviors,
+
+331
+00:15:00,820 --> 00:15:02,820
+and they can carry out tasks
+
+332
+00:15:02,820 --> 00:15:04,820
+that they could never accomplish
+
+333
+00:15:04,820 --> 00:15:06,820
+if they simply acted as individuals.
+
+334
+00:15:06,820 --> 00:15:09,820
+What I would hope that I could further argue to you
+
+335
+00:15:09,820 --> 00:15:12,820
+is that this is the invention of multicellularity.
+
+336
+00:15:12,820 --> 00:15:16,820
+Bacteria have been on the Earth for billions of years;
+
+337
+00:15:16,820 --> 00:15:18,820
+humans, couple hundred thousand.
+
+338
+00:15:18,820 --> 00:15:20,820
+We think bacteria made the rules
+
+339
+00:15:20,820 --> 00:15:23,820
+for how multicellular organization works.
+
+340
+00:15:23,820 --> 00:15:26,820
+We think, by studying bacteria,
+
+341
+00:15:26,820 --> 00:15:30,820
+we're going to be able to have insight about multicellularity in the human body.
+
+342
+00:15:30,820 --> 00:15:32,820
+We know that the principles and the rules,
+
+343
+00:15:32,820 --> 00:15:34,820
+if we can figure them out in these sort of primitive organisms,
+
+344
+00:15:34,820 --> 00:15:36,820
+the hope is that they will be applied
+
+345
+00:15:36,820 --> 00:15:40,820
+to other human diseases and human behaviors as well.
+
+346
+00:15:40,820 --> 00:15:42,820
+I hope that what you've learned
+
+347
+00:15:42,820 --> 00:15:45,820
+is that bacteria can distinguish self from other.
+
+348
+00:15:45,820 --> 00:15:48,820
+By using these two molecules they can say "me" and they can say "you."
+
+349
+00:15:48,820 --> 00:15:50,820
+Again of course that's what we do,
+
+350
+00:15:50,820 --> 00:15:52,820
+both in a molecular way,
+
+351
+00:15:52,820 --> 00:15:54,820
+and also in an outward way,
+
+352
+00:15:54,820 --> 00:15:56,820
+but I think about the molecular stuff.
+
+353
+00:15:56,820 --> 00:15:58,820
+This is exactly what happens in your body.
+
+354
+00:15:58,820 --> 00:16:01,820
+It's not like your heart cells and your kidney cells get all mixed up every day,
+
+355
+00:16:01,820 --> 00:16:04,820
+and that's because there's all of this chemistry going on,
+
+356
+00:16:04,820 --> 00:16:07,820
+these molecules that say who each of these groups of cells is,
+
+357
+00:16:07,820 --> 00:16:09,820
+and what their tasks should be.
+
+358
+00:16:09,820 --> 00:16:12,820
+Again, we think that bacteria invented that,
+
+359
+00:16:12,820 --> 00:16:15,820
+and you've just evolved a few more bells and whistles,
+
+360
+00:16:15,820 --> 00:16:19,820
+but all of the ideas are in these simple systems that we can study.
+
+361
+00:16:19,820 --> 00:16:23,820
+The final thing is, again just to reiterate that there's this practical part,
+
+362
+00:16:23,820 --> 00:16:26,820
+and so we've made these anti-quorum sensing molecules
+
+363
+00:16:26,820 --> 00:16:29,820
+that are being developed as new kinds of therapeutics.
+
+364
+00:16:29,820 --> 00:16:32,820
+But then, to finish with a plug for all the good and miraculous bacteria
+
+365
+00:16:32,820 --> 00:16:34,820
+that live on the Earth,
+
+366
+00:16:34,820 --> 00:16:36,820
+we've also made pro-quorum sensing molecules.
+
+367
+00:16:36,820 --> 00:16:39,820
+So, we've targeted those systems to make the molecules work better.
+
+368
+00:16:39,820 --> 00:16:43,820
+Remember you have these 10 times or more bacterial cells
+
+369
+00:16:43,820 --> 00:16:45,820
+in you or on you, keeping you healthy.
+
+370
+00:16:45,820 --> 00:16:48,820
+What we're also trying to do is to beef up the conversation
+
+371
+00:16:48,820 --> 00:16:51,820
+of the bacteria that live as mutualists with you,
+
+372
+00:16:51,820 --> 00:16:53,820
+in the hopes of making you more healthy,
+
+373
+00:16:53,820 --> 00:16:55,820
+making those conversations better,
+
+374
+00:16:55,820 --> 00:16:58,820
+so bacteria can do things that we want them to do
+
+375
+00:16:58,820 --> 00:17:01,820
+better than they would be on their own.
+
+376
+00:17:01,820 --> 00:17:03,820
+Finally, I wanted to show you
+
+377
+00:17:03,820 --> 00:17:05,820
+this is my gang at Princeton, New Jersey.
+
+378
+00:17:05,820 --> 00:17:09,820
+Everything I told you about was discovered by someone in that picture.
+
+379
+00:17:09,820 --> 00:17:11,820
+I hope when you learn things,
+
+380
+00:17:11,820 --> 00:17:13,820
+like about how the natural world works --
+
+381
+00:17:13,820 --> 00:17:16,820
+I just want to say that whenever you read something in the newspaper
+
+382
+00:17:16,820 --> 00:17:19,820
+or you get to hear some talk about something ridiculous in the natural world
+
+383
+00:17:19,820 --> 00:17:21,820
+it was done by a child.
+
+384
+00:17:21,820 --> 00:17:23,820
+Science is done by that demographic.
+
+385
+00:17:23,820 --> 00:17:27,820
+All of those people are between 20 and 30 years old,
+
+386
+00:17:27,820 --> 00:17:31,820
+and they are the engine that drives scientific discovery in this country.
+
+387
+00:17:31,820 --> 00:17:34,820
+It's a really lucky demographic to work with.
+
+388
+00:17:34,820 --> 00:17:37,820
+I keep getting older and older and they're always the same age,
+
+389
+00:17:37,820 --> 00:17:40,820
+and it's just a crazy delightful job.
+
+390
+00:17:40,820 --> 00:17:42,820
+I want to thank you for inviting me here.
+
+391
+00:17:42,820 --> 00:17:45,820
+It's a big treat for me to get to come to this conference.
+
+392
+00:17:45,820 --> 00:17:50,820
+(Applause)
+
+393
+00:17:50,820 --> 00:17:51,820
+Thanks.
+
+394
+00:17:51,820 --> 00:18:05,820
+(Applause)
+

@@ -1,0 +1,1284 @@
+﻿1
+00:00:12,820 --> 00:00:15,820
+I and my colleagues Art Aron and Lucy Brown and others,
+
+2
+00:00:15,820 --> 00:00:17,820
+have put 37 people who are madly in love
+
+3
+00:00:17,820 --> 00:00:20,820
+into a functional MRI brain scanner.
+
+4
+00:00:20,820 --> 00:00:23,820
+17 who were happily in love, 15 who had just been dumped,
+
+5
+00:00:23,820 --> 00:00:26,820
+and we're just starting our third experiment:
+
+6
+00:00:26,820 --> 00:00:28,820
+studying people who report that they're still in love
+
+7
+00:00:28,820 --> 00:00:31,820
+after 10 to 25 years of marriage.
+
+8
+00:00:31,820 --> 00:00:34,820
+So, this is the short story of that research.
+
+9
+00:00:34,820 --> 00:00:40,820
+In the jungles of Guatemala, in Tikal, stands a temple.
+
+10
+00:00:40,820 --> 00:00:42,820
+It was built by the grandest Sun King,
+
+11
+00:00:42,820 --> 00:00:45,820
+of the grandest city-state,
+
+12
+00:00:45,820 --> 00:00:48,820
+of the grandest civilization of the Americas, the Mayas.
+
+13
+00:00:48,820 --> 00:00:52,820
+His name was Jasaw Chan K'awiil.
+
+14
+00:00:52,820 --> 00:00:54,820
+He stood over six feet tall.
+
+15
+00:00:54,820 --> 00:00:56,820
+He lived into his 80s,
+
+16
+00:00:56,820 --> 00:01:01,820
+and he was buried beneath this monument in 720 AD.
+
+17
+00:01:01,820 --> 00:01:03,820
+And Mayan inscriptions proclaim
+
+18
+00:01:03,820 --> 00:01:04,820
+that he was deeply in love with his wife.
+
+19
+00:01:04,820 --> 00:01:09,820
+So, he built a temple in her honor, facing his.
+
+20
+00:01:09,820 --> 00:01:12,820
+And every spring and autumn, exactly at the equinox,
+
+21
+00:01:12,820 --> 00:01:15,820
+the sun rises behind his temple,
+
+22
+00:01:15,820 --> 00:01:20,820
+and perfectly bathes her temple with his shadow.
+
+23
+00:01:20,820 --> 00:01:24,820
+And as the sun sets behind her temple in the afternoon,
+
+24
+00:01:24,820 --> 00:01:27,820
+it perfectly bathes his temple with her shadow.
+
+25
+00:01:27,820 --> 00:01:31,820
+After 1,300 years, these two lovers
+
+26
+00:01:31,820 --> 00:01:34,820
+still touch and kiss from their tomb.
+
+27
+00:01:34,820 --> 00:01:37,820
+Around the world, people love.
+
+28
+00:01:37,820 --> 00:01:40,820
+They sing for love, they dance for love,
+
+29
+00:01:40,820 --> 00:01:43,820
+they compose poems and stories about love.
+
+30
+00:01:43,820 --> 00:01:45,820
+They tell myths and legends about love.
+
+31
+00:01:45,820 --> 00:01:49,820
+They pine for love, they live for love,
+
+32
+00:01:49,820 --> 00:01:51,820
+they kill for love, and they die for love.
+
+33
+00:01:51,820 --> 00:01:53,820
+As Walt Whitman once said,
+
+34
+00:01:53,820 --> 00:01:56,820
+he said, "Oh, I would stake all for you."
+
+35
+00:01:56,820 --> 00:02:01,820
+Anthropologists have found evidence of romantic love in 170 societies.
+
+36
+00:02:01,820 --> 00:02:04,820
+They've never found a society that did not have it.
+
+37
+00:02:04,820 --> 00:02:07,820
+But love isn't always a happy experience.
+
+38
+00:02:07,820 --> 00:02:09,820
+In one study of college students,
+
+39
+00:02:09,820 --> 00:02:11,820
+they asked a lot of questions about love,
+
+40
+00:02:11,820 --> 00:02:14,820
+but the two that stood out to me the most were,
+
+41
+00:02:14,820 --> 00:02:19,820
+"Have you ever been rejected by somebody who you really loved?"
+
+42
+00:02:19,820 --> 00:02:20,820
+And the second question was,
+
+43
+00:02:20,820 --> 00:02:24,820
+"Have you ever dumped somebody who really loved you?"
+
+44
+00:02:24,820 --> 00:02:29,820
+And almost 95 percent of both men and women said yes to both.
+
+45
+00:02:29,820 --> 00:02:33,820
+Almost nobody gets out of love alive.
+
+46
+00:02:33,820 --> 00:02:36,820
+So, before I start telling you about the brain,
+
+47
+00:02:36,820 --> 00:02:38,820
+I want to read for you
+
+48
+00:02:38,820 --> 00:02:41,820
+what I think is the most powerful love poem on Earth.
+
+49
+00:02:41,820 --> 00:02:43,820
+There's other love poems that are, of course, just as good,
+
+50
+00:02:43,820 --> 00:02:45,820
+but I don't think this one can be surpassed.
+
+51
+00:02:45,820 --> 00:02:51,820
+It was told by an anonymous Kwakiutl Indian of southern Alaska
+
+52
+00:02:51,820 --> 00:02:55,820
+to a missionary in 1896, and here it is.
+
+53
+00:02:55,820 --> 00:02:59,820
+I've never had the opportunity to say it before.
+
+54
+00:02:59,820 --> 00:03:02,820
+"Fire runs through my body with the pain of loving you.
+
+55
+00:03:02,820 --> 00:03:07,820
+Pain runs through my body with the fires of my love for you.
+
+56
+00:03:07,820 --> 00:03:10,820
+Pain like a boil about to burst with my love for you,
+
+57
+00:03:10,820 --> 00:03:14,820
+consumed by fire with my love for you.
+
+58
+00:03:14,820 --> 00:03:16,820
+I remember what you said to me.
+
+59
+00:03:16,820 --> 00:03:18,820
+I am thinking of your love for me.
+
+60
+00:03:18,820 --> 00:03:20,820
+I am torn by your love for me.
+
+61
+00:03:20,820 --> 00:03:23,820
+Pain and more pain --
+
+62
+00:03:23,820 --> 00:03:24,820
+where are you going with my love?
+
+63
+00:03:24,820 --> 00:03:27,820
+I am told you will go from here.
+
+64
+00:03:27,820 --> 00:03:28,820
+I am told you will leave me here.
+
+65
+00:03:28,820 --> 00:03:31,820
+My body is numb with grief.
+
+66
+00:03:31,820 --> 00:03:33,820
+Remember what I said, my love.
+
+67
+00:03:33,820 --> 00:03:37,820
+Goodbye, my love, goodbye."
+
+68
+00:03:37,820 --> 00:03:39,820
+Emily Dickinson once wrote,
+
+69
+00:03:39,820 --> 00:03:43,820
+"Parting is all we need to know of hell."
+
+70
+00:03:43,820 --> 00:03:45,820
+How many people have suffered
+
+71
+00:03:45,820 --> 00:03:49,820
+in all the millions of years of human evolution?
+
+72
+00:03:49,820 --> 00:03:51,820
+How many people around the world
+
+73
+00:03:51,820 --> 00:03:55,820
+are dancing with elation at this very minute?
+
+74
+00:03:55,820 --> 00:03:58,820
+Romantic love is one of the most powerful sensations on Earth.
+
+75
+00:03:58,820 --> 00:04:02,820
+So, several years ago, I decided to look into the brain
+
+76
+00:04:02,820 --> 00:04:06,820
+and study this madness.
+
+77
+00:04:06,820 --> 00:04:08,820
+Our first study of people who were happily in love
+
+78
+00:04:08,820 --> 00:04:09,820
+has been widely publicized,
+
+79
+00:04:09,820 --> 00:04:12,820
+so I'm only going to say a very little about it.
+
+80
+00:04:12,820 --> 00:04:16,820
+We found activity in a tiny, little factory near the base of the brain
+
+81
+00:04:16,820 --> 00:04:18,820
+called the ventral tegmental area.
+
+82
+00:04:18,820 --> 00:04:21,820
+We found activity in some cells called the A10 cells,
+
+83
+00:04:21,820 --> 00:04:24,820
+cells that actually make dopamine, a natural stimulant,
+
+84
+00:04:24,820 --> 00:04:26,820
+and spray it to many brain regions.
+
+85
+00:04:26,820 --> 00:04:30,820
+Indeed, this part, the VTA, is part of the brain's reward system.
+
+86
+00:04:30,820 --> 00:04:33,820
+It's way below your cognitive thinking process.
+
+87
+00:04:33,820 --> 00:04:35,820
+It's below your emotions.
+
+88
+00:04:35,820 --> 00:04:38,820
+It's part of what we call the reptilian core of the brain,
+
+89
+00:04:38,820 --> 00:04:41,820
+associated with wanting, with motivation,
+
+90
+00:04:41,820 --> 00:04:43,820
+with focus and with craving.
+
+91
+00:04:43,820 --> 00:04:46,820
+In fact, the same brain region where we found activity
+
+92
+00:04:46,820 --> 00:04:50,820
+becomes active also when you feel the rush of cocaine.
+
+93
+00:04:50,820 --> 00:04:53,820
+But romantic love is much more than a cocaine high --
+
+94
+00:04:53,820 --> 00:04:56,820
+at least you come down from cocaine.
+
+95
+00:04:56,820 --> 00:04:59,820
+Romantic love is an obsession. It possesses you.
+
+96
+00:04:59,820 --> 00:05:00,820
+You lose your sense of self.
+
+97
+00:05:00,820 --> 00:05:04,820
+You can't stop thinking about another human being.
+
+98
+00:05:04,820 --> 00:05:06,820
+Somebody is camping in your head.
+
+99
+00:05:06,820 --> 00:05:09,820
+As an eighth-century Japanese poet said,
+
+100
+00:05:09,820 --> 00:05:12,820
+"My longing had no time when it ceases."
+
+101
+00:05:12,820 --> 00:05:14,820
+Wild is love.
+
+102
+00:05:15,820 --> 00:05:18,820
+And the obsession can get worse when you've been rejected.
+
+103
+00:05:18,820 --> 00:05:23,820
+So, right now, Lucy Brown and I, the neuroscientist on our project,
+
+104
+00:05:23,820 --> 00:05:25,820
+are looking at the data of the people
+
+105
+00:05:25,820 --> 00:05:29,820
+who were put into the machine after they had just been dumped.
+
+106
+00:05:29,820 --> 00:05:31,820
+It was very difficult actually,
+
+107
+00:05:31,820 --> 00:05:32,820
+putting these people in the machine,
+
+108
+00:05:32,820 --> 00:05:33,820
+because they were in such bad shape.
+
+109
+00:05:33,820 --> 00:05:38,820
+(Laughter)
+
+110
+00:05:38,820 --> 00:05:40,820
+So anyway, we found activity in three brain regions.
+
+111
+00:05:40,820 --> 00:05:43,820
+We found activity in the brain region,
+
+112
+00:05:43,820 --> 00:05:45,820
+in exactly the same brain region
+
+113
+00:05:45,820 --> 00:05:47,820
+associated with intense romantic love.
+
+114
+00:05:47,820 --> 00:05:49,820
+What a bad deal.
+
+115
+00:05:49,820 --> 00:05:51,820
+You know, when you've been dumped,
+
+116
+00:05:51,820 --> 00:05:53,820
+the one thing you love to do is just forget about this human being,
+
+117
+00:05:53,820 --> 00:05:54,820
+and then go on with your life --
+
+118
+00:05:54,820 --> 00:05:57,820
+but no, you just love them harder.
+
+119
+00:05:57,820 --> 00:06:02,820
+As the poet Terence, the Roman poet once said,
+
+120
+00:06:02,820 --> 00:06:04,820
+he said, "The less my hope, the hotter my love."
+
+121
+00:06:04,820 --> 00:06:07,820
+And indeed, we now know why.
+
+122
+00:06:07,820 --> 00:06:10,820
+Two thousand years later, we can explain this in the brain.
+
+123
+00:06:10,820 --> 00:06:13,820
+That brain system -- the reward system
+
+124
+00:06:13,820 --> 00:06:17,820
+for wanting, for motivation, for craving, for focus --
+
+125
+00:06:17,820 --> 00:06:20,820
+becomes more active when you can't get what you want.
+
+126
+00:06:20,820 --> 00:06:22,820
+In this case, life's greatest prize:
+
+127
+00:06:22,820 --> 00:06:25,820
+an appropriate mating partner.
+
+128
+00:06:25,820 --> 00:06:27,820
+We found activity in other brain regions also --
+
+129
+00:06:27,820 --> 00:06:32,820
+in a brain region associated with calculating gains and losses.
+
+130
+00:06:32,820 --> 00:06:34,820
+You know, you're lying there, you're looking at the picture,
+
+131
+00:06:34,820 --> 00:06:35,820
+and you're in this machine,
+
+132
+00:06:35,820 --> 00:06:39,820
+and you're calculating, you know, what went wrong.
+
+133
+00:06:39,820 --> 00:06:41,820
+How, you know, what have I lost?
+
+134
+00:06:41,820 --> 00:06:44,820
+As a matter of fact, Lucy and I have a little joke about this.
+
+135
+00:06:44,820 --> 00:06:48,820
+It comes from a David Mamet play,
+
+136
+00:06:48,820 --> 00:06:49,820
+and there's two con artists in the play,
+
+137
+00:06:49,820 --> 00:06:52,820
+and the woman is conning the man,
+
+138
+00:06:52,820 --> 00:06:53,820
+and the man looks at the woman and says,
+
+139
+00:06:53,820 --> 00:06:59,820
+"Oh, you're a bad pony, I'm not going to bet on you."
+
+140
+00:06:59,820 --> 00:07:01,820
+And indeed, it's this part of the brain,
+
+141
+00:07:01,820 --> 00:07:04,820
+the core of the nucleus accumbens, actually, that is becoming active
+
+142
+00:07:04,820 --> 00:07:06,820
+as you're measuring your gains and losses.
+
+143
+00:07:06,820 --> 00:07:09,820
+It's also the brain region that becomes active
+
+144
+00:07:09,820 --> 00:07:11,820
+when you're willing to take enormous risks
+
+145
+00:07:11,820 --> 00:07:14,820
+for huge gains and huge losses.
+
+146
+00:07:14,820 --> 00:07:17,820
+Last but not least, we found activity in a brain region
+
+147
+00:07:17,820 --> 00:07:22,820
+associated with deep attachment to another individual.
+
+148
+00:07:22,820 --> 00:07:26,820
+No wonder people suffer around the world,
+
+149
+00:07:26,820 --> 00:07:29,820
+and we have so many crimes of passion.
+
+150
+00:07:29,820 --> 00:07:30,820
+When you've been rejected in love,
+
+151
+00:07:30,820 --> 00:07:34,820
+not only are you engulfed with feelings of romantic love,
+
+152
+00:07:34,820 --> 00:07:37,820
+but you're feeling deep attachment to this individual.
+
+153
+00:07:37,820 --> 00:07:40,820
+Moreover, this brain circuit for reward is working,
+
+154
+00:07:40,820 --> 00:07:44,820
+and you're feeling intense energy, intense focus,
+
+155
+00:07:44,820 --> 00:07:48,820
+intense motivation and the willingness to risk it all
+
+156
+00:07:48,820 --> 00:07:52,820
+to win life's greatest prize.
+
+157
+00:07:52,820 --> 00:07:55,820
+So, what have I learned from this experiment
+
+158
+00:07:55,820 --> 00:07:57,820
+that I would like to tell the world?
+
+159
+00:07:57,820 --> 00:07:59,820
+Foremost, I have come to think
+
+160
+00:07:59,820 --> 00:08:02,820
+that romantic love is a drive, a basic mating drive.
+
+161
+00:08:02,820 --> 00:08:04,820
+Not the sex drive -- the sex drive gets you out there,
+
+162
+00:08:04,820 --> 00:08:06,820
+looking for a whole range of partners.
+
+163
+00:08:06,820 --> 00:08:09,820
+Romantic love enables you to focus your mating energy
+
+164
+00:08:09,820 --> 00:08:12,820
+on just one at a time, conserve your mating energy,
+
+165
+00:08:12,820 --> 00:08:15,820
+and start the mating process with this single individual.
+
+166
+00:08:15,820 --> 00:08:19,820
+I think of all the poetry that I've read about romantic love,
+
+167
+00:08:19,820 --> 00:08:23,820
+what sums it up best is something that is said by Plato,
+
+168
+00:08:23,820 --> 00:08:25,820
+over 2,000 years ago.
+
+169
+00:08:25,820 --> 00:08:29,820
+He said, "The god of love lives in a state of need.
+
+170
+00:08:29,820 --> 00:08:32,820
+It is a need. It is an urge.
+
+171
+00:08:32,820 --> 00:08:35,820
+It is a homeostatic imbalance.
+
+172
+00:08:35,820 --> 00:08:39,820
+Like hunger and thirst, it's almost impossible to stamp out."
+
+173
+00:08:39,820 --> 00:08:43,820
+I've also come to believe that romantic love is an addiction:
+
+174
+00:08:43,820 --> 00:08:45,820
+a perfectly wonderful addiction when it's going well,
+
+175
+00:08:45,820 --> 00:08:49,820
+and a perfectly horrible addiction when it's going poorly.
+
+176
+00:08:49,820 --> 00:08:52,820
+And indeed, it has all of the characteristics of addiction.
+
+177
+00:08:52,820 --> 00:08:55,820
+You focus on the person, you obsessively think about them,
+
+178
+00:08:55,820 --> 00:08:58,820
+you crave them, you distort reality,
+
+179
+00:08:58,820 --> 00:09:00,820
+your willingness to take enormous risks to win this person.
+
+180
+00:09:01,820 --> 00:09:03,820
+And it's got the three main characteristics of addiction:
+
+181
+00:09:03,820 --> 00:09:07,820
+tolerance, you need to see them more, and more, and more;
+
+182
+00:09:07,820 --> 00:09:09,820
+withdrawals; and last, relapse.
+
+183
+00:09:09,820 --> 00:09:13,820
+I've got a girlfriend who's just getting over a terrible love affair.
+
+184
+00:09:13,820 --> 00:09:15,820
+It's been about eight months, she's beginning to feel better.
+
+185
+00:09:15,820 --> 00:09:18,820
+And she was driving along in her car the other day,
+
+186
+00:09:18,820 --> 00:09:20,820
+and suddenly she heard a song on the car radio
+
+187
+00:09:20,820 --> 00:09:22,820
+that reminded her of this man.
+
+188
+00:09:22,820 --> 00:09:25,820
+And she -- not only did the instant craving come back,
+
+189
+00:09:25,820 --> 00:09:27,820
+but she had to pull over
+
+190
+00:09:27,820 --> 00:09:29,820
+from the side of the road and cry.
+
+191
+00:09:29,820 --> 00:09:31,820
+So, one thing I would like the medical community,
+
+192
+00:09:31,820 --> 00:09:34,820
+and the legal community, and even the college community,
+
+193
+00:09:34,820 --> 00:09:37,820
+to see if they can understand, that indeed,
+
+194
+00:09:37,820 --> 00:09:41,820
+romantic love is one of the most addictive substances on Earth.
+
+195
+00:09:41,820 --> 00:09:45,820
+I would also like to tell the world that animals love.
+
+196
+00:09:45,820 --> 00:09:46,820
+There's not an animal on this planet
+
+197
+00:09:46,820 --> 00:09:49,820
+that will copulate with anything that comes along.
+
+198
+00:09:49,820 --> 00:09:54,820
+Too old, too young, too scruffy, too stupid, and they won't do it.
+
+199
+00:09:54,820 --> 00:09:57,820
+Unless you're stuck in a laboratory cage --
+
+200
+00:09:57,820 --> 00:10:00,820
+and you know, if you spend your entire life in a little box,
+
+201
+00:10:00,820 --> 00:10:04,820
+you're not going to be as picky about who you have sex with --
+
+202
+00:10:04,820 --> 00:10:06,820
+but I've looked in a hundred species,
+
+203
+00:10:06,820 --> 00:10:10,820
+and everywhere in the wild, animals have favorites.
+
+204
+00:10:10,820 --> 00:10:12,820
+As a matter of fact ethologists know this.
+
+205
+00:10:12,820 --> 00:10:16,820
+There are over eight words for what they call "animal favoritism:"
+
+206
+00:10:16,820 --> 00:10:21,820
+selective proceptivity, mate choice, female choice, sexual choice.
+
+207
+00:10:21,820 --> 00:10:24,820
+And indeed, there are now three academic articles
+
+208
+00:10:24,820 --> 00:10:27,820
+in which they've looked at this attraction,
+
+209
+00:10:27,820 --> 00:10:29,820
+which may only last for a second,
+
+210
+00:10:29,820 --> 00:10:30,820
+but it's a definite attraction,
+
+211
+00:10:30,820 --> 00:10:34,820
+and either this same brain region, this reward system,
+
+212
+00:10:34,820 --> 00:10:37,820
+or the chemicals of that reward system are involved.
+
+213
+00:10:37,820 --> 00:10:40,820
+In fact, I think animal attraction can be instant --
+
+214
+00:10:40,820 --> 00:10:43,820
+you can see an elephant instantly go for another elephant.
+
+215
+00:10:43,820 --> 00:10:45,820
+And I think that this is really the origin
+
+216
+00:10:45,820 --> 00:10:47,820
+of what you and I call "love at first sight."
+
+217
+00:10:47,820 --> 00:10:52,820
+People have often asked me whether
+
+218
+00:10:52,820 --> 00:10:55,820
+what I know about love has spoiled it for me.
+
+219
+00:10:55,820 --> 00:10:57,820
+And I just simply say, "Hardly."
+
+220
+00:10:57,820 --> 00:11:00,820
+You can know every single ingredient in a piece of chocolate cake,
+
+221
+00:11:00,820 --> 00:11:03,820
+and then when you sit down and eat that cake,
+
+222
+00:11:03,820 --> 00:11:05,820
+you can still feel that joy.
+
+223
+00:11:05,820 --> 00:11:07,820
+And certainly, I make all the same mistakes
+
+224
+00:11:07,820 --> 00:11:09,820
+that everybody else does too,
+
+225
+00:11:09,820 --> 00:11:13,820
+but it's really deepened my understanding
+
+226
+00:11:13,820 --> 00:11:17,820
+and compassion, really, for all human life.
+
+227
+00:11:17,820 --> 00:11:20,820
+As a matter of fact, in New York, I often catch myself
+
+228
+00:11:20,820 --> 00:11:24,820
+looking in baby carriages and feeling a little sorry for the tot.
+
+229
+00:11:24,820 --> 00:11:27,820
+And in fact, sometimes I feel a little sorry
+
+230
+00:11:27,820 --> 00:11:28,820
+for the chicken on my dinner plate,
+
+231
+00:11:28,820 --> 00:11:34,820
+when I think of how intense this brain system is.
+
+232
+00:11:34,820 --> 00:11:39,820
+Our newest experiment has been hatched
+
+233
+00:11:39,820 --> 00:11:41,820
+by my colleague, Art Aron --
+
+234
+00:11:41,820 --> 00:11:44,820
+putting people who are reporting that they are still in love,
+
+235
+00:11:44,820 --> 00:11:48,820
+in a long-term relationship, into the functional MRI.
+
+236
+00:11:48,820 --> 00:11:50,820
+We've put five people in so far,
+
+237
+00:11:50,820 --> 00:11:55,820
+and indeed, we found exactly the same thing. They're not lying.
+
+238
+00:11:55,820 --> 00:11:59,820
+The brain areas
+
+239
+00:11:59,820 --> 00:12:01,820
+associated with intense romantic love
+
+240
+00:12:01,820 --> 00:12:05,820
+still become active, 25 years later.
+
+241
+00:12:05,820 --> 00:12:08,820
+There are still many questions to be answered
+
+242
+00:12:08,820 --> 00:12:11,820
+and asked about romantic love.
+
+243
+00:12:11,820 --> 00:12:12,820
+The question that I'm working on right this minute --
+
+244
+00:12:12,820 --> 00:12:15,820
+and I'm only going to say it for a second, and then end --
+
+245
+00:12:15,820 --> 00:12:19,820
+is, why do you fall in love with one person, rather than another?
+
+246
+00:12:19,820 --> 00:12:22,820
+I never would have even thought to think of this,
+
+247
+00:12:22,820 --> 00:12:24,820
+but Match.com, the Internet-dating site,
+
+248
+00:12:24,820 --> 00:12:26,820
+came to me three years ago and asked me that question.
+
+249
+00:12:26,820 --> 00:12:28,820
+And I said, I don't know.
+
+250
+00:12:28,820 --> 00:12:31,820
+I know what happens in the brain, when you do become in love,
+
+251
+00:12:31,820 --> 00:12:33,820
+but I don't know why you fall in love with one person
+
+252
+00:12:33,820 --> 00:12:34,820
+rather than another.
+
+253
+00:12:34,820 --> 00:12:38,820
+And so, I've spent the last three years on this.
+
+254
+00:12:38,820 --> 00:12:40,820
+And there are many reasons that you fall in love with one person
+
+255
+00:12:40,820 --> 00:12:42,820
+rather than another, that psychologists can tell you.
+
+256
+00:12:42,820 --> 00:12:43,820
+And we tend to fall in love with somebody
+
+257
+00:12:43,820 --> 00:12:46,820
+from the same socioeconomic background,
+
+258
+00:12:46,820 --> 00:12:47,820
+the same general level of intelligence,
+
+259
+00:12:47,820 --> 00:12:49,820
+the same general level of good looks,
+
+260
+00:12:49,820 --> 00:12:51,820
+the same religious values.
+
+261
+00:12:51,820 --> 00:12:54,820
+Your childhood certainly plays a role, but nobody knows how.
+
+262
+00:12:54,820 --> 00:12:56,820
+And that's about it, that's all they know.
+
+263
+00:12:56,820 --> 00:12:59,820
+No, they've never found the way two personalities
+
+264
+00:12:59,820 --> 00:13:02,820
+fit together to make a good relationship.
+
+265
+00:13:02,820 --> 00:13:04,820
+So, it began to occur to me
+
+266
+00:13:04,820 --> 00:13:06,820
+that maybe your biology pulls you
+
+267
+00:13:06,820 --> 00:13:09,820
+towards some people rather than another.
+
+268
+00:13:09,820 --> 00:13:13,820
+And I have concocted a questionnaire to see to what degree
+
+269
+00:13:13,820 --> 00:13:18,820
+you express dopamine, serotonin, estrogen and testosterone.
+
+270
+00:13:18,820 --> 00:13:21,820
+I think we've evolved four very broad personality types
+
+271
+00:13:21,820 --> 00:13:25,820
+associated with the ratios of these four chemicals in the brain.
+
+272
+00:13:25,820 --> 00:13:27,820
+And on this dating site that I have created,
+
+273
+00:13:27,820 --> 00:13:33,820
+called Chemistry.com, I ask you first a series of questions
+
+274
+00:13:33,820 --> 00:13:36,820
+to see to what degree you express these chemicals,
+
+275
+00:13:36,820 --> 00:13:40,820
+and I'm watching who chooses who to love.
+
+276
+00:13:40,820 --> 00:13:43,820
+And 3.7 million people have taken the questionnaire in America.
+
+277
+00:13:43,820 --> 00:13:49,820
+About 600,000 people have taken it in 33 other countries.
+
+278
+00:13:49,820 --> 00:13:50,820
+I'm putting the data together now,
+
+279
+00:13:50,820 --> 00:13:53,820
+and at some point -- there will always be magic to love,
+
+280
+00:13:53,820 --> 00:13:56,820
+but I think I will come closer to understanding
+
+281
+00:13:56,820 --> 00:13:59,820
+why it is you can walk into a room
+
+282
+00:13:59,820 --> 00:14:01,820
+and everybody is from your background,
+
+283
+00:14:01,820 --> 00:14:03,820
+your same general level of intelligence,
+
+284
+00:14:03,820 --> 00:14:04,820
+your same general level of good looks,
+
+285
+00:14:04,820 --> 00:14:07,820
+and you don't feel pulled towards all of them.
+
+286
+00:14:07,820 --> 00:14:09,820
+I think there's biology to that.
+
+287
+00:14:09,820 --> 00:14:12,820
+I think we're going to end up, in the next few years,
+
+288
+00:14:12,820 --> 00:14:14,820
+to understand all kinds of brain mechanisms
+
+289
+00:14:14,820 --> 00:14:17,820
+that pull us to one person rather than another.
+
+290
+00:14:17,820 --> 00:14:23,820
+So, I will close with this. These are my older people.
+
+291
+00:14:23,820 --> 00:14:26,820
+Faulkner once said, "The past is not dead,
+
+292
+00:14:26,820 --> 00:14:27,820
+it's not even the past."
+
+293
+00:14:27,820 --> 00:14:30,820
+Indeed, we carry a lot of luggage
+
+294
+00:14:30,820 --> 00:14:33,820
+from our yesteryear in the human brain.
+
+295
+00:14:33,820 --> 00:14:34,820
+And so, there's one thing
+
+296
+00:14:34,820 --> 00:14:41,820
+that makes me pursue my understanding of human nature,
+
+297
+00:14:41,820 --> 00:14:43,820
+and this reminds me of it.
+
+298
+00:14:43,820 --> 00:14:44,820
+These are two women.
+
+299
+00:14:44,820 --> 00:14:47,820
+Women tend to get intimacy differently than men do.
+
+300
+00:14:47,820 --> 00:14:49,820
+Women get intimacy from face-to-face talking.
+
+301
+00:14:49,820 --> 00:14:51,820
+We swivel towards each other,
+
+302
+00:14:51,820 --> 00:14:55,820
+we do what we call the "anchoring gaze" and we talk.
+
+303
+00:14:55,820 --> 00:14:57,820
+This is intimacy to women.
+
+304
+00:14:57,820 --> 00:14:58,820
+I think it comes from millions of years
+
+305
+00:14:58,820 --> 00:15:00,820
+of holding that baby in front of your face,
+
+306
+00:15:00,820 --> 00:15:03,820
+cajoling it, reprimanding it, educating it with words.
+
+307
+00:15:03,820 --> 00:15:07,820
+Men tend to get intimacy from side-by-side doing.
+
+308
+00:15:07,820 --> 00:15:08,820
+(Laughter)
+
+309
+00:15:08,820 --> 00:15:11,820
+As soon as one guy looks up, the other guy will look away.
+
+310
+00:15:11,820 --> 00:15:13,820
+(Laughter)
+
+311
+00:15:13,820 --> 00:15:15,820
+I think it comes from millions of years
+
+312
+00:15:15,820 --> 00:15:18,820
+of standing behind that -- sitting behind the bush,
+
+313
+00:15:18,820 --> 00:15:20,820
+looking straight ahead,
+
+314
+00:15:20,820 --> 00:15:22,820
+trying to hit that buffalo on the head with a rock.
+
+315
+00:15:22,820 --> 00:15:23,820
+(Laughter)
+
+316
+00:15:23,820 --> 00:15:25,820
+I think, for millions of years, men faced their enemies,
+
+317
+00:15:25,820 --> 00:15:28,820
+they sat side by side with friends.
+
+318
+00:15:28,820 --> 00:15:32,820
+So my final statement is: love is in us.
+
+319
+00:15:32,820 --> 00:15:35,820
+It's deeply embedded in the brain.
+
+320
+00:15:35,820 --> 00:15:38,820
+Our challenge is to understand each other. Thank you.
+
+321
+00:15:38,820 --> 00:15:43,820
+(Applause)
+

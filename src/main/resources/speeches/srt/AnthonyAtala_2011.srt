@@ -1,0 +1,1480 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+There's actually a major health crisis today
+
+2
+00:00:14,820 --> 00:00:16,820
+in terms of the shortage of organs.
+
+3
+00:00:16,820 --> 00:00:18,820
+The fact is that we're living longer.
+
+4
+00:00:18,820 --> 00:00:20,820
+Medicine has done a much better job
+
+5
+00:00:20,820 --> 00:00:22,820
+of making us live longer,
+
+6
+00:00:22,820 --> 00:00:24,820
+and the problem is, as we age,
+
+7
+00:00:24,820 --> 00:00:27,820
+our organs tend to fail more,
+
+8
+00:00:27,820 --> 00:00:29,820
+and so currently
+
+9
+00:00:29,820 --> 00:00:31,820
+there are not enough organs to go around.
+
+10
+00:00:31,820 --> 00:00:33,820
+In fact, in the last 10 years,
+
+11
+00:00:33,820 --> 00:00:36,820
+the number of patients requiring an organ has doubled,
+
+12
+00:00:36,820 --> 00:00:38,820
+while in the same time,
+
+13
+00:00:38,820 --> 00:00:41,820
+the actual number of transplants has barely gone up.
+
+14
+00:00:41,820 --> 00:00:43,820
+So this is now a public health crisis.
+
+15
+00:00:43,820 --> 00:00:45,820
+So that's where this field comes in
+
+16
+00:00:45,820 --> 00:00:47,820
+that we call the field of regenerative medicine.
+
+17
+00:00:47,820 --> 00:00:49,820
+It really involves many different areas.
+
+18
+00:00:49,820 --> 00:00:51,820
+You can use, actually, scaffolds,
+
+19
+00:00:51,820 --> 00:00:53,820
+biomaterials --
+
+20
+00:00:53,820 --> 00:00:55,820
+they're like the piece of your blouse or your shirt --
+
+21
+00:00:55,820 --> 00:00:58,820
+but specific materials you can actually implant in patients
+
+22
+00:00:58,820 --> 00:01:01,820
+and they will do well and help you regenerate.
+
+23
+00:01:01,820 --> 00:01:04,820
+Or we can use cells alone,
+
+24
+00:01:04,820 --> 00:01:06,820
+either your very own cells
+
+25
+00:01:06,820 --> 00:01:08,820
+or different stem cell populations.
+
+26
+00:01:08,820 --> 00:01:10,820
+Or we can use both.
+
+27
+00:01:10,820 --> 00:01:12,820
+We can use, actually, biomaterials
+
+28
+00:01:12,820 --> 00:01:14,820
+and the cells together.
+
+29
+00:01:14,820 --> 00:01:17,820
+And that's where the field is today.
+
+30
+00:01:17,820 --> 00:01:19,820
+But it's actually not a new field.
+
+31
+00:01:19,820 --> 00:01:21,820
+Interestingly, this is a book
+
+32
+00:01:21,820 --> 00:01:24,820
+that was published back in 1938.
+
+33
+00:01:24,820 --> 00:01:26,820
+It's titled "The Culture of Organs."
+
+34
+00:01:26,820 --> 00:01:29,820
+The first author, Alexis Carrel, a Nobel Prize winner.
+
+35
+00:01:29,820 --> 00:01:31,820
+He actually devised some of the same technologies
+
+36
+00:01:31,820 --> 00:01:33,820
+used today for suturing blood vessels,
+
+37
+00:01:33,820 --> 00:01:36,820
+and some of the blood vessel grafts we use today
+
+38
+00:01:36,820 --> 00:01:39,820
+were actually designed by Alexis.
+
+39
+00:01:39,820 --> 00:01:42,820
+But I want you to note his co-author:
+
+40
+00:01:42,820 --> 00:01:44,820
+Charles Lindbergh.
+
+41
+00:01:44,820 --> 00:01:47,820
+That's the same Charles Lindbergh
+
+42
+00:01:47,820 --> 00:01:49,820
+who actually spent the rest of his life
+
+43
+00:01:49,820 --> 00:01:51,820
+working with Alexis
+
+44
+00:01:51,820 --> 00:01:53,820
+at the Rockefeller Institute in New York
+
+45
+00:01:53,820 --> 00:01:55,820
+in the area of the culture of organs.
+
+46
+00:01:55,820 --> 00:01:57,820
+So if the field's been around for so long,
+
+47
+00:01:57,820 --> 00:01:59,820
+why so few clinical advances?
+
+48
+00:01:59,820 --> 00:02:02,820
+And that really has to do to many different challenges.
+
+49
+00:02:02,820 --> 00:02:04,820
+But if I were to point to three challenges,
+
+50
+00:02:04,820 --> 00:02:06,820
+the first one is actually the design of materials
+
+51
+00:02:06,820 --> 00:02:08,820
+that could go in your body
+
+52
+00:02:08,820 --> 00:02:10,820
+and do well over time.
+
+53
+00:02:10,820 --> 00:02:12,820
+And many advances now,
+
+54
+00:02:12,820 --> 00:02:14,820
+we can do that fairly readily.
+
+55
+00:02:14,820 --> 00:02:16,820
+The second challenge was cells.
+
+56
+00:02:16,820 --> 00:02:19,820
+We could not get enough of your cells to grow outside of your body.
+
+57
+00:02:19,820 --> 00:02:22,820
+Over the last 20 years, we've basically tackled that.
+
+58
+00:02:22,820 --> 00:02:24,820
+Many scientists can now grow many different types of cells.
+
+59
+00:02:24,820 --> 00:02:26,820
+Plus we have stem cells.
+
+60
+00:02:26,820 --> 00:02:29,820
+But even now, 2011,
+
+61
+00:02:29,820 --> 00:02:33,820
+there's still certain cells that we just can't grow from the patient.
+
+62
+00:02:33,820 --> 00:02:36,820
+Liver cells, nerve cells, pancreatic cells --
+
+63
+00:02:36,820 --> 00:02:39,820
+we still can't grow them even today.
+
+64
+00:02:39,820 --> 00:02:41,820
+And the third challenge is vascularity,
+
+65
+00:02:41,820 --> 00:02:44,820
+the actual supply of blood
+
+66
+00:02:44,820 --> 00:02:47,820
+to allow those organs or tissues to survive
+
+67
+00:02:47,820 --> 00:02:49,820
+once we regenerate them.
+
+68
+00:02:49,820 --> 00:02:51,820
+So we can actually use biomaterials now.
+
+69
+00:02:51,820 --> 00:02:53,820
+This is actually a biomaterial.
+
+70
+00:02:53,820 --> 00:02:56,820
+We can weave them, knit them, or we can make them like you see here.
+
+71
+00:02:56,820 --> 00:02:59,820
+This is actually like a cotton candy machine.
+
+72
+00:02:59,820 --> 00:03:01,820
+You saw the spray going in.
+
+73
+00:03:01,820 --> 00:03:03,820
+That was like the fibers of the cotton candy
+
+74
+00:03:03,820 --> 00:03:05,820
+creating this structure, this tubularized structure,
+
+75
+00:03:05,820 --> 00:03:07,820
+which is a biomaterial
+
+76
+00:03:07,820 --> 00:03:09,820
+that we can then use
+
+77
+00:03:09,820 --> 00:03:11,820
+to help your body regenerate
+
+78
+00:03:11,820 --> 00:03:14,820
+using your very own cells to do so.
+
+79
+00:03:14,820 --> 00:03:16,820
+And that's exactly what we did here.
+
+80
+00:03:16,820 --> 00:03:18,820
+This is actually a patient
+
+81
+00:03:18,820 --> 00:03:20,820
+who [was] presented with a deceased organ,
+
+82
+00:03:20,820 --> 00:03:23,820
+and we then created one of these smart biomaterials,
+
+83
+00:03:23,820 --> 00:03:25,820
+and then we then used that smart biomaterial
+
+84
+00:03:25,820 --> 00:03:28,820
+to replace and repair
+
+85
+00:03:28,820 --> 00:03:30,820
+that patient's structure.
+
+86
+00:03:30,820 --> 00:03:32,820
+What we did was we actually
+
+87
+00:03:32,820 --> 00:03:34,820
+used the biomaterial as a bridge
+
+88
+00:03:34,820 --> 00:03:36,820
+so that the cells in the organ
+
+89
+00:03:36,820 --> 00:03:38,820
+could walk on that bridge, if you will,
+
+90
+00:03:38,820 --> 00:03:40,820
+and help to bridge the gap
+
+91
+00:03:40,820 --> 00:03:42,820
+to regenerate that tissue.
+
+92
+00:03:42,820 --> 00:03:44,820
+And you see that patient now six months after
+
+93
+00:03:44,820 --> 00:03:47,820
+with an X-ray showing you the regenerated tissue,
+
+94
+00:03:47,820 --> 00:03:49,820
+which is fully regenerated
+
+95
+00:03:49,820 --> 00:03:52,820
+when you analyze it under the microscope.
+
+96
+00:03:52,820 --> 00:03:54,820
+We can also use cells alone.
+
+97
+00:03:54,820 --> 00:03:57,820
+These are actually cells that we obtained.
+
+98
+00:03:57,820 --> 00:04:00,820
+These are stem cells that we create from specific sources,
+
+99
+00:04:00,820 --> 00:04:02,820
+and we can drive them to become heart cells,
+
+100
+00:04:02,820 --> 00:04:04,820
+and they start beating in culture.
+
+101
+00:04:04,820 --> 00:04:06,820
+So they know what to do.
+
+102
+00:04:06,820 --> 00:04:08,820
+The cells genetically know what to do,
+
+103
+00:04:08,820 --> 00:04:10,820
+and they start beating together.
+
+104
+00:04:10,820 --> 00:04:12,820
+Now today, many clinical trials
+
+105
+00:04:12,820 --> 00:04:14,820
+are using different kinds of stem cells
+
+106
+00:04:14,820 --> 00:04:16,820
+for heart disease.
+
+107
+00:04:16,820 --> 00:04:19,820
+So that's actually now in patients.
+
+108
+00:04:19,820 --> 00:04:21,820
+Or if we're going to use larger structures
+
+109
+00:04:21,820 --> 00:04:23,820
+to replace larger structures,
+
+110
+00:04:23,820 --> 00:04:25,820
+we can then use the patient's own cells,
+
+111
+00:04:25,820 --> 00:04:27,820
+or some cell population,
+
+112
+00:04:27,820 --> 00:04:29,820
+and the biomaterials,
+
+113
+00:04:29,820 --> 00:04:31,820
+the scaffolds, together.
+
+114
+00:04:31,820 --> 00:04:33,820
+So the concept here:
+
+115
+00:04:33,820 --> 00:04:36,820
+so if you do have a deceased or injured organ,
+
+116
+00:04:36,820 --> 00:04:38,820
+we take a very small piece of that tissue,
+
+117
+00:04:38,820 --> 00:04:41,820
+less than half the size of a postage stamp.
+
+118
+00:04:41,820 --> 00:04:44,820
+We then tease the cells apart,
+
+119
+00:04:44,820 --> 00:04:46,820
+we grow the cells outside the body.
+
+120
+00:04:46,820 --> 00:04:49,820
+We then take a scaffold, a biomaterial --
+
+121
+00:04:49,820 --> 00:04:52,820
+again, looks very much like a piece of your blouse or your shirt --
+
+122
+00:04:52,820 --> 00:04:54,820
+we then shape that material,
+
+123
+00:04:54,820 --> 00:04:57,820
+and we then use those cells to coat that material
+
+124
+00:04:57,820 --> 00:04:59,820
+one layer at a time --
+
+125
+00:04:59,820 --> 00:05:02,820
+very much like baking a layer cake, if you will.
+
+126
+00:05:02,820 --> 00:05:04,820
+We then place it in an oven-like device,
+
+127
+00:05:04,820 --> 00:05:06,820
+and we're able to create that structure
+
+128
+00:05:06,820 --> 00:05:08,820
+and bring it out.
+
+129
+00:05:08,820 --> 00:05:10,820
+This is actually a heart valve
+
+130
+00:05:10,820 --> 00:05:12,820
+that we've engineered,
+
+131
+00:05:12,820 --> 00:05:15,820
+and you can see here, we have the structure of the heart valve
+
+132
+00:05:15,820 --> 00:05:18,820
+and we've seeded that with cells,
+
+133
+00:05:18,820 --> 00:05:20,820
+and then we exercise it.
+
+134
+00:05:20,820 --> 00:05:22,820
+So you see the leaflets opening and closing --
+
+135
+00:05:22,820 --> 00:05:24,820
+of this heart valve
+
+136
+00:05:24,820 --> 00:05:28,820
+that's currently being used experimentally
+
+137
+00:05:28,820 --> 00:05:31,820
+to try to get it to further studies.
+
+138
+00:05:31,820 --> 00:05:33,820
+Another technology
+
+139
+00:05:33,820 --> 00:05:35,820
+that we have used in patients
+
+140
+00:05:35,820 --> 00:05:37,820
+actually involves bladders.
+
+141
+00:05:37,820 --> 00:05:40,820
+We actually take a very small piece of the bladder from the patient --
+
+142
+00:05:40,820 --> 00:05:43,820
+less than half the size of a postage stamp.
+
+143
+00:05:43,820 --> 00:05:45,820
+We then grow the cells outside the body,
+
+144
+00:05:45,820 --> 00:05:47,820
+take the scaffold, coat the scaffold with the cells --
+
+145
+00:05:47,820 --> 00:05:50,820
+the patient's own cells, two different cell types.
+
+146
+00:05:50,820 --> 00:05:53,820
+We then put it in this oven-like device.
+
+147
+00:05:53,820 --> 00:05:55,820
+It has the same conditions as the human body --
+
+148
+00:05:55,820 --> 00:05:58,820
+37 degrees centigrade, 95 percent oxygen.
+
+149
+00:05:58,820 --> 00:06:01,820
+A few weeks later, you have your engineered organ
+
+150
+00:06:01,820 --> 00:06:04,820
+that we're able to implant back into the patient.
+
+151
+00:06:04,820 --> 00:06:07,820
+For these specific patients, we actually just suture these materials.
+
+152
+00:06:07,820 --> 00:06:10,820
+We use three-dimensional imagining analysis,
+
+153
+00:06:10,820 --> 00:06:13,820
+but we actually created these biomaterials by hand.
+
+154
+00:06:14,820 --> 00:06:16,820
+But we now have better ways
+
+155
+00:06:16,820 --> 00:06:18,820
+to create these structures with the cells.
+
+156
+00:06:18,820 --> 00:06:22,820
+We use now some type of technologies,
+
+157
+00:06:22,820 --> 00:06:24,820
+where for solid organs, for example,
+
+158
+00:06:24,820 --> 00:06:26,820
+like the liver,
+
+159
+00:06:26,820 --> 00:06:29,820
+what we do is we take discard livers.
+
+160
+00:06:29,820 --> 00:06:32,820
+As you know, a lot of organs are actually discarded, not used.
+
+161
+00:06:32,820 --> 00:06:34,820
+So we can take these liver structures,
+
+162
+00:06:34,820 --> 00:06:36,820
+which are not going to be used,
+
+163
+00:06:36,820 --> 00:06:40,820
+and we then put them in a washing machine-like structure
+
+164
+00:06:40,820 --> 00:06:42,820
+that will allow the cells to be washed away.
+
+165
+00:06:42,820 --> 00:06:44,820
+Two weeks later,
+
+166
+00:06:44,820 --> 00:06:46,820
+you have something that looks like a liver.
+
+167
+00:06:46,820 --> 00:06:48,820
+You can hold it like a liver,
+
+168
+00:06:48,820 --> 00:06:51,820
+but it has no cells; it's just a skeleton of the liver.
+
+169
+00:06:51,820 --> 00:06:55,820
+And we then can re-perfuse the liver with cells,
+
+170
+00:06:55,820 --> 00:06:57,820
+preserving the blood vessel tree.
+
+171
+00:06:57,820 --> 00:07:00,820
+So we actually perfuse first the blood vessel tree
+
+172
+00:07:00,820 --> 00:07:02,820
+with the patient's own blood vessel cells,
+
+173
+00:07:02,820 --> 00:07:05,820
+and we then infiltrate the parenchyma with the liver cells.
+
+174
+00:07:05,820 --> 00:07:07,820
+And we now have been able just to show
+
+175
+00:07:07,820 --> 00:07:09,820
+the creation of human liver tissue
+
+176
+00:07:09,820 --> 00:07:11,820
+just this past month
+
+177
+00:07:11,820 --> 00:07:14,820
+using this technology.
+
+178
+00:07:15,820 --> 00:07:17,820
+Another technology that we've used
+
+179
+00:07:17,820 --> 00:07:19,820
+is actually that of printing.
+
+180
+00:07:19,820 --> 00:07:22,820
+This is actually a desktop inkjet printer,
+
+181
+00:07:22,820 --> 00:07:24,820
+but instead of using ink,
+
+182
+00:07:24,820 --> 00:07:26,820
+we're using cells.
+
+183
+00:07:26,820 --> 00:07:28,820
+And you can actually see here the printhead
+
+184
+00:07:28,820 --> 00:07:30,820
+going through and printing this structure,
+
+185
+00:07:30,820 --> 00:07:32,820
+and it takes about 40 minutes to print this structure.
+
+186
+00:07:32,820 --> 00:07:34,820
+And there's a 3D elevator
+
+187
+00:07:34,820 --> 00:07:36,820
+that then actually goes down one layer at a time
+
+188
+00:07:36,820 --> 00:07:38,820
+each time the printhead goes through.
+
+189
+00:07:38,820 --> 00:07:41,820
+And then finally you're able to get that structure out.
+
+190
+00:07:41,820 --> 00:07:44,820
+You can pop that structure out of the printer and implant it.
+
+191
+00:07:44,820 --> 00:07:46,820
+And this is actually a piece of bone
+
+192
+00:07:46,820 --> 00:07:49,820
+that I'm going to show you in this slide
+
+193
+00:07:49,820 --> 00:07:52,820
+that was actually created with this desktop printer
+
+194
+00:07:52,820 --> 00:07:55,820
+and implanted as you see here.
+
+195
+00:07:55,820 --> 00:07:57,820
+That was all new bone that was implanted
+
+196
+00:07:57,820 --> 00:08:00,820
+using these techniques.
+
+197
+00:08:00,820 --> 00:08:04,820
+Another more advanced technology we're looking at right now,
+
+198
+00:08:04,820 --> 00:08:06,820
+our next generation of technologies,
+
+199
+00:08:06,820 --> 00:08:08,820
+are more sophisticated printers.
+
+200
+00:08:08,820 --> 00:08:11,820
+This particular printer we're designing now
+
+201
+00:08:11,820 --> 00:08:14,820
+is actually one where we print right on the patient.
+
+202
+00:08:14,820 --> 00:08:16,820
+So what you see here --
+
+203
+00:08:16,820 --> 00:08:18,820
+I know it sounds funny,
+
+204
+00:08:18,820 --> 00:08:20,820
+but that's the way it works.
+
+205
+00:08:20,820 --> 00:08:23,820
+Because in reality, what you want to do
+
+206
+00:08:23,820 --> 00:08:26,820
+is you actually want to have the patient on the bed with the wound,
+
+207
+00:08:26,820 --> 00:08:28,820
+and you have a scanner,
+
+208
+00:08:28,820 --> 00:08:30,820
+basically like a flatbed scanner.
+
+209
+00:08:30,820 --> 00:08:32,820
+That's what you see here on the right side.
+
+210
+00:08:32,820 --> 00:08:34,820
+You see a scanner technology
+
+211
+00:08:34,820 --> 00:08:37,820
+that first scans the wound on the patient
+
+212
+00:08:37,820 --> 00:08:40,820
+and then it comes back with the printheads
+
+213
+00:08:40,820 --> 00:08:43,820
+actually printing the layers that you require
+
+214
+00:08:43,820 --> 00:08:45,820
+on the patients themselves.
+
+215
+00:08:45,820 --> 00:08:47,820
+This is how it actually works.
+
+216
+00:08:47,820 --> 00:08:49,820
+Here's the scanner going through,
+
+217
+00:08:49,820 --> 00:08:51,820
+scanning the wound.
+
+218
+00:08:51,820 --> 00:08:53,820
+Once it's scanned,
+
+219
+00:08:53,820 --> 00:08:55,820
+it sends information in the correct layers of cells
+
+220
+00:08:55,820 --> 00:08:57,820
+where they need to be.
+
+221
+00:08:57,820 --> 00:08:59,820
+And now you're going to see here
+
+222
+00:08:59,820 --> 00:09:01,820
+a demo of this actually being done
+
+223
+00:09:01,820 --> 00:09:04,820
+in a representative wound.
+
+224
+00:09:04,820 --> 00:09:07,820
+And we actually do this with a gel so that you can lift the gel material.
+
+225
+00:09:07,820 --> 00:09:09,820
+So once those cells are on the patient
+
+226
+00:09:09,820 --> 00:09:11,820
+they will stick where they need to be.
+
+227
+00:09:11,820 --> 00:09:13,820
+And this is actually new technology
+
+228
+00:09:13,820 --> 00:09:16,820
+still under development.
+
+229
+00:09:16,820 --> 00:09:19,820
+We're also working on more sophisticated printers.
+
+230
+00:09:19,820 --> 00:09:21,820
+Because in reality, our biggest challenge
+
+231
+00:09:21,820 --> 00:09:23,820
+are the solid organs.
+
+232
+00:09:23,820 --> 00:09:25,820
+I don't know if you realize this,
+
+233
+00:09:25,820 --> 00:09:29,820
+but 90 percent of the patients on the transplant list
+
+234
+00:09:29,820 --> 00:09:32,820
+are actually waiting for a kidney.
+
+235
+00:09:32,820 --> 00:09:34,820
+Patients are dying every day
+
+236
+00:09:34,820 --> 00:09:37,820
+because we don't have enough of those organs to go around.
+
+237
+00:09:37,820 --> 00:09:39,820
+So this is more challenging --
+
+238
+00:09:39,820 --> 00:09:41,820
+large organ, vascular,
+
+239
+00:09:41,820 --> 00:09:43,820
+a lot of blood vessel supply,
+
+240
+00:09:43,820 --> 00:09:45,820
+a lot of cells present.
+
+241
+00:09:45,820 --> 00:09:47,820
+So the strategy here is --
+
+242
+00:09:47,820 --> 00:09:49,820
+this is actually a CT scan, an X-ray --
+
+243
+00:09:49,820 --> 00:09:51,820
+and we go layer by layer,
+
+244
+00:09:51,820 --> 00:09:53,820
+using computerized morphometric imaging analysis
+
+245
+00:09:53,820 --> 00:09:55,820
+and 3D reconstruction
+
+246
+00:09:55,820 --> 00:09:58,820
+to get right down to those patient's own kidneys.
+
+247
+00:09:58,820 --> 00:10:01,820
+We then are able to actually image those,
+
+248
+00:10:01,820 --> 00:10:03,820
+do 360 degree rotation
+
+249
+00:10:03,820 --> 00:10:05,820
+to analyze the kidney
+
+250
+00:10:05,820 --> 00:10:09,820
+in its full volumetric characteristics,
+
+251
+00:10:09,820 --> 00:10:11,820
+and we then are able
+
+252
+00:10:11,820 --> 00:10:13,820
+to actually take this information
+
+253
+00:10:13,820 --> 00:10:15,820
+and then scan this
+
+254
+00:10:15,820 --> 00:10:17,820
+in a printing computerized form.
+
+255
+00:10:17,820 --> 00:10:20,820
+So we go layer by layer through the organ,
+
+256
+00:10:20,820 --> 00:10:23,820
+analyzing each layer as we go through the organ,
+
+257
+00:10:23,820 --> 00:10:27,820
+and we then are able to send that information, as you see here,
+
+258
+00:10:27,820 --> 00:10:29,820
+through the computer
+
+259
+00:10:29,820 --> 00:10:31,820
+and actually design the organ
+
+260
+00:10:31,820 --> 00:10:33,820
+for the patient.
+
+261
+00:10:33,820 --> 00:10:36,820
+This actually shows the actual printer.
+
+262
+00:10:36,820 --> 00:10:38,820
+And this actually shows that printing.
+
+263
+00:10:38,820 --> 00:10:42,820
+In fact, we actually have the printer right here.
+
+264
+00:10:42,820 --> 00:10:45,820
+So while we've been talking today,
+
+265
+00:10:45,820 --> 00:10:48,820
+you can actually see the printer
+
+266
+00:10:48,820 --> 00:10:51,820
+back here in the back stage.
+
+267
+00:10:51,820 --> 00:10:53,820
+That's actually the actual printer right now,
+
+268
+00:10:53,820 --> 00:10:55,820
+and that's been printing this kidney structure
+
+269
+00:10:55,820 --> 00:10:57,820
+that you see here.
+
+270
+00:10:57,820 --> 00:10:59,820
+It takes about seven hours to print a kidney,
+
+271
+00:10:59,820 --> 00:11:02,820
+so this is about three hours into it now.
+
+272
+00:11:02,820 --> 00:11:05,820
+And Dr. Kang's going to walk onstage right now,
+
+273
+00:11:05,820 --> 00:11:08,820
+and we're actually going to show you one of these kidneys
+
+274
+00:11:08,820 --> 00:11:11,820
+that we printed a little bit earlier today.
+
+275
+00:11:14,820 --> 00:11:16,820
+Put a pair of gloves here.
+
+276
+00:11:22,820 --> 00:11:24,820
+Thank you.
+
+277
+00:11:24,820 --> 00:11:26,820
+Go backwards.
+
+278
+00:11:32,820 --> 00:11:35,820
+So, these gloves are a little bit small on me, but here it is.
+
+279
+00:11:35,820 --> 00:11:37,820
+You can actually see that kidney
+
+280
+00:11:37,820 --> 00:11:39,820
+as it was printed earlier today.
+
+281
+00:11:39,820 --> 00:11:55,820
+(Applause)
+
+282
+00:11:55,820 --> 00:11:58,820
+Has a little bit of consistency to it.
+
+283
+00:11:59,820 --> 00:12:02,820
+This is Dr. Kang who's been working with us on this project,
+
+284
+00:12:02,820 --> 00:12:04,820
+and part of our team.
+
+285
+00:12:04,820 --> 00:12:07,820
+Thank you, Dr. Kang. I appreciate it.
+
+286
+00:12:07,820 --> 00:12:12,820
+(Applause)
+
+287
+00:12:12,820 --> 00:12:14,820
+So this is actually a new generation.
+
+288
+00:12:14,820 --> 00:12:16,820
+This is actually the printer that you see here onstage.
+
+289
+00:12:16,820 --> 00:12:19,820
+And this is actually a new technology we're working on now.
+
+290
+00:12:20,820 --> 00:12:24,820
+In reality, we now have a long history of doing this.
+
+291
+00:12:24,820 --> 00:12:26,820
+I'm going to share with you a clip
+
+292
+00:12:26,820 --> 00:12:29,820
+in terms of technology we have had in patients now for a while.
+
+293
+00:12:29,820 --> 00:12:31,820
+And this is actually a very brief clip --
+
+294
+00:12:31,820 --> 00:12:33,820
+only about 30 seconds --
+
+295
+00:12:33,820 --> 00:12:36,820
+of a patient who actually received an organ.
+
+296
+00:12:36,820 --> 00:12:38,820
+(Video) Luke Massella: I was really sick. I could barely get out of bed.
+
+297
+00:12:38,820 --> 00:12:41,820
+I was missing school. It was pretty much miserable.
+
+298
+00:12:41,820 --> 00:12:43,820
+I couldn't go out
+
+299
+00:12:43,820 --> 00:12:45,820
+and play basketball at recess
+
+300
+00:12:45,820 --> 00:12:47,820
+without feeling like I was going to pass out
+
+301
+00:12:47,820 --> 00:12:49,820
+when I got back inside.
+
+302
+00:12:49,820 --> 00:12:52,820
+I felt so sick.
+
+303
+00:12:52,820 --> 00:12:55,820
+I was facing basically a lifetime of dialysis,
+
+304
+00:12:55,820 --> 00:12:57,820
+and I don't even like to think about what my life would be like
+
+305
+00:12:57,820 --> 00:12:59,820
+if I was on that.
+
+306
+00:12:59,820 --> 00:13:01,820
+So after the surgery,
+
+307
+00:13:01,820 --> 00:13:03,820
+life got a lot better for me.
+
+308
+00:13:03,820 --> 00:13:05,820
+I was able to do more things.
+
+309
+00:13:05,820 --> 00:13:07,820
+I was able to wrestle in high school.
+
+310
+00:13:07,820 --> 00:13:10,820
+I became the captain of the team, and that was great.
+
+311
+00:13:10,820 --> 00:13:13,820
+I was able to be a normal kid with my friends.
+
+312
+00:13:13,820 --> 00:13:16,820
+And because they used my own cells to build this bladder,
+
+313
+00:13:16,820 --> 00:13:18,820
+it's going to be with me.
+
+314
+00:13:18,820 --> 00:13:21,820
+I've got it for life, so I'm all set.
+
+315
+00:13:21,820 --> 00:13:59,820
+(Applause)
+
+316
+00:13:59,820 --> 00:14:01,820
+Juan Enriquez: These experiments sometimes work,
+
+317
+00:14:01,820 --> 00:14:03,820
+and it's very cool when they do.
+
+318
+00:14:03,820 --> 00:14:05,820
+Luke, come up please.
+
+319
+00:14:10,820 --> 00:14:25,820
+(Applause)
+
+320
+00:14:25,820 --> 00:14:27,820
+So Luke, before last night,
+
+321
+00:14:27,820 --> 00:14:29,820
+when's the last time you saw Tony?
+
+322
+00:14:29,820 --> 00:14:32,820
+LM: Ten years ago, when I had my surgery --
+
+323
+00:14:32,820 --> 00:14:34,820
+and it's really great to see him.
+
+324
+00:14:34,820 --> 00:14:36,820
+(Laughter)
+
+325
+00:14:36,820 --> 00:14:42,820
+(Applause)
+
+326
+00:14:42,820 --> 00:14:44,820
+JE: And tell us a little bit about what you're doing.
+
+327
+00:14:44,820 --> 00:14:47,820
+LM: Well right now I'm in college at the University of Connecticut.
+
+328
+00:14:47,820 --> 00:14:51,820
+I'm a sophomore and studying communications, TV and mass media,
+
+329
+00:14:51,820 --> 00:14:54,820
+and basically trying to live life like a normal kid,
+
+330
+00:14:54,820 --> 00:14:56,820
+which I always wanted growing up.
+
+331
+00:14:56,820 --> 00:14:58,820
+But it was hard to do that when I was born with spina bifida
+
+332
+00:14:58,820 --> 00:15:01,820
+and my kidneys and bladder weren't working.
+
+333
+00:15:01,820 --> 00:15:03,820
+I went through about 16 surgeries,
+
+334
+00:15:03,820 --> 00:15:05,820
+and it seemed impossible to do that
+
+335
+00:15:05,820 --> 00:15:08,820
+when I was in kidney failure when I was 10.
+
+336
+00:15:08,820 --> 00:15:10,820
+And this surgery came along
+
+337
+00:15:10,820 --> 00:15:12,820
+and basically made me who I am today
+
+338
+00:15:12,820 --> 00:15:14,820
+and saved my life.
+
+339
+00:15:14,820 --> 00:15:25,820
+(Applause)
+
+340
+00:15:25,820 --> 00:15:28,820
+JE: And Tony's done hundreds of these?
+
+341
+00:15:28,820 --> 00:15:31,820
+LM: What I know from, he's working really hard in his lab
+
+342
+00:15:31,820 --> 00:15:33,820
+and coming up with crazy stuff.
+
+343
+00:15:33,820 --> 00:15:36,820
+I know I was one of the first 10 people to have this surgery.
+
+344
+00:15:36,820 --> 00:15:39,820
+And when I was 10, I didn't realize how amazing it was.
+
+345
+00:15:39,820 --> 00:15:41,820
+I was a little kid, and I was like,
+
+346
+00:15:41,820 --> 00:15:43,820
+"Yeah. I'll have that. I'll have that surgery."
+
+347
+00:15:43,820 --> 00:15:45,820
+(Laughter)
+
+348
+00:15:45,820 --> 00:15:47,820
+All I wanted to do was to get better,
+
+349
+00:15:47,820 --> 00:15:50,820
+and I didn't realize how amazing it really was until now that I'm older
+
+350
+00:15:50,820 --> 00:15:53,820
+and I see the amazing things that he's doing.
+
+351
+00:15:54,820 --> 00:15:57,820
+JE: When you got this call out of the blue --
+
+352
+00:15:57,820 --> 00:15:59,820
+Tony's really shy,
+
+353
+00:15:59,820 --> 00:16:01,820
+and it took a lot of convincing
+
+354
+00:16:01,820 --> 00:16:03,820
+to get somebody as modest as Tony
+
+355
+00:16:03,820 --> 00:16:06,820
+to allow us to bring Luke.
+
+356
+00:16:06,820 --> 00:16:08,820
+So Luke, you go to your communications professors --
+
+357
+00:16:08,820 --> 00:16:10,820
+you're majoring in communications --
+
+358
+00:16:10,820 --> 00:16:12,820
+and you ask them for permission to come to TED,
+
+359
+00:16:12,820 --> 00:16:14,820
+which might have a little bit to do with communications,
+
+360
+00:16:14,820 --> 00:16:17,820
+and what was their reaction?
+
+361
+00:16:17,820 --> 00:16:19,820
+LM: Most of my professors were all for it,
+
+362
+00:16:19,820 --> 00:16:22,820
+and they said, "Bring pictures
+
+363
+00:16:22,820 --> 00:16:25,820
+and show me the clips online," and "I'm happy for you."
+
+364
+00:16:25,820 --> 00:16:27,820
+There were a couple that were a little stubborn,
+
+365
+00:16:27,820 --> 00:16:29,820
+but I had to talk to them.
+
+366
+00:16:29,820 --> 00:16:32,820
+I pulled them aside.
+
+367
+00:16:32,820 --> 00:16:34,820
+JE: Well, it's an honor and a privilege to meet you.
+
+368
+00:16:34,820 --> 00:16:36,820
+Thank you so much. (LM: Thank you so much.)
+
+369
+00:16:39,820 --> 00:16:41,820
+JE: Thank you, Tony.
+
+370
+00:16:41,820 --> 00:16:44,820
+(Applause)
+

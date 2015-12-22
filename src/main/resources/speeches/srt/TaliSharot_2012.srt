@@ -1,0 +1,1420 @@
+﻿1
+00:00:11,968 --> 00:00:15,350
+I'm going to talk to you about optimism --
+
+2
+00:00:15,350 --> 00:00:17,833
+or more precisely, the optimism bias.
+
+3
+00:00:17,833 --> 00:00:19,478
+It's a cognitive illusion
+
+4
+00:00:19,478 --> 00:00:22,220
+that we've been studying in my lab for the past few years,
+
+5
+00:00:22,220 --> 00:00:23,955
+and 80 percent of us have it.
+
+6
+00:00:23,955 --> 00:00:26,689
+It's our tendency to overestimate
+
+7
+00:00:26,689 --> 00:00:29,612
+our likelihood of experiencing good events in our lives
+
+8
+00:00:29,612 --> 00:00:33,720
+and underestimate our likelihood of experiencing bad events.
+
+9
+00:00:33,720 --> 00:00:36,737
+So we underestimate our likelihood of suffering from cancer,
+
+10
+00:00:36,737 --> 00:00:38,243
+being in a car accident.
+
+11
+00:00:38,243 --> 00:00:41,429
+We overestimate our longevity, our career prospects.
+
+12
+00:00:41,429 --> 00:00:44,874
+In short, we're more optimistic than realistic,
+
+13
+00:00:44,874 --> 00:00:47,036
+but we are oblivious to the fact.
+
+14
+00:00:47,036 --> 00:00:49,263
+Take marriage for example.
+
+15
+00:00:49,263 --> 00:00:52,797
+In the Western world, divorce rates are about 40 percent.
+
+16
+00:00:52,797 --> 00:00:56,266
+That means that out of five married couples,
+
+17
+00:00:56,266 --> 00:00:58,987
+two will end up splitting their assets.
+
+18
+00:00:58,987 --> 00:01:02,362
+But when you ask newlyweds about their own likelihood of divorce,
+
+19
+00:01:02,362 --> 00:01:06,054
+they estimate it at zero percent.
+
+20
+00:01:06,054 --> 00:01:09,783
+And even divorce lawyers, who should really know better,
+
+21
+00:01:09,783 --> 00:01:13,632
+hugely underestimate their own likelihood of divorce.
+
+22
+00:01:13,632 --> 00:01:16,758
+So it turns out that optimists are not less likely to divorce,
+
+23
+00:01:16,758 --> 00:01:19,288
+but they are more likely to remarry.
+
+24
+00:01:19,288 --> 00:01:21,591
+In the words of Samuel Johnson,
+
+25
+00:01:21,591 --> 00:01:25,588
+"Remarriage is the triumph of hope over experience."
+
+26
+00:01:25,588 --> 00:01:27,550
+(Laughter)
+
+27
+00:01:27,550 --> 00:01:32,124
+So if we're married, we're more likely to have kids.
+
+28
+00:01:32,124 --> 00:01:35,389
+And we all think our kids will be especially talented.
+
+29
+00:01:35,389 --> 00:01:37,987
+This, by the way, is my two-year-old nephew, Guy.
+
+30
+00:01:37,987 --> 00:01:40,362
+And I just want to make it absolutely clear
+
+31
+00:01:40,362 --> 00:01:43,133
+that he's a really bad example of the optimism bias,
+
+32
+00:01:43,133 --> 00:01:45,945
+because he is in fact uniquely talented.
+
+33
+00:01:45,945 --> 00:01:47,380
+(Laughter)
+
+34
+00:01:47,380 --> 00:01:48,987
+And I'm not alone.
+
+35
+00:01:48,987 --> 00:01:51,462
+Out of four British people, three said
+
+36
+00:01:51,462 --> 00:01:55,201
+that they were optimistic about the future of their own families.
+
+37
+00:01:55,201 --> 00:01:56,952
+That's 75 percent.
+
+38
+00:01:56,952 --> 00:01:59,010
+But only 30 percent said
+
+39
+00:01:59,010 --> 00:02:01,570
+that they thought families in general
+
+40
+00:02:01,570 --> 00:02:03,982
+are doing better than a few generations ago.
+
+41
+00:02:03,982 --> 00:02:06,003
+And this is a really important point,
+
+42
+00:02:06,003 --> 00:02:07,891
+because we're optimistic about ourselves,
+
+43
+00:02:07,891 --> 00:02:09,709
+we're optimistic about our kids,
+
+44
+00:02:09,709 --> 00:02:11,497
+we're optimistic about our families,
+
+45
+00:02:11,497 --> 00:02:14,680
+but we're not so optimistic about the guy sitting next to us,
+
+46
+00:02:14,680 --> 00:02:16,909
+and we're somewhat pessimistic
+
+47
+00:02:16,909 --> 00:02:20,788
+about the fate of our fellow citizens and the fate of our country.
+
+48
+00:02:20,788 --> 00:02:24,824
+But private optimism about our own personal future
+
+49
+00:02:24,824 --> 00:02:26,835
+remains persistent.
+
+50
+00:02:26,835 --> 00:02:30,901
+And it doesn't mean that we think things will magically turn out okay,
+
+51
+00:02:30,901 --> 00:02:34,933
+but rather that we have the unique ability to make it so.
+
+52
+00:02:34,933 --> 00:02:37,774
+Now I'm a scientist, I do experiments.
+
+53
+00:02:37,774 --> 00:02:39,566
+So to show you what I mean,
+
+54
+00:02:39,566 --> 00:02:42,368
+I'm going to do an experiment here with you.
+
+55
+00:02:42,368 --> 00:02:46,218
+So I'm going to give you a list of abilities and characteristics,
+
+56
+00:02:46,218 --> 00:02:49,112
+and I want you to think for each of these abilities
+
+57
+00:02:49,112 --> 00:02:53,505
+where you stand relative to the rest of the population.
+
+58
+00:02:53,505 --> 00:02:57,291
+The first one is getting along well with others.
+
+59
+00:02:57,291 --> 00:03:02,943
+Who here believes they're at the bottom 25 percent?
+
+60
+00:03:02,943 --> 00:03:07,265
+Okay, that's about 10 people out of 1,500.
+
+61
+00:03:07,265 --> 00:03:11,278
+Who believes they're at the top 25 percent?
+
+62
+00:03:11,278 --> 00:03:13,988
+That's most of us here.
+
+63
+00:03:13,988 --> 00:03:18,918
+Okay, now do the same for your driving ability.
+
+64
+00:03:18,918 --> 00:03:21,501
+How interesting are you?
+
+65
+00:03:21,501 --> 00:03:24,345
+How attractive are you?
+
+66
+00:03:24,345 --> 00:03:27,299
+How honest are you?
+
+67
+00:03:27,299 --> 00:03:32,299
+And finally, how modest are you?
+
+68
+00:03:32,299 --> 00:03:34,987
+So most of us put ourselves above average
+
+69
+00:03:34,987 --> 00:03:37,016
+on most of these abilities.
+
+70
+00:03:37,016 --> 00:03:39,147
+Now this is statistically impossible.
+
+71
+00:03:39,147 --> 00:03:42,376
+We can't all be better than everyone else.
+
+72
+00:03:42,376 --> 00:03:44,018
+(Laughter)
+
+73
+00:03:44,018 --> 00:03:46,695
+But if we believe we're better than the other guy,
+
+74
+00:03:46,695 --> 00:03:50,778
+well that means that we're more likely to get that promotion, to remain married,
+
+75
+00:03:50,778 --> 00:03:53,376
+because we're more social, more interesting.
+
+76
+00:03:53,376 --> 00:03:55,539
+And it's a global phenomenon.
+
+77
+00:03:55,539 --> 00:03:58,007
+The optimism bias has been observed
+
+78
+00:03:58,007 --> 00:03:59,726
+in many different countries --
+
+79
+00:03:59,726 --> 00:04:02,830
+in Western cultures, in non-Western cultures,
+
+80
+00:04:02,830 --> 00:04:04,336
+in females and males,
+
+81
+00:04:04,336 --> 00:04:06,060
+in kids, in the elderly.
+
+82
+00:04:06,060 --> 00:04:07,843
+It's quite widespread.
+
+83
+00:04:07,843 --> 00:04:11,343
+But the question is, is it good for us?
+
+84
+00:04:11,343 --> 00:04:13,797
+So some people say no.
+
+85
+00:04:13,797 --> 00:04:16,315
+Some people say the secret to happiness
+
+86
+00:04:16,315 --> 00:04:19,068
+is low expectations.
+
+87
+00:04:19,068 --> 00:04:21,572
+I think the logic goes something like this:
+
+88
+00:04:21,572 --> 00:04:23,830
+If we don't expect greatness,
+
+89
+00:04:23,830 --> 00:04:27,710
+if we don't expect to find love and be healthy and successful,
+
+90
+00:04:27,710 --> 00:04:30,808
+well we're not going to be disappointed when these things don't happen.
+
+91
+00:04:30,808 --> 00:04:34,216
+And if we're not disappointed when good things don't happen,
+
+92
+00:04:34,216 --> 00:04:36,195
+and we're pleasantly surprised when they do,
+
+93
+00:04:36,195 --> 00:04:37,976
+we will be happy.
+
+94
+00:04:37,976 --> 00:04:39,678
+So it's a very good theory,
+
+95
+00:04:39,678 --> 00:04:42,705
+but it turns out to be wrong for three reasons.
+
+96
+00:04:42,705 --> 00:04:47,320
+Number one: Whatever happens, whether you succeed or you fail,
+
+97
+00:04:47,320 --> 00:04:51,178
+people with high expectations always feel better.
+
+98
+00:04:51,178 --> 00:04:55,110
+Because how we feel when we get dumped or win employee of the month
+
+99
+00:04:55,110 --> 00:04:58,140
+depends on how we interpret that event.
+
+100
+00:04:58,140 --> 00:05:02,190
+The psychologists Margaret Marshall and John Brown
+
+101
+00:05:02,190 --> 00:05:05,184
+studied students with high and low expectations.
+
+102
+00:05:05,184 --> 00:05:09,368
+And they found that when people with high expectations succeed,
+
+103
+00:05:09,368 --> 00:05:12,278
+they attribute that success to their own traits.
+
+104
+00:05:12,278 --> 00:05:14,474
+"I'm a genius, therefore I got an A,
+
+105
+00:05:14,474 --> 00:05:17,149
+therefore I'll get an A again and again in the future."
+
+106
+00:05:17,149 --> 00:05:20,122
+When they failed, it wasn't because they were dumb,
+
+107
+00:05:20,122 --> 00:05:23,295
+but because the exam just happened to be unfair.
+
+108
+00:05:23,295 --> 00:05:25,578
+Next time they will do better.
+
+109
+00:05:25,578 --> 00:05:28,655
+People with low expectations do the opposite.
+
+110
+00:05:28,655 --> 00:05:31,487
+So when they failed it was because they were dumb,
+
+111
+00:05:31,487 --> 00:05:32,987
+and when they succeeded
+
+112
+00:05:32,987 --> 00:05:36,304
+it was because the exam just happened to be really easy.
+
+113
+00:05:36,304 --> 00:05:38,705
+Next time reality would catch up with them.
+
+114
+00:05:38,705 --> 00:05:40,778
+So they felt worse.
+
+115
+00:05:40,778 --> 00:05:44,018
+Number two: Regardless of the outcome,
+
+116
+00:05:44,018 --> 00:05:48,065
+the pure act of anticipation makes us happy.
+
+117
+00:05:48,065 --> 00:05:51,241
+The behavioral economist George Lowenstein
+
+118
+00:05:51,241 --> 00:05:52,960
+asked students in his university
+
+119
+00:05:52,960 --> 00:05:57,322
+to imagine getting a passionate kiss from a celebrity, any celebrity.
+
+120
+00:05:57,322 --> 00:06:00,207
+Then he said, "How much are you willing to pay
+
+121
+00:06:00,207 --> 00:06:02,195
+to get a kiss from a celebrity
+
+122
+00:06:02,195 --> 00:06:04,422
+if the kiss was delivered immediately,
+
+123
+00:06:04,422 --> 00:06:09,445
+in three hours, in 24 hours, in three days,
+
+124
+00:06:09,445 --> 00:06:11,878
+in one year, in 10 years?
+
+125
+00:06:11,878 --> 00:06:15,008
+He found that the students were willing to pay the most
+
+126
+00:06:15,008 --> 00:06:17,007
+not to get a kiss immediately,
+
+127
+00:06:17,007 --> 00:06:19,987
+but to get a kiss in three days.
+
+128
+00:06:19,987 --> 00:06:24,234
+They were willing to pay extra in order to wait.
+
+129
+00:06:24,234 --> 00:06:27,237
+Now they weren't willing to wait a year or 10 years;
+
+130
+00:06:27,237 --> 00:06:28,658
+no one wants an aging celebrity.
+
+131
+00:06:28,658 --> 00:06:33,447
+But three days seemed to be the optimum amount.
+
+132
+00:06:33,447 --> 00:06:35,750
+So why is that?
+
+133
+00:06:35,750 --> 00:06:39,174
+Well if you get the kiss now, it's over and done with.
+
+134
+00:06:39,174 --> 00:06:41,124
+But if you get the kiss in three days,
+
+135
+00:06:41,124 --> 00:06:45,278
+well that's three days of jittery anticipation, the thrill of the wait.
+
+136
+00:06:45,278 --> 00:06:47,147
+The students wanted that time
+
+137
+00:06:47,147 --> 00:06:49,528
+to imagine where is it going to happen,
+
+138
+00:06:49,528 --> 00:06:51,157
+how is it going to happen.
+
+139
+00:06:51,157 --> 00:06:53,368
+Anticipation made them happy.
+
+140
+00:06:53,368 --> 00:06:57,237
+This is, by the way, why people prefer Friday to Sunday.
+
+141
+00:06:57,237 --> 00:06:59,320
+It's a really curious fact,
+
+142
+00:06:59,320 --> 00:07:02,737
+because Friday is a day of work and Sunday is a day of pleasure,
+
+143
+00:07:02,737 --> 00:07:05,641
+so you'd assume that people will prefer Sunday,
+
+144
+00:07:05,641 --> 00:07:07,362
+but they don't.
+
+145
+00:07:07,362 --> 00:07:10,237
+It's not because they really, really like being in the office
+
+146
+00:07:10,237 --> 00:07:12,204
+and they can't stand strolling in the park
+
+147
+00:07:12,204 --> 00:07:13,865
+or having a lazy brunch.
+
+148
+00:07:13,865 --> 00:07:16,001
+We know that, because when you ask people
+
+149
+00:07:16,001 --> 00:07:18,705
+about their ultimate favorite day of the week,
+
+150
+00:07:18,705 --> 00:07:21,525
+surprise, surprise, Saturday comes in at first,
+
+151
+00:07:21,525 --> 00:07:24,445
+then Friday, then Sunday.
+
+152
+00:07:24,445 --> 00:07:26,314
+People prefer Friday
+
+153
+00:07:26,314 --> 00:07:30,278
+because Friday brings with it the anticipation of the weekend ahead,
+
+154
+00:07:30,278 --> 00:07:32,195
+all the plans that you have.
+
+155
+00:07:32,195 --> 00:07:34,899
+On Sunday, the only thing you can look forward to
+
+156
+00:07:34,899 --> 00:07:37,153
+is the work week.
+
+157
+00:07:37,153 --> 00:07:42,030
+So optimists are people who expect more kisses in their future,
+
+158
+00:07:42,030 --> 00:07:43,951
+more strolls in the park.
+
+159
+00:07:43,951 --> 00:07:47,858
+And that anticipation enhances their wellbeing.
+
+160
+00:07:47,858 --> 00:07:50,822
+In fact, without the optimism bias,
+
+161
+00:07:50,822 --> 00:07:53,572
+we would all be slightly depressed.
+
+162
+00:07:53,572 --> 00:07:55,839
+People with mild depression,
+
+163
+00:07:55,839 --> 00:07:58,818
+they don't have a bias when they look into the future.
+
+164
+00:07:58,818 --> 00:08:03,040
+They're actually more realistic than healthy individuals.
+
+165
+00:08:03,040 --> 00:08:05,141
+But individuals with severe depression,
+
+166
+00:08:05,141 --> 00:08:06,970
+they have a pessimistic bias.
+
+167
+00:08:06,970 --> 00:08:09,433
+So they tend to expect the future
+
+168
+00:08:09,433 --> 00:08:11,910
+to be worse than it ends up being.
+
+169
+00:08:11,910 --> 00:08:15,153
+So optimism changes subjective reality.
+
+170
+00:08:15,153 --> 00:08:18,903
+The way we expect the world to be changes the way we see it.
+
+171
+00:08:18,903 --> 00:08:22,145
+But it also changes objective reality.
+
+172
+00:08:22,145 --> 00:08:24,872
+It acts as a self-fulfilling prophecy.
+
+173
+00:08:24,872 --> 00:08:26,940
+And that is the third reason
+
+174
+00:08:26,940 --> 00:08:30,120
+why lowering your expectations will not make you happy.
+
+175
+00:08:30,120 --> 00:08:31,955
+Controlled experiments have shown
+
+176
+00:08:31,955 --> 00:08:34,872
+that optimism is not only related to success,
+
+177
+00:08:34,872 --> 00:08:36,679
+it leads to success.
+
+178
+00:08:36,679 --> 00:08:41,549
+Optimism leads to success in academia and sports and politics.
+
+179
+00:08:41,549 --> 00:08:46,024
+And maybe the most surprising benefit of optimism is health.
+
+180
+00:08:46,024 --> 00:08:49,349
+If we expect the future to be bright,
+
+181
+00:08:49,349 --> 00:08:52,089
+stress and anxiety are reduced.
+
+182
+00:08:52,089 --> 00:08:56,309
+So all in all, optimism has lots of benefits.
+
+183
+00:08:56,309 --> 00:08:59,320
+But the question that was really confusing to me was,
+
+184
+00:08:59,320 --> 00:09:03,989
+how do we maintain optimism in the face of reality?
+
+185
+00:09:03,989 --> 00:09:07,007
+As an neuroscientist, this was especially confusing,
+
+186
+00:09:07,007 --> 00:09:09,903
+because according to all the theories out there,
+
+187
+00:09:09,903 --> 00:09:14,091
+when your expectations are not met, you should alter them.
+
+188
+00:09:14,091 --> 00:09:15,643
+But this is not what we find.
+
+189
+00:09:15,643 --> 00:09:19,126
+We asked people to come into our lab
+
+190
+00:09:19,126 --> 00:09:21,936
+in order to try and figure out what was going on.
+
+191
+00:09:21,936 --> 00:09:24,483
+We asked them to estimate their likelihood
+
+192
+00:09:24,483 --> 00:09:26,987
+of experiencing different terrible events in their lives.
+
+193
+00:09:26,987 --> 00:09:31,362
+So, for example, what is your likelihood of suffering from cancer?
+
+194
+00:09:31,362 --> 00:09:33,714
+And then we told them the average likelihood
+
+195
+00:09:33,714 --> 00:09:36,695
+of someone like them to suffer these misfortunes.
+
+196
+00:09:36,695 --> 00:09:40,260
+So cancer, for example, is about 30 percent.
+
+197
+00:09:40,260 --> 00:09:43,195
+And then we asked them again,
+
+198
+00:09:43,195 --> 00:09:46,070
+"How likely are you to suffer from cancer?"
+
+199
+00:09:46,070 --> 00:09:48,318
+What we wanted to know was
+
+200
+00:09:48,318 --> 00:09:50,987
+whether people will take the information that we gave them
+
+201
+00:09:50,987 --> 00:09:53,118
+to change their beliefs.
+
+202
+00:09:53,118 --> 00:09:55,487
+And indeed they did --
+
+203
+00:09:55,487 --> 00:09:58,068
+but mostly when the information we gave them
+
+204
+00:09:58,068 --> 00:10:00,899
+was better than what they expected.
+
+205
+00:10:00,899 --> 00:10:02,260
+So for example,
+
+206
+00:10:02,260 --> 00:10:05,170
+if someone said, "My likelihood of suffering from cancer
+
+207
+00:10:05,170 --> 00:10:07,551
+is about 50 percent,"
+
+208
+00:10:07,551 --> 00:10:10,072
+and we said, "Hey, good news.
+
+209
+00:10:10,072 --> 00:10:12,653
+The average likelihood is only 30 percent,"
+
+210
+00:10:12,653 --> 00:10:14,699
+the next time around they would say,
+
+211
+00:10:14,699 --> 00:10:17,414
+"Well maybe my likelihood is about 35 percent."
+
+212
+00:10:17,414 --> 00:10:20,050
+So they learned quickly and efficiently.
+
+213
+00:10:20,050 --> 00:10:22,600
+But if someone started off saying,
+
+214
+00:10:22,600 --> 00:10:26,003
+"My average likelihood of suffering from cancer is about 10 percent,"
+
+215
+00:10:26,003 --> 00:10:28,695
+and we said, "Hey, bad news.
+
+216
+00:10:28,695 --> 00:10:31,768
+The average likelihood is about 30 percent,"
+
+217
+00:10:31,768 --> 00:10:33,826
+the next time around they would say,
+
+218
+00:10:33,826 --> 00:10:36,945
+"Yep. Still think it's about 11 percent."
+
+219
+00:10:36,945 --> 00:10:38,635
+(Laughter)
+
+220
+00:10:38,635 --> 00:10:41,954
+So it's not that they didn't learn at all -- they did --
+
+221
+00:10:41,954 --> 00:10:44,290
+but much, much less than when we gave them
+
+222
+00:10:44,290 --> 00:10:46,763
+positive information about the future.
+
+223
+00:10:46,763 --> 00:10:49,797
+And it's not that they didn't remember the numbers that we gave them;
+
+224
+00:10:49,797 --> 00:10:52,870
+everyone remembers that the average likelihood of cancer
+
+225
+00:10:52,870 --> 00:10:54,370
+is about 30 percent
+
+226
+00:10:54,370 --> 00:10:57,149
+and the average likelihood of divorce is about 40 percent.
+
+227
+00:10:57,149 --> 00:11:01,780
+But they didn't think that those numbers were related to them.
+
+228
+00:11:01,780 --> 00:11:05,928
+What this means is that warning signs such as these
+
+229
+00:11:05,928 --> 00:11:08,820
+may only have limited impact.
+
+230
+00:11:08,820 --> 00:11:12,979
+Yes, smoking kills, but mostly it kills the other guy.
+
+231
+00:11:12,979 --> 00:11:14,862
+What I wanted to know was
+
+232
+00:11:14,862 --> 00:11:17,722
+what was going on inside the human brain
+
+233
+00:11:17,722 --> 00:11:21,816
+that prevented us from taking these warning signs personally.
+
+234
+00:11:21,816 --> 00:11:23,303
+But at the same time,
+
+235
+00:11:23,303 --> 00:11:25,281
+when we hear that the housing market is hopeful,
+
+236
+00:11:25,281 --> 00:11:29,397
+we think, "Oh, my house is definitely going to double in price."
+
+237
+00:11:29,397 --> 00:11:31,482
+To try and figure that out,
+
+238
+00:11:31,482 --> 00:11:33,955
+I asked the participants in the experiment
+
+239
+00:11:33,955 --> 00:11:36,116
+to lie in a brain imaging scanner.
+
+240
+00:11:36,116 --> 00:11:37,643
+It looks like this.
+
+241
+00:11:37,643 --> 00:11:40,674
+And using a method called functional MRI,
+
+242
+00:11:40,674 --> 00:11:44,280
+we were able to identify regions in the brain
+
+243
+00:11:44,280 --> 00:11:47,097
+that were responding to positive information.
+
+244
+00:11:47,097 --> 00:11:50,676
+One of these regions is called the left inferior frontal gyrus.
+
+245
+00:11:50,676 --> 00:11:54,464
+So if someone said, "My likelihood of suffering from cancer is 50 percent,"
+
+246
+00:11:54,464 --> 00:11:56,320
+and we said, "Hey, good news.
+
+247
+00:11:56,320 --> 00:11:58,610
+Average likelihood is 30 percent,"
+
+248
+00:11:58,610 --> 00:12:02,182
+the left inferior frontal gyrus would respond fiercely.
+
+249
+00:12:02,182 --> 00:12:06,914
+And it didn't matter if you're an extreme optimist, a mild optimist
+
+250
+00:12:06,914 --> 00:12:08,735
+or slightly pessimistic,
+
+251
+00:12:08,735 --> 00:12:11,320
+everyone's left inferior frontal gyrus
+
+252
+00:12:11,320 --> 00:12:13,164
+was functioning perfectly well,
+
+253
+00:12:13,164 --> 00:12:16,070
+whether you're Barack Obama or Woody Allen.
+
+254
+00:12:16,070 --> 00:12:17,714
+On the other side of the brain,
+
+255
+00:12:17,714 --> 00:12:22,500
+the right inferior frontal gyrus was responding to bad news.
+
+256
+00:12:22,500 --> 00:12:26,226
+And here's the thing: it wasn't doing a very good job.
+
+257
+00:12:26,226 --> 00:12:28,241
+The more optimistic you were,
+
+258
+00:12:28,241 --> 00:12:30,578
+the less likely this region was
+
+259
+00:12:30,578 --> 00:12:33,560
+to respond to unexpected negative information.
+
+260
+00:12:33,560 --> 00:12:36,618
+And if your brain is failing
+
+261
+00:12:36,618 --> 00:12:39,843
+at integrating bad news about the future,
+
+262
+00:12:39,843 --> 00:12:44,466
+you will constantly leave your rose-tinted spectacles on.
+
+263
+00:12:44,466 --> 00:12:49,435
+So we wanted to know, could we change this?
+
+264
+00:12:49,435 --> 00:12:52,878
+Could we alter people's optimism bias
+
+265
+00:12:52,878 --> 00:12:56,810
+by interfering with the brain activity in these regions?
+
+266
+00:12:56,810 --> 00:12:59,405
+And there's a way for us to do that.
+
+267
+00:12:59,405 --> 00:13:02,032
+This is my collaborator Ryota Kanai.
+
+268
+00:13:02,032 --> 00:13:05,987
+And what he's doing is he's passing a small magnetic pulse
+
+269
+00:13:05,987 --> 00:13:08,106
+through the skull of the participant in our study
+
+270
+00:13:08,106 --> 00:13:10,351
+into their inferior frontal gyrus.
+
+271
+00:13:10,351 --> 00:13:12,278
+And by doing that,
+
+272
+00:13:12,278 --> 00:13:15,182
+he's interfering with the activity of this brain region
+
+273
+00:13:15,182 --> 00:13:16,397
+for about half an hour.
+
+274
+00:13:16,397 --> 00:13:19,318
+After that everything goes back to normal, I assure you.
+
+275
+00:13:19,318 --> 00:13:21,311
+(Laughter)
+
+276
+00:13:21,311 --> 00:13:24,465
+So let's see what happens.
+
+277
+00:13:24,465 --> 00:13:26,562
+First of all, I'm going to show you
+
+278
+00:13:26,562 --> 00:13:29,266
+the average amount of bias that we see.
+
+279
+00:13:29,266 --> 00:13:32,089
+So if I was to test all of you now,
+
+280
+00:13:32,089 --> 00:13:33,883
+this is the amount that you would learn
+
+281
+00:13:33,883 --> 00:13:37,003
+more from good news relative to bad news.
+
+282
+00:13:37,003 --> 00:13:39,487
+Now we interfere with the region
+
+283
+00:13:39,487 --> 00:13:43,954
+that we found to integrate negative information in this task,
+
+284
+00:13:43,954 --> 00:13:47,518
+and the optimism bias grew even larger.
+
+285
+00:13:47,518 --> 00:13:52,988
+We made people more biased in the way that they process information.
+
+286
+00:13:52,988 --> 00:13:55,885
+Then we interfered with the brain region
+
+287
+00:13:55,885 --> 00:13:59,403
+that we found to integrate good news in this task,
+
+288
+00:13:59,403 --> 00:14:03,874
+and the optimism bias disappeared.
+
+289
+00:14:03,874 --> 00:14:05,882
+We were quite amazed by these results
+
+290
+00:14:05,882 --> 00:14:08,074
+because we were able to eliminate
+
+291
+00:14:08,074 --> 00:14:11,270
+a deep-rooted bias in humans.
+
+292
+00:14:11,270 --> 00:14:16,043
+And at this point we stopped and we asked ourselves,
+
+293
+00:14:16,043 --> 00:14:21,145
+would we want to shatter the optimism illusion into tiny little bits?
+
+294
+00:14:21,145 --> 00:14:26,189
+If we could do that, would we want to take people's optimism bias away?
+
+295
+00:14:26,189 --> 00:14:30,789
+Well I've already told you about all of the benefits of the optimism bias,
+
+296
+00:14:30,789 --> 00:14:35,110
+which probably makes you want to hold onto it for dear life.
+
+297
+00:14:35,110 --> 00:14:37,195
+But there are, of course, pitfalls,
+
+298
+00:14:37,195 --> 00:14:40,315
+and it would be really foolish of us to ignore them.
+
+299
+00:14:40,315 --> 00:14:43,861
+Take for example this email I recieved
+
+300
+00:14:43,861 --> 00:14:46,555
+from a firefighter here in California.
+
+301
+00:14:46,555 --> 00:14:49,859
+He says, "Fatality investigations for firefighters
+
+302
+00:14:49,859 --> 00:14:54,001
+often include 'We didn't think the fire was going to do that,'
+
+303
+00:14:54,001 --> 00:14:56,303
+even when all of the available information
+
+304
+00:14:56,303 --> 00:14:58,558
+was there to make safe decisions."
+
+305
+00:14:58,558 --> 00:15:02,432
+This captain is going to use our findings on the optimism bias
+
+306
+00:15:02,432 --> 00:15:04,624
+to try to explain to the firefighters
+
+307
+00:15:04,624 --> 00:15:06,833
+why they think the way they do,
+
+308
+00:15:06,833 --> 00:15:13,959
+to make them acutely aware of this very optimistic bias in humans.
+
+309
+00:15:13,959 --> 00:15:19,078
+So unrealistic optimism can lead to risky behavior,
+
+310
+00:15:19,078 --> 00:15:22,716
+to financial collapse, to faulty planning.
+
+311
+00:15:22,716 --> 00:15:24,854
+The British government, for example,
+
+312
+00:15:24,854 --> 00:15:27,528
+has acknowledged that the optimism bias
+
+313
+00:15:27,528 --> 00:15:30,815
+can make individuals more likely
+
+314
+00:15:30,815 --> 00:15:34,841
+to underestimate the costs and durations of projects.
+
+315
+00:15:34,841 --> 00:15:39,095
+So they have adjusted the 2012 Olympic budget
+
+316
+00:15:39,095 --> 00:15:41,206
+for the optimism bias.
+
+317
+00:15:41,206 --> 00:15:43,393
+My friend who's getting married in a few weeks
+
+318
+00:15:43,393 --> 00:15:45,827
+has done the same for his wedding budget.
+
+319
+00:15:45,827 --> 00:15:48,889
+And by the way, when I asked him about his own likelihood of divorce,
+
+320
+00:15:48,889 --> 00:15:52,449
+he said he was quite sure it was zero percent.
+
+321
+00:15:52,449 --> 00:15:54,866
+So what we would really like to do,
+
+322
+00:15:54,866 --> 00:15:59,027
+is we would like to protect ourselves from the dangers of optimism,
+
+323
+00:15:59,027 --> 00:16:02,255
+but at the same time remain hopeful,
+
+324
+00:16:02,255 --> 00:16:05,099
+benefiting from the many fruits of optimism.
+
+325
+00:16:05,099 --> 00:16:07,903
+And I believe there's a way for us to do that.
+
+326
+00:16:07,903 --> 00:16:09,963
+The key here really is knowledge.
+
+327
+00:16:09,963 --> 00:16:13,274
+We're not born with an innate understanding of our biases.
+
+328
+00:16:13,274 --> 00:16:17,115
+These have to be identified by scientific investigation.
+
+329
+00:16:17,115 --> 00:16:21,299
+But the good news is that becoming aware of the optimism bias
+
+330
+00:16:21,299 --> 00:16:23,074
+does not shatter the illusion.
+
+331
+00:16:23,074 --> 00:16:24,622
+It's like visual illusions,
+
+332
+00:16:24,622 --> 00:16:28,112
+in which understanding them does not make them go away.
+
+333
+00:16:28,112 --> 00:16:30,349
+And this is good because it means
+
+334
+00:16:30,349 --> 00:16:32,822
+we should be able to strike a balance,
+
+335
+00:16:32,822 --> 00:16:35,249
+to come up with plans and rules
+
+336
+00:16:35,249 --> 00:16:38,032
+to protect ourselves from unrealistic optimism,
+
+337
+00:16:38,032 --> 00:16:41,184
+but at the same time remain hopeful.
+
+338
+00:16:41,184 --> 00:16:44,608
+I think this cartoon portrays it nicely.
+
+339
+00:16:44,608 --> 00:16:48,134
+Because if you're one of these pessimistic penguins up there
+
+340
+00:16:48,134 --> 00:16:50,253
+who just does not believe they can fly,
+
+341
+00:16:50,253 --> 00:16:52,612
+you certainly never will.
+
+342
+00:16:52,612 --> 00:16:54,443
+Because to make any kind of progress,
+
+343
+00:16:54,443 --> 00:16:56,793
+we need to be able to imagine a different reality,
+
+344
+00:16:56,793 --> 00:17:00,524
+and then we need to believe that that reality is possible.
+
+345
+00:17:00,534 --> 00:17:04,058
+But if you are an extreme optimistic penguin
+
+346
+00:17:04,058 --> 00:17:06,820
+who just jumps down blindly hoping for the best,
+
+347
+00:17:06,820 --> 00:17:11,601
+you might find yourself in a bit of a mess when you hit the ground.
+
+348
+00:17:11,601 --> 00:17:13,490
+But if you're an optimistic penguin
+
+349
+00:17:13,490 --> 00:17:15,286
+who believes they can fly,
+
+350
+00:17:15,286 --> 00:17:17,949
+but then adjusts a parachute to your back
+
+351
+00:17:17,949 --> 00:17:20,966
+just in case things don't work out exactly as you had planned,
+
+352
+00:17:20,966 --> 00:17:22,829
+you will soar like an eagle,
+
+353
+00:17:22,829 --> 00:17:25,878
+even if you're just a penguin.
+
+354
+00:17:25,878 --> 00:17:27,640
+Thank you.
+
+355
+00:17:27,640 --> 00:17:30,576
+(Applause)
+

@@ -1,0 +1,1106 @@
+﻿1
+00:00:12,719 --> 00:00:16,386
+Intelligence -- what is it?
+
+2
+00:00:16,386 --> 00:00:18,677
+If we take a look back at the history
+
+3
+00:00:18,677 --> 00:00:21,301
+of how intelligence has been viewed,
+
+4
+00:00:21,301 --> 00:00:24,919
+one seminal example has been
+
+5
+00:00:24,919 --> 00:00:28,396
+Edsger Dijkstra's famous quote that
+
+6
+00:00:28,396 --> 00:00:31,507
+"the question of whether a machine can think
+
+7
+00:00:31,507 --> 00:00:32,817
+is about as interesting
+
+8
+00:00:32,817 --> 00:00:35,788
+as the question of whether a submarine
+
+9
+00:00:35,788 --> 00:00:37,578
+can swim."
+
+10
+00:00:37,578 --> 00:00:41,422
+Now, Edsger Dijkstra, when he wrote this,
+
+11
+00:00:41,422 --> 00:00:43,476
+intended it as a criticism
+
+12
+00:00:43,476 --> 00:00:46,476
+of the early pioneers of computer science,
+
+13
+00:00:46,476 --> 00:00:48,223
+like Alan Turing.
+
+14
+00:00:48,223 --> 00:00:50,722
+However, if you take a look back
+
+15
+00:00:50,722 --> 00:00:52,687
+and think about what have been
+
+16
+00:00:52,687 --> 00:00:54,683
+the most empowering innovations
+
+17
+00:00:54,683 --> 00:00:56,562
+that enabled us to build
+
+18
+00:00:56,562 --> 00:00:58,796
+artificial machines that swim
+
+19
+00:00:58,796 --> 00:01:01,369
+and artificial machines that [fly],
+
+20
+00:01:01,369 --> 00:01:04,916
+you find that it was only through understanding
+
+21
+00:01:04,916 --> 00:01:07,524
+the underlying physical mechanisms
+
+22
+00:01:07,524 --> 00:01:10,303
+of swimming and flight
+
+23
+00:01:10,303 --> 00:01:13,475
+that we were able to build these machines.
+
+24
+00:01:13,475 --> 00:01:15,731
+And so, several years ago,
+
+25
+00:01:15,731 --> 00:01:18,980
+I undertook a program to try to understand
+
+26
+00:01:18,980 --> 00:01:21,614
+the fundamental physical mechanisms
+
+27
+00:01:21,614 --> 00:01:24,382
+underlying intelligence.
+
+28
+00:01:24,382 --> 00:01:26,242
+Let's take a step back.
+
+29
+00:01:26,242 --> 00:01:29,391
+Let's first begin with a thought experiment.
+
+30
+00:01:29,391 --> 00:01:32,245
+Pretend that you're an alien race
+
+31
+00:01:32,245 --> 00:01:35,286
+that doesn't know anything about Earth biology
+
+32
+00:01:35,286 --> 00:01:38,402
+or Earth neuroscience or Earth intelligence,
+
+33
+00:01:38,402 --> 00:01:40,594
+but you have amazing telescopes
+
+34
+00:01:40,594 --> 00:01:42,956
+and you're able to watch the Earth,
+
+35
+00:01:42,956 --> 00:01:45,288
+and you have amazingly long lives,
+
+36
+00:01:45,288 --> 00:01:46,787
+so you're able to watch the Earth
+
+37
+00:01:46,787 --> 00:01:50,229
+over millions, even billions of years.
+
+38
+00:01:50,229 --> 00:01:53,244
+And you observe a really strange effect.
+
+39
+00:01:53,244 --> 00:01:57,556
+You observe that, over the course of the millennia,
+
+40
+00:01:57,556 --> 00:02:01,841
+Earth is continually bombarded with asteroids
+
+41
+00:02:01,841 --> 00:02:03,928
+up until a point,
+
+42
+00:02:03,928 --> 00:02:05,459
+and that at some point,
+
+43
+00:02:05,459 --> 00:02:09,651
+corresponding roughly to our year, 2000 AD,
+
+44
+00:02:09,651 --> 00:02:11,367
+asteroids that are on
+
+45
+00:02:11,367 --> 00:02:13,298
+a collision course with the Earth
+
+46
+00:02:13,298 --> 00:02:15,273
+that otherwise would have collided
+
+47
+00:02:15,273 --> 00:02:17,688
+mysteriously get deflected
+
+48
+00:02:17,688 --> 00:02:20,760
+or they detonate before they can hit the Earth.
+
+49
+00:02:20,760 --> 00:02:22,843
+Now of course, as earthlings,
+
+50
+00:02:22,843 --> 00:02:24,387
+we know the reason would be
+
+51
+00:02:24,387 --> 00:02:26,143
+that we're trying to save ourselves.
+
+52
+00:02:26,143 --> 00:02:29,223
+We're trying to prevent an impact.
+
+53
+00:02:29,223 --> 00:02:30,934
+But if you're an alien race
+
+54
+00:02:30,934 --> 00:02:32,080
+who doesn't know any of this,
+
+55
+00:02:32,080 --> 00:02:34,594
+doesn't have any concept of Earth intelligence,
+
+56
+00:02:34,594 --> 00:02:36,322
+you'd be forced to put together
+
+57
+00:02:36,322 --> 00:02:39,240
+a physical theory that explains how,
+
+58
+00:02:39,240 --> 00:02:41,778
+up until a certain point in time,
+
+59
+00:02:41,778 --> 00:02:46,227
+asteroids that would demolish the surface of a planet
+
+60
+00:02:46,227 --> 00:02:49,458
+mysteriously stop doing that.
+
+61
+00:02:49,458 --> 00:02:53,662
+And so I claim that this is the same question
+
+62
+00:02:53,662 --> 00:02:57,660
+as understanding the physical nature of intelligence.
+
+63
+00:02:57,660 --> 00:03:01,542
+So in this program that I
+undertook several years ago,
+
+64
+00:03:01,542 --> 00:03:04,307
+I looked at a variety of different threads
+
+65
+00:03:04,307 --> 00:03:07,469
+across science, across a variety of disciplines,
+
+66
+00:03:07,469 --> 00:03:09,361
+that were pointing, I think,
+
+67
+00:03:09,361 --> 00:03:11,909
+towards a single, underlying mechanism
+
+68
+00:03:11,909 --> 00:03:13,490
+for intelligence.
+
+69
+00:03:13,490 --> 00:03:16,036
+In cosmology, for example,
+
+70
+00:03:16,036 --> 00:03:18,783
+there have been a variety of
+different threads of evidence
+
+71
+00:03:18,783 --> 00:03:22,190
+that our universe appears to be finely tuned
+
+72
+00:03:22,190 --> 00:03:24,343
+for the development of intelligence,
+
+73
+00:03:24,343 --> 00:03:26,732
+and, in particular, for the development
+
+74
+00:03:26,732 --> 00:03:28,618
+of universal states
+
+75
+00:03:28,618 --> 00:03:32,716
+that maximize the diversity of possible futures.
+
+76
+00:03:32,716 --> 00:03:35,060
+In game play, for example, in Go --
+
+77
+00:03:35,060 --> 00:03:38,085
+everyone remembers in 1997
+
+78
+00:03:38,085 --> 00:03:42,036
+when IBM's Deep Blue beat 
+Garry Kasparov at chess --
+
+79
+00:03:42,036 --> 00:03:43,559
+fewer people are aware
+
+80
+00:03:43,559 --> 00:03:45,577
+that in the past 10 years or so,
+
+81
+00:03:45,577 --> 00:03:46,775
+the game of Go,
+
+82
+00:03:46,775 --> 00:03:48,731
+arguably a much more challenging game
+
+83
+00:03:48,731 --> 00:03:51,156
+because it has a much higher branching factor,
+
+84
+00:03:51,156 --> 00:03:52,858
+has also started to succumb
+
+85
+00:03:52,858 --> 00:03:54,723
+to computer game players
+
+86
+00:03:54,723 --> 00:03:56,296
+for the same reason:
+
+87
+00:03:56,296 --> 00:03:59,096
+the best techniques right now
+for computers playing Go
+
+88
+00:03:59,096 --> 00:04:02,792
+are techniques that try to maximize future options
+
+89
+00:04:02,792 --> 00:04:04,806
+during game play.
+
+90
+00:04:04,806 --> 00:04:08,387
+Finally, in robotic motion planning,
+
+91
+00:04:08,387 --> 00:04:10,569
+there have been a variety of recent techniques
+
+92
+00:04:10,569 --> 00:04:12,471
+that have tried to take advantage
+
+93
+00:04:12,471 --> 00:04:15,617
+of abilities of robots to maximize
+
+94
+00:04:15,617 --> 00:04:17,123
+future freedom of action
+
+95
+00:04:17,123 --> 00:04:20,220
+in order to accomplish complex tasks.
+
+96
+00:04:20,220 --> 00:04:22,575
+And so, taking all of these different threads
+
+97
+00:04:22,575 --> 00:04:24,197
+and putting them together,
+
+98
+00:04:24,197 --> 00:04:26,837
+I asked, starting several years ago,
+
+99
+00:04:26,837 --> 00:04:29,687
+is there an underlying mechanism for intelligence
+
+100
+00:04:29,687 --> 00:04:31,360
+that we can factor out
+
+101
+00:04:31,360 --> 00:04:33,134
+of all of these different threads?
+
+102
+00:04:33,134 --> 00:04:37,727
+Is there a single equation for intelligence?
+
+103
+00:04:37,727 --> 00:04:41,098
+And the answer, I believe, is yes.
+["F = T ∇ Sτ"]
+
+104
+00:04:41,098 --> 00:04:43,011
+What you're seeing is probably
+
+105
+00:04:43,011 --> 00:04:46,305
+the closest equivalent to an E = mc²
+
+106
+00:04:46,305 --> 00:04:49,135
+for intelligence that I've seen.
+
+107
+00:04:49,135 --> 00:04:50,837
+So what you're seeing here
+
+108
+00:04:50,837 --> 00:04:53,506
+is a statement of correspondence
+
+109
+00:04:53,506 --> 00:04:57,941
+that intelligence is a force, F,
+
+110
+00:04:57,941 --> 00:05:02,591
+that acts so as to maximize future freedom of action.
+
+111
+00:05:02,591 --> 00:05:04,966
+It acts to maximize future freedom of action,
+
+112
+00:05:04,966 --> 00:05:06,594
+or keep options open,
+
+113
+00:05:06,594 --> 00:05:08,819
+with some strength T,
+
+114
+00:05:08,819 --> 00:05:13,596
+with the diversity of possible accessible futures, S,
+
+115
+00:05:13,596 --> 00:05:16,146
+up to some future time horizon, tau.
+
+116
+00:05:16,146 --> 00:05:19,355
+In short, intelligence doesn't like to get trapped.
+
+117
+00:05:19,355 --> 00:05:22,410
+Intelligence tries to maximize
+future freedom of action
+
+118
+00:05:22,410 --> 00:05:25,083
+and keep options open.
+
+119
+00:05:25,083 --> 00:05:27,516
+And so, given this one equation,
+
+120
+00:05:27,516 --> 00:05:30,048
+it's natural to ask, so what can you do with this?
+
+121
+00:05:30,048 --> 00:05:31,399
+How predictive is it?
+
+122
+00:05:31,399 --> 00:05:33,534
+Does it predict human-level intelligence?
+
+123
+00:05:33,534 --> 00:05:36,352
+Does it predict artificial intelligence?
+
+124
+00:05:36,352 --> 00:05:38,394
+So I'm going to show you now a video
+
+125
+00:05:38,394 --> 00:05:41,814
+that will, I think, demonstrate
+
+126
+00:05:41,814 --> 00:05:44,102
+some of the amazing applications
+
+127
+00:05:44,102 --> 00:05:46,421
+of just this single equation.
+
+128
+00:05:46,421 --> 00:05:48,400
+(Video) Narrator: Recent research in cosmology
+
+129
+00:05:48,400 --> 00:05:50,447
+has suggested that universes that produce
+
+130
+00:05:50,447 --> 00:05:53,928
+more disorder, or "entropy," over their lifetimes
+
+131
+00:05:53,928 --> 00:05:56,406
+should tend to have more favorable conditions
+
+132
+00:05:56,406 --> 00:05:59,422
+for the existence of intelligent
+beings such as ourselves.
+
+133
+00:05:59,422 --> 00:06:01,996
+But what if that tentative cosmological connection
+
+134
+00:06:01,996 --> 00:06:03,839
+between entropy and intelligence
+
+135
+00:06:03,839 --> 00:06:05,610
+hints at a deeper relationship?
+
+136
+00:06:05,610 --> 00:06:08,174
+What if intelligent behavior doesn't just correlate
+
+137
+00:06:08,174 --> 00:06:10,018
+with the production of long-term entropy,
+
+138
+00:06:10,018 --> 00:06:12,336
+but actually emerges directly from it?
+
+139
+00:06:12,336 --> 00:06:14,742
+To find out, we developed a software engine
+
+140
+00:06:14,742 --> 00:06:17,245
+called Entropica, designed to maximize
+
+141
+00:06:17,245 --> 00:06:19,013
+the production of long-term entropy
+
+142
+00:06:19,013 --> 00:06:21,589
+of any system that it finds itself in.
+
+143
+00:06:21,589 --> 00:06:23,744
+Amazingly, Entropica was able to pass
+
+144
+00:06:23,744 --> 00:06:27,200
+multiple animal intelligence
+tests, play human games,
+
+145
+00:06:27,200 --> 00:06:29,346
+and even earn money trading stocks,
+
+146
+00:06:29,346 --> 00:06:31,457
+all without being instructed to do so.
+
+147
+00:06:31,457 --> 00:06:33,975
+Here are some examples of Entropica in action.
+
+148
+00:06:33,975 --> 00:06:37,180
+Just like a human standing
+upright without falling over,
+
+149
+00:06:37,180 --> 00:06:38,410
+here we see Entropica
+
+150
+00:06:38,410 --> 00:06:41,295
+automatically balancing a pole using a cart.
+
+151
+00:06:41,295 --> 00:06:43,307
+This behavior is remarkable in part
+
+152
+00:06:43,307 --> 00:06:45,638
+because we never gave Entropica a goal.
+
+153
+00:06:45,638 --> 00:06:48,795
+It simply decided on its own to balance the pole.
+
+154
+00:06:48,795 --> 00:06:50,927
+This balancing ability will have appliactions
+
+155
+00:06:50,927 --> 00:06:52,324
+for humanoid robotics
+
+156
+00:06:52,324 --> 00:06:54,839
+and human assistive technologies.
+
+157
+00:06:54,839 --> 00:06:56,840
+Just as some animals can use objects
+
+158
+00:06:56,840 --> 00:06:58,282
+in their environments as tools
+
+159
+00:06:58,282 --> 00:07:00,269
+to reach into narrow spaces,
+
+160
+00:07:00,269 --> 00:07:02,151
+here we see that Entropica,
+
+161
+00:07:02,151 --> 00:07:03,989
+again on its own initiative,
+
+162
+00:07:03,989 --> 00:07:06,899
+was able to move a large
+disk representing an animal
+
+163
+00:07:06,899 --> 00:07:09,244
+around so as to cause a small disk,
+
+164
+00:07:09,244 --> 00:07:12,015
+representing a tool, to reach into a confined space
+
+165
+00:07:12,015 --> 00:07:13,552
+holding a third disk
+
+166
+00:07:13,552 --> 00:07:16,524
+and release the third disk
+from its initially fixed position.
+
+167
+00:07:16,524 --> 00:07:18,713
+This tool use ability will have applications
+
+168
+00:07:18,713 --> 00:07:21,072
+for smart manufacturing and agriculture.
+
+169
+00:07:21,072 --> 00:07:23,016
+In addition, just as some other animals
+
+170
+00:07:23,016 --> 00:07:25,712
+are able to cooperate by pulling
+opposite ends of a rope
+
+171
+00:07:25,712 --> 00:07:27,765
+at the same time to release food,
+
+172
+00:07:27,765 --> 00:07:30,060
+here we see that Entropica is able to accomplish
+
+173
+00:07:30,060 --> 00:07:32,048
+a model version of that task.
+
+174
+00:07:32,048 --> 00:07:34,570
+This cooperative ability has interesting implications
+
+175
+00:07:34,570 --> 00:07:38,005
+for economic planning and a variety of other fields.
+
+176
+00:07:38,005 --> 00:07:40,076
+Entropica is broadly applicable
+
+177
+00:07:40,076 --> 00:07:42,019
+to a variety of domains.
+
+178
+00:07:42,019 --> 00:07:44,461
+For example, here we see it successfully
+
+179
+00:07:44,461 --> 00:07:47,020
+playing a game of pong against itself,
+
+180
+00:07:47,020 --> 00:07:49,363
+illustrating its potential for gaming.
+
+181
+00:07:49,363 --> 00:07:51,282
+Here we see Entropica orchestrating
+
+182
+00:07:51,282 --> 00:07:53,121
+new connections on a social network
+
+183
+00:07:53,121 --> 00:07:55,881
+where friends are constantly falling out of touch
+
+184
+00:07:55,881 --> 00:07:58,737
+and successfully keeping
+the network well connected.
+
+185
+00:07:58,737 --> 00:08:01,035
+This same network orchestration ability
+
+186
+00:08:01,035 --> 00:08:03,363
+also has applications in health care,
+
+187
+00:08:03,363 --> 00:08:06,595
+energy, and intelligence.
+
+188
+00:08:06,595 --> 00:08:08,680
+Here we see Entropica directing the paths
+
+189
+00:08:08,680 --> 00:08:10,166
+of a fleet of ships,
+
+190
+00:08:10,166 --> 00:08:13,341
+successfully discovering and
+utilizing the Panama Canal
+
+191
+00:08:13,341 --> 00:08:15,799
+to globally extend its reach from the Atlantic
+
+192
+00:08:15,799 --> 00:08:17,328
+to the Pacific.
+
+193
+00:08:17,328 --> 00:08:19,055
+By the same token, Entropica
+
+194
+00:08:19,055 --> 00:08:20,675
+is broadly applicable to problems
+
+195
+00:08:20,675 --> 00:08:25,977
+in autonomous defense, logistics and transportation.
+
+196
+00:08:25,993 --> 00:08:28,023
+Finally, here we see Entropica
+
+197
+00:08:28,023 --> 00:08:30,746
+spontaneously discovering and executing
+
+198
+00:08:30,746 --> 00:08:32,813
+a buy-low, sell-high strategy
+
+199
+00:08:32,813 --> 00:08:34,991
+on a simulated range traded stock,
+
+200
+00:08:34,991 --> 00:08:37,322
+successfully growing assets under management
+
+201
+00:08:37,322 --> 00:08:38,746
+exponentially.
+
+202
+00:08:38,746 --> 00:08:40,054
+This risk management ability
+
+203
+00:08:40,054 --> 00:08:42,541
+will have broad applications in finance
+
+204
+00:08:42,541 --> 00:08:45,869
+and insurance.
+
+205
+00:08:45,869 --> 00:08:47,960
+Alex Wissner-Gross: So what you've just seen
+
+206
+00:08:47,960 --> 00:08:52,352
+is that a variety of signature human intelligent
+
+207
+00:08:52,352 --> 00:08:54,109
+cognitive behaviors
+
+208
+00:08:54,109 --> 00:08:56,940
+such as tool use and walking upright
+
+209
+00:08:56,940 --> 00:08:58,969
+and social cooperation
+
+210
+00:08:58,969 --> 00:09:01,941
+all follow from a single equation,
+
+211
+00:09:01,941 --> 00:09:03,873
+which drives a system
+
+212
+00:09:03,873 --> 00:09:07,784
+to maximize its future freedom of action.
+
+213
+00:09:07,784 --> 00:09:10,791
+Now, there's a profound irony here.
+
+214
+00:09:10,791 --> 00:09:12,815
+Going back to the beginning
+
+215
+00:09:12,815 --> 00:09:16,088
+of the usage of the term robot,
+
+216
+00:09:16,088 --> 00:09:18,991
+the play "RUR,"
+
+217
+00:09:18,991 --> 00:09:21,226
+there was always a concept
+
+218
+00:09:21,226 --> 00:09:24,452
+that if we developed machine intelligence,
+
+219
+00:09:24,452 --> 00:09:27,479
+there would be a cybernetic revolt.
+
+220
+00:09:27,479 --> 00:09:31,030
+The machines would rise up against us.
+
+221
+00:09:31,030 --> 00:09:33,349
+One major consequence of this work
+
+222
+00:09:33,349 --> 00:09:36,118
+is that maybe all of these decades,
+
+223
+00:09:36,118 --> 00:09:39,094
+we've had the whole concept of cybernetic revolt
+
+224
+00:09:39,094 --> 00:09:41,105
+in reverse.
+
+225
+00:09:41,105 --> 00:09:44,384
+It's not that machines first become intelligent
+
+226
+00:09:44,384 --> 00:09:46,399
+and then megalomaniacal
+
+227
+00:09:46,399 --> 00:09:48,623
+and try to take over the world.
+
+228
+00:09:48,623 --> 00:09:50,057
+It's quite the opposite,
+
+229
+00:09:50,057 --> 00:09:52,963
+that the urge to take control
+
+230
+00:09:52,963 --> 00:09:55,224
+of all possible futures
+
+231
+00:09:55,224 --> 00:09:57,342
+is a more fundamental principle
+
+232
+00:09:57,342 --> 00:09:58,705
+than that of intelligence,
+
+233
+00:09:58,705 --> 00:10:02,405
+that general intelligence may in fact emerge
+
+234
+00:10:02,405 --> 00:10:05,964
+directly from this sort of control-grabbing,
+
+235
+00:10:05,964 --> 00:10:10,149
+rather than vice versa.
+
+236
+00:10:10,149 --> 00:10:13,918
+Another important consequence is goal seeking.
+
+237
+00:10:13,918 --> 00:10:18,278
+I'm often asked, how does the ability to seek goals
+
+238
+00:10:18,278 --> 00:10:19,898
+follow from this sort of framework?
+
+239
+00:10:19,898 --> 00:10:22,926
+And the answer is, the ability to seek goals
+
+240
+00:10:22,926 --> 00:10:24,808
+will follow directly from this
+
+241
+00:10:24,808 --> 00:10:26,642
+in the following sense:
+
+242
+00:10:26,642 --> 00:10:29,507
+just like you would travel through a tunnel,
+
+243
+00:10:29,507 --> 00:10:32,012
+a bottleneck in your future path space,
+
+244
+00:10:32,012 --> 00:10:33,883
+in order to achieve many other
+
+245
+00:10:33,883 --> 00:10:35,904
+diverse objectives later on,
+
+246
+00:10:35,904 --> 00:10:38,276
+or just like you would invest
+
+247
+00:10:38,276 --> 00:10:40,063
+in a financial security,
+
+248
+00:10:40,063 --> 00:10:42,300
+reducing your short-term liquidity
+
+249
+00:10:42,300 --> 00:10:44,700
+in order to increase your wealth over the long term,
+
+250
+00:10:44,700 --> 00:10:47,037
+goal seeking emerges directly
+
+251
+00:10:47,037 --> 00:10:48,766
+from a long-term drive
+
+252
+00:10:48,766 --> 00:10:52,803
+to increase future freedom of action.
+
+253
+00:10:52,803 --> 00:10:56,331
+Finally, Richard Feynman, famous physicist,
+
+254
+00:10:56,331 --> 00:11:00,003
+once wrote that if human civilization were destroyed
+
+255
+00:11:00,003 --> 00:11:01,896
+and you could pass only a single concept
+
+256
+00:11:01,896 --> 00:11:03,267
+on to our descendants
+
+257
+00:11:03,267 --> 00:11:05,574
+to help them rebuild civilization,
+
+258
+00:11:05,574 --> 00:11:07,260
+that concept should be
+
+259
+00:11:07,260 --> 00:11:09,112
+that all matter around us
+
+260
+00:11:09,112 --> 00:11:11,435
+is made out of tiny elements
+
+261
+00:11:11,435 --> 00:11:13,943
+that attract each other when they're far apart
+
+262
+00:11:13,943 --> 00:11:17,273
+but repel each other when they're close together.
+
+263
+00:11:17,273 --> 00:11:19,054
+My equivalent of that statement
+
+264
+00:11:19,054 --> 00:11:20,322
+to pass on to descendants
+
+265
+00:11:20,322 --> 00:11:23,034
+to help them build artificial intelligences
+
+266
+00:11:23,034 --> 00:11:25,983
+or to help them understand human intelligence,
+
+267
+00:11:25,983 --> 00:11:27,250
+is the following:
+
+268
+00:11:27,250 --> 00:11:29,303
+Intelligence should be viewed
+
+269
+00:11:29,303 --> 00:11:30,716
+as a physical process
+
+270
+00:11:30,716 --> 00:11:33,681
+that tries to maximize future freedom of action
+
+271
+00:11:33,681 --> 00:11:37,297
+and avoid constraints in its own future.
+
+272
+00:11:37,297 --> 00:11:38,655
+Thank you very much.
+
+273
+00:11:38,655 --> 00:11:42,655
+(Applause)
+

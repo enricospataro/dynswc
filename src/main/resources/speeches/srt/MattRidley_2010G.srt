@@ -1,0 +1,1608 @@
+﻿1
+00:00:12,820 --> 00:00:15,820
+When I was a student here in Oxford in the 1970s,
+
+2
+00:00:15,820 --> 00:00:18,820
+the future of the world was bleak.
+
+3
+00:00:18,820 --> 00:00:20,820
+The population explosion was unstoppable.
+
+4
+00:00:20,820 --> 00:00:22,820
+Global famine was inevitable.
+
+5
+00:00:22,820 --> 00:00:25,820
+A cancer epidemic caused by chemicals in the environment
+
+6
+00:00:25,820 --> 00:00:28,820
+was going to shorten our lives.
+
+7
+00:00:28,820 --> 00:00:31,820
+The acid rain was falling on the forests.
+
+8
+00:00:31,820 --> 00:00:33,820
+The desert was advancing by a mile or two a year.
+
+9
+00:00:33,820 --> 00:00:35,820
+The oil was running out,
+
+10
+00:00:35,820 --> 00:00:38,820
+and a nuclear winter would finish us off.
+
+11
+00:00:38,820 --> 00:00:40,820
+None of those things happened,
+
+12
+00:00:40,820 --> 00:00:42,820
+(Laughter)
+
+13
+00:00:42,820 --> 00:00:45,820
+and astonishingly, if you look at what actually happened in my lifetime,
+
+14
+00:00:45,820 --> 00:00:48,820
+the average per-capita income
+
+15
+00:00:48,820 --> 00:00:50,820
+of the average person on the planet,
+
+16
+00:00:50,820 --> 00:00:52,820
+in real terms, adjusted for inflation,
+
+17
+00:00:52,820 --> 00:00:54,820
+has tripled.
+
+18
+00:00:54,820 --> 00:00:57,820
+Lifespan is up by 30 percent in my lifetime.
+
+19
+00:00:57,820 --> 00:01:00,820
+Child mortality is down by two-thirds.
+
+20
+00:01:00,820 --> 00:01:02,820
+Per-capita food production
+
+21
+00:01:02,820 --> 00:01:04,820
+is up by a third.
+
+22
+00:01:04,820 --> 00:01:07,820
+And all this at a time when the population has doubled.
+
+23
+00:01:07,820 --> 00:01:09,820
+How did we achieve that, whether you think it's a good thing or not?
+
+24
+00:01:09,820 --> 00:01:11,820
+How did we achieve that?
+
+25
+00:01:11,820 --> 00:01:13,820
+How did we become
+
+26
+00:01:13,820 --> 00:01:15,820
+the only species
+
+27
+00:01:15,820 --> 00:01:17,820
+that becomes more prosperous
+
+28
+00:01:17,820 --> 00:01:19,820
+as it becomes more populous?
+
+29
+00:01:19,820 --> 00:01:22,820
+The size of the blob in this graph represents the size of the population,
+
+30
+00:01:22,820 --> 00:01:24,820
+and the level of the graph
+
+31
+00:01:24,820 --> 00:01:26,820
+represents GDP per capita.
+
+32
+00:01:26,820 --> 00:01:28,820
+I think to answer that question
+
+33
+00:01:28,820 --> 00:01:30,820
+you need to understand
+
+34
+00:01:30,820 --> 00:01:33,820
+how human beings bring together their brains
+
+35
+00:01:33,820 --> 00:01:36,820
+and enable their ideas to combine and recombine,
+
+36
+00:01:36,820 --> 00:01:39,820
+to meet and, indeed, to mate.
+
+37
+00:01:39,820 --> 00:01:41,820
+In other words, you need to understand
+
+38
+00:01:41,820 --> 00:01:43,820
+how ideas have sex.
+
+39
+00:01:44,820 --> 00:01:46,820
+I want you to imagine
+
+40
+00:01:46,820 --> 00:01:49,820
+how we got from making objects like this
+
+41
+00:01:49,820 --> 00:01:52,820
+to making objects like this.
+
+42
+00:01:52,820 --> 00:01:54,820
+These are both real objects.
+
+43
+00:01:54,820 --> 00:01:56,820
+One is an Acheulean hand axe from half a million years ago
+
+44
+00:01:56,820 --> 00:01:59,820
+of the kind made by Homo erectus.
+
+45
+00:01:59,820 --> 00:02:01,820
+The other is obviously a computer mouse.
+
+46
+00:02:01,820 --> 00:02:04,820
+They're both exactly the same size and shape to an uncanny degree.
+
+47
+00:02:04,820 --> 00:02:07,820
+I've tried to work out which is bigger,
+
+48
+00:02:07,820 --> 00:02:09,820
+and it's almost impossible.
+
+49
+00:02:09,820 --> 00:02:11,820
+And that's because they're both designed to fit the human hand.
+
+50
+00:02:11,820 --> 00:02:14,820
+They're both technologies. In the end, their similarity is not that interesting.
+
+51
+00:02:14,820 --> 00:02:16,820
+It just tells you they were both designed to fit the human hand.
+
+52
+00:02:16,820 --> 00:02:18,820
+The differences are what interest me,
+
+53
+00:02:18,820 --> 00:02:21,820
+because the one on the left was made to a pretty unvarying design
+
+54
+00:02:21,820 --> 00:02:23,820
+for about a million years --
+
+55
+00:02:23,820 --> 00:02:26,820
+from one-and-a-half million years ago to half a million years ago.
+
+56
+00:02:26,820 --> 00:02:29,820
+Homo erectus made the same tool
+
+57
+00:02:29,820 --> 00:02:31,820
+for 30,000 generations.
+
+58
+00:02:31,820 --> 00:02:33,820
+Of course there were a few changes,
+
+59
+00:02:33,820 --> 00:02:36,820
+but tools changed slower than skeletons in those days.
+
+60
+00:02:36,820 --> 00:02:38,820
+There was no progress, no innovation.
+
+61
+00:02:38,820 --> 00:02:40,820
+It's an extraordinary phenomenon, but it's true.
+
+62
+00:02:40,820 --> 00:02:43,820
+Whereas the object on the right is obsolete after five years.
+
+63
+00:02:43,820 --> 00:02:45,820
+And there's another difference too,
+
+64
+00:02:45,820 --> 00:02:47,820
+which is the object on the left is made from one substance.
+
+65
+00:02:47,820 --> 00:02:49,820
+The object on the right is made from
+
+66
+00:02:49,820 --> 00:02:51,820
+a confection of different substances,
+
+67
+00:02:51,820 --> 00:02:54,820
+from silicon and metal and plastic and so on.
+
+68
+00:02:54,820 --> 00:02:57,820
+And more than that, it's a confection of different ideas,
+
+69
+00:02:57,820 --> 00:02:59,820
+the idea of plastic, the idea of a laser,
+
+70
+00:02:59,820 --> 00:03:01,820
+the idea of transistors.
+
+71
+00:03:01,820 --> 00:03:04,820
+They've all been combined together in this technology.
+
+72
+00:03:04,820 --> 00:03:06,820
+And it's this combination,
+
+73
+00:03:06,820 --> 00:03:09,820
+this cumulative technology, that intrigues me,
+
+74
+00:03:09,820 --> 00:03:12,820
+because I think it's the secret to understanding
+
+75
+00:03:12,820 --> 00:03:14,820
+what's happening in the world.
+
+76
+00:03:14,820 --> 00:03:17,820
+My body's an accumulation of ideas too:
+
+77
+00:03:17,820 --> 00:03:20,820
+the idea of skin cells, the idea of brain cells, the idea of liver cells.
+
+78
+00:03:20,820 --> 00:03:22,820
+They've come together.
+
+79
+00:03:22,820 --> 00:03:25,820
+How does evolution do cumulative, combinatorial things?
+
+80
+00:03:25,820 --> 00:03:28,820
+Well, it uses sexual reproduction.
+
+81
+00:03:28,820 --> 00:03:31,820
+In an asexual species, if you get two different mutations in different creatures,
+
+82
+00:03:31,820 --> 00:03:33,820
+a green one and a red one,
+
+83
+00:03:33,820 --> 00:03:35,820
+then one has to be better than the other.
+
+84
+00:03:35,820 --> 00:03:37,820
+One goes extinct for the other to survive.
+
+85
+00:03:37,820 --> 00:03:39,820
+But if you have a sexual species,
+
+86
+00:03:39,820 --> 00:03:41,820
+then it's possible for an individual
+
+87
+00:03:41,820 --> 00:03:43,820
+to inherit both mutations
+
+88
+00:03:43,820 --> 00:03:45,820
+from different lineages.
+
+89
+00:03:45,820 --> 00:03:48,820
+So what sex does is it enables the individual
+
+90
+00:03:48,820 --> 00:03:50,820
+to draw upon
+
+91
+00:03:50,820 --> 00:03:53,820
+the genetic innovations of the whole species.
+
+92
+00:03:53,820 --> 00:03:55,820
+It's not confined to its own lineage.
+
+93
+00:03:55,820 --> 00:03:57,820
+What's the process that's having the same effect
+
+94
+00:03:57,820 --> 00:03:59,820
+in cultural evolution
+
+95
+00:03:59,820 --> 00:04:02,820
+as sex is having in biological evolution?
+
+96
+00:04:02,820 --> 00:04:04,820
+And I think the answer is exchange,
+
+97
+00:04:04,820 --> 00:04:07,820
+the habit of exchanging one thing for another.
+
+98
+00:04:07,820 --> 00:04:09,820
+It's a unique human feature.
+
+99
+00:04:09,820 --> 00:04:11,820
+No other animal does it.
+
+100
+00:04:11,820 --> 00:04:13,820
+You can teach them in the laboratory to do a little bit of exchange --
+
+101
+00:04:13,820 --> 00:04:15,820
+and indeed there's reciprocity in other animals --
+
+102
+00:04:15,820 --> 00:04:18,820
+But the exchange of one object for another never happens.
+
+103
+00:04:18,820 --> 00:04:20,820
+As Adam Smith said, "No man ever saw a dog
+
+104
+00:04:20,820 --> 00:04:23,820
+make a fair exchange of a bone with another dog."
+
+105
+00:04:23,820 --> 00:04:26,820
+(Laughter)
+
+106
+00:04:26,820 --> 00:04:28,820
+You can have culture without exchange.
+
+107
+00:04:28,820 --> 00:04:30,820
+You can have, as it were, asexual culture.
+
+108
+00:04:30,820 --> 00:04:33,820
+Chimpanzees, killer whales, these kinds of creatures, they have culture.
+
+109
+00:04:33,820 --> 00:04:35,820
+They teach each other traditions
+
+110
+00:04:35,820 --> 00:04:37,820
+which are handed down from parent to offspring.
+
+111
+00:04:37,820 --> 00:04:39,820
+In this case, chimpanzees teaching each other
+
+112
+00:04:39,820 --> 00:04:41,820
+how to crack nuts with rocks.
+
+113
+00:04:41,820 --> 00:04:43,820
+But the difference is
+
+114
+00:04:43,820 --> 00:04:45,820
+that these cultures never expand, never grow,
+
+115
+00:04:45,820 --> 00:04:47,820
+never accumulate, never become combinatorial,
+
+116
+00:04:47,820 --> 00:04:49,820
+and the reason is because
+
+117
+00:04:49,820 --> 00:04:51,820
+there is no sex, as it were,
+
+118
+00:04:51,820 --> 00:04:53,820
+there is no exchange of ideas.
+
+119
+00:04:53,820 --> 00:04:56,820
+Chimpanzee troops have different cultures in different troops.
+
+120
+00:04:56,820 --> 00:04:59,820
+There's no exchange of ideas between them.
+
+121
+00:04:59,820 --> 00:05:01,820
+And why does exchange raise living standards?
+
+122
+00:05:01,820 --> 00:05:04,820
+Well, the answer came from David Ricardo in 1817.
+
+123
+00:05:04,820 --> 00:05:06,820
+And here is a Stone Age version of his story,
+
+124
+00:05:06,820 --> 00:05:09,820
+although he told it in terms of trade between countries.
+
+125
+00:05:09,820 --> 00:05:12,820
+Adam takes four hours to make a spear and three hours to make an axe.
+
+126
+00:05:12,820 --> 00:05:15,820
+Oz takes one hour to make a spear and two hours to make an axe.
+
+127
+00:05:15,820 --> 00:05:18,820
+So Oz is better at both spears and axes than Adam.
+
+128
+00:05:18,820 --> 00:05:20,820
+He doesn't need Adam.
+
+129
+00:05:20,820 --> 00:05:22,820
+He can make his own spears and axes.
+
+130
+00:05:22,820 --> 00:05:24,820
+Well no, because if you think about it,
+
+131
+00:05:24,820 --> 00:05:26,820
+if Oz makes two spears and Adam make two axes,
+
+132
+00:05:26,820 --> 00:05:28,820
+and then they trade,
+
+133
+00:05:28,820 --> 00:05:31,820
+then they will each have saved an hour of work.
+
+134
+00:05:31,820 --> 00:05:34,820
+And the more they do this, the more true it's going to be,
+
+135
+00:05:34,820 --> 00:05:37,820
+because the more they do this, the better Adam is going to get at making axes
+
+136
+00:05:37,820 --> 00:05:39,820
+and the better Oz is going to get at making spears.
+
+137
+00:05:39,820 --> 00:05:41,820
+So the gains from trade are only going to grow.
+
+138
+00:05:41,820 --> 00:05:43,820
+And this is one of the beauties of exchange,
+
+139
+00:05:43,820 --> 00:05:45,820
+is it actually creates the momentum
+
+140
+00:05:45,820 --> 00:05:47,820
+for more specialization,
+
+141
+00:05:47,820 --> 00:05:50,820
+which creates the momentum for more exchange and so on.
+
+142
+00:05:50,820 --> 00:05:52,820
+Adam and Oz both saved an hour of time.
+
+143
+00:05:52,820 --> 00:05:54,820
+That is prosperity, the saving of time
+
+144
+00:05:54,820 --> 00:05:57,820
+in satisfying your needs.
+
+145
+00:05:57,820 --> 00:05:59,820
+Ask yourself how long you would have to work
+
+146
+00:05:59,820 --> 00:06:02,820
+to provide for yourself
+
+147
+00:06:02,820 --> 00:06:05,820
+an hour of reading light this evening to read a book by.
+
+148
+00:06:05,820 --> 00:06:08,820
+If you had to start from scratch, let's say you go out into the countryside.
+
+149
+00:06:08,820 --> 00:06:10,820
+You find a sheep. You kill it. You get the fat out of it.
+
+150
+00:06:10,820 --> 00:06:13,820
+You render it down. You make a candle, etc. etc.
+
+151
+00:06:13,820 --> 00:06:15,820
+How long is it going to take you? Quite a long time.
+
+152
+00:06:15,820 --> 00:06:17,820
+How long do you actually have to work
+
+153
+00:06:17,820 --> 00:06:19,820
+to earn an hour of reading light
+
+154
+00:06:19,820 --> 00:06:21,820
+if you're on the average wage in Britain today?
+
+155
+00:06:21,820 --> 00:06:24,820
+And the answer is about half a second.
+
+156
+00:06:24,820 --> 00:06:26,820
+Back in 1950,
+
+157
+00:06:26,820 --> 00:06:28,820
+you would have had to work for eight seconds on the average wage
+
+158
+00:06:28,820 --> 00:06:30,820
+to acquire that much light.
+
+159
+00:06:30,820 --> 00:06:33,820
+And that's seven and a half seconds of prosperity that you've gained
+
+160
+00:06:33,820 --> 00:06:35,820
+since 1950, as it were,
+
+161
+00:06:35,820 --> 00:06:38,820
+because that's seven and a half seconds in which you can do something else,
+
+162
+00:06:38,820 --> 00:06:40,820
+or you can acquire another good or service.
+
+163
+00:06:40,820 --> 00:06:42,820
+And back in 1880,
+
+164
+00:06:42,820 --> 00:06:44,820
+it would have been 15 minutes
+
+165
+00:06:44,820 --> 00:06:46,820
+to earn that amount of light on the average wage.
+
+166
+00:06:46,820 --> 00:06:48,820
+Back in 1800,
+
+167
+00:06:48,820 --> 00:06:50,820
+you'd have had to work six hours
+
+168
+00:06:50,820 --> 00:06:53,820
+to earn a candle that could burn for an hour.
+
+169
+00:06:53,820 --> 00:06:55,820
+In other words, the average person on the average wage
+
+170
+00:06:55,820 --> 00:06:58,820
+could not afford a candle in 1800.
+
+171
+00:06:58,820 --> 00:07:01,820
+Go back to this image of the axe and the mouse,
+
+172
+00:07:01,820 --> 00:07:04,820
+and ask yourself: "Who made them and for who?"
+
+173
+00:07:04,820 --> 00:07:06,820
+The stone axe was made by someone for himself.
+
+174
+00:07:06,820 --> 00:07:08,820
+It was self-sufficiency.
+
+175
+00:07:08,820 --> 00:07:10,820
+We call that poverty these days.
+
+176
+00:07:10,820 --> 00:07:12,820
+But the object on the right
+
+177
+00:07:12,820 --> 00:07:15,820
+was made for me by other people.
+
+178
+00:07:15,820 --> 00:07:17,820
+How many other people?
+
+179
+00:07:17,820 --> 00:07:19,820
+Tens? Hundreds? Thousands?
+
+180
+00:07:19,820 --> 00:07:21,820
+You know, I think it's probably millions.
+
+181
+00:07:21,820 --> 00:07:23,820
+Because you've got to include the man who grew the coffee,
+
+182
+00:07:23,820 --> 00:07:26,820
+which was brewed for the man who was on the oil rig,
+
+183
+00:07:26,820 --> 00:07:29,820
+who was drilling for oil, which was going to be made into the plastic, etc.
+
+184
+00:07:29,820 --> 00:07:31,820
+They were all working for me,
+
+185
+00:07:31,820 --> 00:07:33,820
+to make a mouse for me.
+
+186
+00:07:33,820 --> 00:07:36,820
+And that's the way society works.
+
+187
+00:07:36,820 --> 00:07:39,820
+That's what we've achieved as a species.
+
+188
+00:07:40,820 --> 00:07:42,820
+In the old days, if you were rich,
+
+189
+00:07:42,820 --> 00:07:44,820
+you literally had people working for you.
+
+190
+00:07:44,820 --> 00:07:46,820
+That's how you got to be rich; you employed them.
+
+191
+00:07:46,820 --> 00:07:48,820
+Louis XIV had a lot of people working for him.
+
+192
+00:07:48,820 --> 00:07:50,820
+They made his silly outfits, like this,
+
+193
+00:07:50,820 --> 00:07:52,820
+(Laughter)
+
+194
+00:07:52,820 --> 00:07:55,820
+and they did his silly hairstyles, or whatever.
+
+195
+00:07:55,820 --> 00:07:57,820
+He had 498 people
+
+196
+00:07:57,820 --> 00:07:59,820
+to prepare his dinner every night.
+
+197
+00:07:59,820 --> 00:08:01,820
+But a modern tourist going around the palace of Versailles
+
+198
+00:08:01,820 --> 00:08:04,820
+and looking at Louis XIV's pictures,
+
+199
+00:08:04,820 --> 00:08:06,820
+he has 498 people doing his dinner tonight too.
+
+200
+00:08:06,820 --> 00:08:08,820
+They're in bistros and cafes and restaurants
+
+201
+00:08:08,820 --> 00:08:10,820
+and shops all over Paris,
+
+202
+00:08:10,820 --> 00:08:13,820
+and they're all ready to serve you at an hour's notice with an excellent meal
+
+203
+00:08:13,820 --> 00:08:15,820
+that's probably got higher quality
+
+204
+00:08:15,820 --> 00:08:17,820
+than Louis XIV even had.
+
+205
+00:08:17,820 --> 00:08:20,820
+And that's what we've done, because we're all working for each other.
+
+206
+00:08:20,820 --> 00:08:23,820
+We're able to draw upon specialization and exchange
+
+207
+00:08:23,820 --> 00:08:26,820
+to raise each other's living standards.
+
+208
+00:08:26,820 --> 00:08:29,820
+Now, you do get other animals working for each other too.
+
+209
+00:08:29,820 --> 00:08:32,820
+Ants are a classic example; workers work for queens and queens work for workers.
+
+210
+00:08:32,820 --> 00:08:34,820
+But there's a big difference,
+
+211
+00:08:34,820 --> 00:08:36,820
+which is that it only happens within the colony.
+
+212
+00:08:36,820 --> 00:08:38,820
+There's no working for each other across the colonies.
+
+213
+00:08:38,820 --> 00:08:41,820
+And the reason for that is because there's a reproductive division of labor.
+
+214
+00:08:41,820 --> 00:08:44,820
+That is to say, they specialize with respect to reproduction.
+
+215
+00:08:44,820 --> 00:08:46,820
+The queen does it all.
+
+216
+00:08:46,820 --> 00:08:48,820
+In our species, we don't like doing that.
+
+217
+00:08:48,820 --> 00:08:51,820
+It's the one thing we insist on doing for ourselves, is reproduction.
+
+218
+00:08:51,820 --> 00:08:54,820
+(Laughter)
+
+219
+00:08:54,820 --> 00:08:57,820
+Even in England, we don't leave reproduction to the Queen.
+
+220
+00:08:57,820 --> 00:09:01,820
+(Applause)
+
+221
+00:09:01,820 --> 00:09:03,820
+So when did this habit start?
+
+222
+00:09:03,820 --> 00:09:05,820
+And how long has it been going on? And what does it mean?
+
+223
+00:09:05,820 --> 00:09:08,820
+Well, I think, probably, the oldest version of this
+
+224
+00:09:08,820 --> 00:09:10,820
+is probably the sexual division of labor.
+
+225
+00:09:10,820 --> 00:09:12,820
+But I've got no evidence for that.
+
+226
+00:09:12,820 --> 00:09:14,820
+It just looks like the first thing we did
+
+227
+00:09:14,820 --> 00:09:17,820
+was work male for female and female for male.
+
+228
+00:09:17,820 --> 00:09:19,820
+In all hunter-gatherer societies today,
+
+229
+00:09:19,820 --> 00:09:21,820
+there's a foraging division of labor
+
+230
+00:09:21,820 --> 00:09:23,820
+between, on the whole, hunting males and gathering females.
+
+231
+00:09:23,820 --> 00:09:25,820
+It isn't always quite that simple,
+
+232
+00:09:25,820 --> 00:09:27,820
+but there's a distinction between
+
+233
+00:09:27,820 --> 00:09:29,820
+specialized roles for males and females.
+
+234
+00:09:29,820 --> 00:09:31,820
+And the beauty of this system
+
+235
+00:09:31,820 --> 00:09:34,820
+is that it benefits both sides.
+
+236
+00:09:34,820 --> 00:09:36,820
+The woman knows
+
+237
+00:09:36,820 --> 00:09:38,820
+that, in the Hadzas' case here --
+
+238
+00:09:38,820 --> 00:09:40,820
+digging roots to share with men in exchange for meat --
+
+239
+00:09:40,820 --> 00:09:43,820
+she knows that all she has to do to get access to protein
+
+240
+00:09:43,820 --> 00:09:46,820
+is to dig some extra roots and trade them for meat.
+
+241
+00:09:46,820 --> 00:09:48,820
+And she doesn't have to go on an exhausting hunt
+
+242
+00:09:48,820 --> 00:09:50,820
+and try and kill a warthog.
+
+243
+00:09:50,820 --> 00:09:52,820
+And the man knows that he doesn't have to do any digging
+
+244
+00:09:52,820 --> 00:09:54,820
+to get roots.
+
+245
+00:09:54,820 --> 00:09:56,820
+All he has to do is make sure that when he kills a warthog
+
+246
+00:09:56,820 --> 00:09:58,820
+it's big enough to share some.
+
+247
+00:09:58,820 --> 00:10:01,820
+And so both sides raise each other's standards of living
+
+248
+00:10:01,820 --> 00:10:03,820
+through the sexual division of labor.
+
+249
+00:10:03,820 --> 00:10:06,820
+When did this happen? We don't know, but it's possible
+
+250
+00:10:06,820 --> 00:10:08,820
+that Neanderthals didn't do this.
+
+251
+00:10:08,820 --> 00:10:10,820
+They were a highly cooperative species.
+
+252
+00:10:10,820 --> 00:10:12,820
+They were a highly intelligent species.
+
+253
+00:10:12,820 --> 00:10:14,820
+Their brains on average, by the end, were bigger than yours and mine
+
+254
+00:10:14,820 --> 00:10:16,820
+in this room today.
+
+255
+00:10:16,820 --> 00:10:18,820
+They were imaginative. They buried their dead.
+
+256
+00:10:18,820 --> 00:10:20,820
+They had language, probably,
+
+257
+00:10:20,820 --> 00:10:22,820
+because we know they had the FOXP2 gene of the same kind as us,
+
+258
+00:10:22,820 --> 00:10:24,820
+which was discovered here in Oxford.
+
+259
+00:10:24,820 --> 00:10:27,820
+And so it looks like they probably had linguistic skills.
+
+260
+00:10:27,820 --> 00:10:30,820
+They were brilliant people. I'm not dissing the Neanderthals.
+
+261
+00:10:31,820 --> 00:10:33,820
+But there's no evidence
+
+262
+00:10:33,820 --> 00:10:35,820
+of a sexual division of labor.
+
+263
+00:10:35,820 --> 00:10:38,820
+There's no evidence of gathering behavior by females.
+
+264
+00:10:38,820 --> 00:10:41,820
+It looks like the females were cooperative hunters with the men.
+
+265
+00:10:42,820 --> 00:10:44,820
+And the other thing there's no evidence for
+
+266
+00:10:44,820 --> 00:10:46,820
+is exchange between groups,
+
+267
+00:10:47,820 --> 00:10:50,820
+because the objects that you find in Neanderthal remains,
+
+268
+00:10:50,820 --> 00:10:52,820
+the tools they made,
+
+269
+00:10:52,820 --> 00:10:54,820
+are always made from local materials.
+
+270
+00:10:54,820 --> 00:10:56,820
+For example, in the Caucasus
+
+271
+00:10:56,820 --> 00:10:59,820
+there's a site where you find local Neanderthal tools.
+
+272
+00:10:59,820 --> 00:11:01,820
+They're always made from local chert.
+
+273
+00:11:01,820 --> 00:11:03,820
+In the same valley there are modern human remains
+
+274
+00:11:03,820 --> 00:11:05,820
+from about the same date, 30,000 years ago,
+
+275
+00:11:05,820 --> 00:11:07,820
+and some of those are from local chert,
+
+276
+00:11:07,820 --> 00:11:09,820
+but more -- but many of them are made
+
+277
+00:11:09,820 --> 00:11:11,820
+from obsidian from a long way away.
+
+278
+00:11:11,820 --> 00:11:13,820
+And when human beings began
+
+279
+00:11:13,820 --> 00:11:15,820
+moving objects around like this,
+
+280
+00:11:15,820 --> 00:11:18,820
+it was evidence that they were exchanging between groups.
+
+281
+00:11:18,820 --> 00:11:21,820
+Trade is 10 times as old as farming.
+
+282
+00:11:21,820 --> 00:11:24,820
+People forget that. People think of trade as a modern thing.
+
+283
+00:11:24,820 --> 00:11:26,820
+Exchange between groups has been going on
+
+284
+00:11:26,820 --> 00:11:29,820
+for a hundred thousand years.
+
+285
+00:11:29,820 --> 00:11:31,820
+And the earliest evidence for it crops up
+
+286
+00:11:31,820 --> 00:11:34,820
+somewhere between 80 and 120,000 years ago in Africa,
+
+287
+00:11:34,820 --> 00:11:37,820
+when you see obsidian and jasper and other things
+
+288
+00:11:37,820 --> 00:11:40,820
+moving long distances in Ethiopia.
+
+289
+00:11:40,820 --> 00:11:42,820
+You also see seashells --
+
+290
+00:11:42,820 --> 00:11:44,820
+as discovered by a team here in Oxford --
+
+291
+00:11:44,820 --> 00:11:46,820
+moving 125 miles inland
+
+292
+00:11:46,820 --> 00:11:49,820
+from the Mediterranean in Algeria.
+
+293
+00:11:49,820 --> 00:11:51,820
+And that's evidence that people
+
+294
+00:11:51,820 --> 00:11:53,820
+have started exchanging between groups.
+
+295
+00:11:53,820 --> 00:11:55,820
+And that will have led to specialization.
+
+296
+00:11:55,820 --> 00:11:57,820
+How do you know that long-distance movement
+
+297
+00:11:57,820 --> 00:12:00,820
+means trade rather than migration?
+
+298
+00:12:00,820 --> 00:12:02,820
+Well, you look at modern hunter gatherers like aboriginals,
+
+299
+00:12:02,820 --> 00:12:05,820
+who quarried for stone axes at a place called Mount Isa,
+
+300
+00:12:05,820 --> 00:12:08,820
+which was a quarry owned by the Kalkadoon tribe.
+
+301
+00:12:08,820 --> 00:12:10,820
+They traded them with their neighbors
+
+302
+00:12:10,820 --> 00:12:12,820
+for things like stingray barbs,
+
+303
+00:12:12,820 --> 00:12:14,820
+and the consequence was that stone axes
+
+304
+00:12:14,820 --> 00:12:16,820
+ended up over a large part of Australia.
+
+305
+00:12:16,820 --> 00:12:18,820
+So long-distance movement of tools
+
+306
+00:12:18,820 --> 00:12:21,820
+is a sign of trade, not migration.
+
+307
+00:12:21,820 --> 00:12:24,820
+What happens when you cut people off from exchange,
+
+308
+00:12:24,820 --> 00:12:27,820
+from the ability to exchange and specialize?
+
+309
+00:12:27,820 --> 00:12:29,820
+And the answer is that
+
+310
+00:12:29,820 --> 00:12:31,820
+not only do you slow down technological progress,
+
+311
+00:12:31,820 --> 00:12:34,820
+you can actually throw it into reverse.
+
+312
+00:12:34,820 --> 00:12:36,820
+An example is Tasmania.
+
+313
+00:12:36,820 --> 00:12:39,820
+When the sea level rose and Tasmania became an island 10,000 years ago,
+
+314
+00:12:39,820 --> 00:12:41,820
+the people on it not only experienced
+
+315
+00:12:41,820 --> 00:12:44,820
+slower progress than people on the mainland,
+
+316
+00:12:44,820 --> 00:12:46,820
+they actually experienced regress.
+
+317
+00:12:46,820 --> 00:12:48,820
+They gave up the ability to make stone tools
+
+318
+00:12:48,820 --> 00:12:50,820
+and fishing equipment and clothing
+
+319
+00:12:50,820 --> 00:12:53,820
+because the population of about 4,000 people
+
+320
+00:12:53,820 --> 00:12:55,820
+was simply not large enough
+
+321
+00:12:55,820 --> 00:12:57,820
+to maintain the specialized skills
+
+322
+00:12:57,820 --> 00:13:00,820
+necessary to keep the technology they had.
+
+323
+00:13:00,820 --> 00:13:02,820
+It's as if the people in this room were plonked on a desert island.
+
+324
+00:13:02,820 --> 00:13:04,820
+How many of the things in our pockets
+
+325
+00:13:04,820 --> 00:13:07,820
+could we continue to make after 10,000 years?
+
+326
+00:13:08,820 --> 00:13:10,820
+It didn't happen in Tierra del Fuego --
+
+327
+00:13:10,820 --> 00:13:12,820
+similar island, similar people.
+
+328
+00:13:12,820 --> 00:13:14,820
+The reason: because Tierra del Fuego
+
+329
+00:13:14,820 --> 00:13:17,820
+is separated from South America by a much narrower straight,
+
+330
+00:13:17,820 --> 00:13:19,820
+and there was trading contact across that straight
+
+331
+00:13:19,820 --> 00:13:21,820
+throughout 10,000 years.
+
+332
+00:13:21,820 --> 00:13:24,820
+The Tasmanians were isolated.
+
+333
+00:13:24,820 --> 00:13:26,820
+Go back to this image again
+
+334
+00:13:26,820 --> 00:13:29,820
+and ask yourself, not only who made it and for who,
+
+335
+00:13:29,820 --> 00:13:32,820
+but who knew how to make it.
+
+336
+00:13:32,820 --> 00:13:35,820
+In the case of the stone axe, the man who made it knew how to make it.
+
+337
+00:13:35,820 --> 00:13:38,820
+But who knows how to make a computer mouse?
+
+338
+00:13:38,820 --> 00:13:41,820
+Nobody, literally nobody.
+
+339
+00:13:41,820 --> 00:13:44,820
+There is nobody on the planet who knows how to make a computer mouse.
+
+340
+00:13:44,820 --> 00:13:46,820
+I mean this quite seriously.
+
+341
+00:13:46,820 --> 00:13:48,820
+The president of the computer mouse company doesn't know.
+
+342
+00:13:48,820 --> 00:13:51,820
+He just knows how to run a company.
+
+343
+00:13:51,820 --> 00:13:53,820
+The person on the assembly line doesn't know
+
+344
+00:13:53,820 --> 00:13:55,820
+because he doesn't know how to drill an oil well
+
+345
+00:13:55,820 --> 00:13:58,820
+to get oil out to make plastic, and so on.
+
+346
+00:13:58,820 --> 00:14:01,820
+We all know little bits, but none of us knows the whole.
+
+347
+00:14:01,820 --> 00:14:03,820
+I am of course quoting from a famous essay
+
+348
+00:14:03,820 --> 00:14:06,820
+by Leonard Read, the economist in the 1950s,
+
+349
+00:14:06,820 --> 00:14:08,820
+called "I, Pencil"
+
+350
+00:14:08,820 --> 00:14:11,820
+in which he wrote about how a pencil came to be made,
+
+351
+00:14:11,820 --> 00:14:14,820
+and how nobody knows even how to make a pencil,
+
+352
+00:14:14,820 --> 00:14:17,820
+because the people who assemble it don't know how to mine graphite,
+
+353
+00:14:17,820 --> 00:14:20,820
+and they don't know how to fell trees and that kind of thing.
+
+354
+00:14:20,820 --> 00:14:22,820
+And what we've done in human society,
+
+355
+00:14:22,820 --> 00:14:24,820
+through exchange and specialization,
+
+356
+00:14:24,820 --> 00:14:26,820
+is we've created
+
+357
+00:14:26,820 --> 00:14:29,820
+the ability to do things that we don't even understand.
+
+358
+00:14:29,820 --> 00:14:31,820
+It's not the same with language.
+
+359
+00:14:31,820 --> 00:14:33,820
+With language we have to transfer ideas
+
+360
+00:14:33,820 --> 00:14:36,820
+that we understand with each other.
+
+361
+00:14:36,820 --> 00:14:38,820
+But with technology,
+
+362
+00:14:38,820 --> 00:14:40,820
+we can actually do things that are beyond our capabilities.
+
+363
+00:14:40,820 --> 00:14:43,820
+We've gone beyond the capacity of the human mind
+
+364
+00:14:43,820 --> 00:14:45,820
+to an extraordinary degree.
+
+365
+00:14:45,820 --> 00:14:47,820
+And by the way,
+
+366
+00:14:47,820 --> 00:14:50,820
+that's one of the reasons that I'm not interested
+
+367
+00:14:50,820 --> 00:14:52,820
+in the debate about I.Q.,
+
+368
+00:14:52,820 --> 00:14:55,820
+about whether some groups have higher I.Q.s than other groups.
+
+369
+00:14:55,820 --> 00:14:57,820
+It's completely irrelevant.
+
+370
+00:14:57,820 --> 00:15:00,820
+What's relevant to a society
+
+371
+00:15:00,820 --> 00:15:03,820
+is how well people are communicating their ideas,
+
+372
+00:15:03,820 --> 00:15:05,820
+and how well they're cooperating,
+
+373
+00:15:05,820 --> 00:15:07,820
+not how clever the individuals are.
+
+374
+00:15:07,820 --> 00:15:09,820
+So we've created something called the collective brain.
+
+375
+00:15:09,820 --> 00:15:11,820
+We're just the nodes in the network.
+
+376
+00:15:11,820 --> 00:15:14,820
+We're the neurons in this brain.
+
+377
+00:15:14,820 --> 00:15:16,820
+It's the interchange of ideas,
+
+378
+00:15:16,820 --> 00:15:18,820
+the meeting and mating of ideas between them,
+
+379
+00:15:18,820 --> 00:15:21,820
+that is causing technological progress,
+
+380
+00:15:21,820 --> 00:15:23,820
+incrementally, bit by bit.
+
+381
+00:15:23,820 --> 00:15:25,820
+However, bad things happen.
+
+382
+00:15:25,820 --> 00:15:28,820
+And in the future, as we go forward,
+
+383
+00:15:28,820 --> 00:15:31,820
+we will, of course, experience terrible things.
+
+384
+00:15:31,820 --> 00:15:33,820
+There will be wars; there will be depressions;
+
+385
+00:15:33,820 --> 00:15:35,820
+there will be natural disasters.
+
+386
+00:15:35,820 --> 00:15:38,820
+Awful things will happen in this century, I'm absolutely sure.
+
+387
+00:15:38,820 --> 00:15:41,820
+But I'm also sure that, because of the connections people are making,
+
+388
+00:15:41,820 --> 00:15:43,820
+and the ability of ideas
+
+389
+00:15:43,820 --> 00:15:45,820
+to meet and to mate
+
+390
+00:15:45,820 --> 00:15:47,820
+as never before,
+
+391
+00:15:47,820 --> 00:15:49,820
+I'm also sure
+
+392
+00:15:49,820 --> 00:15:51,820
+that technology will advance,
+
+393
+00:15:51,820 --> 00:15:53,820
+and therefore living standards will advance.
+
+394
+00:15:53,820 --> 00:15:55,820
+Because through the cloud,
+
+395
+00:15:55,820 --> 00:15:57,820
+through crowd sourcing,
+
+396
+00:15:57,820 --> 00:15:59,820
+through the bottom-up world that we've created,
+
+397
+00:15:59,820 --> 00:16:02,820
+where not just the elites but everybody
+
+398
+00:16:02,820 --> 00:16:04,820
+is able to have their ideas
+
+399
+00:16:04,820 --> 00:16:06,820
+and make them meet and mate,
+
+400
+00:16:06,820 --> 00:16:09,820
+we are surely accelerating the rate of innovation.
+
+401
+00:16:09,820 --> 00:16:11,820
+Thank you.
+
+402
+00:16:11,820 --> 00:16:15,820
+(Applause)
+

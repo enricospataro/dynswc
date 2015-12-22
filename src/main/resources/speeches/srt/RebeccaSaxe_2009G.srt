@@ -1,0 +1,1548 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+Today I'm going to talk to you about the problem of other minds.
+
+2
+00:00:14,820 --> 00:00:16,820
+And the problem I'm going to talk about
+
+3
+00:00:16,820 --> 00:00:19,820
+is not the familiar one from philosophy,
+
+4
+00:00:19,820 --> 00:00:21,820
+which is, "How can we know
+
+5
+00:00:21,820 --> 00:00:23,820
+whether other people have minds?"
+
+6
+00:00:23,820 --> 00:00:25,820
+That is, maybe you have a mind,
+
+7
+00:00:25,820 --> 00:00:28,820
+and everyone else is just a really convincing robot.
+
+8
+00:00:28,820 --> 00:00:30,820
+So that's a problem in philosophy,
+
+9
+00:00:30,820 --> 00:00:32,820
+but for today's purposes I'm going to assume
+
+10
+00:00:32,820 --> 00:00:34,820
+that many people in this audience have a mind,
+
+11
+00:00:34,820 --> 00:00:36,820
+and that I don't have to worry about this.
+
+12
+00:00:36,820 --> 00:00:39,820
+There is a second problem that is maybe even more familiar to us
+
+13
+00:00:39,820 --> 00:00:42,820
+as parents and teachers and spouses
+
+14
+00:00:42,820 --> 00:00:44,820
+and novelists,
+
+15
+00:00:44,820 --> 00:00:46,820
+which is, "Why is it so hard
+
+16
+00:00:46,820 --> 00:00:48,820
+to know what somebody else wants or believes?"
+
+17
+00:00:48,820 --> 00:00:50,820
+Or perhaps, more relevantly,
+
+18
+00:00:50,820 --> 00:00:53,820
+"Why is it so hard to change what somebody else wants or believes?"
+
+19
+00:00:53,820 --> 00:00:55,820
+I think novelists put this best.
+
+20
+00:00:55,820 --> 00:00:57,820
+Like Philip Roth, who said,
+
+21
+00:00:57,820 --> 00:01:00,820
+"And yet, what are we to do about this terribly significant business
+
+22
+00:01:00,820 --> 00:01:02,820
+of other people?
+
+23
+00:01:02,820 --> 00:01:04,820
+So ill equipped are we all,
+
+24
+00:01:04,820 --> 00:01:06,820
+to envision one another's interior workings
+
+25
+00:01:06,820 --> 00:01:08,820
+and invisible aims."
+
+26
+00:01:08,820 --> 00:01:11,820
+So as a teacher and as a spouse,
+
+27
+00:01:11,820 --> 00:01:13,820
+this is, of course, a problem I confront every day.
+
+28
+00:01:13,820 --> 00:01:16,820
+But as a scientist, I'm interested in a different problem of other minds,
+
+29
+00:01:16,820 --> 00:01:19,820
+and that is the one I'm going to introduce to you today.
+
+30
+00:01:19,820 --> 00:01:21,820
+And that problem is, "How is it so easy
+
+31
+00:01:21,820 --> 00:01:23,820
+to know other minds?"
+
+32
+00:01:23,820 --> 00:01:25,820
+So to start with an illustration,
+
+33
+00:01:25,820 --> 00:01:27,820
+you need almost no information,
+
+34
+00:01:27,820 --> 00:01:29,820
+one snapshot of a stranger,
+
+35
+00:01:29,820 --> 00:01:31,820
+to guess what this woman is thinking,
+
+36
+00:01:31,820 --> 00:01:34,820
+or what this man is.
+
+37
+00:01:34,820 --> 00:01:36,820
+And put another way, the crux of the problem is
+
+38
+00:01:36,820 --> 00:01:39,820
+the machine that we use for thinking about other minds,
+
+39
+00:01:39,820 --> 00:01:42,820
+our brain, is made up of pieces, brain cells,
+
+40
+00:01:42,820 --> 00:01:44,820
+that we share with all other animals, with monkeys
+
+41
+00:01:44,820 --> 00:01:47,820
+and mice and even sea slugs.
+
+42
+00:01:47,820 --> 00:01:50,820
+And yet, you put them together in a particular network,
+
+43
+00:01:50,820 --> 00:01:53,820
+and what you get is the capacity to write Romeo and Juliet.
+
+44
+00:01:53,820 --> 00:01:55,820
+Or to say, as Alan Greenspan did,
+
+45
+00:01:55,820 --> 00:01:58,820
+"I know you think you understand what you thought I said,
+
+46
+00:01:58,820 --> 00:02:00,820
+but I'm not sure you realize that what you heard
+
+47
+00:02:00,820 --> 00:02:02,820
+is not what I meant."
+
+48
+00:02:02,820 --> 00:02:05,820
+(Laughter)
+
+49
+00:02:05,820 --> 00:02:07,820
+So, the job of my field of cognitive neuroscience
+
+50
+00:02:07,820 --> 00:02:09,820
+is to stand with these ideas,
+
+51
+00:02:09,820 --> 00:02:11,820
+one in each hand.
+
+52
+00:02:11,820 --> 00:02:14,820
+And to try to understand how you can put together
+
+53
+00:02:14,820 --> 00:02:18,820
+simple units, simple messages over space and time, in a network,
+
+54
+00:02:18,820 --> 00:02:22,820
+and get this amazing human capacity to think about minds.
+
+55
+00:02:22,820 --> 00:02:25,820
+So I'm going to tell you three things about this today.
+
+56
+00:02:25,820 --> 00:02:28,820
+Obviously the whole project here is huge.
+
+57
+00:02:28,820 --> 00:02:31,820
+And I'm going to tell you just our first few steps
+
+58
+00:02:31,820 --> 00:02:33,820
+about the discovery of a special brain region
+
+59
+00:02:33,820 --> 00:02:35,820
+for thinking about other people's thoughts.
+
+60
+00:02:35,820 --> 00:02:37,820
+Some observations on the slow development of this system
+
+61
+00:02:37,820 --> 00:02:41,820
+as we learn how to do this difficult job.
+
+62
+00:02:41,820 --> 00:02:43,820
+And then finally, to show that some of the differences
+
+63
+00:02:43,820 --> 00:02:46,820
+between people, in how we judge others,
+
+64
+00:02:46,820 --> 00:02:50,820
+can be explained by differences in this brain system.
+
+65
+00:02:50,820 --> 00:02:52,820
+So first, the first thing I want to tell you is that
+
+66
+00:02:52,820 --> 00:02:55,820
+there is a brain region in the human brain, in your brains,
+
+67
+00:02:55,820 --> 00:02:58,820
+whose job it is to think about other people's thoughts.
+
+68
+00:02:58,820 --> 00:03:00,820
+This is a picture of it.
+
+69
+00:03:00,820 --> 00:03:02,820
+It's called the Right Temporo-Parietal Junction.
+
+70
+00:03:02,820 --> 00:03:04,820
+It's above and behind your right ear.
+
+71
+00:03:04,820 --> 00:03:06,820
+And this is the brain region you used when you saw the pictures I showed you,
+
+72
+00:03:06,820 --> 00:03:08,820
+or when you read Romeo and Juliet
+
+73
+00:03:08,820 --> 00:03:11,820
+or when you tried to understand Alan Greenspan.
+
+74
+00:03:11,820 --> 00:03:15,820
+And you don't use it for solving any other kinds of logical problems.
+
+75
+00:03:15,820 --> 00:03:18,820
+So this brain region is called the Right TPJ.
+
+76
+00:03:18,820 --> 00:03:20,820
+And this picture shows the average activation
+
+77
+00:03:20,820 --> 00:03:22,820
+in a group of what we call typical human adults.
+
+78
+00:03:22,820 --> 00:03:24,820
+They're MIT undergraduates.
+
+79
+00:03:24,820 --> 00:03:28,820
+(Laughter)
+
+80
+00:03:28,820 --> 00:03:30,820
+The second thing I want to say about this brain system
+
+81
+00:03:30,820 --> 00:03:32,820
+is that although we human adults
+
+82
+00:03:32,820 --> 00:03:34,820
+are really good at understanding other minds,
+
+83
+00:03:34,820 --> 00:03:36,820
+we weren't always that way.
+
+84
+00:03:36,820 --> 00:03:39,820
+It takes children a long time to break into the system.
+
+85
+00:03:39,820 --> 00:03:43,820
+I'm going to show you a little bit of that long, extended process.
+
+86
+00:03:43,820 --> 00:03:46,820
+The first thing I'm going to show you is a change between age three and five,
+
+87
+00:03:46,820 --> 00:03:48,820
+as kids learn to understand
+
+88
+00:03:48,820 --> 00:03:51,820
+that somebody else can have beliefs that are different from their own.
+
+89
+00:03:51,820 --> 00:03:53,820
+So I'm going to show you a five-year-old
+
+90
+00:03:53,820 --> 00:03:55,820
+who is getting a standard kind of puzzle
+
+91
+00:03:55,820 --> 00:03:58,820
+that we call the false belief task.
+
+92
+00:03:58,820 --> 00:04:01,820
+Rebecca Saxe (Video): This is the first pirate. His name is Ivan.
+
+93
+00:04:01,820 --> 00:04:03,820
+And you know what pirates really like?
+
+94
+00:04:03,820 --> 00:04:06,820
+Child: What? RS: Pirates really like cheese sandwiches.
+
+95
+00:04:06,820 --> 00:04:09,820
+Child: Cheese? I love cheese!
+
+96
+00:04:09,820 --> 00:04:11,820
+RS: Yeah. So Ivan has this cheese sandwich,
+
+97
+00:04:11,820 --> 00:04:13,820
+and he says, "Yum yum yum yum yum!
+
+98
+00:04:13,820 --> 00:04:15,820
+I really love cheese sandwiches."
+
+99
+00:04:15,820 --> 00:04:19,820
+And Ivan puts his sandwich over here, on top of the pirate chest.
+
+100
+00:04:19,820 --> 00:04:23,820
+And Ivan says, "You know what? I need a drink with my lunch."
+
+101
+00:04:23,820 --> 00:04:26,820
+And so Ivan goes to get a drink.
+
+102
+00:04:26,820 --> 00:04:28,820
+And while Ivan is away
+
+103
+00:04:28,820 --> 00:04:31,820
+the wind comes,
+
+104
+00:04:31,820 --> 00:04:33,820
+and it blows the sandwich down onto the grass.
+
+105
+00:04:33,820 --> 00:04:37,820
+And now, here comes the other pirate.
+
+106
+00:04:37,820 --> 00:04:40,820
+This pirate is called Joshua.
+
+107
+00:04:40,820 --> 00:04:42,820
+And Joshua also really loves cheese sandwiches.
+
+108
+00:04:42,820 --> 00:04:44,820
+So Joshua has a cheese sandwich and he says,
+
+109
+00:04:44,820 --> 00:04:48,820
+"Yum yum yum yum yum! I love cheese sandwiches."
+
+110
+00:04:48,820 --> 00:04:51,820
+And he puts his cheese sandwich over here on top of the pirate chest.
+
+111
+00:04:51,820 --> 00:04:53,820
+Child: So, that one is his.
+
+112
+00:04:53,820 --> 00:04:55,820
+RS: That one is Joshua's. That's right.
+
+113
+00:04:55,820 --> 00:04:57,820
+Child: And then his went on the ground.
+
+114
+00:04:57,820 --> 00:04:59,820
+RS: That's exactly right.
+
+115
+00:04:59,820 --> 00:05:01,820
+Child: So he won't know which one is his.
+
+116
+00:05:01,820 --> 00:05:04,820
+RS: Oh. So now Joshua goes off to get a drink.
+
+117
+00:05:04,820 --> 00:05:08,820
+Ivan comes back and he says, "I want my cheese sandwich."
+
+118
+00:05:08,820 --> 00:05:11,820
+So which one do you think Ivan is going to take?
+
+119
+00:05:11,820 --> 00:05:13,820
+Child: I think he is going to take that one.
+
+120
+00:05:13,820 --> 00:05:15,820
+RS: Yeah, you think he's going to take that one? All right. Let's see.
+
+121
+00:05:15,820 --> 00:05:18,820
+Oh yeah, you were right. He took that one.
+
+122
+00:05:18,820 --> 00:05:20,820
+So that's a five-year-old who clearly understands
+
+123
+00:05:20,820 --> 00:05:22,820
+that other people can have false beliefs
+
+124
+00:05:22,820 --> 00:05:24,820
+and what the consequences are for their actions.
+
+125
+00:05:24,820 --> 00:05:27,820
+Now I'm going to show you a three-year-old
+
+126
+00:05:27,820 --> 00:05:29,820
+who got the same puzzle.
+
+127
+00:05:29,820 --> 00:05:31,820
+RS: And Ivan says, "I want my cheese sandwich."
+
+128
+00:05:31,820 --> 00:05:34,820
+Which sandwich is he going to take?
+
+129
+00:05:34,820 --> 00:05:36,820
+Do you think he's going to take that one? Let's see what happens.
+
+130
+00:05:36,820 --> 00:05:38,820
+Let's see what he does. Here comes Ivan.
+
+131
+00:05:38,820 --> 00:05:41,820
+And he says, "I want my cheese sandwich."
+
+132
+00:05:41,820 --> 00:05:43,820
+And he takes this one.
+
+133
+00:05:43,820 --> 00:05:46,820
+Uh-oh. Why did he take that one?
+
+134
+00:05:46,820 --> 00:05:50,820
+Child: His was on the grass.
+
+135
+00:05:50,820 --> 00:05:53,820
+So the three-year-old does two things differently.
+
+136
+00:05:53,820 --> 00:05:56,820
+First, he predicts Ivan will take the sandwich
+
+137
+00:05:56,820 --> 00:05:58,820
+that's really his.
+
+138
+00:05:58,820 --> 00:06:02,820
+And second, when he sees Ivan taking the sandwich where he left his,
+
+139
+00:06:02,820 --> 00:06:05,820
+where we would say he's taking that one because he thinks it's his,
+
+140
+00:06:05,820 --> 00:06:08,820
+the three-year-old comes up with another explanation:
+
+141
+00:06:08,820 --> 00:06:10,820
+He's not taking his own sandwich because he doesn't want it,
+
+142
+00:06:10,820 --> 00:06:12,820
+because now it's dirty, on the ground.
+
+143
+00:06:12,820 --> 00:06:14,820
+So that's why he's taking the other sandwich.
+
+144
+00:06:14,820 --> 00:06:18,820
+Now of course, development doesn't end at five.
+
+145
+00:06:18,820 --> 00:06:20,820
+And we can see the continuation of this process
+
+146
+00:06:20,820 --> 00:06:22,820
+of learning to think about other people's thoughts
+
+147
+00:06:22,820 --> 00:06:24,820
+by upping the ante
+
+148
+00:06:24,820 --> 00:06:27,820
+and asking children now, not for an action prediction,
+
+149
+00:06:27,820 --> 00:06:29,820
+but for a moral judgment.
+
+150
+00:06:29,820 --> 00:06:31,820
+So first I'm going to show you the three-year-old again.
+
+151
+00:06:31,820 --> 00:06:34,820
+RS.: So is Ivan being mean and naughty for taking Joshua's sandwich?
+
+152
+00:06:34,820 --> 00:06:35,820
+Child: Yeah.
+
+153
+00:06:35,820 --> 00:06:38,820
+RS: Should Ivan get in trouble for taking Joshua's sandwich?
+
+154
+00:06:38,820 --> 00:06:40,820
+Child: Yeah.
+
+155
+00:06:40,820 --> 00:06:42,820
+So it's maybe not surprising he thinks it was mean of Ivan
+
+156
+00:06:42,820 --> 00:06:44,820
+to take Joshua's sandwich,
+
+157
+00:06:44,820 --> 00:06:46,820
+since he thinks Ivan only took Joshua's sandwich
+
+158
+00:06:46,820 --> 00:06:49,820
+to avoid having to eat his own dirty sandwich.
+
+159
+00:06:49,820 --> 00:06:51,820
+But now I'm going to show you the five-year-old.
+
+160
+00:06:51,820 --> 00:06:53,820
+Remember the five-year-old completely understood
+
+161
+00:06:53,820 --> 00:06:55,820
+why Ivan took Joshua's sandwich.
+
+162
+00:06:55,820 --> 00:06:57,820
+RS: Was Ivan being mean and naughty
+
+163
+00:06:57,820 --> 00:06:59,820
+for taking Joshua's sandwich?
+
+164
+00:06:59,820 --> 00:07:01,820
+Child: Um, yeah.
+
+165
+00:07:01,820 --> 00:07:03,820
+And so, it is not until age seven
+
+166
+00:07:03,820 --> 00:07:06,820
+that we get what looks more like an adult response.
+
+167
+00:07:06,820 --> 00:07:09,820
+RS: Should Ivan get in trouble for taking Joshua's sandwich?
+
+168
+00:07:09,820 --> 00:07:11,820
+Child: No, because the wind should get in trouble.
+
+169
+00:07:11,820 --> 00:07:14,820
+He says the wind should get in trouble
+
+170
+00:07:14,820 --> 00:07:16,820
+for switching the sandwiches.
+
+171
+00:07:16,820 --> 00:07:18,820
+(Laughter)
+
+172
+00:07:18,820 --> 00:07:20,820
+And now what we've started to do in my lab
+
+173
+00:07:20,820 --> 00:07:22,820
+is to put children into the brain scanner
+
+174
+00:07:22,820 --> 00:07:25,820
+and ask what's going on in their brain
+
+175
+00:07:25,820 --> 00:07:28,820
+as they develop this ability to think about other people's thoughts.
+
+176
+00:07:28,820 --> 00:07:32,820
+So the first thing is that in children we see this same brain region, the Right TPJ,
+
+177
+00:07:32,820 --> 00:07:35,820
+being used while children are thinking about other people.
+
+178
+00:07:35,820 --> 00:07:37,820
+But it's not quite like the adult brain.
+
+179
+00:07:37,820 --> 00:07:39,820
+So whereas in the adults, as I told you,
+
+180
+00:07:39,820 --> 00:07:42,820
+this brain region is almost completely specialized --
+
+181
+00:07:42,820 --> 00:07:45,820
+it does almost nothing else except for thinking about other people's thoughts --
+
+182
+00:07:45,820 --> 00:07:47,820
+in children it's much less so,
+
+183
+00:07:47,820 --> 00:07:49,820
+when they are age five to eight,
+
+184
+00:07:49,820 --> 00:07:51,820
+the age range of the children I just showed you.
+
+185
+00:07:51,820 --> 00:07:54,820
+And actually if we even look at eight to 11-year-olds,
+
+186
+00:07:54,820 --> 00:07:56,820
+getting into early adolescence,
+
+187
+00:07:56,820 --> 00:07:59,820
+they still don't have quite an adult-like brain region.
+
+188
+00:07:59,820 --> 00:08:02,820
+And so, what we can see is that over the course of childhood
+
+189
+00:08:02,820 --> 00:08:04,820
+and even into adolescence,
+
+190
+00:08:04,820 --> 00:08:06,820
+both the cognitive system,
+
+191
+00:08:06,820 --> 00:08:08,820
+our mind's ability to think about other minds,
+
+192
+00:08:08,820 --> 00:08:10,820
+and the brain system that supports it
+
+193
+00:08:10,820 --> 00:08:13,820
+are continuing, slowly, to develop.
+
+194
+00:08:13,820 --> 00:08:15,820
+But of course, as you're probably aware,
+
+195
+00:08:15,820 --> 00:08:17,820
+even in adulthood,
+
+196
+00:08:17,820 --> 00:08:19,820
+people differ from one another in how good they are
+
+197
+00:08:19,820 --> 00:08:21,820
+at thinking of other minds, how often they do it
+
+198
+00:08:21,820 --> 00:08:23,820
+and how accurately.
+
+199
+00:08:23,820 --> 00:08:26,820
+And so what we wanted to know was, could differences among adults
+
+200
+00:08:26,820 --> 00:08:28,820
+in how they think about other people's thoughts
+
+201
+00:08:28,820 --> 00:08:31,820
+be explained in terms of differences in this brain region?
+
+202
+00:08:31,820 --> 00:08:34,820
+So, the first thing that we did is we gave adults a version
+
+203
+00:08:34,820 --> 00:08:36,820
+of the pirate problem that we gave to the kids.
+
+204
+00:08:36,820 --> 00:08:38,820
+And I'm going to give that to you now.
+
+205
+00:08:38,820 --> 00:08:41,820
+So Grace and her friend are on a tour of a chemical factory,
+
+206
+00:08:41,820 --> 00:08:43,820
+and they take a break for coffee.
+
+207
+00:08:43,820 --> 00:08:46,820
+And Grace's friend asks for some sugar in her coffee.
+
+208
+00:08:46,820 --> 00:08:49,820
+Grace goes to make the coffee
+
+209
+00:08:49,820 --> 00:08:51,820
+and finds by the coffee a pot
+
+210
+00:08:51,820 --> 00:08:54,820
+containing a white powder, which is sugar.
+
+211
+00:08:54,820 --> 00:08:57,820
+But the powder is labeled "Deadly Poison,"
+
+212
+00:08:57,820 --> 00:09:00,820
+so Grace thinks that the powder is a deadly poison.
+
+213
+00:09:00,820 --> 00:09:02,820
+And she puts it in her friend's coffee.
+
+214
+00:09:02,820 --> 00:09:05,820
+And her friend drinks the coffee, and is fine.
+
+215
+00:09:05,820 --> 00:09:07,820
+How many people think it was morally permissible
+
+216
+00:09:07,820 --> 00:09:11,820
+for Grace to put the powder in the coffee?
+
+217
+00:09:11,820 --> 00:09:14,820
+Okay. Good. (Laughter)
+
+218
+00:09:14,820 --> 00:09:17,820
+So we ask people, how much should Grace be blamed
+
+219
+00:09:17,820 --> 00:09:19,820
+in this case, which we call a failed attempt to harm?
+
+220
+00:09:19,820 --> 00:09:21,820
+And we can compare that to another case,
+
+221
+00:09:21,820 --> 00:09:23,820
+where everything in the real world is the same.
+
+222
+00:09:23,820 --> 00:09:26,820
+The powder is still sugar, but what's different is what Grace thinks.
+
+223
+00:09:26,820 --> 00:09:29,820
+Now she thinks the powder is sugar.
+
+224
+00:09:29,820 --> 00:09:32,820
+And perhaps unsurprisingly, if Grace thinks the powder is sugar
+
+225
+00:09:32,820 --> 00:09:34,820
+and puts it in her friend's coffee,
+
+226
+00:09:34,820 --> 00:09:36,820
+people say she deserves no blame at all.
+
+227
+00:09:36,820 --> 00:09:40,820
+Whereas if she thinks the powder was poison, even though it's really sugar,
+
+228
+00:09:40,820 --> 00:09:43,820
+now people say she deserves a lot of blame,
+
+229
+00:09:43,820 --> 00:09:46,820
+even though what happened in the real world was exactly the same.
+
+230
+00:09:46,820 --> 00:09:48,820
+And in fact, they say she deserves more blame
+
+231
+00:09:48,820 --> 00:09:50,820
+in this case, the failed attempt to harm,
+
+232
+00:09:50,820 --> 00:09:52,820
+than in another case,
+
+233
+00:09:52,820 --> 00:09:54,820
+which we call an accident.
+
+234
+00:09:54,820 --> 00:09:56,820
+Where Grace thought the powder was sugar,
+
+235
+00:09:56,820 --> 00:09:58,820
+because it was labeled "sugar" and by the coffee machine,
+
+236
+00:09:58,820 --> 00:10:00,820
+but actually the powder was poison.
+
+237
+00:10:00,820 --> 00:10:03,820
+So even though when the powder was poison,
+
+238
+00:10:03,820 --> 00:10:06,820
+the friend drank the coffee and died,
+
+239
+00:10:06,820 --> 00:10:09,820
+people say Grace deserves less blame in that case,
+
+240
+00:10:09,820 --> 00:10:11,820
+when she innocently thought it was sugar,
+
+241
+00:10:11,820 --> 00:10:13,820
+than in the other case, where she thought it was poison
+
+242
+00:10:13,820 --> 00:10:16,820
+and no harm occurred.
+
+243
+00:10:16,820 --> 00:10:18,820
+People, though, disagree a little bit
+
+244
+00:10:18,820 --> 00:10:20,820
+about exactly how much blame Grace should get
+
+245
+00:10:20,820 --> 00:10:22,820
+in the accident case.
+
+246
+00:10:22,820 --> 00:10:24,820
+Some people think she should deserve more blame,
+
+247
+00:10:24,820 --> 00:10:26,820
+and other people less.
+
+248
+00:10:26,820 --> 00:10:28,820
+And what I'm going to show you is what happened when we look inside
+
+249
+00:10:28,820 --> 00:10:30,820
+the brains of people while they're making that judgment.
+
+250
+00:10:30,820 --> 00:10:32,820
+So what I'm showing you, from left to right,
+
+251
+00:10:32,820 --> 00:10:35,820
+is how much activity there was in this brain region,
+
+252
+00:10:35,820 --> 00:10:37,820
+and from top to bottom, how much blame
+
+253
+00:10:37,820 --> 00:10:39,820
+people said that Grace deserved.
+
+254
+00:10:39,820 --> 00:10:41,820
+And what you can see is, on the left
+
+255
+00:10:41,820 --> 00:10:43,820
+when there was very little activity in this brain region,
+
+256
+00:10:43,820 --> 00:10:46,820
+people paid little attention to her innocent belief
+
+257
+00:10:46,820 --> 00:10:49,820
+and said she deserved a lot of blame for the accident.
+
+258
+00:10:49,820 --> 00:10:51,820
+Whereas on the right, where there was a lot of activity,
+
+259
+00:10:51,820 --> 00:10:54,820
+people paid a lot more attention to her innocent belief,
+
+260
+00:10:54,820 --> 00:10:56,820
+and said she deserved a lot less blame
+
+261
+00:10:56,820 --> 00:10:58,820
+for causing the accident.
+
+262
+00:10:58,820 --> 00:11:00,820
+So that's good, but of course
+
+263
+00:11:00,820 --> 00:11:02,820
+what we'd rather is have a way to interfere
+
+264
+00:11:02,820 --> 00:11:04,820
+with function in this brain region,
+
+265
+00:11:04,820 --> 00:11:07,820
+and see if we could change people's moral judgment.
+
+266
+00:11:07,820 --> 00:11:09,820
+And we do have such a tool.
+
+267
+00:11:09,820 --> 00:11:11,820
+It's called Trans-Cranial Magnetic Stimulation,
+
+268
+00:11:11,820 --> 00:11:13,820
+or TMS.
+
+269
+00:11:13,820 --> 00:11:15,820
+This is a tool that lets us pass a magnetic pulse
+
+270
+00:11:15,820 --> 00:11:19,820
+through somebody's skull, into a small region of their brain,
+
+271
+00:11:19,820 --> 00:11:23,820
+and temporarily disorganize the function of the neurons in that region.
+
+272
+00:11:23,820 --> 00:11:25,820
+So I'm going to show you a demo of this.
+
+273
+00:11:25,820 --> 00:11:28,820
+First, I'm going to show you that this is a magnetic pulse.
+
+274
+00:11:28,820 --> 00:11:31,820
+I'm going to show you what happens when you put a quarter on the machine.
+
+275
+00:11:31,820 --> 00:11:35,820
+When you hear clicks, we're turning the machine on.
+
+276
+00:11:41,820 --> 00:11:44,820
+So now I'm going to apply that same pulse to my brain,
+
+277
+00:11:44,820 --> 00:11:46,820
+to the part of my brain that controls my hand.
+
+278
+00:11:46,820 --> 00:11:49,820
+So there is no physical force, just a magnetic pulse.
+
+279
+00:11:53,820 --> 00:11:55,820
+Woman (Video): Ready, Rebecca? RS: Yes.
+
+280
+00:11:56,820 --> 00:11:59,820
+Okay, so it causes a small involuntary contraction in my hand
+
+281
+00:11:59,820 --> 00:12:02,820
+by putting a magnetic pulse in my brain.
+
+282
+00:12:02,820 --> 00:12:04,820
+And we can use that same pulse,
+
+283
+00:12:04,820 --> 00:12:06,820
+now applied to the RTPJ,
+
+284
+00:12:06,820 --> 00:12:09,820
+to ask if we can change people's moral judgments.
+
+285
+00:12:09,820 --> 00:12:11,820
+So these are the judgments I showed you before, people's normal moral judgments.
+
+286
+00:12:11,820 --> 00:12:14,820
+And then we can apply TMS to the RTPJ
+
+287
+00:12:14,820 --> 00:12:16,820
+and ask how people's judgments change.
+
+288
+00:12:16,820 --> 00:12:20,820
+And the first thing is, people can still do this task overall.
+
+289
+00:12:20,820 --> 00:12:22,820
+So their judgments of the case when everything was fine
+
+290
+00:12:22,820 --> 00:12:25,820
+remain the same. They say she deserves no blame.
+
+291
+00:12:25,820 --> 00:12:29,820
+But in the case of a failed attempt to harm,
+
+292
+00:12:29,820 --> 00:12:32,820
+where Grace thought that it was poison, although it was really sugar,
+
+293
+00:12:32,820 --> 00:12:35,820
+people now say it was more okay, she deserves less blame
+
+294
+00:12:35,820 --> 00:12:38,820
+for putting the powder in the coffee.
+
+295
+00:12:38,820 --> 00:12:40,820
+And in the case of the accident, where she thought that it was sugar,
+
+296
+00:12:40,820 --> 00:12:43,820
+but it was really poison and so she caused a death,
+
+297
+00:12:43,820 --> 00:12:49,820
+people say that it was less okay, she deserves more blame.
+
+298
+00:12:49,820 --> 00:12:51,820
+So what I've told you today is that
+
+299
+00:12:51,820 --> 00:12:55,820
+people come, actually, especially well equipped
+
+300
+00:12:55,820 --> 00:12:57,820
+to think about other people's thoughts.
+
+301
+00:12:57,820 --> 00:12:59,820
+We have a special brain system
+
+302
+00:12:59,820 --> 00:13:02,820
+that lets us think about what other people are thinking.
+
+303
+00:13:02,820 --> 00:13:04,820
+This system takes a long time to develop,
+
+304
+00:13:04,820 --> 00:13:07,820
+slowly throughout the course of childhood and into early adolescence.
+
+305
+00:13:07,820 --> 00:13:10,820
+And even in adulthood, differences in this brain region
+
+306
+00:13:10,820 --> 00:13:12,820
+can explain differences among adults
+
+307
+00:13:12,820 --> 00:13:15,820
+in how we think about and judge other people.
+
+308
+00:13:15,820 --> 00:13:18,820
+But I want to give the last word back to the novelists,
+
+309
+00:13:18,820 --> 00:13:21,820
+and to Philip Roth, who ended by saying,
+
+310
+00:13:21,820 --> 00:13:23,820
+"The fact remains that getting people right
+
+311
+00:13:23,820 --> 00:13:25,820
+is not what living is all about anyway.
+
+312
+00:13:25,820 --> 00:13:27,820
+It's getting them wrong that is living.
+
+313
+00:13:27,820 --> 00:13:30,820
+Getting them wrong and wrong and wrong,
+
+314
+00:13:30,820 --> 00:13:32,820
+and then on careful reconsideration,
+
+315
+00:13:32,820 --> 00:13:34,820
+getting them wrong again."
+
+316
+00:13:34,820 --> 00:13:36,820
+Thank you.
+
+317
+00:13:36,820 --> 00:13:46,820
+(Applause)
+
+318
+00:13:46,820 --> 00:13:48,820
+Chris Anderson: So, I have a question. When you start talking about using
+
+319
+00:13:48,820 --> 00:13:51,820
+magnetic pulses to change people's moral judgments,
+
+320
+00:13:51,820 --> 00:13:54,820
+that sounds alarming.
+
+321
+00:13:54,820 --> 00:13:55,820
+(Laughter)
+
+322
+00:13:55,820 --> 00:13:59,820
+Please tell me that you're not taking phone calls from the Pentagon, say.
+
+323
+00:13:59,820 --> 00:14:01,820
+RS: I'm not.
+
+324
+00:14:01,820 --> 00:14:04,820
+I mean, they're calling, but I'm not taking the call.
+
+325
+00:14:04,820 --> 00:14:05,820
+(Laughter)
+
+326
+00:14:05,820 --> 00:14:07,820
+CA: They really are calling?
+
+327
+00:14:07,820 --> 00:14:10,820
+So then seriously,
+
+328
+00:14:10,820 --> 00:14:13,820
+you must lie awake at night sometimes
+
+329
+00:14:13,820 --> 00:14:15,820
+wondering where this work leads.
+
+330
+00:14:15,820 --> 00:14:17,820
+I mean, you're clearly an incredible human being,
+
+331
+00:14:17,820 --> 00:14:20,820
+but someone could take this knowledge
+
+332
+00:14:20,820 --> 00:14:22,820
+and in some future
+
+333
+00:14:22,820 --> 00:14:24,820
+not-torture chamber,
+
+334
+00:14:24,820 --> 00:14:27,820
+do acts that people here might be worried about.
+
+335
+00:14:27,820 --> 00:14:29,820
+RS: Yeah, we worry about this.
+
+336
+00:14:29,820 --> 00:14:32,820
+So, there's a couple of things to say about TMS.
+
+337
+00:14:32,820 --> 00:14:34,820
+One is that you can't be TMSed without knowing it.
+
+338
+00:14:34,820 --> 00:14:37,820
+So it's not a surreptitious technology.
+
+339
+00:14:37,820 --> 00:14:40,820
+It's quite hard, actually, to get those very small changes.
+
+340
+00:14:40,820 --> 00:14:43,820
+The changes I showed you are impressive to me
+
+341
+00:14:43,820 --> 00:14:45,820
+because of what they tell us about the function of the brain,
+
+342
+00:14:45,820 --> 00:14:47,820
+but they're small on the scale
+
+343
+00:14:47,820 --> 00:14:49,820
+of the moral judgments that we actually make.
+
+344
+00:14:49,820 --> 00:14:51,820
+And what we changed was not people's
+
+345
+00:14:51,820 --> 00:14:54,820
+moral judgments when they're deciding what to do,
+
+346
+00:14:54,820 --> 00:14:56,820
+when they're making action choices.
+
+347
+00:14:56,820 --> 00:14:59,820
+We changed their ability to judge other people's actions.
+
+348
+00:14:59,820 --> 00:15:01,820
+And so, I think of what I'm doing not so much as
+
+349
+00:15:01,820 --> 00:15:03,820
+studying the defendant in a criminal trial,
+
+350
+00:15:03,820 --> 00:15:05,820
+but studying the jury.
+
+351
+00:15:05,820 --> 00:15:08,820
+CA: Is your work going to lead to any recommendations
+
+352
+00:15:08,820 --> 00:15:11,820
+in education, to perhaps bring up
+
+353
+00:15:11,820 --> 00:15:16,820
+a generation of kids able to make fairer moral judgments?
+
+354
+00:15:16,820 --> 00:15:19,820
+RS: That's one of the idealistic hopes.
+
+355
+00:15:19,820 --> 00:15:23,820
+The whole research program here of studying
+
+356
+00:15:23,820 --> 00:15:27,820
+the distinctive parts of the human brain is brand new.
+
+357
+00:15:27,820 --> 00:15:29,820
+Until recently, what we knew about the brain
+
+358
+00:15:29,820 --> 00:15:32,820
+were the things that any other animal's brain could do too,
+
+359
+00:15:32,820 --> 00:15:34,820
+so we could study it in animal models.
+
+360
+00:15:34,820 --> 00:15:36,820
+We knew how brains see, and how they control the body
+
+361
+00:15:36,820 --> 00:15:38,820
+and how they hear and sense.
+
+362
+00:15:38,820 --> 00:15:41,820
+And the whole project of understanding
+
+363
+00:15:41,820 --> 00:15:43,820
+how brains do the uniquely human things --
+
+364
+00:15:43,820 --> 00:15:46,820
+learn language and abstract concepts,
+
+365
+00:15:46,820 --> 00:15:48,820
+and thinking about other people's thoughts -- that's brand new.
+
+366
+00:15:48,820 --> 00:15:50,820
+And we don't know yet what the implications will be
+
+367
+00:15:50,820 --> 00:15:52,820
+of understanding it.
+
+368
+00:15:52,820 --> 00:15:54,820
+CA: So I've got one last question. There is this thing called
+
+369
+00:15:54,820 --> 00:15:56,820
+the hard problem of consciousness,
+
+370
+00:15:56,820 --> 00:15:58,820
+that puzzles a lot of people.
+
+371
+00:15:58,820 --> 00:16:01,820
+The notion that you can understand
+
+372
+00:16:01,820 --> 00:16:03,820
+why a brain works, perhaps.
+
+373
+00:16:03,820 --> 00:16:06,820
+But why does anyone have to feel anything?
+
+374
+00:16:06,820 --> 00:16:09,820
+Why does it seem to require these beings who sense things
+
+375
+00:16:09,820 --> 00:16:11,820
+for us to operate?
+
+376
+00:16:11,820 --> 00:16:14,820
+You're a brilliant young neuroscientist.
+
+377
+00:16:14,820 --> 00:16:16,820
+I mean, what chances do you think there are
+
+378
+00:16:16,820 --> 00:16:18,820
+that at some time in your career,
+
+379
+00:16:18,820 --> 00:16:20,820
+someone, you or someone else,
+
+380
+00:16:20,820 --> 00:16:22,820
+is going to come up with some paradigm shift
+
+381
+00:16:22,820 --> 00:16:26,820
+in understanding what seems an impossible problem?
+
+382
+00:16:26,820 --> 00:16:30,820
+RS: I hope they do. And I think they probably won't.
+
+383
+00:16:30,820 --> 00:16:33,820
+CA: Why?
+
+384
+00:16:33,820 --> 00:16:36,820
+RS: It's not called the hard problem of consciousness for nothing.
+
+385
+00:16:36,820 --> 00:16:38,820
+(Laughter)
+
+386
+00:16:38,820 --> 00:16:41,820
+CA: That's a great answer. Rebecca Saxe, thank you very much. That was fantastic.
+
+387
+00:16:41,820 --> 00:16:45,820
+(Applause)
+

@@ -1,0 +1,1424 @@
+﻿1
+00:00:16,820 --> 00:00:18,820
+Good morning.
+
+2
+00:00:18,820 --> 00:00:20,820
+I'm here today to talk
+
+3
+00:00:20,820 --> 00:00:23,820
+about autonomous, flying beach balls.
+
+4
+00:00:23,820 --> 00:00:27,820
+No, agile aerial robots like this one.
+
+5
+00:00:27,820 --> 00:00:30,820
+I'd like to tell you a little bit about the challenges in building these
+
+6
+00:00:30,820 --> 00:00:32,820
+and some of the terrific opportunities
+
+7
+00:00:32,820 --> 00:00:34,820
+for applying this technology.
+
+8
+00:00:34,820 --> 00:00:36,820
+So these robots
+
+9
+00:00:36,820 --> 00:00:39,820
+are related to unmanned aerial vehicles.
+
+10
+00:00:39,820 --> 00:00:42,820
+However, the vehicles you see here are big.
+
+11
+00:00:42,820 --> 00:00:44,820
+They weigh thousands of pounds,
+
+12
+00:00:44,820 --> 00:00:46,820
+are not by any means agile.
+
+13
+00:00:46,820 --> 00:00:48,820
+They're not even autonomous.
+
+14
+00:00:48,820 --> 00:00:50,820
+In fact, many of these vehicles
+
+15
+00:00:50,820 --> 00:00:52,820
+are operated by flight crews
+
+16
+00:00:52,820 --> 00:00:55,820
+that can include multiple pilots,
+
+17
+00:00:55,820 --> 00:00:57,820
+operators of sensors
+
+18
+00:00:57,820 --> 00:00:59,820
+and mission coordinators.
+
+19
+00:00:59,820 --> 00:01:01,820
+What we're interested in is developing robots like this --
+
+20
+00:01:01,820 --> 00:01:03,820
+and here are two other pictures --
+
+21
+00:01:03,820 --> 00:01:06,820
+of robots that you can buy off the shelf.
+
+22
+00:01:06,820 --> 00:01:09,820
+So these are helicopters with four rotors
+
+23
+00:01:09,820 --> 00:01:13,820
+and they're roughly a meter or so in scale
+
+24
+00:01:13,820 --> 00:01:15,820
+and weigh several pounds.
+
+25
+00:01:15,820 --> 00:01:18,820
+And so we retrofit these with sensors and processors,
+
+26
+00:01:18,820 --> 00:01:20,820
+and these robots can fly indoors
+
+27
+00:01:20,820 --> 00:01:22,820
+without GPS.
+
+28
+00:01:22,820 --> 00:01:24,820
+The robot I'm holding in my hand
+
+29
+00:01:24,820 --> 00:01:26,820
+is this one,
+
+30
+00:01:26,820 --> 00:01:29,820
+and it's been created by two students,
+
+31
+00:01:29,820 --> 00:01:31,820
+Alex and Daniel.
+
+32
+00:01:31,820 --> 00:01:33,820
+So this weighs a little more
+
+33
+00:01:33,820 --> 00:01:35,820
+than a tenth of a pound.
+
+34
+00:01:35,820 --> 00:01:37,820
+It consumes about 15 watts of power.
+
+35
+00:01:37,820 --> 00:01:39,820
+And as you can see,
+
+36
+00:01:39,820 --> 00:01:41,820
+it's about eight inches in diameter.
+
+37
+00:01:41,820 --> 00:01:44,820
+So let me give you just a very quick tutorial
+
+38
+00:01:44,820 --> 00:01:46,820
+on how these robots work.
+
+39
+00:01:46,820 --> 00:01:48,820
+So it has four rotors.
+
+40
+00:01:48,820 --> 00:01:50,820
+If you spin these rotors at the same speed,
+
+41
+00:01:50,820 --> 00:01:52,820
+the robot hovers.
+
+42
+00:01:52,820 --> 00:01:55,820
+If you increase the speed of each of these rotors,
+
+43
+00:01:55,820 --> 00:01:58,820
+then the robot flies up, it accelerates up.
+
+44
+00:01:58,820 --> 00:02:00,820
+Of course, if the robot were tilted,
+
+45
+00:02:00,820 --> 00:02:02,820
+inclined to the horizontal,
+
+46
+00:02:02,820 --> 00:02:05,820
+then it would accelerate in this direction.
+
+47
+00:02:05,820 --> 00:02:08,820
+So to get it to tilt, there's one of two ways of doing it.
+
+48
+00:02:08,820 --> 00:02:10,820
+So in this picture
+
+49
+00:02:10,820 --> 00:02:12,820
+you see that rotor four is spinning faster
+
+50
+00:02:12,820 --> 00:02:14,820
+and rotor two is spinning slower.
+
+51
+00:02:14,820 --> 00:02:16,820
+And when that happens
+
+52
+00:02:16,820 --> 00:02:19,820
+there's moment that causes this robot to roll.
+
+53
+00:02:19,820 --> 00:02:21,820
+And the other way around,
+
+54
+00:02:21,820 --> 00:02:24,820
+if you increase the speed of rotor three
+
+55
+00:02:24,820 --> 00:02:26,820
+and decrease the speed of rotor one,
+
+56
+00:02:26,820 --> 00:02:29,820
+then the robot pitches forward.
+
+57
+00:02:29,820 --> 00:02:31,820
+And then finally,
+
+58
+00:02:31,820 --> 00:02:33,820
+if you spin opposite pairs of rotors
+
+59
+00:02:33,820 --> 00:02:35,820
+faster than the other pair,
+
+60
+00:02:35,820 --> 00:02:37,820
+then the robot yaws about the vertical axis.
+
+61
+00:02:37,820 --> 00:02:39,820
+So an on-board processor
+
+62
+00:02:39,820 --> 00:02:42,820
+essentially looks at what motions need to be executed
+
+63
+00:02:42,820 --> 00:02:44,820
+and combines these motions
+
+64
+00:02:44,820 --> 00:02:47,820
+and figures out what commands to send to the motors
+
+65
+00:02:47,820 --> 00:02:49,820
+600 times a second.
+
+66
+00:02:49,820 --> 00:02:51,820
+That's basically how this thing operates.
+
+67
+00:02:51,820 --> 00:02:53,820
+So one of the advantages of this design
+
+68
+00:02:53,820 --> 00:02:55,820
+is, when you scale things down,
+
+69
+00:02:55,820 --> 00:02:58,820
+the robot naturally becomes agile.
+
+70
+00:02:58,820 --> 00:03:00,820
+So here R
+
+71
+00:03:00,820 --> 00:03:02,820
+is the characteristic length of the robot.
+
+72
+00:03:02,820 --> 00:03:05,820
+It's actually half the diameter.
+
+73
+00:03:05,820 --> 00:03:08,820
+And there are lots of physical parameters that change
+
+74
+00:03:08,820 --> 00:03:10,820
+as you reduce R.
+
+75
+00:03:10,820 --> 00:03:12,820
+The one that's the most important
+
+76
+00:03:12,820 --> 00:03:14,820
+is the inertia or the resistance to motion.
+
+77
+00:03:14,820 --> 00:03:16,820
+So it turns out,
+
+78
+00:03:16,820 --> 00:03:19,820
+the inertia, which governs angular motion,
+
+79
+00:03:19,820 --> 00:03:22,820
+scales as a fifth power of R.
+
+80
+00:03:22,820 --> 00:03:24,820
+So the smaller you make R,
+
+81
+00:03:24,820 --> 00:03:27,820
+the more dramatically the inertia reduces.
+
+82
+00:03:27,820 --> 00:03:30,820
+So as a result, the angular acceleration,
+
+83
+00:03:30,820 --> 00:03:32,820
+denoted by Greek letter alpha here,
+
+84
+00:03:32,820 --> 00:03:34,820
+goes as one over R.
+
+85
+00:03:34,820 --> 00:03:36,820
+It's inversely proportional to R.
+
+86
+00:03:36,820 --> 00:03:39,820
+The smaller you make it the more quickly you can turn.
+
+87
+00:03:39,820 --> 00:03:41,820
+So this should be clear in these videos.
+
+88
+00:03:41,820 --> 00:03:44,820
+At the bottom right you see a robot
+
+89
+00:03:44,820 --> 00:03:46,820
+performing a 360 degree flip
+
+90
+00:03:46,820 --> 00:03:48,820
+in less than half a second.
+
+91
+00:03:48,820 --> 00:03:51,820
+Multiple flips, a little more time.
+
+92
+00:03:51,820 --> 00:03:53,820
+So here the processes on board
+
+93
+00:03:53,820 --> 00:03:55,820
+are getting feedback from accelerometers
+
+94
+00:03:55,820 --> 00:03:57,820
+and gyros on board
+
+95
+00:03:57,820 --> 00:03:59,820
+and calculating, like I said before,
+
+96
+00:03:59,820 --> 00:04:01,820
+commands at 600 times a second
+
+97
+00:04:01,820 --> 00:04:03,820
+to stabilize this robot.
+
+98
+00:04:03,820 --> 00:04:06,820
+So on the left, you see Daniel throwing this robot up into the air.
+
+99
+00:04:06,820 --> 00:04:08,820
+And it shows you how robust the control is.
+
+100
+00:04:08,820 --> 00:04:10,820
+No matter how you throw it,
+
+101
+00:04:10,820 --> 00:04:14,820
+the robot recovers and comes back to him.
+
+102
+00:04:14,820 --> 00:04:16,820
+So why build robots like this?
+
+103
+00:04:16,820 --> 00:04:19,820
+Well robots like this have many applications.
+
+104
+00:04:19,820 --> 00:04:22,820
+You can send them inside buildings like this
+
+105
+00:04:22,820 --> 00:04:25,820
+as first responders to look for intruders,
+
+106
+00:04:25,820 --> 00:04:28,820
+maybe look for biochemical leaks,
+
+107
+00:04:28,820 --> 00:04:30,820
+gaseous leaks.
+
+108
+00:04:30,820 --> 00:04:32,820
+You can also use them
+
+109
+00:04:32,820 --> 00:04:34,820
+for applications like construction.
+
+110
+00:04:34,820 --> 00:04:38,820
+So here are robots carrying beams, columns
+
+111
+00:04:38,820 --> 00:04:41,820
+and assembling cube-like structures.
+
+112
+00:04:41,820 --> 00:04:44,820
+I'll tell you a little bit more about this.
+
+113
+00:04:44,820 --> 00:04:47,820
+The robots can be used for transporting cargo.
+
+114
+00:04:47,820 --> 00:04:50,820
+So one of the problems with these small robots
+
+115
+00:04:50,820 --> 00:04:52,820
+is their payload carrying capacity.
+
+116
+00:04:52,820 --> 00:04:54,820
+So you might want to have multiple robots
+
+117
+00:04:54,820 --> 00:04:56,820
+carry payloads.
+
+118
+00:04:56,820 --> 00:04:58,820
+This is a picture of a recent experiment we did --
+
+119
+00:04:58,820 --> 00:05:00,820
+actually not so recent anymore --
+
+120
+00:05:00,820 --> 00:05:03,820
+in Sendai shortly after the earthquake.
+
+121
+00:05:03,820 --> 00:05:06,820
+So robots like this could be sent into collapsed buildings
+
+122
+00:05:06,820 --> 00:05:08,820
+to assess the damage after natural disasters,
+
+123
+00:05:08,820 --> 00:05:11,820
+or sent into reactor buildings
+
+124
+00:05:11,820 --> 00:05:14,820
+to map radiation levels.
+
+125
+00:05:15,820 --> 00:05:17,820
+So one fundamental problem
+
+126
+00:05:17,820 --> 00:05:20,820
+that the robots have to solve if they're to be autonomous
+
+127
+00:05:20,820 --> 00:05:22,820
+is essentially figuring out
+
+128
+00:05:22,820 --> 00:05:24,820
+how to get from point A to point B.
+
+129
+00:05:24,820 --> 00:05:26,820
+So this gets a little challenging
+
+130
+00:05:26,820 --> 00:05:29,820
+because the dynamics of this robot are quite complicated.
+
+131
+00:05:29,820 --> 00:05:31,820
+In fact, they live in a 12-dimensional space.
+
+132
+00:05:31,820 --> 00:05:33,820
+So we use a little trick.
+
+133
+00:05:33,820 --> 00:05:36,820
+We take this curved 12-dimensional space
+
+134
+00:05:36,820 --> 00:05:38,820
+and transform it
+
+135
+00:05:38,820 --> 00:05:40,820
+into a flat four-dimensional space.
+
+136
+00:05:40,820 --> 00:05:42,820
+And that four-dimensional space
+
+137
+00:05:42,820 --> 00:05:45,820
+consists of X, Y, Z and then the yaw angle.
+
+138
+00:05:45,820 --> 00:05:47,820
+And so what the robot does
+
+139
+00:05:47,820 --> 00:05:51,820
+is it plans what we call a minimum snap trajectory.
+
+140
+00:05:51,820 --> 00:05:53,820
+So to remind you of physics,
+
+141
+00:05:53,820 --> 00:05:55,820
+you have position, derivative, velocity,
+
+142
+00:05:55,820 --> 00:05:57,820
+then acceleration,
+
+143
+00:05:57,820 --> 00:05:59,820
+and then comes jerk
+
+144
+00:05:59,820 --> 00:06:01,820
+and then comes snap.
+
+145
+00:06:01,820 --> 00:06:04,820
+So this robot minimizes snap.
+
+146
+00:06:04,820 --> 00:06:06,820
+So what that effectively does
+
+147
+00:06:06,820 --> 00:06:08,820
+is produces a smooth and graceful motion.
+
+148
+00:06:08,820 --> 00:06:11,820
+And it does that avoiding obstacles.
+
+149
+00:06:11,820 --> 00:06:14,820
+So these minimum snap trajectories in this flat space
+
+150
+00:06:14,820 --> 00:06:16,820
+are then transformed back
+
+151
+00:06:16,820 --> 00:06:18,820
+into this complicated 12-dimensional space,
+
+152
+00:06:18,820 --> 00:06:20,820
+which the robot must do
+
+153
+00:06:20,820 --> 00:06:22,820
+for control and then execution.
+
+154
+00:06:22,820 --> 00:06:24,820
+So let me show you some examples
+
+155
+00:06:24,820 --> 00:06:26,820
+of what these minimum snap trajectories look like.
+
+156
+00:06:26,820 --> 00:06:28,820
+And in the first video,
+
+157
+00:06:28,820 --> 00:06:30,820
+you'll see the robot going from point A to point B
+
+158
+00:06:30,820 --> 00:06:32,820
+through an intermediate point.
+
+159
+00:06:38,820 --> 00:06:40,820
+So the robot is obviously capable
+
+160
+00:06:40,820 --> 00:06:42,820
+of executing any curve trajectory.
+
+161
+00:06:42,820 --> 00:06:44,820
+So these are circular trajectories
+
+162
+00:06:44,820 --> 00:06:47,820
+where the robot pulls about two G's.
+
+163
+00:06:48,820 --> 00:06:52,820
+Here you have overhead motion capture cameras on the top
+
+164
+00:06:52,820 --> 00:06:55,820
+that tell the robot where it is 100 times a second.
+
+165
+00:06:55,820 --> 00:06:58,820
+It also tells the robot where these obstacles are.
+
+166
+00:06:58,820 --> 00:07:00,820
+And the obstacles can be moving.
+
+167
+00:07:00,820 --> 00:07:03,820
+And here you'll see Daniel throw this hoop into the air,
+
+168
+00:07:03,820 --> 00:07:05,820
+while the robot is calculating the position of the hoop
+
+169
+00:07:05,820 --> 00:07:09,820
+and trying to figure out how to best go through the hoop.
+
+170
+00:07:09,820 --> 00:07:11,820
+So as an academic,
+
+171
+00:07:11,820 --> 00:07:14,820
+we're always trained to be able to jump through hoops to raise funding for our labs,
+
+172
+00:07:14,820 --> 00:07:17,820
+and we get our robots to do that.
+
+173
+00:07:17,820 --> 00:07:23,820
+(Applause)
+
+174
+00:07:23,820 --> 00:07:25,820
+So another thing the robot can do
+
+175
+00:07:25,820 --> 00:07:28,820
+is it remembers pieces of trajectory
+
+176
+00:07:28,820 --> 00:07:30,820
+that it learns or is pre-programmed.
+
+177
+00:07:30,820 --> 00:07:32,820
+So here you see the robot
+
+178
+00:07:32,820 --> 00:07:34,820
+combining a motion
+
+179
+00:07:34,820 --> 00:07:36,820
+that builds up momentum
+
+180
+00:07:36,820 --> 00:07:39,820
+and then changes its orientation and then recovers.
+
+181
+00:07:39,820 --> 00:07:42,820
+So it has to do this because this gap in the window
+
+182
+00:07:42,820 --> 00:07:46,820
+is only slightly larger than the width of the robot.
+
+183
+00:07:46,820 --> 00:07:49,820
+So just like a diver stands on a springboard
+
+184
+00:07:49,820 --> 00:07:51,820
+and then jumps off it to gain momentum,
+
+185
+00:07:51,820 --> 00:07:54,820
+and then does this pirouette, this two and a half somersault through
+
+186
+00:07:54,820 --> 00:07:56,820
+and then gracefully recovers,
+
+187
+00:07:56,820 --> 00:07:58,820
+this robot is basically doing that.
+
+188
+00:07:58,820 --> 00:08:01,820
+So it knows how to combine little bits and pieces of trajectories
+
+189
+00:08:01,820 --> 00:08:05,820
+to do these fairly difficult tasks.
+
+190
+00:08:05,820 --> 00:08:07,820
+So I want change gears.
+
+191
+00:08:07,820 --> 00:08:10,820
+So one of the disadvantages of these small robots is its size.
+
+192
+00:08:10,820 --> 00:08:12,820
+And I told you earlier
+
+193
+00:08:12,820 --> 00:08:14,820
+that we may want to employ lots and lots of robots
+
+194
+00:08:14,820 --> 00:08:17,820
+to overcome the limitations of size.
+
+195
+00:08:17,820 --> 00:08:19,820
+So one difficulty
+
+196
+00:08:19,820 --> 00:08:22,820
+is how do you coordinate lots of these robots?
+
+197
+00:08:22,820 --> 00:08:24,820
+And so here we looked to nature.
+
+198
+00:08:24,820 --> 00:08:26,820
+So I want to show you a clip
+
+199
+00:08:26,820 --> 00:08:28,820
+of Aphaenogaster desert ants
+
+200
+00:08:28,820 --> 00:08:31,820
+in Professor Stephen Pratt's lab carrying an object.
+
+201
+00:08:31,820 --> 00:08:33,820
+So this is actually a piece of fig.
+
+202
+00:08:33,820 --> 00:08:35,820
+Actually you take any object coated with fig juice
+
+203
+00:08:35,820 --> 00:08:38,820
+and the ants will carry them back to the nest.
+
+204
+00:08:38,820 --> 00:08:41,820
+So these ants don't have any central coordinator.
+
+205
+00:08:41,820 --> 00:08:43,820
+They sense their neighbors.
+
+206
+00:08:43,820 --> 00:08:45,820
+There's no explicit communication.
+
+207
+00:08:45,820 --> 00:08:47,820
+But because they sense the neighbors
+
+208
+00:08:47,820 --> 00:08:49,820
+and because they sense the object,
+
+209
+00:08:49,820 --> 00:08:52,820
+they have implicit coordination across the group.
+
+210
+00:08:52,820 --> 00:08:54,820
+So this is the kind of coordination
+
+211
+00:08:54,820 --> 00:08:57,820
+we want our robots to have.
+
+212
+00:08:57,820 --> 00:08:59,820
+So when we have a robot
+
+213
+00:08:59,820 --> 00:09:01,820
+which is surrounded by neighbors --
+
+214
+00:09:01,820 --> 00:09:03,820
+and let's look at robot I and robot J --
+
+215
+00:09:03,820 --> 00:09:05,820
+what we want the robots to do
+
+216
+00:09:05,820 --> 00:09:08,820
+is to monitor the separation between them
+
+217
+00:09:08,820 --> 00:09:10,820
+as they fly in formation.
+
+218
+00:09:10,820 --> 00:09:12,820
+And then you want to make sure
+
+219
+00:09:12,820 --> 00:09:14,820
+that this separation is within acceptable levels.
+
+220
+00:09:14,820 --> 00:09:17,820
+So again the robots monitor this error
+
+221
+00:09:17,820 --> 00:09:19,820
+and calculate the control commands
+
+222
+00:09:19,820 --> 00:09:21,820
+100 times a second,
+
+223
+00:09:21,820 --> 00:09:24,820
+which then translates to the motor commands 600 times a second.
+
+224
+00:09:24,820 --> 00:09:26,820
+So this also has to be done
+
+225
+00:09:26,820 --> 00:09:28,820
+in a decentralized way.
+
+226
+00:09:28,820 --> 00:09:30,820
+Again, if you have lots and lots of robots,
+
+227
+00:09:30,820 --> 00:09:34,820
+it's impossible to coordinate all this information centrally
+
+228
+00:09:34,820 --> 00:09:37,820
+fast enough in order for the robots to accomplish the task.
+
+229
+00:09:37,820 --> 00:09:39,820
+Plus the robots have to base their actions
+
+230
+00:09:39,820 --> 00:09:41,820
+only on local information,
+
+231
+00:09:41,820 --> 00:09:43,820
+what they sense from their neighbors.
+
+232
+00:09:43,820 --> 00:09:45,820
+And then finally,
+
+233
+00:09:45,820 --> 00:09:47,820
+we insist that the robots be agnostic
+
+234
+00:09:47,820 --> 00:09:49,820
+to who their neighbors are.
+
+235
+00:09:49,820 --> 00:09:52,820
+So this is what we call anonymity.
+
+236
+00:09:52,820 --> 00:09:54,820
+So what I want to show you next
+
+237
+00:09:54,820 --> 00:09:56,820
+is a video
+
+238
+00:09:56,820 --> 00:09:59,820
+of 20 of these little robots
+
+239
+00:09:59,820 --> 00:10:01,820
+flying in formation.
+
+240
+00:10:01,820 --> 00:10:04,820
+They're monitoring their neighbors' position.
+
+241
+00:10:04,820 --> 00:10:06,820
+They're maintaining formation.
+
+242
+00:10:06,820 --> 00:10:08,820
+The formations can change.
+
+243
+00:10:08,820 --> 00:10:10,820
+They can be planar formations,
+
+244
+00:10:10,820 --> 00:10:12,820
+they can be three-dimensional formations.
+
+245
+00:10:12,820 --> 00:10:14,820
+As you can see here,
+
+246
+00:10:14,820 --> 00:10:17,820
+they collapse from a three-dimensional formation into planar formation.
+
+247
+00:10:17,820 --> 00:10:19,820
+And to fly through obstacles
+
+248
+00:10:19,820 --> 00:10:23,820
+they can adapt the formations on the fly.
+
+249
+00:10:23,820 --> 00:10:26,820
+So again, these robots come really close together.
+
+250
+00:10:26,820 --> 00:10:28,820
+As you can see in this figure-eight flight,
+
+251
+00:10:28,820 --> 00:10:30,820
+they come within inches of each other.
+
+252
+00:10:30,820 --> 00:10:33,820
+And despite the aerodynamic interactions
+
+253
+00:10:33,820 --> 00:10:35,820
+of these propeller blades,
+
+254
+00:10:35,820 --> 00:10:37,820
+they're able to maintain stable flight.
+
+255
+00:10:37,820 --> 00:10:44,820
+(Applause)
+
+256
+00:10:44,820 --> 00:10:46,820
+So once you know how to fly in formation,
+
+257
+00:10:46,820 --> 00:10:48,820
+you can actually pick up objects cooperatively.
+
+258
+00:10:48,820 --> 00:10:50,820
+So this just shows
+
+259
+00:10:50,820 --> 00:10:53,820
+that we can double, triple, quadruple
+
+260
+00:10:53,820 --> 00:10:55,820
+the robot strength
+
+261
+00:10:55,820 --> 00:10:57,820
+by just getting them to team with neighbors, as you can see here.
+
+262
+00:10:57,820 --> 00:11:00,820
+One of the disadvantages of doing that
+
+263
+00:11:00,820 --> 00:11:02,820
+is, as you scale things up --
+
+264
+00:11:02,820 --> 00:11:04,820
+so if you have lots of robots carrying the same thing,
+
+265
+00:11:04,820 --> 00:11:07,820
+you're essentially effectively increasing the inertia,
+
+266
+00:11:07,820 --> 00:11:10,820
+and therefore you pay a price; they're not as agile.
+
+267
+00:11:10,820 --> 00:11:13,820
+But you do gain in terms of payload carrying capacity.
+
+268
+00:11:13,820 --> 00:11:15,820
+Another application I want to show you --
+
+269
+00:11:15,820 --> 00:11:17,820
+again, this is in our lab.
+
+270
+00:11:17,820 --> 00:11:19,820
+This is work done by Quentin Lindsey who's a graduate student.
+
+271
+00:11:19,820 --> 00:11:22,820
+So his algorithm essentially tells these robots
+
+272
+00:11:22,820 --> 00:11:24,820
+how to autonomously build
+
+273
+00:11:24,820 --> 00:11:26,820
+cubic structures
+
+274
+00:11:26,820 --> 00:11:29,820
+from truss-like elements.
+
+275
+00:11:29,820 --> 00:11:31,820
+So his algorithm tells the robot
+
+276
+00:11:31,820 --> 00:11:33,820
+what part to pick up,
+
+277
+00:11:33,820 --> 00:11:35,820
+when and where to place it.
+
+278
+00:11:35,820 --> 00:11:37,820
+So in this video you see --
+
+279
+00:11:37,820 --> 00:11:39,820
+and it's sped up 10, 14 times --
+
+280
+00:11:39,820 --> 00:11:42,820
+you see three different structures being built by these robots.
+
+281
+00:11:42,820 --> 00:11:44,820
+And again, everything is autonomous,
+
+282
+00:11:44,820 --> 00:11:46,820
+and all Quentin has to do
+
+283
+00:11:46,820 --> 00:11:48,820
+is to get them a blueprint
+
+284
+00:11:48,820 --> 00:11:52,820
+of the design that he wants to build.
+
+285
+00:11:52,820 --> 00:11:55,820
+So all these experiments you've seen thus far,
+
+286
+00:11:55,820 --> 00:11:57,820
+all these demonstrations,
+
+287
+00:11:57,820 --> 00:12:00,820
+have been done with the help of motion capture systems.
+
+288
+00:12:00,820 --> 00:12:02,820
+So what happens when you leave your lab
+
+289
+00:12:02,820 --> 00:12:05,820
+and you go outside into the real world?
+
+290
+00:12:05,820 --> 00:12:08,820
+And what if there's no GPS?
+
+291
+00:12:08,820 --> 00:12:10,820
+So this robot
+
+292
+00:12:10,820 --> 00:12:12,820
+is actually equipped with a camera
+
+293
+00:12:12,820 --> 00:12:15,820
+and a laser rangefinder, laser scanner.
+
+294
+00:12:15,820 --> 00:12:17,820
+And it uses these sensors
+
+295
+00:12:17,820 --> 00:12:19,820
+to build a map of the environment.
+
+296
+00:12:19,820 --> 00:12:22,820
+What that map consists of are features --
+
+297
+00:12:22,820 --> 00:12:24,820
+like doorways, windows,
+
+298
+00:12:24,820 --> 00:12:26,820
+people, furniture --
+
+299
+00:12:26,820 --> 00:12:28,820
+and it then figures out where its position is
+
+300
+00:12:28,820 --> 00:12:30,820
+with respect to the features.
+
+301
+00:12:30,820 --> 00:12:32,820
+So there is no global coordinate system.
+
+302
+00:12:32,820 --> 00:12:35,820
+The coordinate system is defined based on the robot,
+
+303
+00:12:35,820 --> 00:12:38,820
+where it is and what it's looking at.
+
+304
+00:12:38,820 --> 00:12:41,820
+And it navigates with respect to those features.
+
+305
+00:12:41,820 --> 00:12:43,820
+So I want to show you a clip
+
+306
+00:12:43,820 --> 00:12:45,820
+of algorithms developed by Frank Shen
+
+307
+00:12:45,820 --> 00:12:47,820
+and Professor Nathan Michael
+
+308
+00:12:47,820 --> 00:12:51,820
+that shows this robot entering a building for the very first time
+
+309
+00:12:51,820 --> 00:12:54,820
+and creating this map on the fly.
+
+310
+00:12:54,820 --> 00:12:57,820
+So the robot then figures out what the features are.
+
+311
+00:12:57,820 --> 00:12:59,820
+It builds the map.
+
+312
+00:12:59,820 --> 00:13:01,820
+It figures out where it is with respect to the features
+
+313
+00:13:01,820 --> 00:13:03,820
+and then estimates its position
+
+314
+00:13:03,820 --> 00:13:05,820
+100 times a second
+
+315
+00:13:05,820 --> 00:13:07,820
+allowing us to use the control algorithms
+
+316
+00:13:07,820 --> 00:13:09,820
+that I described to you earlier.
+
+317
+00:13:09,820 --> 00:13:11,820
+So this robot is actually being commanded
+
+318
+00:13:11,820 --> 00:13:13,820
+remotely by Frank.
+
+319
+00:13:13,820 --> 00:13:15,820
+But the robot can also figure out
+
+320
+00:13:15,820 --> 00:13:17,820
+where to go on its own.
+
+321
+00:13:17,820 --> 00:13:19,820
+So suppose I were to send this into a building
+
+322
+00:13:19,820 --> 00:13:21,820
+and I had no idea what this building looked like,
+
+323
+00:13:21,820 --> 00:13:23,820
+I can ask this robot to go in,
+
+324
+00:13:23,820 --> 00:13:25,820
+create a map
+
+325
+00:13:25,820 --> 00:13:28,820
+and then come back and tell me what the building looks like.
+
+326
+00:13:28,820 --> 00:13:31,820
+So here, the robot is not only solving the problem,
+
+327
+00:13:31,820 --> 00:13:34,820
+how to go from point A to point B in this map,
+
+328
+00:13:34,820 --> 00:13:36,820
+but it's figuring out
+
+329
+00:13:36,820 --> 00:13:38,820
+what the best point B is at every time.
+
+330
+00:13:38,820 --> 00:13:41,820
+So essentially it knows where to go
+
+331
+00:13:41,820 --> 00:13:43,820
+to look for places that have the least information.
+
+332
+00:13:43,820 --> 00:13:46,820
+And that's how it populates this map.
+
+333
+00:13:46,820 --> 00:13:48,820
+So I want to leave you
+
+334
+00:13:48,820 --> 00:13:50,820
+with one last application.
+
+335
+00:13:50,820 --> 00:13:53,820
+And there are many applications of this technology.
+
+336
+00:13:53,820 --> 00:13:55,820
+I'm a professor, and we're passionate about education.
+
+337
+00:13:55,820 --> 00:13:57,820
+Robots like this can really change the way
+
+338
+00:13:57,820 --> 00:13:59,820
+we do K through 12 education.
+
+339
+00:13:59,820 --> 00:14:01,820
+But we're in Southern California,
+
+340
+00:14:01,820 --> 00:14:03,820
+close to Los Angeles,
+
+341
+00:14:03,820 --> 00:14:05,820
+so I have to conclude
+
+342
+00:14:05,820 --> 00:14:07,820
+with something focused on entertainment.
+
+343
+00:14:07,820 --> 00:14:09,820
+I want to conclude with a music video.
+
+344
+00:14:09,820 --> 00:14:12,820
+I want to introduce the creators, Alex and Daniel,
+
+345
+00:14:12,820 --> 00:14:14,820
+who created this video.
+
+346
+00:14:14,820 --> 00:14:21,820
+(Applause)
+
+347
+00:14:21,820 --> 00:14:23,820
+So before I play this video,
+
+348
+00:14:23,820 --> 00:14:26,820
+I want to tell you that they created it in the last three days
+
+349
+00:14:26,820 --> 00:14:28,820
+after getting a call from Chris.
+
+350
+00:14:28,820 --> 00:14:30,820
+And the robots that play the video
+
+351
+00:14:30,820 --> 00:14:32,820
+are completely autonomous.
+
+352
+00:14:32,820 --> 00:14:35,820
+You will see nine robots play six different instruments.
+
+353
+00:14:35,820 --> 00:14:39,820
+And of course, it's made exclusively for TED 2012.
+
+354
+00:14:39,820 --> 00:14:42,820
+Let's watch.
+
+355
+00:15:15,820 --> 00:15:25,820
+(Music)
+
+356
+00:16:19,820 --> 00:16:36,820
+(Applause)
+

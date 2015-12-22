@@ -1,0 +1,1749 @@
+﻿1
+00:00:12,383 --> 00:00:14,901
+So my name is Amy Webb,
+
+2
+00:00:14,925 --> 00:00:17,598
+and a few years ago
+I found myself at the end
+
+3
+00:00:17,622 --> 00:00:20,234
+of yet another fantastic relationship
+
+4
+00:00:20,258 --> 00:00:23,346
+that came burning down
+in a spectacular fashion.
+
+5
+00:00:23,862 --> 00:00:26,598
+And I thought, what's wrong with me?
+
+6
+00:00:26,622 --> 00:00:28,680
+I don't understand
+why this keeps happening.
+
+7
+00:00:28,704 --> 00:00:31,750
+So I asked everybody in my life
+what they thought.
+
+8
+00:00:32,203 --> 00:00:36,179
+I turned to my grandmother,
+who always had plenty of advice,
+
+9
+00:00:36,203 --> 00:00:39,171
+and she said, "Stop being so picky.
+
+10
+00:00:39,195 --> 00:00:40,549
+You've got to date around.
+
+11
+00:00:40,573 --> 00:00:41,927
+And most importantly,
+
+12
+00:00:41,951 --> 00:00:45,550
+true love will find you
+when you least expect it."
+
+13
+00:00:46,156 --> 00:00:47,851
+Now as it turns out,
+
+14
+00:00:47,875 --> 00:00:50,408
+I'm somebody who thinks a lot about data,
+
+15
+00:00:50,432 --> 00:00:51,707
+as you'll soon find.
+
+16
+00:00:51,731 --> 00:00:56,897
+I am constantly swimming
+in numbers, formulas and charts.
+
+17
+00:00:56,921 --> 00:00:59,297
+I also have a very tight-knit family,
+
+18
+00:00:59,321 --> 00:01:01,308
+and I'm very, very close with my sister,
+
+19
+00:01:01,332 --> 00:01:04,784
+and as a result, I wanted to have
+the same type of family when I grew up.
+
+20
+00:01:04,808 --> 00:01:06,681
+So I'm at the end of this bad breakup,
+
+21
+00:01:06,705 --> 00:01:07,908
+I'm 30 years old,
+
+22
+00:01:07,932 --> 00:01:11,635
+I figure I'm probably going to have
+to date somebody for about six months
+
+23
+00:01:11,659 --> 00:01:13,477
+before I'm ready to get monogamous
+
+24
+00:01:13,501 --> 00:01:15,280
+and before we can sort of cohabitate,
+
+25
+00:01:15,304 --> 00:01:18,229
+and we have to do that
+for a while before we can get engaged.
+
+26
+00:01:18,253 --> 00:01:21,222
+And if I want to start having children
+by the time I'm 35,
+
+27
+00:01:21,246 --> 00:01:24,423
+that meant that I would have
+had to have been on my way to marriage
+
+28
+00:01:24,447 --> 00:01:25,609
+five years ago.
+
+29
+00:01:25,991 --> 00:01:27,403
+So that wasn't going to work.
+
+30
+00:01:27,427 --> 00:01:31,150
+If my strategy was to least-expect
+my way into true love,
+
+31
+00:01:31,174 --> 00:01:34,069
+then the variable that I had
+to deal with was serendipity.
+
+32
+00:01:34,701 --> 00:01:36,837
+In short, I was trying to figure out
+
+33
+00:01:36,861 --> 00:01:39,749
+what's the probability
+of my finding Mr. Right?
+
+34
+00:01:40,201 --> 00:01:43,002
+Well, at the time I was living
+in the city of Philadelphia,
+
+35
+00:01:43,026 --> 00:01:45,121
+and it's a big city, and I figured,
+
+36
+00:01:45,145 --> 00:01:48,112
+in this entire place,
+there are lots of possibilities.
+
+37
+00:01:48,136 --> 00:01:50,456
+So again, I started doing some math.
+
+38
+00:01:50,480 --> 00:01:54,190
+Population of Philadelphia:
+it has 1.5 million people.
+
+39
+00:01:54,214 --> 00:01:55,929
+I figure about half of that are men,
+
+40
+00:01:55,953 --> 00:01:58,523
+so that takes the number down to 750,000.
+
+41
+00:01:58,547 --> 00:02:01,732
+I'm looking for a guy
+between the ages of 30 and 36,
+
+42
+00:02:01,756 --> 00:02:04,287
+which was only four percent
+of the population,
+
+43
+00:02:04,311 --> 00:02:06,888
+so now I'm dealing
+with the possibility of 30,000 men.
+
+44
+00:02:06,912 --> 00:02:08,913
+I was looking for somebody who was Jewish,
+
+45
+00:02:08,937 --> 00:02:11,161
+because I am and that was important to me.
+
+46
+00:02:11,185 --> 00:02:13,700
+That's only 2.3 percent of the population.
+
+47
+00:02:13,724 --> 00:02:17,849
+I figure I'm attracted to maybe
+one out of 10 of those men,
+
+48
+00:02:17,873 --> 00:02:22,686
+and there was no way I was going to deal
+with somebody who was an avid golfer.
+
+49
+00:02:22,710 --> 00:02:25,746
+So that basically meant
+there were 35 men for me
+
+50
+00:02:25,770 --> 00:02:27,974
+that I could possibly date
+
+51
+00:02:27,998 --> 00:02:30,666
+in the entire city of Philadelphia.
+
+52
+00:02:32,169 --> 00:02:35,357
+In the meantime,
+my very large Jewish family
+
+53
+00:02:35,381 --> 00:02:38,159
+was already all married
+and well on their way
+
+54
+00:02:38,183 --> 00:02:40,070
+to having lots and lots of children,
+
+55
+00:02:40,094 --> 00:02:42,571
+and I felt like I was
+under tremendous peer pressure
+
+56
+00:02:42,595 --> 00:02:44,047
+to get my life going already.
+
+57
+00:02:44,385 --> 00:02:46,766
+So I have two possible
+strategies at this point
+
+58
+00:02:46,790 --> 00:02:48,024
+I'm sort of figuring out.
+
+59
+00:02:48,048 --> 00:02:50,324
+One, I can take my grandmother's advice
+
+60
+00:02:50,348 --> 00:02:52,580
+and sort of least-expect my way
+
+61
+00:02:52,604 --> 00:02:56,795
+into maybe bumping into the one
+out of 35 possible men
+
+62
+00:02:56,819 --> 00:03:00,992
+in the entire 1.5-million-person
+city of Philadelphia,
+
+63
+00:03:01,016 --> 00:03:03,605
+or I could try online dating.
+
+64
+00:03:04,041 --> 00:03:06,162
+Now, I like the idea of online dating,
+
+65
+00:03:06,186 --> 00:03:08,163
+because it's predicated on an algorithm,
+
+66
+00:03:08,187 --> 00:03:10,312
+and that's really just
+a simple way of saying
+
+67
+00:03:10,336 --> 00:03:12,628
+I've got a problem,
+I'm going to use some data,
+
+68
+00:03:12,652 --> 00:03:15,033
+run it through a system
+and get to a solution.
+
+69
+00:03:16,137 --> 00:03:18,405
+So online dating is the second
+most popular way
+
+70
+00:03:18,429 --> 00:03:20,063
+that people now meet each other,
+
+71
+00:03:20,087 --> 00:03:22,373
+but as it turns out,
+algorithms have been around
+
+72
+00:03:22,397 --> 00:03:25,658
+for thousands of years
+in almost every culture.
+
+73
+00:03:25,682 --> 00:03:29,155
+In fact, in Judaism,
+there were matchmakers a long time ago,
+
+74
+00:03:29,179 --> 00:03:31,866
+and though they didn't have
+an explicit algorithm per Se,
+
+75
+00:03:31,890 --> 00:03:34,905
+they definitely were running
+through formulas in their heads,
+
+76
+00:03:34,929 --> 00:03:36,872
+like, is the girl going to like the boy?
+
+77
+00:03:36,896 --> 00:03:38,612
+Are the families going to get along?
+
+78
+00:03:38,636 --> 00:03:40,065
+What's the rabbi going to say?
+
+79
+00:03:40,089 --> 00:03:42,476
+Are they going to start
+having children right away?
+
+80
+00:03:42,500 --> 00:03:45,126
+The matchmaker would sort
+of think through all of this,
+
+81
+00:03:45,150 --> 00:03:47,848
+put two people together,
+and that would be the end of it.
+
+82
+00:03:47,872 --> 00:03:49,614
+So in my case, I thought,
+
+83
+00:03:49,638 --> 00:03:53,951
+well, will data and an algorithm
+lead me to my Prince Charming?
+
+84
+00:03:54,383 --> 00:03:55,815
+So I decided to sign on.
+
+85
+00:03:55,839 --> 00:03:57,665
+Now, there was one small catch.
+
+86
+00:03:57,689 --> 00:04:00,296
+As I'm signing on to the various
+dating websites,
+
+87
+00:04:00,320 --> 00:04:02,591
+as it happens, I was really, really busy.
+
+88
+00:04:02,615 --> 00:04:05,329
+But that actually
+wasn't the biggest problem.
+
+89
+00:04:05,353 --> 00:04:09,373
+The biggest problem is that I hate
+filling out questionnaires of any kind,
+
+90
+00:04:09,397 --> 00:04:13,776
+and I certainly don't like questionnaires
+that are like Cosmo quizzes.
+
+91
+00:04:13,800 --> 00:04:16,274
+So I just copied
+and pasted from my résumé.
+
+92
+00:04:16,298 --> 00:04:21,731
+(Laughter)
+
+93
+00:04:21,755 --> 00:04:24,379
+So in the descriptive part up top,
+
+94
+00:04:24,403 --> 00:04:26,705
+I said that I was
+an award-winning journalist
+
+95
+00:04:26,729 --> 00:04:28,335
+and a future thinker.
+
+96
+00:04:28,359 --> 00:04:31,697
+When I was asked about fun activities
+and my ideal date,
+
+97
+00:04:31,721 --> 00:04:35,907
+I said monetization
+and fluency in Japanese.
+
+98
+00:04:35,931 --> 00:04:37,624
+I talked a lot about JavaScript.
+
+99
+00:04:37,648 --> 00:04:38,871
+(Laughter)
+
+100
+00:04:38,895 --> 00:04:45,022
+So obviously this was not the best way
+to put my most sexy foot forward.
+
+101
+00:04:45,625 --> 00:04:50,047
+But the real failure was that
+there were plenty of men for me to date.
+
+102
+00:04:50,071 --> 00:04:52,508
+These algorithms had a sea full of men
+
+103
+00:04:52,532 --> 00:04:55,214
+that wanted to take me out
+on lots of dates --
+
+104
+00:04:55,238 --> 00:04:58,166
+what turned out to be truly awful dates.
+
+105
+00:04:59,076 --> 00:05:01,301
+There was this guy Steve, the I.T. guy.
+
+106
+00:05:01,750 --> 00:05:04,948
+The algorithm matched us up
+because we share a love of gadgets,
+
+107
+00:05:04,972 --> 00:05:09,017
+we share a love of math
+and data and '80s music,
+
+108
+00:05:09,041 --> 00:05:10,990
+and so I agreed to go out with him.
+
+109
+00:05:11,014 --> 00:05:13,647
+So Steve the I.T. guy invited me out
+
+110
+00:05:13,671 --> 00:05:15,741
+to one of Philadelphia's
+white-table-cloth,
+
+111
+00:05:15,765 --> 00:05:17,448
+extremely expensive restaurants.
+
+112
+00:05:17,472 --> 00:05:19,511
+And we went in, and right off the bat,
+
+113
+00:05:19,535 --> 00:05:22,771
+our conversation really
+wasn't taking flight,
+
+114
+00:05:22,795 --> 00:05:24,600
+but he was ordering a lot of food.
+
+115
+00:05:24,624 --> 00:05:27,053
+In fact, he didn't even bother
+looking at the menu.
+
+116
+00:05:27,077 --> 00:05:30,952
+He was ordering multiple appetizers,
+multiple entrées, for me as well,
+
+117
+00:05:30,976 --> 00:05:33,834
+and suddenly there are piles
+and piles of food on our table,
+
+118
+00:05:33,858 --> 00:05:35,912
+also lots and lots of bottles of wine.
+
+119
+00:05:35,936 --> 00:05:38,093
+So we're nearing the end
+of our conversation
+
+120
+00:05:38,117 --> 00:05:40,014
+and the end of dinner, and I've decided
+
+121
+00:05:40,038 --> 00:05:43,148
+Steve the I.T. guy and I are really
+just not meant for each other,
+
+122
+00:05:43,172 --> 00:05:44,735
+but we'll part ways as friends,
+
+123
+00:05:44,759 --> 00:05:47,184
+when he gets up to go to the bathroom,
+
+124
+00:05:47,208 --> 00:05:50,335
+and in the meantime,
+the bill comes to our table.
+
+125
+00:05:50,820 --> 00:05:53,384
+And listen, I'm a modern woman.
+
+126
+00:05:53,408 --> 00:05:55,749
+I am totally down with splitting the bill.
+
+127
+00:05:56,369 --> 00:05:58,901
+But then Steve the I.T. guy
+didn't come back.
+
+128
+00:05:58,925 --> 00:06:00,011
+(Gasping)
+
+129
+00:06:00,035 --> 00:06:03,416
+And that was my entire month's rent.
+
+130
+00:06:03,440 --> 00:06:04,774
+(Audience gasps)
+
+131
+00:06:04,798 --> 00:06:08,047
+So needless to say,
+I was not having a good night.
+
+132
+00:06:08,071 --> 00:06:11,748
+So I run home, I call
+my mother, I call my sister,
+
+133
+00:06:11,772 --> 00:06:15,946
+and as I do, at the end of each one
+of these terrible, terrible dates,
+
+134
+00:06:15,970 --> 00:06:17,642
+I regale them with the details.
+
+135
+00:06:18,091 --> 00:06:20,198
+And they say to me,
+
+136
+00:06:20,222 --> 00:06:21,817
+"Stop complaining."
+
+137
+00:06:21,841 --> 00:06:23,776
+(Laughter)
+
+138
+00:06:23,800 --> 00:06:25,593
+"You're just being too picky."
+
+139
+00:06:26,132 --> 00:06:29,306
+So I said, fine, from here on out
+I'm only going on dates
+
+140
+00:06:29,330 --> 00:06:32,033
+where I know there's Wi-Fi,
+and I'm bringing my laptop.
+
+141
+00:06:32,057 --> 00:06:33,692
+I'm going to shove it into my bag,
+
+142
+00:06:33,716 --> 00:06:35,549
+I'm going to have this email template,
+
+143
+00:06:35,573 --> 00:06:38,002
+and I'm going to fill it out
+and collect information
+
+144
+00:06:38,026 --> 00:06:40,442
+on all these different
+data points during the date
+
+145
+00:06:40,466 --> 00:06:42,324
+to prove to everybody that empirically,
+
+146
+00:06:42,348 --> 00:06:43,925
+these dates really are terrible.
+
+147
+00:06:43,949 --> 00:06:44,972
+(Laughter)
+
+148
+00:06:44,996 --> 00:06:49,090
+So I started tracking things like
+really stupid, awkward, sexual remarks;
+
+149
+00:06:49,114 --> 00:06:51,269
+bad vocabulary;
+
+150
+00:06:51,293 --> 00:06:54,324
+the number of times a man
+forced me to high-five him.
+
+151
+00:06:54,348 --> 00:06:56,498
+(Laughter)
+
+152
+00:06:56,522 --> 00:07:00,888
+So I started to crunch some numbers,
+
+153
+00:07:00,912 --> 00:07:03,563
+and that allowed me
+to make some correlations.
+
+154
+00:07:03,587 --> 00:07:06,187
+So as it turns out,
+
+155
+00:07:06,211 --> 00:07:11,285
+for some reason, men who drink Scotch
+reference kinky sex immediately.
+
+156
+00:07:11,309 --> 00:07:13,422
+(Laughter)
+
+157
+00:07:13,446 --> 00:07:17,686
+Well, it turns out
+that these probably weren't bad guys.
+
+158
+00:07:17,710 --> 00:07:19,596
+There were just bad for me.
+
+159
+00:07:19,620 --> 00:07:23,271
+And as it happens, the algorithms
+that were setting us up,
+
+160
+00:07:23,295 --> 00:07:24,676
+they weren't bad either.
+
+161
+00:07:24,700 --> 00:07:27,969
+These algorithms were doing exactly
+what they were designed to do,
+
+162
+00:07:27,993 --> 00:07:30,584
+which was to take
+our user-generated information,
+
+163
+00:07:30,608 --> 00:07:32,088
+in my case, my résumé,
+
+164
+00:07:32,112 --> 00:07:35,115
+and match it up
+with other people's information.
+
+165
+00:07:35,139 --> 00:07:36,806
+See, the real problem here is that,
+
+166
+00:07:36,830 --> 00:07:38,774
+while the algorithms work just fine,
+
+167
+00:07:38,798 --> 00:07:40,029
+you and I don't,
+
+168
+00:07:40,053 --> 00:07:42,166
+when confronted with blank windows
+
+169
+00:07:42,190 --> 00:07:44,691
+where we're supposed to input
+our information online.
+
+170
+00:07:44,715 --> 00:07:46,366
+Very few of us have the ability
+
+171
+00:07:46,390 --> 00:07:49,842
+to be totally and brutally
+honest with ourselves.
+
+172
+00:07:49,866 --> 00:07:52,438
+The other problem
+is that these websites are asking us
+
+173
+00:07:52,462 --> 00:07:55,316
+questions like, are you
+a dog person or a cat person?
+
+174
+00:07:55,340 --> 00:07:58,301
+Do you like horror films or romance films?
+
+175
+00:07:58,325 --> 00:08:00,055
+I'm not looking for a pen pal.
+
+176
+00:08:00,079 --> 00:08:01,965
+I'm looking for a husband. Right?
+
+177
+00:08:01,989 --> 00:08:05,380
+So there's a certain amount
+of superficiality in that data.
+
+178
+00:08:05,404 --> 00:08:07,950
+So I said fine, I've got a new plan.
+
+179
+00:08:07,974 --> 00:08:10,355
+I'm going to keep using
+these online dating sites,
+
+180
+00:08:10,379 --> 00:08:12,840
+but I'm going to treat them as databases,
+
+181
+00:08:12,864 --> 00:08:15,529
+and rather than waiting
+for an algorithm to set me up,
+
+182
+00:08:15,553 --> 00:08:18,807
+I think I'm going to try
+reverse-engineering this entire system.
+
+183
+00:08:19,260 --> 00:08:22,221
+So knowing that there was superficial data
+
+184
+00:08:22,245 --> 00:08:24,769
+that was being used
+to match me up with other people,
+
+185
+00:08:24,793 --> 00:08:27,220
+I decided instead to ask my own questions.
+
+186
+00:08:27,244 --> 00:08:28,974
+What was every single possible thing
+
+187
+00:08:28,998 --> 00:08:31,635
+that I could think of
+that I was looking for in a mate?
+
+188
+00:08:31,659 --> 00:08:33,562
+So I started writing
+
+189
+00:08:33,586 --> 00:08:36,278
+and writing and writing,
+
+190
+00:08:36,302 --> 00:08:41,097
+and at the end, I had amassed
+72 different data points.
+
+191
+00:08:41,121 --> 00:08:43,375
+I wanted somebody was Jew-ish,
+
+192
+00:08:43,399 --> 00:08:44,972
+so I was looking for somebody
+
+193
+00:08:44,996 --> 00:08:47,726
+who had the same background
+and thoughts on our culture,
+
+194
+00:08:47,750 --> 00:08:51,090
+but wasn't going to force me to go to shul
+every Friday and Saturday.
+
+195
+00:08:51,563 --> 00:08:53,183
+I wanted somebody who worked hard,
+
+196
+00:08:53,207 --> 00:08:55,255
+because work for me
+is extremely important,
+
+197
+00:08:55,279 --> 00:08:56,831
+but not too hard.
+
+198
+00:08:56,855 --> 00:08:58,363
+For me, the hobbies that I have
+
+199
+00:08:58,387 --> 00:09:01,228
+are really just new work projects
+that I've launched.
+
+200
+00:09:01,252 --> 00:09:04,312
+I also wanted somebody
+who not only wanted two children,
+
+201
+00:09:04,336 --> 00:09:07,498
+but was going to have the same
+attitude toward parenting that I do,
+
+202
+00:09:07,522 --> 00:09:09,585
+so somebody who was going
+to be totally okay
+
+203
+00:09:09,609 --> 00:09:12,963
+with forcing our child to start
+taking piano lessons at age three,
+
+204
+00:09:12,987 --> 00:09:17,732
+and also maybe computer science classes
+if we could wrangle it.
+
+205
+00:09:18,153 --> 00:09:20,439
+So things like that,
+but I also wanted somebody
+
+206
+00:09:20,463 --> 00:09:23,380
+who would go to far-flung,
+exotic places, like Petra, Jordan.
+
+207
+00:09:23,968 --> 00:09:27,506
+I also wanted somebody who would weigh
+20 pounds more than me at all times,
+
+208
+00:09:27,530 --> 00:09:28,912
+regardless of what I weighed.
+
+209
+00:09:28,936 --> 00:09:31,023
+(Laughter)
+
+210
+00:09:31,047 --> 00:09:33,935
+So I now have
+these 72 different data points,
+
+211
+00:09:33,959 --> 00:09:36,170
+which, to be fair, is a lot.
+
+212
+00:09:36,194 --> 00:09:39,321
+So what I did was, I went through
+and I prioritized that list.
+
+213
+00:09:39,345 --> 00:09:43,138
+I broke it into a top tier
+and a second tier of points,
+
+214
+00:09:43,162 --> 00:09:46,363
+and I ranked everything starting at 100
+
+215
+00:09:46,387 --> 00:09:48,613
+and going all the way down to 91,
+
+216
+00:09:48,637 --> 00:09:52,043
+and listing things like I was looking
+for somebody who was really smart,
+
+217
+00:09:52,067 --> 00:09:53,830
+who would challenge and stimulate me,
+
+218
+00:09:53,854 --> 00:09:57,576
+and balancing that with a second tier
+and a second set of points.
+
+219
+00:09:57,600 --> 00:10:01,831
+These things were also important to me
+but not necessarily deal-breakers.
+
+220
+00:10:01,855 --> 00:10:03,402
+(Laughter)
+
+221
+00:10:03,947 --> 00:10:07,027
+So once I had all this done,
+I then built a scoring system,
+
+222
+00:10:07,051 --> 00:10:11,532
+because what I wanted to do
+was to sort of mathematically calculate
+
+223
+00:10:11,556 --> 00:10:14,038
+whether or not I thought
+the guy that I found online
+
+224
+00:10:14,062 --> 00:10:15,453
+would be a match with me.
+
+225
+00:10:15,477 --> 00:10:17,984
+I figured there would be
+a minimum of 700 points
+
+226
+00:10:18,008 --> 00:10:21,608
+before I would agree to email somebody
+or respond to an email message.
+
+227
+00:10:21,632 --> 00:10:23,823
+For 900 points,
+I'd agree to go out on a date,
+
+228
+00:10:23,847 --> 00:10:26,504
+and I wouldn't even consider
+any kind of relationship
+
+229
+00:10:26,528 --> 00:10:29,567
+before somebody had crossed
+the 1,500 point threshold.
+
+230
+00:10:30,503 --> 00:10:33,351
+Well, as it turns out,
+this worked pretty well.
+
+231
+00:10:33,686 --> 00:10:35,289
+So I go back online now.
+
+232
+00:10:35,313 --> 00:10:37,915
+I found Jewishdoc57
+
+233
+00:10:37,939 --> 00:10:40,852
+who's incredibly good-looking,
+incredibly well-spoken,
+
+234
+00:10:40,876 --> 00:10:42,570
+he had hiked Mt. Fuji,
+
+235
+00:10:42,594 --> 00:10:44,500
+he had walked along the Great Wall.
+
+236
+00:10:44,524 --> 00:10:45,675
+He likes to travel
+
+237
+00:10:45,699 --> 00:10:47,825
+as long as it doesn't involve
+a cruise ship.
+
+238
+00:10:47,849 --> 00:10:49,362
+And I thought,
+
+239
+00:10:49,386 --> 00:10:50,537
+I've done it!
+
+240
+00:10:50,561 --> 00:10:52,096
+I've cracked the code.
+
+241
+00:10:52,120 --> 00:10:56,183
+I have just found
+the Jewish Prince Charming
+
+242
+00:10:56,207 --> 00:10:57,779
+of my family's dreams.
+
+243
+00:10:58,556 --> 00:10:59,925
+There was only one problem:
+
+244
+00:11:01,505 --> 00:11:02,806
+He didn't like me back.
+
+245
+00:11:03,707 --> 00:11:06,769
+And I guess the one variable
+that I haven't considered
+
+246
+00:11:06,793 --> 00:11:08,203
+is the competition.
+
+247
+00:11:08,686 --> 00:11:11,563
+Who are all of the other women
+on these dating sites?
+
+248
+00:11:12,619 --> 00:11:15,848
+I found SmileyGirl1978.
+
+249
+00:11:16,404 --> 00:11:19,128
+She said she was a "Fun girl
+who is Happy and Outgoing."
+
+250
+00:11:19,152 --> 00:11:20,758
+She listed her job as "teacher."
+
+251
+00:11:20,782 --> 00:11:23,176
+She said she is
+"silly, nice and friendly."
+
+252
+00:11:23,200 --> 00:11:25,234
+She likes to make people laugh "alot."
+
+253
+00:11:25,649 --> 00:11:27,196
+At this moment I knew,
+
+254
+00:11:27,220 --> 00:11:30,305
+clicking profile after profile
+that looked like this,
+
+255
+00:11:30,329 --> 00:11:32,823
+that I needed to do some market research.
+
+256
+00:11:33,303 --> 00:11:35,574
+So I created 10 fake male profiles.
+
+257
+00:11:35,598 --> 00:11:38,518
+Now, before I lose all of you --
+
+258
+00:11:38,542 --> 00:11:41,750
+(Laughter) --
+
+259
+00:11:41,774 --> 00:11:45,996
+understand that I did this
+strictly to gather data
+
+260
+00:11:46,020 --> 00:11:47,744
+about everybody else in the system.
+
+261
+00:11:47,768 --> 00:11:52,055
+I didn't carry on crazy Catfish-style
+relationships with anybody.
+
+262
+00:11:52,079 --> 00:11:53,952
+I really was just scraping their data.
+
+263
+00:11:53,976 --> 00:11:55,920
+But I didn't want everybody's data.
+
+264
+00:11:55,944 --> 00:11:59,367
+I only wanted data on the women
+who were going to be attracted
+
+265
+00:11:59,391 --> 00:12:02,089
+to the type of man that I really,
+really wanted to marry.
+
+266
+00:12:02,654 --> 00:12:06,196
+When I released these men into the wild,
+
+267
+00:12:06,220 --> 00:12:07,498
+I did follow some rules.
+
+268
+00:12:07,522 --> 00:12:09,638
+So I didn't reach out to any woman first.
+
+269
+00:12:09,662 --> 00:12:12,615
+I just waited to see
+who these profiles were going to attract,
+
+270
+00:12:12,639 --> 00:12:15,930
+and mainly what I was looking at
+was two different data sets.
+
+271
+00:12:15,954 --> 00:12:17,716
+So I was looking at qualitative data,
+
+272
+00:12:17,740 --> 00:12:19,417
+so what was the humor, the tone,
+
+273
+00:12:19,441 --> 00:12:21,061
+the voice, the communication style
+
+274
+00:12:21,085 --> 00:12:22,829
+that these women shared in common?
+
+275
+00:12:22,853 --> 00:12:24,139
+And also quantitative data,
+
+276
+00:12:24,163 --> 00:12:26,450
+so what was the average length
+of their profile,
+
+277
+00:12:26,474 --> 00:12:28,843
+how much time was spent between messages?
+
+278
+00:12:28,867 --> 00:12:32,291
+What I was trying to get at here was
+that I figured, in person,
+
+279
+00:12:32,315 --> 00:12:35,766
+I would be just as competitive
+as a SmileyGirl1978.
+
+280
+00:12:35,790 --> 00:12:40,187
+I wanted to figure out how to maximize
+my own profile online.
+
+281
+00:12:40,719 --> 00:12:42,333
+Well, one month later,
+
+282
+00:12:42,357 --> 00:12:46,086
+I had a lot of data,
+and I was able to do another analysis.
+
+283
+00:12:46,110 --> 00:12:48,966
+And as it turns out,
+content matters a lot.
+
+284
+00:12:48,990 --> 00:12:51,941
+So smart people tend to write a lot --
+
+285
+00:12:51,965 --> 00:12:55,290
+3,000, 4,000, 5,000 words
+about themselves,
+
+286
+00:12:55,314 --> 00:12:57,617
+which may all be very, very interesting.
+
+287
+00:12:57,641 --> 00:13:00,521
+The challenge here, though,
+is that the popular men and women
+
+288
+00:13:00,545 --> 00:13:03,742
+are sticking to 97 words on average
+
+289
+00:13:03,766 --> 00:13:05,686
+that are written very, very well,
+
+290
+00:13:05,710 --> 00:13:08,354
+even though it may not seem
+like it all the time.
+
+291
+00:13:08,378 --> 00:13:10,717
+The other hallmark
+of the people who do this well
+
+292
+00:13:10,741 --> 00:13:12,844
+is that they're using
+non-specific language.
+
+293
+00:13:12,868 --> 00:13:14,170
+So in my case,
+
+294
+00:13:14,194 --> 00:13:17,780
+"The English Patient"
+is my most favorite movie ever,
+
+295
+00:13:17,804 --> 00:13:20,953
+but it doesn't work
+to use that in a profile,
+
+296
+00:13:20,977 --> 00:13:22,931
+because that's a superficial data point,
+
+297
+00:13:22,955 --> 00:13:24,147
+and somebody may disagree
+
+298
+00:13:24,171 --> 00:13:25,914
+and decide they don't want to go out
+
+299
+00:13:25,938 --> 00:13:28,902
+because they didn't like
+sitting through the three-hour movie.
+
+300
+00:13:28,926 --> 00:13:30,906
+Also, optimistic language matters a lot.
+
+301
+00:13:30,930 --> 00:13:32,142
+So this is a word cloud
+
+302
+00:13:32,166 --> 00:13:34,602
+highlighting the most popular
+words that were used
+
+303
+00:13:34,626 --> 00:13:35,934
+by the most popular women,
+
+304
+00:13:35,958 --> 00:13:38,331
+words like "fun" and "girl" and "love."
+
+305
+00:13:38,648 --> 00:13:42,188
+And what I realized was not
+that I had to dumb down my own profile.
+
+306
+00:13:42,212 --> 00:13:43,720
+Remember, I'm somebody who said
+
+307
+00:13:43,744 --> 00:13:46,763
+that I speak fluent Japanese
+and I know JavaScript
+
+308
+00:13:46,787 --> 00:13:48,508
+and I was okay with that.
+
+309
+00:13:48,532 --> 00:13:51,290
+The difference is that it's about being
+more approachable
+
+310
+00:13:51,314 --> 00:13:54,841
+and helping people understand
+the best way to reach out to you.
+
+311
+00:13:54,865 --> 00:13:57,885
+And as it turns out, timing
+is also really, really important.
+
+312
+00:13:57,909 --> 00:14:01,157
+Just because you have access
+to somebody's mobile phone number
+
+313
+00:14:01,181 --> 00:14:02,913
+or their instant message account
+
+314
+00:14:02,937 --> 00:14:05,852
+and it's 2 o'clock in the morning
+and you happen to be awake,
+
+315
+00:14:05,876 --> 00:14:09,191
+doesn't mean that that's a good time
+to communicate with those people.
+
+316
+00:14:09,215 --> 00:14:11,158
+The popular women on these online sites
+
+317
+00:14:11,182 --> 00:14:14,649
+spend an average of 23 hours
+in between each communication.
+
+318
+00:14:15,085 --> 00:14:19,367
+And that's what we would normally do
+in the usual process of courtship.
+
+319
+00:14:19,391 --> 00:14:20,577
+And finally --
+
+320
+00:14:21,412 --> 00:14:22,967
+there were the photos.
+
+321
+00:14:22,991 --> 00:14:26,016
+All of the women who were popular
+showed some skin.
+
+322
+00:14:26,040 --> 00:14:28,242
+They all looked really great,
+
+323
+00:14:28,266 --> 00:14:31,144
+which turned out to be in sharp contrast
+
+324
+00:14:31,168 --> 00:14:32,668
+to what I had uploaded.
+
+325
+00:14:32,692 --> 00:14:34,430
+(Laughter)
+
+326
+00:14:34,454 --> 00:14:36,160
+Once I had all of this information,
+
+327
+00:14:36,184 --> 00:14:38,297
+I was able to create a super profile,
+
+328
+00:14:38,321 --> 00:14:40,322
+so it was still me,
+
+329
+00:14:40,346 --> 00:14:43,314
+but it was me optimized now
+for this ecosystem.
+
+330
+00:14:44,251 --> 00:14:48,211
+And as it turns out,
+I did a really good job.
+
+331
+00:14:48,954 --> 00:14:51,986
+I was the most popular person online.
+
+332
+00:14:52,010 --> 00:14:54,505
+(Laughter)
+
+333
+00:14:54,529 --> 00:14:58,719
+(Applause)
+
+334
+00:14:58,743 --> 00:15:02,206
+And as it turns out, lots and lots
+of men wanted to date me.
+
+335
+00:15:02,230 --> 00:15:05,031
+So I call my mom, I call my sister,
+I call my grandmother.
+
+336
+00:15:05,055 --> 00:15:07,184
+I'm telling them about this fabulous news,
+
+337
+00:15:07,208 --> 00:15:10,437
+and they say, "This is wonderful!
+How soon are you going out?"
+
+338
+00:15:10,461 --> 00:15:13,143
+I said, "Actually, I'm not going
+to go out with anybody."
+
+339
+00:15:13,167 --> 00:15:15,041
+Because remember, in my scoring system,
+
+340
+00:15:15,065 --> 00:15:17,561
+they have to reach a minimum
+threshold of 700 points,
+
+341
+00:15:17,585 --> 00:15:19,124
+and none of them have done that.
+
+342
+00:15:19,570 --> 00:15:22,227
+They said, "What?
+You're still being too damn picky."
+
+343
+00:15:22,251 --> 00:15:25,785
+Well, not too long after that,
+I found this guy, Thevenin,
+
+344
+00:15:25,809 --> 00:15:28,800
+and he said that he was culturally Jewish,
+
+345
+00:15:28,824 --> 00:15:32,340
+he said that his job
+was an arctic baby seal hunter,
+
+346
+00:15:32,364 --> 00:15:34,140
+which I thought was very clever.
+
+347
+00:15:34,164 --> 00:15:37,017
+He talked in detail about travel.
+
+348
+00:15:37,041 --> 00:15:39,708
+He made a lot of really
+interesting cultural references.
+
+349
+00:15:39,732 --> 00:15:42,474
+He looked and talked exactly
+like what I wanted,
+
+350
+00:15:42,498 --> 00:15:45,632
+and immediately, he scored 850 points.
+
+351
+00:15:45,656 --> 00:15:47,320
+It was enough for a date.
+
+352
+00:15:47,344 --> 00:15:49,436
+Three weeks later, we met up in person
+
+353
+00:15:49,460 --> 00:15:52,940
+for what turned out to be
+a 14-hour-long conversation
+
+354
+00:15:52,964 --> 00:15:55,011
+that went from coffee shop to restaurant
+
+355
+00:15:55,035 --> 00:15:57,192
+to another coffee shop
+to another restaurant,
+
+356
+00:15:57,216 --> 00:15:59,740
+and when he dropped me back off
+at my house that night
+
+357
+00:15:59,764 --> 00:16:00,915
+I re-scored him --
+
+358
+00:16:00,939 --> 00:16:02,105
+[1,050 points!]
+
+359
+00:16:02,129 --> 00:16:03,402
+Thought, you know what,
+
+360
+00:16:03,426 --> 00:16:05,986
+this entire time,
+I haven't been picky enough.
+
+361
+00:16:06,669 --> 00:16:08,375
+Well, a year and a half after that,
+
+362
+00:16:08,399 --> 00:16:10,922
+we were non-cruise ship traveling
+
+363
+00:16:10,946 --> 00:16:13,007
+through Petra, Jordan,
+
+364
+00:16:13,031 --> 00:16:15,516
+when he got down on his knee and proposed.
+
+365
+00:16:16,500 --> 00:16:18,979
+A year after that, we were married,
+
+366
+00:16:19,003 --> 00:16:20,882
+and about a year and a half after that,
+
+367
+00:16:20,906 --> 00:16:23,126
+our daughter, Petra, was born.
+
+368
+00:16:23,150 --> 00:16:24,562
+Audience: Oh!
+
+369
+00:16:24,919 --> 00:16:27,460
+(Applause)
+
+370
+00:16:27,484 --> 00:16:28,816
+[What it means...]
+
+371
+00:16:30,666 --> 00:16:32,886
+Obviously, I'm having
+a fabulous life, so --
+
+372
+00:16:32,910 --> 00:16:34,446
+(Laughter)
+
+373
+00:16:34,470 --> 00:16:36,942
+The question is, what does
+all of this mean for you?
+
+374
+00:16:36,966 --> 00:16:40,790
+Well, as it turns out,
+there is an algorithm for love.
+
+375
+00:16:40,814 --> 00:16:44,115
+It's just not the ones
+that we're being presented with online.
+
+376
+00:16:44,510 --> 00:16:46,796
+In fact, it's something
+that you write yourself.
+
+377
+00:16:46,820 --> 00:16:49,154
+So whether you're looking
+for a husband or a wife
+
+378
+00:16:49,178 --> 00:16:51,035
+or you're trying to find your passion
+
+379
+00:16:51,059 --> 00:16:52,821
+or you're trying to start a business,
+
+380
+00:16:52,845 --> 00:16:55,699
+all you have to really do
+is figure out your own framework
+
+381
+00:16:55,723 --> 00:16:57,483
+and play by your own rules,
+
+382
+00:16:57,507 --> 00:16:59,768
+and feel free to be as picky as you want.
+
+383
+00:17:00,147 --> 00:17:01,583
+Well, on my wedding day,
+
+384
+00:17:01,607 --> 00:17:03,846
+I had a conversation again
+with my grandmother,
+
+385
+00:17:03,870 --> 00:17:06,286
+and she said, "All right,
+maybe I was wrong.
+
+386
+00:17:06,310 --> 00:17:09,725
+It looks like you did come up
+with a really, really great system.
+
+387
+00:17:09,749 --> 00:17:11,479
+Now, your matzah balls ...
+
+388
+00:17:12,892 --> 00:17:14,773
+They should be fluffy, not hard."
+
+389
+00:17:14,797 --> 00:17:15,955
+(Laughter)
+
+390
+00:17:15,979 --> 00:17:17,563
+And I'll take her advice on that.
+
+391
+00:17:17,587 --> 00:17:21,391
+(Applause)
+

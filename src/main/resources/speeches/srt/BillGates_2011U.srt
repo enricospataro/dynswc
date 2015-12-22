@@ -1,0 +1,988 @@
+﻿1
+00:00:11,820 --> 00:00:13,820
+Well, this is about state budgets.
+
+2
+00:00:13,820 --> 00:00:16,820
+This is probably the most boring topic
+
+3
+00:00:16,820 --> 00:00:18,820
+of the whole morning.
+
+4
+00:00:18,820 --> 00:00:21,820
+But I want to tell you, I think it's an important topic
+
+5
+00:00:21,820 --> 00:00:24,820
+that we need to care about.
+
+6
+00:00:24,820 --> 00:00:26,820
+State budgets
+
+7
+00:00:26,820 --> 00:00:29,820
+are big, big money --
+
+8
+00:00:29,820 --> 00:00:31,820
+I'll show you the numbers --
+
+9
+00:00:31,820 --> 00:00:34,820
+and they get very little scrutiny.
+
+10
+00:00:34,820 --> 00:00:37,820
+The understanding is very low.
+
+11
+00:00:37,820 --> 00:00:39,820
+Many of the people involved
+
+12
+00:00:39,820 --> 00:00:41,820
+have special interests or short-term interests
+
+13
+00:00:41,820 --> 00:00:43,820
+that get them not thinking
+
+14
+00:00:43,820 --> 00:00:46,820
+about what the implications of the trends are.
+
+15
+00:00:47,820 --> 00:00:49,820
+And these budgets
+
+16
+00:00:49,820 --> 00:00:51,820
+are the key for our future;
+
+17
+00:00:51,820 --> 00:00:53,820
+they're the key for our kids.
+
+18
+00:00:53,820 --> 00:00:55,820
+Most education funding --
+
+19
+00:00:55,820 --> 00:00:57,820
+whether it's K through 12,
+
+20
+00:00:57,820 --> 00:01:00,820
+or the great universities or community colleges --
+
+21
+00:01:00,820 --> 00:01:02,820
+most of the money for those things
+
+22
+00:01:02,820 --> 00:01:05,820
+is coming out of these state budgets.
+
+23
+00:01:05,820 --> 00:01:07,820
+But we have a problem.
+
+24
+00:01:07,820 --> 00:01:09,820
+Here's the overall picture.
+
+25
+00:01:09,820 --> 00:01:12,820
+U.S. economy is big --
+
+26
+00:01:12,820 --> 00:01:14,820
+14.7 trillion.
+
+27
+00:01:14,820 --> 00:01:16,820
+Now out of that pie,
+
+28
+00:01:16,820 --> 00:01:19,820
+the government spends 36 percent.
+
+29
+00:01:19,820 --> 00:01:21,820
+So this is combining the federal level,
+
+30
+00:01:21,820 --> 00:01:23,820
+which is the largest,
+
+31
+00:01:23,820 --> 00:01:25,820
+the state level and the local level.
+
+32
+00:01:25,820 --> 00:01:27,820
+And it's really in this combined way
+
+33
+00:01:27,820 --> 00:01:29,820
+that you get an overall sense of what's going on,
+
+34
+00:01:29,820 --> 00:01:31,820
+because there's a lot of complex things
+
+35
+00:01:31,820 --> 00:01:33,820
+like Medicaid and research money
+
+36
+00:01:33,820 --> 00:01:36,820
+that flow across those boundaries.
+
+37
+00:01:36,820 --> 00:01:38,820
+But we're spending 36 percent.
+
+38
+00:01:38,820 --> 00:01:40,820
+Well what are we taking in?
+
+39
+00:01:40,820 --> 00:01:42,820
+Simple business question.
+
+40
+00:01:42,820 --> 00:01:45,820
+Answer is 26 percent.
+
+41
+00:01:46,820 --> 00:01:51,820
+Now this leaves 10 percent deficit,
+
+42
+00:01:51,820 --> 00:01:54,820
+sort of a mind-blowing number.
+
+43
+00:01:54,820 --> 00:01:57,820
+And some of that, in fact, is due to the fact
+
+44
+00:01:57,820 --> 00:01:59,820
+that we've had an economic recession.
+
+45
+00:01:59,820 --> 00:02:01,820
+Receipts go down,
+
+46
+00:02:01,820 --> 00:02:03,820
+some spending programs go up,
+
+47
+00:02:03,820 --> 00:02:06,820
+but most of it is not because of that.
+
+48
+00:02:06,820 --> 00:02:08,820
+Most of it is because of ways
+
+49
+00:02:08,820 --> 00:02:10,820
+that the liabilities are building up
+
+50
+00:02:10,820 --> 00:02:12,820
+and the trends,
+
+51
+00:02:12,820 --> 00:02:15,820
+and that creates a huge challenge.
+
+52
+00:02:15,820 --> 00:02:18,820
+In fact, this is the forecast picture.
+
+53
+00:02:18,820 --> 00:02:20,820
+There are various things in here:
+
+54
+00:02:20,820 --> 00:02:22,820
+I could say we might raise more revenue,
+
+55
+00:02:22,820 --> 00:02:26,820
+or medical innovation will make the spending even higher.
+
+56
+00:02:26,820 --> 00:02:29,820
+It is an increasingly difficult picture,
+
+57
+00:02:29,820 --> 00:02:32,820
+even assuming the economy does quite well --
+
+58
+00:02:32,820 --> 00:02:35,820
+probably better than it will do.
+
+59
+00:02:35,820 --> 00:02:37,820
+This is what you see
+
+60
+00:02:37,820 --> 00:02:39,820
+at this overall level.
+
+61
+00:02:39,820 --> 00:02:41,820
+Now how did we get here?
+
+62
+00:02:41,820 --> 00:02:44,820
+How could you have a problem like this?
+
+63
+00:02:44,820 --> 00:02:47,820
+After all, at least on paper,
+
+64
+00:02:47,820 --> 00:02:50,820
+there's this notion that these state budgets are balanced.
+
+65
+00:02:50,820 --> 00:02:52,820
+Only one state says
+
+66
+00:02:52,820 --> 00:02:54,820
+they don't have to balance the budget.
+
+67
+00:02:54,820 --> 00:02:56,820
+But what this means actually
+
+68
+00:02:56,820 --> 00:02:58,820
+is that there's a pretense.
+
+69
+00:02:58,820 --> 00:03:01,820
+There's no real, true balancing going on,
+
+70
+00:03:01,820 --> 00:03:05,820
+and in a sense, the games they play to hide that
+
+71
+00:03:05,820 --> 00:03:07,820
+actually obscure the topic so much
+
+72
+00:03:07,820 --> 00:03:09,820
+that people don't see things
+
+73
+00:03:09,820 --> 00:03:13,820
+that are actually pretty straight-forward challenges.
+
+74
+00:03:13,820 --> 00:03:15,820
+When Jerry Brown was elected,
+
+75
+00:03:15,820 --> 00:03:17,820
+this was the challenge that was put to him.
+
+76
+00:03:17,820 --> 00:03:20,820
+That is, through various gimmicks and things,
+
+77
+00:03:20,820 --> 00:03:23,820
+a so-called balanced budget
+
+78
+00:03:23,820 --> 00:03:27,820
+had led him to have 25 billion missing
+
+79
+00:03:27,820 --> 00:03:30,820
+out of the 76 billion in proposed spending.
+
+80
+00:03:30,820 --> 00:03:32,820
+Now he's put together some thoughts:
+
+81
+00:03:32,820 --> 00:03:35,820
+About half of that he'll cut,
+
+82
+00:03:35,820 --> 00:03:37,820
+another half,
+
+83
+00:03:37,820 --> 00:03:39,820
+perhaps in a very complex set of steps,
+
+84
+00:03:39,820 --> 00:03:41,820
+taxes will be approved.
+
+85
+00:03:41,820 --> 00:03:43,820
+But even so,
+
+86
+00:03:43,820 --> 00:03:46,820
+as you go out into those future years,
+
+87
+00:03:46,820 --> 00:03:49,820
+various pension costs, health costs go up enough,
+
+88
+00:03:49,820 --> 00:03:52,820
+and the revenue does not go up enough.
+
+89
+00:03:52,820 --> 00:03:54,820
+So you get a big squeeze.
+
+90
+00:03:54,820 --> 00:03:57,820
+What were those things that allowed us to hide this?
+
+91
+00:03:57,820 --> 00:04:00,820
+Well, some really nice little tricks.
+
+92
+00:04:00,820 --> 00:04:02,820
+And these were somewhat noticed.
+
+93
+00:04:02,820 --> 00:04:04,820
+The paper said, "It's not really balanced.
+
+94
+00:04:04,820 --> 00:04:06,820
+It's got holes.
+
+95
+00:04:06,820 --> 00:04:08,820
+It perpetuates deficit spending.
+
+96
+00:04:08,820 --> 00:04:11,820
+It's riddled with gimmicks."
+
+97
+00:04:11,820 --> 00:04:14,820
+And really when you get down to it,
+
+98
+00:04:14,820 --> 00:04:17,820
+the guys at Enron never would have done this.
+
+99
+00:04:17,820 --> 00:04:19,820
+This is so blatant,
+
+100
+00:04:19,820 --> 00:04:22,820
+so extreme.
+
+101
+00:04:22,820 --> 00:04:24,820
+Is anyone paying attention
+
+102
+00:04:24,820 --> 00:04:27,820
+to some of the things these guys do?
+
+103
+00:04:27,820 --> 00:04:29,820
+They borrow money.
+
+104
+00:04:29,820 --> 00:04:31,820
+They're not supposed to, but they figure out a way.
+
+105
+00:04:31,820 --> 00:04:33,820
+They make you pay more in withholding
+
+106
+00:04:33,820 --> 00:04:35,820
+just to help their cash flow out.
+
+107
+00:04:35,820 --> 00:04:37,820
+They sell off the assets.
+
+108
+00:04:37,820 --> 00:04:40,820
+They defer the payments.
+
+109
+00:04:40,820 --> 00:04:42,820
+They sell off the revenues from tobacco.
+
+110
+00:04:42,820 --> 00:04:44,820
+And California's not unique.
+
+111
+00:04:44,820 --> 00:04:46,820
+In fact, there's about five states that are worse
+
+112
+00:04:46,820 --> 00:04:48,820
+and only really four states
+
+113
+00:04:48,820 --> 00:04:50,820
+that don't face this big challenge.
+
+114
+00:04:50,820 --> 00:04:53,820
+So it's systemic across the entire country.
+
+115
+00:04:53,820 --> 00:04:55,820
+It really comes from the fact
+
+116
+00:04:55,820 --> 00:04:57,820
+that certain long-term obligations --
+
+117
+00:04:57,820 --> 00:05:00,820
+health care, where innovation makes it more expensive,
+
+118
+00:05:00,820 --> 00:05:03,820
+early retirement and pension, where the age structure gets worse for you,
+
+119
+00:05:03,820 --> 00:05:05,820
+and just generosity --
+
+120
+00:05:05,820 --> 00:05:07,820
+that these mis-accounting things
+
+121
+00:05:07,820 --> 00:05:09,820
+allow to develop over time,
+
+122
+00:05:09,820 --> 00:05:12,820
+that you've got a problem.
+
+123
+00:05:12,820 --> 00:05:14,820
+This is the retiree health care benefits.
+
+124
+00:05:14,820 --> 00:05:17,820
+Three million set aside, 62 billion dollar liability --
+
+125
+00:05:17,820 --> 00:05:19,820
+much worse than the car companies.
+
+126
+00:05:19,820 --> 00:05:21,820
+And everybody looked at that
+
+127
+00:05:21,820 --> 00:05:24,820
+and knew that that was headed toward a huge problem.
+
+128
+00:05:24,820 --> 00:05:26,820
+The forecast for the medical piece alone
+
+129
+00:05:26,820 --> 00:05:28,820
+is to go from 26 percent of the budget
+
+130
+00:05:28,820 --> 00:05:30,820
+to 42 percent.
+
+131
+00:05:30,820 --> 00:05:32,820
+Well what's going to give?
+
+132
+00:05:32,820 --> 00:05:34,820
+Well in order to accommodate that,
+
+133
+00:05:34,820 --> 00:05:38,820
+you would have to cut education spending in half.
+
+134
+00:05:38,820 --> 00:05:40,820
+It really is this young versus the old
+
+135
+00:05:40,820 --> 00:05:42,820
+to some degree.
+
+136
+00:05:42,820 --> 00:05:45,820
+If you don't change that revenue picture,
+
+137
+00:05:45,820 --> 00:05:47,820
+if you don't solve what you're doing in health care,
+
+138
+00:05:47,820 --> 00:05:50,820
+you're going to be deinvesting in the young.
+
+139
+00:05:50,820 --> 00:05:53,820
+The great University of California university system,
+
+140
+00:05:53,820 --> 00:05:55,820
+the great things that have gone on,
+
+141
+00:05:55,820 --> 00:05:57,820
+won't happen.
+
+142
+00:05:57,820 --> 00:05:59,820
+So far it's meant layoffs,
+
+143
+00:05:59,820 --> 00:06:01,820
+increased class sizes.
+
+144
+00:06:01,820 --> 00:06:04,820
+Within the education community there's this discussion of,
+
+145
+00:06:04,820 --> 00:06:06,820
+"Should it just be the young teachers who get laid off,
+
+146
+00:06:06,820 --> 00:06:08,820
+or the less good teachers who get laid off?"
+
+147
+00:06:08,820 --> 00:06:11,820
+And there's a discussion: if you're going to increase class sizes,
+
+148
+00:06:11,820 --> 00:06:14,820
+where do you do that? How much effect does that have?
+
+149
+00:06:14,820 --> 00:06:17,820
+And unfortunately, as you get into that, people get confused and think,
+
+150
+00:06:17,820 --> 00:06:19,820
+well maybe you think that's okay.
+
+151
+00:06:19,820 --> 00:06:22,820
+In fact, no, education spending should not be cut.
+
+152
+00:06:22,820 --> 00:06:24,820
+There's ways, if it's temporary,
+
+153
+00:06:24,820 --> 00:06:26,820
+to minimize the impact,
+
+154
+00:06:26,820 --> 00:06:28,820
+but it's a problem.
+
+155
+00:06:28,820 --> 00:06:30,820
+It's also really a problem for where we need to go.
+
+156
+00:06:30,820 --> 00:06:32,820
+Technology has a role to play.
+
+157
+00:06:32,820 --> 00:06:35,820
+Well we need money to experiment with that,
+
+158
+00:06:35,820 --> 00:06:37,820
+to get those tools in there.
+
+159
+00:06:37,820 --> 00:06:39,820
+There's the idea of paying teachers for effectiveness,
+
+160
+00:06:39,820 --> 00:06:41,820
+measuring them, giving them feedback,
+
+161
+00:06:41,820 --> 00:06:43,820
+taking videos in the classroom.
+
+162
+00:06:43,820 --> 00:06:45,820
+That's something I think is very, very important.
+
+163
+00:06:45,820 --> 00:06:47,820
+Well you have to allocate dollars
+
+164
+00:06:47,820 --> 00:06:49,820
+for that system
+
+165
+00:06:49,820 --> 00:06:51,820
+and for that incentive pay.
+
+166
+00:06:51,820 --> 00:06:53,820
+In a situation where you have growth,
+
+167
+00:06:53,820 --> 00:06:55,820
+you put the new money into this.
+
+168
+00:06:55,820 --> 00:06:57,820
+Or even if you're flat, you might shift money into it.
+
+169
+00:06:57,820 --> 00:06:59,820
+But with the type of cuts we're talking about,
+
+170
+00:06:59,820 --> 00:07:01,820
+it will be far, far harder
+
+171
+00:07:01,820 --> 00:07:03,820
+to get these incentives for excellence,
+
+172
+00:07:03,820 --> 00:07:05,820
+or to move over
+
+173
+00:07:05,820 --> 00:07:08,820
+to use technology in the new way.
+
+174
+00:07:08,820 --> 00:07:10,820
+So what's going on?
+
+175
+00:07:10,820 --> 00:07:12,820
+Where's the brain trust
+
+176
+00:07:12,820 --> 00:07:14,820
+that's in error here?
+
+177
+00:07:14,820 --> 00:07:17,820
+Well there really is no brain trust.
+
+178
+00:07:17,820 --> 00:07:19,820
+(Laughter)
+
+179
+00:07:19,820 --> 00:07:23,820
+It's sort of the voters. It's sort of us showing up.
+
+180
+00:07:23,820 --> 00:07:25,820
+Just look at this spending.
+
+181
+00:07:25,820 --> 00:07:27,820
+California will spend over 100 billion,
+
+182
+00:07:27,820 --> 00:07:29,820
+Microsoft, 38,
+
+183
+00:07:29,820 --> 00:07:31,820
+Google, about 19.
+
+184
+00:07:31,820 --> 00:07:34,820
+The amount of IQ in good numeric analysis,
+
+185
+00:07:34,820 --> 00:07:36,820
+both inside Google and Microsoft
+
+186
+00:07:36,820 --> 00:07:39,820
+and outside, with analysts and people of various opinions --
+
+187
+00:07:39,820 --> 00:07:41,820
+should they have spent on that?
+
+188
+00:07:41,820 --> 00:07:43,820
+No, they wasted their money on this. What about this thing? --
+
+189
+00:07:43,820 --> 00:07:46,820
+it really is quite phenomenal.
+
+190
+00:07:46,820 --> 00:07:48,820
+Everybody has an opinion.
+
+191
+00:07:48,820 --> 00:07:51,820
+There's great feedback.
+
+192
+00:07:51,820 --> 00:07:54,820
+And the numbers are used to make decisions.
+
+193
+00:07:54,820 --> 00:07:57,820
+If you go over the education spending and the health care spending --
+
+194
+00:07:57,820 --> 00:08:00,820
+particularly these long-term trends --
+
+195
+00:08:00,820 --> 00:08:02,820
+you don't have that type of involvement
+
+196
+00:08:02,820 --> 00:08:04,820
+on a number that's more important
+
+197
+00:08:04,820 --> 00:08:07,820
+in terms of equity, in terms of learning.
+
+198
+00:08:07,820 --> 00:08:09,820
+So what do we need to do?
+
+199
+00:08:09,820 --> 00:08:11,820
+We need better tools.
+
+200
+00:08:11,820 --> 00:08:13,820
+We can get some things out on the Internet.
+
+201
+00:08:13,820 --> 00:08:15,820
+I'm going to use my website
+
+202
+00:08:15,820 --> 00:08:17,820
+to put up some things that will give the basic picture.
+
+203
+00:08:17,820 --> 00:08:19,820
+We need lots more.
+
+204
+00:08:19,820 --> 00:08:21,820
+There's a few good books,
+
+205
+00:08:21,820 --> 00:08:23,820
+one about school spending and where the money comes from --
+
+206
+00:08:23,820 --> 00:08:26,820
+how that's changed over time, and the challenge.
+
+207
+00:08:26,820 --> 00:08:28,820
+We need better accounting.
+
+208
+00:08:28,820 --> 00:08:30,820
+We need to take the fact
+
+209
+00:08:30,820 --> 00:08:32,820
+that the current employees, the future liabilities they create,
+
+210
+00:08:32,820 --> 00:08:35,820
+that should come out of the current budget.
+
+211
+00:08:35,820 --> 00:08:37,820
+We need to understand why they've done the pension accounting
+
+212
+00:08:37,820 --> 00:08:39,820
+the way they have.
+
+213
+00:08:39,820 --> 00:08:41,820
+It should be more like private accounting.
+
+214
+00:08:41,820 --> 00:08:43,820
+It's the gold standard.
+
+215
+00:08:43,820 --> 00:08:46,820
+And finally, we need to really reward politicians.
+
+216
+00:08:46,820 --> 00:08:48,820
+Whenever they say there's these long-term problems,
+
+217
+00:08:48,820 --> 00:08:50,820
+we can't say, "Oh, you're the messenger with bad news?
+
+218
+00:08:50,820 --> 00:08:53,820
+We just shot you."
+
+219
+00:08:53,820 --> 00:08:55,820
+In fact, there are some like these:
+
+220
+00:08:55,820 --> 00:08:57,820
+Erskine Bowles, Alan Simpson and others,
+
+221
+00:08:57,820 --> 00:09:00,820
+who have gone through and given proposals
+
+222
+00:09:00,820 --> 00:09:04,820
+for this overall federal health-spending state-level problem.
+
+223
+00:09:04,820 --> 00:09:06,820
+But in fact, their work was sort of pushed off.
+
+224
+00:09:06,820 --> 00:09:09,820
+In fact, the week afterwards,
+
+225
+00:09:09,820 --> 00:09:11,820
+some tax cuts were done
+
+226
+00:09:11,820 --> 00:09:13,820
+that made the situation even worse
+
+227
+00:09:13,820 --> 00:09:15,820
+than their assumptions.
+
+228
+00:09:15,820 --> 00:09:17,820
+So we need these pieces.
+
+229
+00:09:17,820 --> 00:09:20,820
+Now I think this is a solvable problem.
+
+230
+00:09:20,820 --> 00:09:23,820
+It's a great country with lots of people.
+
+231
+00:09:23,820 --> 00:09:27,820
+But we have to draw those people in,
+
+232
+00:09:27,820 --> 00:09:29,820
+because this is about education.
+
+233
+00:09:29,820 --> 00:09:31,820
+And just look at what happened with the tuitions
+
+234
+00:09:31,820 --> 00:09:33,820
+with the University of California
+
+235
+00:09:33,820 --> 00:09:36,820
+and project that out for another three, four, five years --
+
+236
+00:09:36,820 --> 00:09:39,820
+it's unaffordable.
+
+237
+00:09:39,820 --> 00:09:41,820
+And that's the kind of thing --
+
+238
+00:09:41,820 --> 00:09:43,820
+the investment in the young --
+
+239
+00:09:43,820 --> 00:09:45,820
+that makes us great, allows us to contribute.
+
+240
+00:09:45,820 --> 00:09:47,820
+It allows us to do the art,
+
+241
+00:09:47,820 --> 00:09:50,820
+the biotechnology, the software
+
+242
+00:09:50,820 --> 00:09:53,820
+and all those magic things.
+
+243
+00:09:53,820 --> 00:09:55,820
+And so the bottom line is
+
+244
+00:09:55,820 --> 00:09:58,820
+we need to care about state budgets
+
+245
+00:09:58,820 --> 00:10:00,820
+because they're critical for our kids and our future.
+
+246
+00:10:00,820 --> 00:10:02,820
+Thank you.
+
+247
+00:10:02,820 --> 00:10:05,820
+(Applause)
+

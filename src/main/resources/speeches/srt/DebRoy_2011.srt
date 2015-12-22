@@ -1,0 +1,1792 @@
+﻿1
+00:00:11,820 --> 00:00:15,820
+Imagine if you could record your life --
+
+2
+00:00:15,820 --> 00:00:18,820
+everything you said, everything you did,
+
+3
+00:00:18,820 --> 00:00:21,820
+available in a perfect memory store at your fingertips,
+
+4
+00:00:21,820 --> 00:00:23,820
+so you could go back
+
+5
+00:00:23,820 --> 00:00:26,820
+and find memorable moments and relive them,
+
+6
+00:00:26,820 --> 00:00:29,820
+or sift through traces of time
+
+7
+00:00:29,820 --> 00:00:31,820
+and discover patterns in your own life
+
+8
+00:00:31,820 --> 00:00:34,820
+that previously had gone undiscovered.
+
+9
+00:00:34,820 --> 00:00:36,820
+Well that's exactly the journey
+
+10
+00:00:36,820 --> 00:00:38,820
+that my family began
+
+11
+00:00:38,820 --> 00:00:40,820
+five and a half years ago.
+
+12
+00:00:40,820 --> 00:00:43,820
+This is my wife and collaborator, Rupal.
+
+13
+00:00:43,820 --> 00:00:45,820
+And on this day, at this moment,
+
+14
+00:00:45,820 --> 00:00:47,820
+we walked into the house with our first child,
+
+15
+00:00:47,820 --> 00:00:49,820
+our beautiful baby boy.
+
+16
+00:00:49,820 --> 00:00:52,820
+And we walked into a house
+
+17
+00:00:52,820 --> 00:00:56,820
+with a very special home video recording system.
+
+18
+00:01:03,820 --> 00:01:05,820
+(Video) Man: Okay.
+
+19
+00:01:06,820 --> 00:01:07,820
+Deb Roy: This moment
+
+20
+00:01:07,820 --> 00:01:10,820
+and thousands of other moments special for us
+
+21
+00:01:10,820 --> 00:01:12,820
+were captured in our home
+
+22
+00:01:12,820 --> 00:01:14,820
+because in every room in the house,
+
+23
+00:01:14,820 --> 00:01:17,820
+if you looked up, you'd see a camera and a microphone,
+
+24
+00:01:17,820 --> 00:01:19,820
+and if you looked down,
+
+25
+00:01:19,820 --> 00:01:21,820
+you'd get this bird's-eye view of the room.
+
+26
+00:01:21,820 --> 00:01:24,820
+Here's our living room,
+
+27
+00:01:24,820 --> 00:01:27,820
+the baby bedroom,
+
+28
+00:01:27,820 --> 00:01:29,820
+kitchen, dining room
+
+29
+00:01:29,820 --> 00:01:31,820
+and the rest of the house.
+
+30
+00:01:31,820 --> 00:01:34,820
+And all of these fed into a disc array
+
+31
+00:01:34,820 --> 00:01:37,820
+that was designed for a continuous capture.
+
+32
+00:01:37,820 --> 00:01:40,820
+So here we are flying through a day in our home
+
+33
+00:01:40,820 --> 00:01:43,820
+as we move from sunlit morning
+
+34
+00:01:43,820 --> 00:01:45,820
+through incandescent evening
+
+35
+00:01:45,820 --> 00:01:48,820
+and, finally, lights out for the day.
+
+36
+00:01:49,820 --> 00:01:52,820
+Over the course of three years,
+
+37
+00:01:52,820 --> 00:01:54,820
+we recorded eight to 10 hours a day,
+
+38
+00:01:54,820 --> 00:01:57,820
+amassing roughly a quarter-million hours
+
+39
+00:01:57,820 --> 00:02:00,820
+of multi-track audio and video.
+
+40
+00:02:00,820 --> 00:02:02,820
+So you're looking at a piece of what is by far
+
+41
+00:02:02,820 --> 00:02:04,820
+the largest home video collection ever made.
+
+42
+00:02:04,820 --> 00:02:07,820
+(Laughter)
+
+43
+00:02:07,820 --> 00:02:09,820
+And what this data represents
+
+44
+00:02:09,820 --> 00:02:13,820
+for our family at a personal level,
+
+45
+00:02:13,820 --> 00:02:15,820
+the impact has already been immense,
+
+46
+00:02:15,820 --> 00:02:18,820
+and we're still learning its value.
+
+47
+00:02:18,820 --> 00:02:20,820
+Countless moments
+
+48
+00:02:20,820 --> 00:02:23,820
+of unsolicited natural moments, not posed moments,
+
+49
+00:02:23,820 --> 00:02:25,820
+are captured there,
+
+50
+00:02:25,820 --> 00:02:28,820
+and we're starting to learn how to discover them and find them.
+
+51
+00:02:28,820 --> 00:02:31,820
+But there's also a scientific reason that drove this project,
+
+52
+00:02:31,820 --> 00:02:35,820
+which was to use this natural longitudinal data
+
+53
+00:02:35,820 --> 00:02:37,820
+to understand the process
+
+54
+00:02:37,820 --> 00:02:39,820
+of how a child learns language --
+
+55
+00:02:39,820 --> 00:02:41,820
+that child being my son.
+
+56
+00:02:41,820 --> 00:02:45,820
+And so with many privacy provisions put in place
+
+57
+00:02:45,820 --> 00:02:48,820
+to protect everyone who was recorded in the data,
+
+58
+00:02:48,820 --> 00:02:51,820
+we made elements of the data available
+
+59
+00:02:51,820 --> 00:02:54,820
+to my trusted research team at MIT
+
+60
+00:02:54,820 --> 00:02:57,820
+so we could start teasing apart patterns
+
+61
+00:02:57,820 --> 00:03:00,820
+in this massive data set,
+
+62
+00:03:00,820 --> 00:03:03,820
+trying to understand the influence of social environments
+
+63
+00:03:03,820 --> 00:03:05,820
+on language acquisition.
+
+64
+00:03:05,820 --> 00:03:07,820
+So we're looking here
+
+65
+00:03:07,820 --> 00:03:09,820
+at one of the first things we started to do.
+
+66
+00:03:09,820 --> 00:03:13,820
+This is my wife and I cooking breakfast in the kitchen,
+
+67
+00:03:13,820 --> 00:03:16,820
+and as we move through space and through time,
+
+68
+00:03:16,820 --> 00:03:19,820
+a very everyday pattern of life in the kitchen.
+
+69
+00:03:19,820 --> 00:03:21,820
+In order to convert
+
+70
+00:03:21,820 --> 00:03:24,820
+this opaque, 90,000 hours of video
+
+71
+00:03:24,820 --> 00:03:26,820
+into something that we could start to see,
+
+72
+00:03:26,820 --> 00:03:28,820
+we use motion analysis to pull out,
+
+73
+00:03:28,820 --> 00:03:30,820
+as we move through space and through time,
+
+74
+00:03:30,820 --> 00:03:33,820
+what we call space-time worms.
+
+75
+00:03:33,820 --> 00:03:36,820
+And this has become part of our toolkit
+
+76
+00:03:36,820 --> 00:03:39,820
+for being able to look and see
+
+77
+00:03:39,820 --> 00:03:41,820
+where the activities are in the data,
+
+78
+00:03:41,820 --> 00:03:44,820
+and with it, trace the pattern of, in particular,
+
+79
+00:03:44,820 --> 00:03:46,820
+where my son moved throughout the home,
+
+80
+00:03:46,820 --> 00:03:49,820
+so that we could focus our transcription efforts,
+
+81
+00:03:49,820 --> 00:03:52,820
+all of the speech environment around my son --
+
+82
+00:03:52,820 --> 00:03:55,820
+all of the words that he heard from myself, my wife, our nanny,
+
+83
+00:03:55,820 --> 00:03:58,820
+and over time, the words he began to produce.
+
+84
+00:03:58,820 --> 00:04:01,820
+So with that technology and that data
+
+85
+00:04:01,820 --> 00:04:03,820
+and the ability to, with machine assistance,
+
+86
+00:04:03,820 --> 00:04:05,820
+transcribe speech,
+
+87
+00:04:05,820 --> 00:04:07,820
+we've now transcribed
+
+88
+00:04:07,820 --> 00:04:10,820
+well over seven million words of our home transcripts.
+
+89
+00:04:10,820 --> 00:04:12,820
+And with that, let me take you now
+
+90
+00:04:12,820 --> 00:04:15,820
+for a first tour into the data.
+
+91
+00:04:15,820 --> 00:04:17,820
+So you've all, I'm sure,
+
+92
+00:04:17,820 --> 00:04:19,820
+seen time-lapse videos
+
+93
+00:04:19,820 --> 00:04:22,820
+where a flower will blossom as you accelerate time.
+
+94
+00:04:22,820 --> 00:04:24,820
+I'd like you to now experience
+
+95
+00:04:24,820 --> 00:04:26,820
+the blossoming of a speech form.
+
+96
+00:04:26,820 --> 00:04:28,820
+My son, soon after his first birthday,
+
+97
+00:04:28,820 --> 00:04:31,820
+would say "gaga" to mean water.
+
+98
+00:04:31,820 --> 00:04:34,820
+And over the course of the next half-year,
+
+99
+00:04:34,820 --> 00:04:36,820
+he slowly learned to approximate
+
+100
+00:04:36,820 --> 00:04:39,820
+the proper adult form, "water."
+
+101
+00:04:39,820 --> 00:04:41,820
+So we're going to cruise through half a year
+
+102
+00:04:41,820 --> 00:04:43,820
+in about 40 seconds.
+
+103
+00:04:43,820 --> 00:04:45,820
+No video here,
+
+104
+00:04:45,820 --> 00:04:48,820
+so you can focus on the sound, the acoustics,
+
+105
+00:04:48,820 --> 00:04:50,820
+of a new kind of trajectory:
+
+106
+00:04:50,820 --> 00:04:52,820
+gaga to water.
+
+107
+00:04:52,820 --> 00:05:04,820
+(Audio) Baby: Gagagagagaga
+
+108
+00:05:04,820 --> 00:05:08,820
+Gaga gaga gaga
+
+109
+00:05:08,820 --> 00:05:13,820
+guga guga guga
+
+110
+00:05:13,820 --> 00:05:18,820
+wada gaga gaga guga gaga
+
+111
+00:05:18,820 --> 00:05:22,820
+wader guga guga
+
+112
+00:05:22,820 --> 00:05:25,820
+water water water
+
+113
+00:05:25,820 --> 00:05:31,820
+water water water
+
+114
+00:05:31,820 --> 00:05:35,820
+water water
+
+115
+00:05:35,820 --> 00:05:37,820
+water.
+
+116
+00:05:37,820 --> 00:05:39,820
+DR: He sure nailed it, didn't he.
+
+117
+00:05:39,820 --> 00:05:46,820
+(Applause)
+
+118
+00:05:46,820 --> 00:05:48,820
+So he didn't just learn water.
+
+119
+00:05:48,820 --> 00:05:50,820
+Over the course of the 24 months,
+
+120
+00:05:50,820 --> 00:05:53,820
+the first two years that we really focused on,
+
+121
+00:05:53,820 --> 00:05:57,820
+this is a map of every word he learned in chronological order.
+
+122
+00:05:57,820 --> 00:06:00,820
+And because we have full transcripts,
+
+123
+00:06:00,820 --> 00:06:02,820
+we've identified each of the 503 words
+
+124
+00:06:02,820 --> 00:06:04,820
+that he learned to produce by his second birthday.
+
+125
+00:06:04,820 --> 00:06:06,820
+He was an early talker.
+
+126
+00:06:06,820 --> 00:06:09,820
+And so we started to analyze why.
+
+127
+00:06:09,820 --> 00:06:12,820
+Why were certain words born before others?
+
+128
+00:06:12,820 --> 00:06:14,820
+This is one of the first results
+
+129
+00:06:14,820 --> 00:06:16,820
+that came out of our study a little over a year ago
+
+130
+00:06:16,820 --> 00:06:18,820
+that really surprised us.
+
+131
+00:06:18,820 --> 00:06:21,820
+The way to interpret this apparently simple graph
+
+132
+00:06:21,820 --> 00:06:23,820
+is, on the vertical is an indication
+
+133
+00:06:23,820 --> 00:06:26,820
+of how complex caregiver utterances are
+
+134
+00:06:26,820 --> 00:06:28,820
+based on the length of utterances.
+
+135
+00:06:28,820 --> 00:06:31,820
+And the [horizontal] axis is time.
+
+136
+00:06:31,820 --> 00:06:33,820
+And all of the data,
+
+137
+00:06:33,820 --> 00:06:36,820
+we aligned based on the following idea:
+
+138
+00:06:36,820 --> 00:06:39,820
+Every time my son would learn a word,
+
+139
+00:06:39,820 --> 00:06:42,820
+we would trace back and look at all of the language he heard
+
+140
+00:06:42,820 --> 00:06:44,820
+that contained that word.
+
+141
+00:06:44,820 --> 00:06:48,820
+And we would plot the relative length of the utterances.
+
+142
+00:06:48,820 --> 00:06:51,820
+And what we found was this curious phenomena,
+
+143
+00:06:51,820 --> 00:06:54,820
+that caregiver speech would systematically dip to a minimum,
+
+144
+00:06:54,820 --> 00:06:57,820
+making language as simple as possible,
+
+145
+00:06:57,820 --> 00:07:00,820
+and then slowly ascend back up in complexity.
+
+146
+00:07:00,820 --> 00:07:02,820
+And the amazing thing was
+
+147
+00:07:02,820 --> 00:07:04,820
+that bounce, that dip,
+
+148
+00:07:04,820 --> 00:07:06,820
+lined up almost precisely
+
+149
+00:07:06,820 --> 00:07:08,820
+with when each word was born --
+
+150
+00:07:08,820 --> 00:07:10,820
+word after word, systematically.
+
+151
+00:07:10,820 --> 00:07:12,820
+So it appears that all three primary caregivers --
+
+152
+00:07:12,820 --> 00:07:15,820
+myself, my wife and our nanny --
+
+153
+00:07:15,820 --> 00:07:18,820
+were systematically and, I would think, subconsciously
+
+154
+00:07:18,820 --> 00:07:20,820
+restructuring our language
+
+155
+00:07:20,820 --> 00:07:23,820
+to meet him at the birth of a word
+
+156
+00:07:23,820 --> 00:07:27,820
+and bring him gently into more complex language.
+
+157
+00:07:27,820 --> 00:07:29,820
+And the implications of this -- there are many,
+
+158
+00:07:29,820 --> 00:07:31,820
+but one I just want to point out,
+
+159
+00:07:31,820 --> 00:07:34,820
+is that there must be amazing feedback loops.
+
+160
+00:07:34,820 --> 00:07:36,820
+Of course, my son is learning
+
+161
+00:07:36,820 --> 00:07:38,820
+from his linguistic environment,
+
+162
+00:07:38,820 --> 00:07:41,820
+but the environment is learning from him.
+
+163
+00:07:41,820 --> 00:07:44,820
+That environment, people, are in these tight feedback loops
+
+164
+00:07:44,820 --> 00:07:46,820
+and creating a kind of scaffolding
+
+165
+00:07:46,820 --> 00:07:49,820
+that has not been noticed until now.
+
+166
+00:07:50,820 --> 00:07:52,820
+But that's looking at the speech context.
+
+167
+00:07:52,820 --> 00:07:54,820
+What about the visual context?
+
+168
+00:07:54,820 --> 00:07:56,820
+We're not looking at --
+
+169
+00:07:56,820 --> 00:07:58,820
+think of this as a dollhouse cutaway of our house.
+
+170
+00:07:58,820 --> 00:08:01,820
+We've taken those circular fish-eye lens cameras,
+
+171
+00:08:01,820 --> 00:08:03,820
+and we've done some optical correction,
+
+172
+00:08:03,820 --> 00:08:07,820
+and then we can bring it into three-dimensional life.
+
+173
+00:08:07,820 --> 00:08:09,820
+So welcome to my home.
+
+174
+00:08:09,820 --> 00:08:11,820
+This is a moment,
+
+175
+00:08:11,820 --> 00:08:14,820
+one moment captured across multiple cameras.
+
+176
+00:08:14,820 --> 00:08:17,820
+The reason we did this is to create the ultimate memory machine,
+
+177
+00:08:17,820 --> 00:08:20,820
+where you can go back and interactively fly around
+
+178
+00:08:20,820 --> 00:08:23,820
+and then breathe video-life into this system.
+
+179
+00:08:23,820 --> 00:08:25,820
+What I'm going to do
+
+180
+00:08:25,820 --> 00:08:28,820
+is give you an accelerated view of 30 minutes,
+
+181
+00:08:28,820 --> 00:08:30,820
+again, of just life in the living room.
+
+182
+00:08:30,820 --> 00:08:33,820
+That's me and my son on the floor.
+
+183
+00:08:33,820 --> 00:08:35,820
+And there's video analytics
+
+184
+00:08:35,820 --> 00:08:37,820
+that are tracking our movements.
+
+185
+00:08:37,820 --> 00:08:40,820
+My son is leaving red ink. I am leaving green ink.
+
+186
+00:08:40,820 --> 00:08:42,820
+We're now on the couch,
+
+187
+00:08:42,820 --> 00:08:45,820
+looking out through the window at cars passing by.
+
+188
+00:08:45,820 --> 00:08:48,820
+And finally, my son playing in a walking toy by himself.
+
+189
+00:08:48,820 --> 00:08:51,820
+Now we freeze the action, 30 minutes,
+
+190
+00:08:51,820 --> 00:08:53,820
+we turn time into the vertical axis,
+
+191
+00:08:53,820 --> 00:08:55,820
+and we open up for a view
+
+192
+00:08:55,820 --> 00:08:58,820
+of these interaction traces we've just left behind.
+
+193
+00:08:58,820 --> 00:09:01,820
+And we see these amazing structures --
+
+194
+00:09:01,820 --> 00:09:04,820
+these little knots of two colors of thread
+
+195
+00:09:04,820 --> 00:09:06,820
+we call "social hot spots."
+
+196
+00:09:06,820 --> 00:09:08,820
+The spiral thread
+
+197
+00:09:08,820 --> 00:09:10,820
+we call a "solo hot spot."
+
+198
+00:09:10,820 --> 00:09:13,820
+And we think that these affect the way language is learned.
+
+199
+00:09:13,820 --> 00:09:15,820
+What we'd like to do
+
+200
+00:09:15,820 --> 00:09:17,820
+is start understanding
+
+201
+00:09:17,820 --> 00:09:19,820
+the interaction between these patterns
+
+202
+00:09:19,820 --> 00:09:21,820
+and the language that my son is exposed to
+
+203
+00:09:21,820 --> 00:09:23,820
+to see if we can predict
+
+204
+00:09:23,820 --> 00:09:25,820
+how the structure of when words are heard
+
+205
+00:09:25,820 --> 00:09:27,820
+affects when they're learned --
+
+206
+00:09:27,820 --> 00:09:29,820
+so in other words, the relationship
+
+207
+00:09:29,820 --> 00:09:33,820
+between words and what they're about in the world.
+
+208
+00:09:33,820 --> 00:09:35,820
+So here's how we're approaching this.
+
+209
+00:09:35,820 --> 00:09:37,820
+In this video,
+
+210
+00:09:37,820 --> 00:09:39,820
+again, my son is being traced out.
+
+211
+00:09:39,820 --> 00:09:41,820
+He's leaving red ink behind.
+
+212
+00:09:41,820 --> 00:09:43,820
+And there's our nanny by the door.
+
+213
+00:09:43,820 --> 00:09:46,820
+(Video) Nanny: You want water? (Baby: Aaaa.)
+
+214
+00:09:46,820 --> 00:09:49,820
+Nanny: All right. (Baby: Aaaa.)
+
+215
+00:09:49,820 --> 00:09:51,820
+DR: She offers water,
+
+216
+00:09:51,820 --> 00:09:53,820
+and off go the two worms
+
+217
+00:09:53,820 --> 00:09:55,820
+over to the kitchen to get water.
+
+218
+00:09:55,820 --> 00:09:57,820
+And what we've done is use the word "water"
+
+219
+00:09:57,820 --> 00:09:59,820
+to tag that moment, that bit of activity.
+
+220
+00:09:59,820 --> 00:10:01,820
+And now we take the power of data
+
+221
+00:10:01,820 --> 00:10:04,820
+and take every time my son
+
+222
+00:10:04,820 --> 00:10:06,820
+ever heard the word water
+
+223
+00:10:06,820 --> 00:10:08,820
+and the context he saw it in,
+
+224
+00:10:08,820 --> 00:10:11,820
+and we use it to penetrate through the video
+
+225
+00:10:11,820 --> 00:10:14,820
+and find every activity trace
+
+226
+00:10:14,820 --> 00:10:17,820
+that co-occurred with an instance of water.
+
+227
+00:10:17,820 --> 00:10:19,820
+And what this data leaves in its wake
+
+228
+00:10:19,820 --> 00:10:21,820
+is a landscape.
+
+229
+00:10:21,820 --> 00:10:23,820
+We call these wordscapes.
+
+230
+00:10:23,820 --> 00:10:25,820
+This is the wordscape for the word water,
+
+231
+00:10:25,820 --> 00:10:27,820
+and you can see most of the action is in the kitchen.
+
+232
+00:10:27,820 --> 00:10:30,820
+That's where those big peaks are over to the left.
+
+233
+00:10:30,820 --> 00:10:33,820
+And just for contrast, we can do this with any word.
+
+234
+00:10:33,820 --> 00:10:35,820
+We can take the word "bye"
+
+235
+00:10:35,820 --> 00:10:37,820
+as in "good bye."
+
+236
+00:10:37,820 --> 00:10:39,820
+And we're now zoomed in over the entrance to the house.
+
+237
+00:10:39,820 --> 00:10:42,820
+And we look, and we find, as you would expect,
+
+238
+00:10:42,820 --> 00:10:44,820
+a contrast in the landscape
+
+239
+00:10:44,820 --> 00:10:47,820
+where the word "bye" occurs much more in a structured way.
+
+240
+00:10:47,820 --> 00:10:49,820
+So we're using these structures
+
+241
+00:10:49,820 --> 00:10:51,820
+to start predicting
+
+242
+00:10:51,820 --> 00:10:54,820
+the order of language acquisition,
+
+243
+00:10:54,820 --> 00:10:56,820
+and that's ongoing work now.
+
+244
+00:10:56,820 --> 00:10:59,820
+In my lab, which we're peering into now, at MIT --
+
+245
+00:10:59,820 --> 00:11:01,820
+this is at the media lab.
+
+246
+00:11:01,820 --> 00:11:03,820
+This has become my favorite way
+
+247
+00:11:03,820 --> 00:11:05,820
+of videographing just about any space.
+
+248
+00:11:05,820 --> 00:11:07,820
+Three of the key people in this project,
+
+249
+00:11:07,820 --> 00:11:10,820
+Philip DeCamp, Rony Kubat and Brandon Roy are pictured here.
+
+250
+00:11:10,820 --> 00:11:12,820
+Philip has been a close collaborator
+
+251
+00:11:12,820 --> 00:11:14,820
+on all the visualizations you're seeing.
+
+252
+00:11:14,820 --> 00:11:17,820
+And Michael Fleischman
+
+253
+00:11:17,820 --> 00:11:19,820
+was another Ph.D. student in my lab
+
+254
+00:11:19,820 --> 00:11:22,820
+who worked with me on this home video analysis,
+
+255
+00:11:22,820 --> 00:11:25,820
+and he made the following observation:
+
+256
+00:11:25,820 --> 00:11:27,820
+that "just the way that we're analyzing
+
+257
+00:11:27,820 --> 00:11:30,820
+how language connects to events
+
+258
+00:11:30,820 --> 00:11:32,820
+which provide common ground for language,
+
+259
+00:11:32,820 --> 00:11:36,820
+that same idea we can take out of your home, Deb,
+
+260
+00:11:36,820 --> 00:11:39,820
+and we can apply it to the world of public media."
+
+261
+00:11:39,820 --> 00:11:42,820
+And so our effort took an unexpected turn.
+
+262
+00:11:42,820 --> 00:11:44,820
+Think of mass media
+
+263
+00:11:44,820 --> 00:11:46,820
+as providing common ground
+
+264
+00:11:46,820 --> 00:11:48,820
+and you have the recipe
+
+265
+00:11:48,820 --> 00:11:51,820
+for taking this idea to a whole new place.
+
+266
+00:11:51,820 --> 00:11:54,820
+We've started analyzing television content
+
+267
+00:11:54,820 --> 00:11:56,820
+using the same principles --
+
+268
+00:11:56,820 --> 00:11:59,820
+analyzing event structure of a TV signal --
+
+269
+00:11:59,820 --> 00:12:01,820
+episodes of shows,
+
+270
+00:12:01,820 --> 00:12:03,820
+commercials,
+
+271
+00:12:03,820 --> 00:12:06,820
+all of the components that make up the event structure.
+
+272
+00:12:06,820 --> 00:12:09,820
+And we're now, with satellite dishes, pulling and analyzing
+
+273
+00:12:09,820 --> 00:12:12,820
+a good part of all the TV being watched in the United States.
+
+274
+00:12:12,820 --> 00:12:15,820
+And you don't have to now go and instrument living rooms with microphones
+
+275
+00:12:15,820 --> 00:12:17,820
+to get people's conversations,
+
+276
+00:12:17,820 --> 00:12:20,820
+you just tune into publicly available social media feeds.
+
+277
+00:12:20,820 --> 00:12:22,820
+So we're pulling in
+
+278
+00:12:22,820 --> 00:12:24,820
+about three billion comments a month,
+
+279
+00:12:24,820 --> 00:12:26,820
+and then the magic happens.
+
+280
+00:12:26,820 --> 00:12:28,820
+You have the event structure,
+
+281
+00:12:28,820 --> 00:12:30,820
+the common ground that the words are about,
+
+282
+00:12:30,820 --> 00:12:33,820
+coming out of the television feeds;
+
+283
+00:12:33,820 --> 00:12:35,820
+you've got the conversations
+
+284
+00:12:35,820 --> 00:12:37,820
+that are about those topics;
+
+285
+00:12:37,820 --> 00:12:40,820
+and through semantic analysis --
+
+286
+00:12:40,820 --> 00:12:42,820
+and this is actually real data you're looking at
+
+287
+00:12:42,820 --> 00:12:44,820
+from our data processing --
+
+288
+00:12:44,820 --> 00:12:47,820
+each yellow line is showing a link being made
+
+289
+00:12:47,820 --> 00:12:50,820
+between a comment in the wild
+
+290
+00:12:50,820 --> 00:12:53,820
+and a piece of event structure coming out of the television signal.
+
+291
+00:12:53,820 --> 00:12:55,820
+And the same idea now
+
+292
+00:12:55,820 --> 00:12:57,820
+can be built up.
+
+293
+00:12:57,820 --> 00:12:59,820
+And we get this wordscape,
+
+294
+00:12:59,820 --> 00:13:02,820
+except now words are not assembled in my living room.
+
+295
+00:13:02,820 --> 00:13:06,820
+Instead, the context, the common ground activities,
+
+296
+00:13:06,820 --> 00:13:09,820
+are the content on television that's driving the conversations.
+
+297
+00:13:09,820 --> 00:13:12,820
+And what we're seeing here, these skyscrapers now,
+
+298
+00:13:12,820 --> 00:13:14,820
+are commentary
+
+299
+00:13:14,820 --> 00:13:16,820
+that are linked to content on television.
+
+300
+00:13:16,820 --> 00:13:18,820
+Same concept,
+
+301
+00:13:18,820 --> 00:13:20,820
+but looking at communication dynamics
+
+302
+00:13:20,820 --> 00:13:22,820
+in a very different sphere.
+
+303
+00:13:22,820 --> 00:13:24,820
+And so fundamentally, rather than, for example,
+
+304
+00:13:24,820 --> 00:13:27,820
+measuring content based on how many people are watching,
+
+305
+00:13:27,820 --> 00:13:29,820
+this gives us the basic data
+
+306
+00:13:29,820 --> 00:13:32,820
+for looking at engagement properties of content.
+
+307
+00:13:32,820 --> 00:13:35,820
+And just like we can look at feedback cycles
+
+308
+00:13:35,820 --> 00:13:38,820
+and dynamics in a family,
+
+309
+00:13:38,820 --> 00:13:41,820
+we can now open up the same concepts
+
+310
+00:13:41,820 --> 00:13:44,820
+and look at much larger groups of people.
+
+311
+00:13:44,820 --> 00:13:47,820
+This is a subset of data from our database --
+
+312
+00:13:47,820 --> 00:13:50,820
+just 50,000 out of several million --
+
+313
+00:13:50,820 --> 00:13:52,820
+and the social graph that connects them
+
+314
+00:13:52,820 --> 00:13:55,820
+through publicly available sources.
+
+315
+00:13:55,820 --> 00:13:57,820
+And if you put them on one plain,
+
+316
+00:13:57,820 --> 00:14:00,820
+a second plain is where the content lives.
+
+317
+00:14:00,820 --> 00:14:03,820
+So we have the programs
+
+318
+00:14:03,820 --> 00:14:05,820
+and the sporting events
+
+319
+00:14:05,820 --> 00:14:07,820
+and the commercials,
+
+320
+00:14:07,820 --> 00:14:09,820
+and all of the link structures that tie them together
+
+321
+00:14:09,820 --> 00:14:11,820
+make a content graph.
+
+322
+00:14:11,820 --> 00:14:15,820
+And then the important third dimension.
+
+323
+00:14:15,820 --> 00:14:17,820
+Each of the links that you're seeing rendered here
+
+324
+00:14:17,820 --> 00:14:19,820
+is an actual connection made
+
+325
+00:14:19,820 --> 00:14:22,820
+between something someone said
+
+326
+00:14:22,820 --> 00:14:24,820
+and a piece of content.
+
+327
+00:14:24,820 --> 00:14:27,820
+And there are, again, now tens of millions of these links
+
+328
+00:14:27,820 --> 00:14:30,820
+that give us the connective tissue of social graphs
+
+329
+00:14:30,820 --> 00:14:33,820
+and how they relate to content.
+
+330
+00:14:33,820 --> 00:14:35,820
+And we can now start to probe the structure
+
+331
+00:14:35,820 --> 00:14:37,820
+in interesting ways.
+
+332
+00:14:37,820 --> 00:14:40,820
+So if we, for example, trace the path
+
+333
+00:14:40,820 --> 00:14:42,820
+of one piece of content
+
+334
+00:14:42,820 --> 00:14:44,820
+that drives someone to comment on it,
+
+335
+00:14:44,820 --> 00:14:47,820
+and then we follow where that comment goes,
+
+336
+00:14:47,820 --> 00:14:50,820
+and then look at the entire social graph that becomes activated
+
+337
+00:14:50,820 --> 00:14:53,820
+and then trace back to see the relationship
+
+338
+00:14:53,820 --> 00:14:55,820
+between that social graph and content,
+
+339
+00:14:55,820 --> 00:14:57,820
+a very interesting structure becomes visible.
+
+340
+00:14:57,820 --> 00:14:59,820
+We call this a co-viewing clique,
+
+341
+00:14:59,820 --> 00:15:02,820
+a virtual living room if you will.
+
+342
+00:15:02,820 --> 00:15:04,820
+And there are fascinating dynamics at play.
+
+343
+00:15:04,820 --> 00:15:06,820
+It's not one way.
+
+344
+00:15:06,820 --> 00:15:09,820
+A piece of content, an event, causes someone to talk.
+
+345
+00:15:09,820 --> 00:15:11,820
+They talk to other people.
+
+346
+00:15:11,820 --> 00:15:14,820
+That drives tune-in behavior back into mass media,
+
+347
+00:15:14,820 --> 00:15:16,820
+and you have these cycles
+
+348
+00:15:16,820 --> 00:15:18,820
+that drive the overall behavior.
+
+349
+00:15:18,820 --> 00:15:20,820
+Another example -- very different --
+
+350
+00:15:20,820 --> 00:15:23,820
+another actual person in our database --
+
+351
+00:15:23,820 --> 00:15:26,820
+and we're finding at least hundreds, if not thousands, of these.
+
+352
+00:15:26,820 --> 00:15:28,820
+We've given this person a name.
+
+353
+00:15:28,820 --> 00:15:31,820
+This is a pro-amateur, or pro-am media critic
+
+354
+00:15:31,820 --> 00:15:34,820
+who has this high fan-out rate.
+
+355
+00:15:34,820 --> 00:15:37,820
+So a lot of people are following this person -- very influential --
+
+356
+00:15:37,820 --> 00:15:39,820
+and they have a propensity to talk about what's on TV.
+
+357
+00:15:39,820 --> 00:15:42,820
+So this person is a key link
+
+358
+00:15:42,820 --> 00:15:45,820
+in connecting mass media and social media together.
+
+359
+00:15:45,820 --> 00:15:48,820
+One last example from this data:
+
+360
+00:15:48,820 --> 00:15:51,820
+Sometimes it's actually a piece of content that is special.
+
+361
+00:15:51,820 --> 00:15:55,820
+So if we go and look at this piece of content,
+
+362
+00:15:55,820 --> 00:15:58,820
+President Obama's State of the Union address
+
+363
+00:15:58,820 --> 00:16:00,820
+from just a few weeks ago,
+
+364
+00:16:00,820 --> 00:16:03,820
+and look at what we find in this same data set,
+
+365
+00:16:03,820 --> 00:16:06,820
+at the same scale,
+
+366
+00:16:06,820 --> 00:16:08,820
+the engagement properties of this piece of content
+
+367
+00:16:08,820 --> 00:16:10,820
+are truly remarkable.
+
+368
+00:16:10,820 --> 00:16:12,820
+A nation exploding in conversation
+
+369
+00:16:12,820 --> 00:16:14,820
+in real time
+
+370
+00:16:14,820 --> 00:16:17,820
+in response to what's on the broadcast.
+
+371
+00:16:17,820 --> 00:16:19,820
+And of course, through all of these lines
+
+372
+00:16:19,820 --> 00:16:21,820
+are flowing unstructured language.
+
+373
+00:16:21,820 --> 00:16:23,820
+We can X-ray
+
+374
+00:16:23,820 --> 00:16:25,820
+and get a real-time pulse of a nation,
+
+375
+00:16:25,820 --> 00:16:27,820
+real-time sense
+
+376
+00:16:27,820 --> 00:16:30,820
+of the social reactions in the different circuits in the social graph
+
+377
+00:16:30,820 --> 00:16:33,820
+being activated by content.
+
+378
+00:16:33,820 --> 00:16:36,820
+So, to summarize, the idea is this:
+
+379
+00:16:36,820 --> 00:16:39,820
+As our world becomes increasingly instrumented
+
+380
+00:16:39,820 --> 00:16:41,820
+and we have the capabilities
+
+381
+00:16:41,820 --> 00:16:43,820
+to collect and connect the dots
+
+382
+00:16:43,820 --> 00:16:45,820
+between what people are saying
+
+383
+00:16:45,820 --> 00:16:47,820
+and the context they're saying it in,
+
+384
+00:16:47,820 --> 00:16:49,820
+what's emerging is an ability
+
+385
+00:16:49,820 --> 00:16:52,820
+to see new social structures and dynamics
+
+386
+00:16:52,820 --> 00:16:54,820
+that have previously not been seen.
+
+387
+00:16:54,820 --> 00:16:56,820
+It's like building a microscope or telescope
+
+388
+00:16:56,820 --> 00:16:58,820
+and revealing new structures
+
+389
+00:16:58,820 --> 00:17:01,820
+about our own behavior around communication.
+
+390
+00:17:01,820 --> 00:17:04,820
+And I think the implications here are profound,
+
+391
+00:17:04,820 --> 00:17:06,820
+whether it's for science,
+
+392
+00:17:06,820 --> 00:17:08,820
+for commerce, for government,
+
+393
+00:17:08,820 --> 00:17:10,820
+or perhaps most of all,
+
+394
+00:17:10,820 --> 00:17:13,820
+for us as individuals.
+
+395
+00:17:13,820 --> 00:17:16,820
+And so just to return to my son,
+
+396
+00:17:16,820 --> 00:17:19,820
+when I was preparing this talk, he was looking over my shoulder,
+
+397
+00:17:19,820 --> 00:17:21,820
+and I showed him the clips I was going to show to you today,
+
+398
+00:17:21,820 --> 00:17:24,820
+and I asked him for permission -- granted.
+
+399
+00:17:24,820 --> 00:17:26,820
+And then I went on to reflect,
+
+400
+00:17:26,820 --> 00:17:29,820
+"Isn't it amazing,
+
+401
+00:17:29,820 --> 00:17:32,820
+this entire database, all these recordings,
+
+402
+00:17:32,820 --> 00:17:34,820
+I'm going to hand off to you and to your sister" --
+
+403
+00:17:34,820 --> 00:17:37,820
+who arrived two years later --
+
+404
+00:17:37,820 --> 00:17:40,820
+"and you guys are going to be able to go back and re-experience moments
+
+405
+00:17:40,820 --> 00:17:43,820
+that you could never, with your biological memory,
+
+406
+00:17:43,820 --> 00:17:45,820
+possibly remember the way you can now?"
+
+407
+00:17:45,820 --> 00:17:47,820
+And he was quiet for a moment.
+
+408
+00:17:47,820 --> 00:17:49,820
+And I thought, "What am I thinking?
+
+409
+00:17:49,820 --> 00:17:51,820
+He's five years old. He's not going to understand this."
+
+410
+00:17:51,820 --> 00:17:54,820
+And just as I was having that thought, he looked up at me and said,
+
+411
+00:17:54,820 --> 00:17:56,820
+"So that when I grow up,
+
+412
+00:17:56,820 --> 00:17:58,820
+I can show this to my kids?"
+
+413
+00:17:58,820 --> 00:18:01,820
+And I thought, "Wow, this is powerful stuff."
+
+414
+00:18:01,820 --> 00:18:03,820
+So I want to leave you
+
+415
+00:18:03,820 --> 00:18:05,820
+with one last memorable moment
+
+416
+00:18:05,820 --> 00:18:08,820
+from our family.
+
+417
+00:18:08,820 --> 00:18:10,820
+This is the first time our son
+
+418
+00:18:10,820 --> 00:18:12,820
+took more than two steps at once --
+
+419
+00:18:12,820 --> 00:18:14,820
+captured on film.
+
+420
+00:18:14,820 --> 00:18:17,820
+And I really want you to focus on something
+
+421
+00:18:17,820 --> 00:18:19,820
+as I take you through.
+
+422
+00:18:19,820 --> 00:18:21,820
+It's a cluttered environment; it's natural life.
+
+423
+00:18:21,820 --> 00:18:23,820
+My mother's in the kitchen, cooking,
+
+424
+00:18:23,820 --> 00:18:25,820
+and, of all places, in the hallway,
+
+425
+00:18:25,820 --> 00:18:28,820
+I realize he's about to do it, about to take more than two steps.
+
+426
+00:18:28,820 --> 00:18:30,820
+And so you hear me encouraging him,
+
+427
+00:18:30,820 --> 00:18:32,820
+realizing what's happening,
+
+428
+00:18:32,820 --> 00:18:34,820
+and then the magic happens.
+
+429
+00:18:34,820 --> 00:18:36,820
+Listen very carefully.
+
+430
+00:18:36,820 --> 00:18:38,820
+About three steps in,
+
+431
+00:18:38,820 --> 00:18:40,820
+he realizes something magic is happening,
+
+432
+00:18:40,820 --> 00:18:43,820
+and the most amazing feedback loop of all kicks in,
+
+433
+00:18:43,820 --> 00:18:45,820
+and he takes a breath in,
+
+434
+00:18:45,820 --> 00:18:47,820
+and he whispers "wow"
+
+435
+00:18:47,820 --> 00:18:51,820
+and instinctively I echo back the same.
+
+436
+00:18:52,820 --> 00:18:55,820
+And so let's fly back in time
+
+437
+00:18:55,820 --> 00:18:57,820
+to that memorable moment.
+
+438
+00:19:01,820 --> 00:19:03,820
+(Video) DR: Hey.
+
+439
+00:19:03,820 --> 00:19:05,820
+Come here.
+
+440
+00:19:05,820 --> 00:19:08,820
+Can you do it?
+
+441
+00:19:09,820 --> 00:19:11,820
+Oh, boy.
+
+442
+00:19:11,820 --> 00:19:14,820
+Can you do it?
+
+443
+00:19:14,820 --> 00:19:16,820
+Baby: Yeah.
+
+444
+00:19:16,820 --> 00:19:19,820
+DR: Ma, he's walking.
+
+445
+00:19:20,820 --> 00:19:22,820
+(Laughter)
+
+446
+00:19:22,820 --> 00:19:24,820
+(Applause)
+
+447
+00:19:24,820 --> 00:19:26,820
+DR: Thank you.
+
+448
+00:19:26,820 --> 00:19:41,820
+(Applause)
+

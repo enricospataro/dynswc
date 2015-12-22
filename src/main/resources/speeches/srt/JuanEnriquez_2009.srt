@@ -1,0 +1,1448 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+There's a great big elephant in the room called the economy.
+
+2
+00:00:15,820 --> 00:00:17,820
+So let's start talking about that.
+
+3
+00:00:17,820 --> 00:00:20,820
+I wanted to give you a current picture of the economy.
+
+4
+00:00:20,820 --> 00:00:23,820
+That's what I have behind myself.
+
+5
+00:00:23,820 --> 00:00:26,820
+(Laughter)
+
+6
+00:00:26,820 --> 00:00:29,820
+But of course what we have to remember is this.
+
+7
+00:00:29,820 --> 00:00:32,820
+And what you have to think about is,
+
+8
+00:00:32,820 --> 00:00:35,820
+when you're dancing in the flames, what's next?
+
+9
+00:00:35,820 --> 00:00:38,820
+So what I'm going to try to do in the next 17 and a half minutes
+
+10
+00:00:38,820 --> 00:00:40,820
+is I'm going to talk first about the flames --
+
+11
+00:00:40,820 --> 00:00:42,820
+where we are in the economy --
+
+12
+00:00:42,820 --> 00:00:44,820
+and then I'm going to take three trends
+
+13
+00:00:44,820 --> 00:00:47,820
+that have taken place at TED over the last 25 years
+
+14
+00:00:47,820 --> 00:00:49,820
+and that will take place in this conference
+
+15
+00:00:49,820 --> 00:00:52,820
+and I will try and bring them together.
+
+16
+00:00:52,820 --> 00:00:56,820
+And I will try and give you a sense of what the ultimate reboot looks like.
+
+17
+00:00:56,820 --> 00:00:58,820
+Those three trends are
+
+18
+00:00:58,820 --> 00:01:00,820
+the ability to engineer cells,
+
+19
+00:01:00,820 --> 00:01:02,820
+the ability to engineer tissues,
+
+20
+00:01:02,820 --> 00:01:04,820
+and robots.
+
+21
+00:01:04,820 --> 00:01:06,820
+And somehow it will all make sense.
+
+22
+00:01:06,820 --> 00:01:09,820
+But anyway, let's start with the economy.
+
+23
+00:01:09,820 --> 00:01:12,820
+There's a couple of really big problems that are still sitting there.
+
+24
+00:01:12,820 --> 00:01:14,820
+One is leverage.
+
+25
+00:01:14,820 --> 00:01:16,820
+And the problem with leverage is
+
+26
+00:01:16,820 --> 00:01:19,820
+it makes the U.S. financial system look like this.
+
+27
+00:01:19,820 --> 00:01:22,820
+(Laughter)
+
+28
+00:01:26,820 --> 00:01:29,820
+So, a normal commercial bank has nine to 10 times leverage.
+
+29
+00:01:29,820 --> 00:01:32,820
+That means for every dollar you deposit, it loans out about nine or 10.
+
+30
+00:01:32,820 --> 00:01:35,820
+A normal investment bank is not a deposit bank,
+
+31
+00:01:35,820 --> 00:01:37,820
+it's an investment bank;
+
+32
+00:01:37,820 --> 00:01:39,820
+it has 15 to 20 times.
+
+33
+00:01:39,820 --> 00:01:42,820
+It turns out that B of A in September had 32 times.
+
+34
+00:01:42,820 --> 00:01:45,820
+And your friendly Citibank had 47 times.
+
+35
+00:01:45,820 --> 00:01:47,820
+Oops.
+
+36
+00:01:47,820 --> 00:01:51,820
+That means every bad loan goes bad 47 times over.
+
+37
+00:01:51,820 --> 00:01:54,820
+And that, of course, is the reason why all of you
+
+38
+00:01:54,820 --> 00:01:57,820
+are making such generous and wonderful donations
+
+39
+00:01:57,820 --> 00:01:59,820
+to these nice folks.
+
+40
+00:02:02,820 --> 00:02:04,820
+And as you think about that,
+
+41
+00:02:04,820 --> 00:02:07,820
+you've got to wonder: so what do banks have in store for you now?
+
+42
+00:02:10,820 --> 00:02:13,820
+(Laughter)
+
+43
+00:02:19,820 --> 00:02:21,820
+It ain't pretty.
+
+44
+00:02:22,820 --> 00:02:26,820
+The government, meanwhile, has been acting like Santa Claus.
+
+45
+00:02:26,820 --> 00:02:29,820
+We all love Santa Claus, right?
+
+46
+00:02:29,820 --> 00:02:32,820
+But the problem with Santa Clause is,
+
+47
+00:02:32,820 --> 00:02:35,820
+if you look at the mandatory spending of what these folks have been doing
+
+48
+00:02:35,820 --> 00:02:37,820
+and promising folks,
+
+49
+00:02:37,820 --> 00:02:42,820
+it turned out that in 1967, 38 percent was mandatory spending
+
+50
+00:02:42,820 --> 00:02:45,820
+on what we call "entitlements."
+
+51
+00:02:45,820 --> 00:02:48,820
+And then by 2007 it was 68 percent.
+
+52
+00:02:48,820 --> 00:02:52,820
+And we weren't supposed to run into 100 percent until about 2030.
+
+53
+00:02:53,820 --> 00:02:56,820
+Except we've been so busy giving away a trillion here, a trillion there,
+
+54
+00:02:56,820 --> 00:02:59,820
+that we've brought that date of reckoning forward
+
+55
+00:02:59,820 --> 00:03:02,820
+to about 2017.
+
+56
+00:03:02,820 --> 00:03:05,820
+And we thought we were going to be able to lay these debts off on our kids,
+
+57
+00:03:05,820 --> 00:03:07,820
+but, guess what?
+
+58
+00:03:07,820 --> 00:03:09,820
+We're going to start to pay them.
+
+59
+00:03:09,820 --> 00:03:11,820
+And the problem with this stuff is, now that the bill's come due,
+
+60
+00:03:11,820 --> 00:03:15,820
+it turns out Santa isn't quite as cute when it's summertime.
+
+61
+00:03:15,820 --> 00:03:17,820
+Right?
+
+62
+00:03:17,820 --> 00:03:20,820
+(Laughter)
+
+63
+00:03:29,820 --> 00:03:33,820
+Here's some advice from one of the largest investors in the United States.
+
+64
+00:03:33,820 --> 00:03:36,820
+This guy runs the China Investment Corporation.
+
+65
+00:03:36,820 --> 00:03:39,820
+He is the main buyer of U.S. Treasury bonds.
+
+66
+00:03:39,820 --> 00:03:42,820
+And he gave an interview in December.
+
+67
+00:03:42,820 --> 00:03:44,820
+Here's his first bit of advice.
+
+68
+00:03:44,820 --> 00:03:47,820
+And here's his second bit of advice.
+
+69
+00:03:49,820 --> 00:03:51,820
+And, by the way,
+
+70
+00:03:51,820 --> 00:03:54,820
+the Chinese Prime Minister reiterated this at Davos last Sunday.
+
+71
+00:03:54,820 --> 00:03:56,820
+This stuff is getting serious enough
+
+72
+00:03:56,820 --> 00:03:58,820
+that if we don't start paying attention to the deficit,
+
+73
+00:03:58,820 --> 00:04:01,820
+we're going to end up losing the dollar.
+
+74
+00:04:01,820 --> 00:04:04,820
+And then all bets are off.
+
+75
+00:04:04,820 --> 00:04:07,820
+Let me show you what it looks like.
+
+76
+00:04:07,820 --> 00:04:09,820
+I think I can safely say
+
+77
+00:04:09,820 --> 00:04:12,820
+that I'm the only trillionaire in this room.
+
+78
+00:04:13,820 --> 00:04:15,820
+This is an actual bill.
+
+79
+00:04:15,820 --> 00:04:18,820
+And it's 10 triliion dollars.
+
+80
+00:04:18,820 --> 00:04:21,820
+The only problem with this bill is it's not really worth very much.
+
+81
+00:04:21,820 --> 00:04:24,820
+That was eight bucks last week, four bucks this week,
+
+82
+00:04:24,820 --> 00:04:26,820
+a buck next week.
+
+83
+00:04:26,820 --> 00:04:30,820
+And that's what happens to currencies when you don't stand behind them.
+
+84
+00:04:31,820 --> 00:04:36,820
+So the next time somebody as cute as this shows up on your doorstep,
+
+85
+00:04:36,820 --> 00:04:43,820
+and sometimes this creature's called Chrysler and sometimes Ford and sometimes ... whatever you want --
+
+86
+00:04:43,820 --> 00:04:45,820
+you've just got to say no.
+
+87
+00:04:45,820 --> 00:04:49,820
+And you've got to start banishing a word that's called "entitlement."
+
+88
+00:04:49,820 --> 00:04:52,820
+And the reason we have to do that in the short term
+
+89
+00:04:52,820 --> 00:04:55,820
+is because we have just run out of cash.
+
+90
+00:04:55,820 --> 00:04:58,820
+If you look at the federal budget, this is what it looks like.
+
+91
+00:04:58,820 --> 00:05:01,820
+The orange slice is what's discretionary.
+
+92
+00:05:01,820 --> 00:05:03,820
+Everything else is mandated.
+
+93
+00:05:04,820 --> 00:05:07,820
+It makes no difference if we cut out the bridges to Alaska in the overall scheme of things.
+
+94
+00:05:07,820 --> 00:05:10,820
+So what we have to start thinking about doing
+
+95
+00:05:10,820 --> 00:05:12,820
+is capping our medical spending
+
+96
+00:05:12,820 --> 00:05:15,820
+because that's a monster that's simply going to eat the entire budget.
+
+97
+00:05:15,820 --> 00:05:18,820
+We've got to start thinking about asking people
+
+98
+00:05:18,820 --> 00:05:20,820
+to retire a little bit later.
+
+99
+00:05:21,820 --> 00:05:24,820
+If you're 60 to 65 you retire on time.
+
+100
+00:05:24,820 --> 00:05:26,820
+Your 401(k) just got nailed.
+
+101
+00:05:26,820 --> 00:05:29,820
+If you're 50 to 60 we want you to work two years more.
+
+102
+00:05:29,820 --> 00:05:32,820
+If you're under 50 we want you to work four more years.
+
+103
+00:05:32,820 --> 00:05:35,820
+The reason why that's reasonable is,
+
+104
+00:05:35,820 --> 00:05:37,820
+when your grandparents were given Social Security,
+
+105
+00:05:37,820 --> 00:05:40,820
+they got it at 65 and were expected to check out at 68.
+
+106
+00:05:40,820 --> 00:05:43,820
+Sixty-eight is young today.
+
+107
+00:05:43,820 --> 00:05:47,820
+We've also got to cut the military about three percent a year.
+
+108
+00:05:47,820 --> 00:05:49,820
+We've got to limit other mandatory spending.
+
+109
+00:05:49,820 --> 00:05:52,820
+We've got to quit borrowing as much,
+
+110
+00:05:52,820 --> 00:05:55,820
+because otherwise the interest is going to eat that whole pie.
+
+111
+00:05:55,820 --> 00:05:57,820
+And we've got to end up with a smaller government.
+
+112
+00:05:57,820 --> 00:06:00,820
+And if we don't start changing this trend line,
+
+113
+00:06:00,820 --> 00:06:02,820
+we are going to lose the dollar
+
+114
+00:06:02,820 --> 00:06:04,820
+and start to look like Iceland.
+
+115
+00:06:04,820 --> 00:06:07,820
+I got what you're thinking.
+
+116
+00:06:07,820 --> 00:06:11,820
+This is going to happen when hell freezes over.
+
+117
+00:06:12,820 --> 00:06:15,820
+But let me remind you this December it did snow in Vegas.
+
+118
+00:06:17,820 --> 00:06:20,820
+(Laughter)
+
+119
+00:06:22,820 --> 00:06:25,820
+Here's what happens if you don't address this stuff.
+
+120
+00:06:25,820 --> 00:06:28,820
+So, Japan had a fiscal real estate crisis
+
+121
+00:06:28,820 --> 00:06:30,820
+back in the late '80s.
+
+122
+00:06:30,820 --> 00:06:33,820
+And its 225 largest companies today
+
+123
+00:06:33,820 --> 00:06:36,820
+are worth one quarter of what they were 18 years ago.
+
+124
+00:06:36,820 --> 00:06:38,820
+We don't fix this now,
+
+125
+00:06:38,820 --> 00:06:41,820
+how would you like to see a Dow 3,500 in 2026?
+
+126
+00:06:41,820 --> 00:06:44,820
+Because that's the consequence of not dealing with this stuff.
+
+127
+00:06:44,820 --> 00:06:47,820
+And unless you want this person
+
+128
+00:06:47,820 --> 00:06:50,820
+to not just become the CFO of Florida, but the United States,
+
+129
+00:06:50,820 --> 00:06:53,820
+we'd better deal with this stuff.
+
+130
+00:06:53,820 --> 00:06:56,820
+That's the short term. That's the flame part.
+
+131
+00:06:56,820 --> 00:06:58,820
+That's the financial crisis.
+
+132
+00:06:58,820 --> 00:07:02,820
+Now, right behind the financial crisis there's a second and bigger wave
+
+133
+00:07:02,820 --> 00:07:03,820
+that we need to talk about.
+
+134
+00:07:03,820 --> 00:07:05,820
+That wave is much larger, much more powerful,
+
+135
+00:07:05,820 --> 00:07:08,820
+and that's of course the wave of technology.
+
+136
+00:07:08,820 --> 00:07:10,820
+And what's really important in this stuff is,
+
+137
+00:07:10,820 --> 00:07:12,820
+as we cut, we also have to grow.
+
+138
+00:07:12,820 --> 00:07:15,820
+Among other things, because startup companies
+
+139
+00:07:15,820 --> 00:07:17,820
+are .02 percent of U.S. GDP investmentm
+
+140
+00:07:17,820 --> 00:07:20,820
+and they're about 17.8 percent of output.
+
+141
+00:07:22,820 --> 00:07:25,820
+It's groups like that in this room that generate the future of the U.S. economy.
+
+142
+00:07:25,820 --> 00:07:27,820
+And that's what we've got to keep growing.
+
+143
+00:07:27,820 --> 00:07:30,820
+We don't have to keep growing these bridges to nowhere.
+
+144
+00:07:31,820 --> 00:07:35,820
+So let's bring a romance novelist into this conversation.
+
+145
+00:07:37,820 --> 00:07:42,820
+And that's where these three trends come together.
+
+146
+00:07:42,820 --> 00:07:45,820
+That's where the ability to engineer microbes,
+
+147
+00:07:45,820 --> 00:07:47,820
+the ability to engineer tissues,
+
+148
+00:07:47,820 --> 00:07:49,820
+and the ability to engineer robots
+
+149
+00:07:49,820 --> 00:07:51,820
+begin to lead to a reboot.
+
+150
+00:07:51,820 --> 00:07:53,820
+And let me recap some of the stuff you've seen.
+
+151
+00:07:53,820 --> 00:07:55,820
+Craig Venter showed up last year
+
+152
+00:07:55,820 --> 00:07:57,820
+and showed you the first fully programmable cell that acts like hardware
+
+153
+00:07:57,820 --> 00:08:00,820
+where you can insert DNA and have it boot up as a different species.
+
+154
+00:08:00,820 --> 00:08:03,820
+In parallel, the folks at MIT
+
+155
+00:08:03,820 --> 00:08:06,820
+have been building a standard registry of biological parts.
+
+156
+00:08:06,820 --> 00:08:09,820
+So think of it as a Radio Shack for biology.
+
+157
+00:08:09,820 --> 00:08:12,820
+You can go out and get your proteins, your RNA, your DNA, whatever.
+
+158
+00:08:12,820 --> 00:08:15,820
+And start building stuff.
+
+159
+00:08:15,820 --> 00:08:18,820
+In 2006 they brought together high school students and college students
+
+160
+00:08:18,820 --> 00:08:20,820
+and started to build these little odd creatures.
+
+161
+00:08:20,820 --> 00:08:23,820
+They just happened to be alive instead of circuit boards.
+
+162
+00:08:23,820 --> 00:08:26,820
+Here was one of the first things they built.
+
+163
+00:08:26,820 --> 00:08:28,820
+So, cells have this cycle.
+
+164
+00:08:28,820 --> 00:08:30,820
+First they don't grow.
+
+165
+00:08:30,820 --> 00:08:32,820
+Then they grow exponentially.
+
+166
+00:08:32,820 --> 00:08:34,820
+Then they stop growing.
+
+167
+00:08:34,820 --> 00:08:37,820
+Graduate students wanted a way of telling which stage they were in.
+
+168
+00:08:37,820 --> 00:08:39,820
+So they engineered these cells
+
+169
+00:08:39,820 --> 00:08:41,820
+so that when they're growing in the exponential phase,
+
+170
+00:08:41,820 --> 00:08:43,820
+they would smell like wintergreen.
+
+171
+00:08:43,820 --> 00:08:46,820
+And when they stopped growing they would smell like bananas.
+
+172
+00:08:46,820 --> 00:08:49,820
+And you could tell very easily when your experiment was working
+
+173
+00:08:49,820 --> 00:08:52,820
+and wasn't, and where it was in the phase.
+
+174
+00:08:52,820 --> 00:08:55,820
+This got a bit more complicated two years later.
+
+175
+00:08:55,820 --> 00:08:57,820
+Twenty-one countries came together. Dozens of teams.
+
+176
+00:08:57,820 --> 00:08:59,820
+They started competing.
+
+177
+00:08:59,820 --> 00:09:04,820
+The team from Rice University started to engineer the substance in red wine
+
+178
+00:09:04,820 --> 00:09:06,820
+that makes red wine good for you
+
+179
+00:09:06,820 --> 00:09:08,820
+into beer.
+
+180
+00:09:09,820 --> 00:09:13,820
+So you take resveratrol and you put it into beer.
+
+181
+00:09:13,820 --> 00:09:16,820
+Of course, one of the judges is wandering by, and he goes,
+
+182
+00:09:16,820 --> 00:09:20,820
+"Wow! Cancer-fighting beer! There is a God."
+
+183
+00:09:20,820 --> 00:09:23,820
+(Laughter)
+
+184
+00:09:23,820 --> 00:09:26,820
+The team from Taiwan was a little bit more ambitious.
+
+185
+00:09:26,820 --> 00:09:29,820
+They tried to engineer bacterias in such a way
+
+186
+00:09:29,820 --> 00:09:32,820
+that they would act as your kidneys.
+
+187
+00:09:32,820 --> 00:09:35,820
+Four years ago, I showed you this picture.
+
+188
+00:09:35,820 --> 00:09:37,820
+And people oohed and ahhed,
+
+189
+00:09:37,820 --> 00:09:40,820
+because Cliff Tabin had been able to grow an extra wing on a chicken.
+
+190
+00:09:40,820 --> 00:09:43,820
+And that was very cool stuff back then.
+
+191
+00:09:43,820 --> 00:09:46,820
+But now moving from bacterial engineering to tissue engineering,
+
+192
+00:09:46,820 --> 00:09:49,820
+let me show you what's happened in that period of time.
+
+193
+00:09:49,820 --> 00:09:52,820
+Two years ago, you saw this creature.
+
+194
+00:09:52,820 --> 00:09:55,820
+An almost-extinct animal from Xochimilco, Mexico
+
+195
+00:09:55,820 --> 00:09:57,820
+called an axolotl
+
+196
+00:09:57,820 --> 00:09:59,820
+that can re-generate its limbs.
+
+197
+00:09:59,820 --> 00:10:01,820
+You can freeze half its heart. It regrows.
+
+198
+00:10:01,820 --> 00:10:03,820
+You can freeze half the brain. It regrows.
+
+199
+00:10:03,820 --> 00:10:05,820
+It's almost like leaving Congress.
+
+200
+00:10:05,820 --> 00:10:08,820
+(Laughter)
+
+201
+00:10:11,820 --> 00:10:14,820
+But now, you don't have to have the animal itself to regenerate,
+
+202
+00:10:14,820 --> 00:10:19,820
+because you can build cloned mice molars in Petri dishes.
+
+203
+00:10:20,820 --> 00:10:24,820
+And, of course if you can build mice molars in Petri dishes,
+
+204
+00:10:24,820 --> 00:10:27,820
+you can grow human molars in Petri dishes.
+
+205
+00:10:27,820 --> 00:10:29,820
+This should not surprise you, right?
+
+206
+00:10:29,820 --> 00:10:31,820
+I mean, you're born with no teeth.
+
+207
+00:10:31,820 --> 00:10:34,820
+You give away all your teeth to the tooth fairy.
+
+208
+00:10:34,820 --> 00:10:36,820
+You re-grow a set of teeth.
+
+209
+00:10:36,820 --> 00:10:39,820
+But then if you lose one of those second set of teeth, they don't regrow,
+
+210
+00:10:39,820 --> 00:10:41,820
+unless, if you're a lawyer.
+
+211
+00:10:41,820 --> 00:10:45,820
+(Laughter)
+
+212
+00:10:45,820 --> 00:10:48,820
+But, of course, for most of us,
+
+213
+00:10:48,820 --> 00:10:51,820
+we know how to grow teeth, and therefore we can take adult stem teeth,
+
+214
+00:10:51,820 --> 00:10:54,820
+put them on a biodegradable mold, re-grow a tooth,
+
+215
+00:10:54,820 --> 00:10:55,820
+and simply implant it.
+
+216
+00:10:55,820 --> 00:10:58,820
+And we can do it with other things.
+
+217
+00:10:58,820 --> 00:11:03,820
+So, a Spanish woman who was dying of T.B. had a donor trachea,
+
+218
+00:11:03,820 --> 00:11:05,820
+they took all the cells off the trachea,
+
+219
+00:11:05,820 --> 00:11:08,820
+they spraypainted her stem cells onto that cartilage.
+
+220
+00:11:08,820 --> 00:11:10,820
+She regrew her own trachea,
+
+221
+00:11:10,820 --> 00:11:13,820
+and 72 hours later it was implanted.
+
+222
+00:11:13,820 --> 00:11:15,820
+She's now running around with her kids.
+
+223
+00:11:15,820 --> 00:11:18,820
+This is going on in Tony Atala's lab in Wake Forest
+
+224
+00:11:18,820 --> 00:11:21,820
+where he is re-growing ears for injured soldiers,
+
+225
+00:11:21,820 --> 00:11:25,820
+and he's also re-growing bladders.
+
+226
+00:11:25,820 --> 00:11:28,820
+So there are now nine women walking around Boston
+
+227
+00:11:28,820 --> 00:11:30,820
+with re-grown bladders,
+
+228
+00:11:30,820 --> 00:11:32,820
+which is much more pleasant than walking around with a whole bunch of plastic bags
+
+229
+00:11:32,820 --> 00:11:34,820
+for the rest of your life.
+
+230
+00:11:34,820 --> 00:11:37,820
+This is kind of getting boring, right?
+
+231
+00:11:37,820 --> 00:11:39,820
+I mean, you understand where this story's going.
+
+232
+00:11:39,820 --> 00:11:41,820
+But, I mean it gets more interesting.
+
+233
+00:11:41,820 --> 00:11:45,820
+Last year, this group was able to take all the cells off a heart,
+
+234
+00:11:45,820 --> 00:11:48,820
+leaving just the cartilage.
+
+235
+00:11:48,820 --> 00:11:50,820
+Then, they sprayed stem cells onto that heart, from a mouse.
+
+236
+00:11:50,820 --> 00:11:54,820
+Those stem cells self-organized, and that heart started to beat.
+
+237
+00:11:54,820 --> 00:11:57,820
+Life happens.
+
+238
+00:11:58,820 --> 00:12:01,820
+This may be one of the ultimate papers.
+
+239
+00:12:01,820 --> 00:12:04,820
+This was done in Japan and in the U.S., published at the same time,
+
+240
+00:12:04,820 --> 00:12:08,820
+and it rebooted skin cells into stem cells, last year.
+
+241
+00:12:09,820 --> 00:12:12,820
+That meant that you can take the stuff right here,
+
+242
+00:12:12,820 --> 00:12:14,820
+and turn it into almost anything in your body.
+
+243
+00:12:14,820 --> 00:12:17,820
+And this is becoming common, it's moving very quickly,
+
+244
+00:12:17,820 --> 00:12:20,820
+it's moving in a whole series of places.
+
+245
+00:12:21,820 --> 00:12:23,820
+Third trend: robots.
+
+246
+00:12:24,820 --> 00:12:27,820
+Those of us of a certain age grew up expecting that by now
+
+247
+00:12:27,820 --> 00:12:31,820
+we would have Rosie the Robot from "The Jetsons" in our house.
+
+248
+00:12:31,820 --> 00:12:34,820
+And all we've got is a Roomba.
+
+249
+00:12:34,820 --> 00:12:37,820
+(Laughter)
+
+250
+00:12:37,820 --> 00:12:41,820
+We also thought we'd have this robot to warn us of danger.
+
+251
+00:12:41,820 --> 00:12:43,820
+Didn't happen.
+
+252
+00:12:43,820 --> 00:12:46,820
+And these were robots engineered for a flat world, right?
+
+253
+00:12:46,820 --> 00:12:48,820
+So, Rosie runs around on skates
+
+254
+00:12:48,820 --> 00:12:50,820
+and the other one ran on flat threads.
+
+255
+00:12:51,820 --> 00:12:53,820
+If you don't have a flat world, that's not good,
+
+256
+00:12:53,820 --> 00:12:58,820
+which is why the robot's we're designing today are a little different.
+
+257
+00:12:59,820 --> 00:13:01,820
+This is Boston Dynamics' "BigDog."
+
+258
+00:13:04,820 --> 00:13:07,820
+And this is about as close as you can get to a physical Turing test.
+
+259
+00:13:07,820 --> 00:13:11,820
+O.K., so let me remind you, a Turing test is where you've got a wall,
+
+260
+00:13:11,820 --> 00:13:13,820
+you're talking to somebody on the other side of the wall,
+
+261
+00:13:13,820 --> 00:13:16,820
+and when you don't know if that thing is human or animal --
+
+262
+00:13:16,820 --> 00:13:20,820
+that's when computers have reached human intelligence.
+
+263
+00:13:20,820 --> 00:13:23,820
+This is not an intelligence Turing rest,
+
+264
+00:13:23,820 --> 00:13:26,820
+but this is as close as you can get to a physical Turing test.
+
+265
+00:13:26,820 --> 00:13:28,820
+And this stuff is moving very quickly,
+
+266
+00:13:28,820 --> 00:13:32,820
+and by the way, that thing can carry about 350 pounds of weight.
+
+267
+00:13:33,820 --> 00:13:36,820
+These are not the only interesting robots.
+
+268
+00:13:36,820 --> 00:13:38,820
+You've also got flies, the size of flies,
+
+269
+00:13:38,820 --> 00:13:41,820
+that are being made by Robert Wood at Harvard.
+
+270
+00:13:41,820 --> 00:13:44,820
+You've got Stickybots that are being made at Stanford.
+
+271
+00:13:44,820 --> 00:13:47,820
+And as you bring these things together,
+
+272
+00:13:47,820 --> 00:13:53,820
+as you bring cells, biological tissue engineering and mechanics together,
+
+273
+00:13:53,820 --> 00:13:56,820
+you begin to get some really odd questions.
+
+274
+00:13:56,820 --> 00:13:58,820
+In the last Olympics, this gentleman,
+
+275
+00:13:58,820 --> 00:14:02,820
+who had several world records in the Special Olympics,
+
+276
+00:14:02,820 --> 00:14:04,820
+tried to run in the normal Olympics.
+
+277
+00:14:04,820 --> 00:14:06,820
+The only issue with Oscar Pistorius
+
+278
+00:14:06,820 --> 00:14:10,820
+is he was born without bones in the lower part of his legs.
+
+279
+00:14:10,820 --> 00:14:12,820
+He came within about a second of qualifying.
+
+280
+00:14:12,820 --> 00:14:15,820
+He sued to be allowed to run,
+
+281
+00:14:15,820 --> 00:14:17,820
+and he won the suit,
+
+282
+00:14:17,820 --> 00:14:19,820
+but didn't qualify by time.
+
+283
+00:14:19,820 --> 00:14:24,820
+Next Olympics, you can bet that Oscar, or one of Oscar's successors,
+
+284
+00:14:24,820 --> 00:14:26,820
+is going to make the time.
+
+285
+00:14:26,820 --> 00:14:29,820
+And two or three Olympics after that, they are going to be unbeatable.
+
+286
+00:14:29,820 --> 00:14:34,820
+And as you bring these trends together, and as you think of what it means
+
+287
+00:14:34,820 --> 00:14:38,820
+to take people who are profoundly deaf, who can now begin to hear --
+
+288
+00:14:38,820 --> 00:14:41,820
+I mean, remember the evolution of hearing aids, right?
+
+289
+00:14:41,820 --> 00:14:44,820
+I mean, your grandparents had these great big cones,
+
+290
+00:14:44,820 --> 00:14:46,820
+and then your parents had these odd boxes
+
+291
+00:14:46,820 --> 00:14:48,820
+that would squawk at odd times during dinner,
+
+292
+00:14:48,820 --> 00:14:50,820
+and now we have these little buds that nobody sees.
+
+293
+00:14:50,820 --> 00:14:52,820
+And now you have cochlear implants
+
+294
+00:14:52,820 --> 00:14:57,820
+that go into people's heads and allow the deaf to begin to hear.
+
+295
+00:14:57,820 --> 00:14:59,820
+Now, they can't hear as well as you and I can.
+
+296
+00:14:59,820 --> 00:15:02,820
+But, in 10 or 15 machine generations they will,
+
+297
+00:15:02,820 --> 00:15:04,820
+and these are machine generations, not human generations.
+
+298
+00:15:05,820 --> 00:15:09,820
+And about two or three years after they can hear as well as you and I can,
+
+299
+00:15:09,820 --> 00:15:13,820
+they'll be able to hear maybe how bats sing, or how whales talk,
+
+300
+00:15:13,820 --> 00:15:16,820
+or how dogs talk, and other types of tonal scales.
+
+301
+00:15:16,820 --> 00:15:18,820
+They'll be able to focus their hearing,
+
+302
+00:15:18,820 --> 00:15:21,820
+they'll be able to increase the sensitivity, decrease the sensitivity,
+
+303
+00:15:21,820 --> 00:15:23,820
+do a series of things that we can't do.
+
+304
+00:15:23,820 --> 00:15:25,820
+And the same thing is happening in eyes.
+
+305
+00:15:26,820 --> 00:15:29,820
+This is a group in Germany that's beginning to engineer eyes
+
+306
+00:15:29,820 --> 00:15:33,820
+so that people who are blind can begin to see light and dark.
+
+307
+00:15:33,820 --> 00:15:35,820
+Very primitive.
+
+308
+00:15:35,820 --> 00:15:37,820
+And then they'll be able to see shape.
+
+309
+00:15:37,820 --> 00:15:40,820
+And then they'll be able to see color, and then they'll be able to see in definition,
+
+310
+00:15:40,820 --> 00:15:43,820
+and one day, they'll see as well as you and I can.
+
+311
+00:15:43,820 --> 00:15:46,820
+And a couple of years after that, they'll be able to see in ultraviolet,
+
+312
+00:15:46,820 --> 00:15:48,820
+they'll be able to see in infrared, they'll be able to focus their eyes,
+
+313
+00:15:48,820 --> 00:15:51,820
+they'll be able to come into a microfocus.
+
+314
+00:15:51,820 --> 00:15:53,820
+They'll do stuff you and I can't do.
+
+315
+00:15:54,820 --> 00:15:56,820
+All of these things are coming together,
+
+316
+00:15:56,820 --> 00:16:00,820
+and it's a particularly important thing to understand,
+
+317
+00:16:00,820 --> 00:16:03,820
+as we worry about the flames of the present,
+
+318
+00:16:03,820 --> 00:16:06,820
+to keep an eye on the future.
+
+319
+00:16:06,820 --> 00:16:09,820
+And, of course, the future is looking back 200 years,
+
+320
+00:16:09,820 --> 00:16:13,820
+because next week is the 200th anniversary of Darwin's birth.
+
+321
+00:16:13,820 --> 00:16:19,820
+And it's the 150th anniversary of the publication of "The Origin of Species."
+
+322
+00:16:19,820 --> 00:16:23,820
+And Darwin, of course, argued that evolution is a natural state.
+
+323
+00:16:23,820 --> 00:16:29,820
+It is a natural state in everything that is alive, including hominids.
+
+324
+00:16:29,820 --> 00:16:34,820
+There have actually been 22 species of hominids
+
+325
+00:16:34,820 --> 00:16:38,820
+that have been around, have evolved, have wandered in different places,
+
+326
+00:16:38,820 --> 00:16:40,820
+have gone extinct.
+
+327
+00:16:40,820 --> 00:16:45,820
+It is common for hominids to evolve.
+
+328
+00:16:45,820 --> 00:16:48,820
+And that's the reason why, as you look at the hominid fossil record,
+
+329
+00:16:48,820 --> 00:16:56,820
+erectus, and heidelbergensis, and floresiensis, and Neanderthals,
+
+330
+00:16:56,820 --> 00:17:00,820
+and Homo sapiens, all overlap.
+
+331
+00:17:01,820 --> 00:17:06,820
+The common state of affairs is to have overlapping versions of hominids,
+
+332
+00:17:06,820 --> 00:17:08,820
+not one.
+
+333
+00:17:08,820 --> 00:17:10,820
+And as you think of the implications of that,
+
+334
+00:17:10,820 --> 00:17:12,820
+here's a brief history of the universe.
+
+335
+00:17:12,820 --> 00:17:15,820
+The universe was created 13.7 billion years ago,
+
+336
+00:17:15,820 --> 00:17:17,820
+and then you created all the stars, and all the planets,
+
+337
+00:17:17,820 --> 00:17:19,820
+and all the galaxies, and all the Milky Ways.
+
+338
+00:17:19,820 --> 00:17:22,820
+And then you created Earth about 4.5 billion years ago,
+
+339
+00:17:22,820 --> 00:17:25,820
+and then you got life about four billion years ago,
+
+340
+00:17:25,820 --> 00:17:29,820
+and then you got hominids about 0.006 billion years ago,
+
+341
+00:17:29,820 --> 00:17:34,820
+and then you got our version of hominids about 0.0015 billion years ago.
+
+342
+00:17:34,820 --> 00:17:36,820
+Ta-dah!
+
+343
+00:17:36,820 --> 00:17:38,820
+Maybe the reason for thr creation of the universe,
+
+344
+00:17:38,820 --> 00:17:41,820
+and all the galaxies, and all the planets, and all the energy,
+
+345
+00:17:41,820 --> 00:17:43,820
+and all the dark energy, and all the rest of stuff
+
+346
+00:17:43,820 --> 00:17:47,820
+is to create what's in this room.
+
+347
+00:17:47,820 --> 00:17:49,820
+Maybe not.
+
+348
+00:17:50,820 --> 00:17:53,820
+That would be a mildly arrogant viewpoint.
+
+349
+00:17:53,820 --> 00:17:57,820
+(Laughter)
+
+350
+00:17:58,820 --> 00:18:01,820
+So, if that's not the purpose of the universe, then what's next?
+
+351
+00:18:03,820 --> 00:18:07,820
+(Laughter)
+
+352
+00:18:07,820 --> 00:18:11,820
+I think what we're going to see is we're going to see a different species of hominid.
+
+353
+00:18:12,820 --> 00:18:16,820
+I think we're going to move from a Homo sapiens into a Homo evolutis.
+
+354
+00:18:16,820 --> 00:18:18,820
+And I think this isn't 1,000 years out.
+
+355
+00:18:18,820 --> 00:18:21,820
+I think most of us are going to glance at it,
+
+356
+00:18:21,820 --> 00:18:23,820
+and our grandchildren are going to begin to live it.
+
+357
+00:18:23,820 --> 00:18:26,820
+And a Homo evolutis brings together these three trends
+
+358
+00:18:26,820 --> 00:18:29,820
+into a hominid that takes direct and deliberate control
+
+359
+00:18:29,820 --> 00:18:33,820
+over the evolution of his species, her species and other species.
+
+360
+00:18:34,820 --> 00:18:38,820
+And that, of course, would be the ultimate reboot.
+
+361
+00:18:38,820 --> 00:18:40,820
+Thank you very much.
+
+362
+00:18:40,820 --> 00:18:43,820
+(Applause)
+

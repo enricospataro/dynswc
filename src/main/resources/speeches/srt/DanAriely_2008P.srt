@@ -1,0 +1,1773 @@
+﻿1
+00:00:12,137 --> 00:00:14,796
+I'll tell you a little bit
+about irrational behavior.
+
+2
+00:00:14,820 --> 00:00:16,701
+Not yours, of course -- other people's.
+
+3
+00:00:16,725 --> 00:00:17,907
+(Laughter)
+
+4
+00:00:17,931 --> 00:00:21,796
+So after being at MIT for a few years,
+
+5
+00:00:21,820 --> 00:00:26,477
+I realized that writing academic papers
+is not that exciting.
+
+6
+00:00:26,501 --> 00:00:28,859
+You know, I don't know
+how many of those you read,
+
+7
+00:00:28,883 --> 00:00:31,418
+but it's not fun to read
+and often not fun to write --
+
+8
+00:00:31,442 --> 00:00:32,796
+even worse to write.
+
+9
+00:00:32,820 --> 00:00:35,796
+So I decided to try and write
+something more fun.
+
+10
+00:00:35,820 --> 00:00:39,267
+And I came up with an idea
+that I would write a cookbook.
+
+11
+00:00:40,631 --> 00:00:42,783
+And the title for my cookbook
+was going to be,
+
+12
+00:00:42,807 --> 00:00:45,667
+"Dining Without Crumbs:
+The Art of Eating Over the Sink."
+
+13
+00:00:45,691 --> 00:00:47,413
+(Laughter)
+
+14
+00:00:47,437 --> 00:00:50,342
+And it was going to be a look
+at life through the kitchen.
+
+15
+00:00:50,366 --> 00:00:51,921
+I was quite excited about this.
+
+16
+00:00:51,945 --> 00:00:54,214
+I was going to talk
+a little bit about research,
+
+17
+00:00:54,238 --> 00:00:55,735
+a little bit about the kitchen.
+
+18
+00:00:55,759 --> 00:00:58,878
+We do so much in the kitchen,
+I thought this would be interesting.
+
+19
+00:00:58,902 --> 00:01:02,794
+I wrote a couple of chapters,
+and took it to MIT Press and they said,
+
+20
+00:01:02,818 --> 00:01:05,912
+"Cute, but not for us.
+Go and find somebody else."
+
+21
+00:01:05,936 --> 00:01:08,817
+I tried other people,
+and everybody said the same thing,
+
+22
+00:01:08,841 --> 00:01:10,912
+"Cute. Not for us."
+
+23
+00:01:10,936 --> 00:01:13,796
+Until somebody said,
+
+24
+00:01:13,820 --> 00:01:15,646
+"Look, if you're serious about this,
+
+25
+00:01:15,670 --> 00:01:19,201
+you have to write about your research
+first; you have to publish something,
+
+26
+00:01:19,225 --> 00:01:21,923
+then you'll get the opportunity
+to write something else.
+
+27
+00:01:21,947 --> 00:01:24,218
+If you really want to do it,
+you have to do it."
+
+28
+00:01:24,242 --> 00:01:26,587
+I said, "I don't want to write
+about my research.
+
+29
+00:01:26,611 --> 00:01:27,828
+I do it all day long,
+
+30
+00:01:27,852 --> 00:01:31,344
+I want to write something
+a bit more free, less constrained."
+
+31
+00:01:31,368 --> 00:01:33,796
+And this person
+was very forceful and said,
+
+32
+00:01:33,820 --> 00:01:36,396
+"Look, that's the only way
+you'll ever do it."
+
+33
+00:01:36,420 --> 00:01:38,730
+So I said, "Okay, if I have to do it --"
+
+34
+00:01:38,754 --> 00:01:39,913
+I had a sabbatical.
+
+35
+00:01:39,937 --> 00:01:42,896
+I said, "I'll write about my research,
+if there's no other way.
+
+36
+00:01:42,920 --> 00:01:44,722
+And then I'll get to do my cookbook."
+
+37
+00:01:44,746 --> 00:01:47,982
+So, I wrote a book on my research.
+
+38
+00:01:48,006 --> 00:01:50,577
+And it turned out to be
+quite fun in two ways.
+
+39
+00:01:50,601 --> 00:01:53,125
+First of all, I enjoyed writing.
+
+40
+00:01:53,149 --> 00:01:56,903
+But the more interesting thing
+was that I started learning from people.
+
+41
+00:01:56,927 --> 00:01:58,512
+It's a fantastic time to write,
+
+42
+00:01:58,536 --> 00:02:01,241
+because there's so much feedback
+you can get from people.
+
+43
+00:02:01,265 --> 00:02:03,796
+People write to me
+about their personal experience,
+
+44
+00:02:03,820 --> 00:02:06,154
+and about their examples,
+and where they disagree,
+
+45
+00:02:06,178 --> 00:02:07,796
+and their nuances.
+
+46
+00:02:07,820 --> 00:02:10,106
+And even being here --
+I mean, the last few days,
+
+47
+00:02:10,130 --> 00:02:12,796
+I've known heights of obsessive behavior
+
+48
+00:02:12,820 --> 00:02:14,796
+I never thought about.
+
+49
+00:02:14,820 --> 00:02:16,452
+(Laughter)
+
+50
+00:02:16,476 --> 00:02:18,368
+Which I think is just fascinating.
+
+51
+00:02:18,392 --> 00:02:20,987
+I will tell you a little bit
+about irrational behavior,
+
+52
+00:02:21,011 --> 00:02:24,189
+and I want to start by giving you
+some examples of visual illusion
+
+53
+00:02:24,213 --> 00:02:26,146
+as a metaphor for rationality.
+
+54
+00:02:26,170 --> 00:02:27,988
+So think about these two tables.
+
+55
+00:02:28,012 --> 00:02:29,796
+And you must have seen this illusion.
+
+56
+00:02:29,820 --> 00:02:33,641
+If I asked you what's longer, the vertical
+line on the table on the left,
+
+57
+00:02:33,665 --> 00:02:36,458
+or the horizontal line
+on the table on the right,
+
+58
+00:02:36,482 --> 00:02:38,796
+which one seems longer?
+
+59
+00:02:38,820 --> 00:02:41,795
+Can anybody see anything
+but the left one being longer?
+
+60
+00:02:41,819 --> 00:02:43,666
+No, right? It's impossible.
+
+61
+00:02:43,690 --> 00:02:47,582
+But the nice thing about visual illusion
+is we can easily demonstrate mistakes.
+
+62
+00:02:47,606 --> 00:02:50,069
+So I can put some lines
+on; it doesn't help.
+
+63
+00:02:50,093 --> 00:02:51,795
+I can animate the lines.
+
+64
+00:02:51,819 --> 00:02:54,487
+And to the extent you believe
+I didn't shrink the lines,
+
+65
+00:02:54,511 --> 00:02:59,299
+which I didn't, I've proven to you
+that your eyes were deceiving you.
+
+66
+00:02:59,323 --> 00:03:02,796
+Now, the interesting thing about this
+is when I take the lines away,
+
+67
+00:03:02,820 --> 00:03:05,630
+it's as if you haven't learned
+anything in the last minute.
+
+68
+00:03:05,654 --> 00:03:07,874
+(Laughter)
+
+69
+00:03:07,898 --> 00:03:11,589
+You can't look at this and say,
+"Now I see reality as it is."
+
+70
+00:03:11,613 --> 00:03:15,653
+Right? It's impossible to overcome
+this sense that this is indeed longer.
+
+71
+00:03:15,677 --> 00:03:17,304
+Our intuition is really fooling us
+
+72
+00:03:17,328 --> 00:03:19,475
+in a repeatable,
+predictable, consistent way.
+
+73
+00:03:19,499 --> 00:03:21,796
+and there is almost nothing
+we can do about it,
+
+74
+00:03:21,820 --> 00:03:24,796
+aside from taking a ruler
+and starting to measure it.
+
+75
+00:03:25,430 --> 00:03:27,994
+Here's another one.
+It's one of my favorite illusions.
+
+76
+00:03:28,018 --> 00:03:30,707
+What color is the top arrow pointing to?
+
+77
+00:03:31,779 --> 00:03:33,951
+Audience: Brown.
+Dan Ariely: Brown. Thank you.
+
+78
+00:03:33,975 --> 00:03:35,944
+The bottom one? Yellow.
+
+79
+00:03:35,968 --> 00:03:37,309
+Turns out they're identical.
+
+80
+00:03:37,333 --> 00:03:39,244
+Can anybody see them as identical?
+
+81
+00:03:39,268 --> 00:03:40,642
+Very, very hard.
+
+82
+00:03:40,666 --> 00:03:42,796
+I can cover the rest of the cube up.
+
+83
+00:03:42,820 --> 00:03:46,226
+If I cover the rest of the cube,
+you can see that they are identical.
+
+84
+00:03:46,250 --> 00:03:48,687
+If you don't believe me,
+you can get the slide later
+
+85
+00:03:48,711 --> 00:03:51,527
+and do some arts and crafts
+and see that they're identical.
+
+86
+00:03:51,551 --> 00:03:54,884
+But again, it's the same story,
+that if we take the background away,
+
+87
+00:03:54,908 --> 00:03:57,113
+the illusion comes back.
+
+88
+00:03:57,137 --> 00:04:00,114
+There is no way for us not
+to see this illusion.
+
+89
+00:04:00,138 --> 00:04:03,455
+I guess maybe if you're colorblind,
+I don't think you can see that.
+
+90
+00:04:03,479 --> 00:04:05,796
+I want you to think
+about illusion as a metaphor.
+
+91
+00:04:05,820 --> 00:04:07,955
+Vision is one of the best things we do.
+
+92
+00:04:07,979 --> 00:04:10,575
+We have a huge part of our brain
+dedicated to vision --
+
+93
+00:04:10,599 --> 00:04:12,494
+bigger than dedicated to anything else.
+
+94
+00:04:12,518 --> 00:04:16,366
+We use our vision more hours
+of the day than anything else.
+
+95
+00:04:16,390 --> 00:04:18,460
+We're evolutionarily
+designed to use vision.
+
+96
+00:04:18,484 --> 00:04:21,460
+And if we have these predictable
+repeatable mistakes in vision,
+
+97
+00:04:21,484 --> 00:04:22,990
+which we're so good at,
+
+98
+00:04:23,014 --> 00:04:25,578
+what are the chances we won't make
+even more mistakes
+
+99
+00:04:25,602 --> 00:04:29,153
+in something we're not as good at,
+for example, financial decision-making.
+
+100
+00:04:29,177 --> 00:04:30,796
+(Laughter)
+
+101
+00:04:30,820 --> 00:04:33,470
+Something we don't have
+an evolutionary reason to do,
+
+102
+00:04:33,494 --> 00:04:35,844
+we don't have a specialized
+part of the brain for,
+
+103
+00:04:35,868 --> 00:04:37,883
+and we don't do that many
+hours of the day.
+
+104
+00:04:37,907 --> 00:04:39,875
+The argument is in those cases,
+
+105
+00:04:39,899 --> 00:04:43,796
+it might be that we actually
+make many more mistakes.
+
+106
+00:04:43,820 --> 00:04:46,593
+And worse -- not having
+an easy way to see them,
+
+107
+00:04:46,617 --> 00:04:49,846
+because in visual illusions, we can
+easily demonstrate the mistakes;
+
+108
+00:04:49,870 --> 00:04:51,957
+in cognitive illusion
+it's much, much harder
+
+109
+00:04:51,981 --> 00:04:53,796
+to demonstrate the mistakes to people.
+
+110
+00:04:53,820 --> 00:04:56,796
+So I want to show you
+some cognitive illusions,
+
+111
+00:04:56,820 --> 00:04:59,902
+or decision-making illusions,
+in the same way.
+
+112
+00:04:59,926 --> 00:05:03,402
+And this is one of my favorite
+plots in social sciences.
+
+113
+00:05:03,426 --> 00:05:07,264
+It's from a paper
+by Johnson and Goldstein.
+
+114
+00:05:07,288 --> 00:05:10,986
+It basically shows the percentage
+of people who indicated
+
+115
+00:05:11,010 --> 00:05:14,740
+they would be interested
+in donating their organs.
+
+116
+00:05:14,764 --> 00:05:16,689
+These are different countries in Europe.
+
+117
+00:05:16,713 --> 00:05:18,674
+You basically see two types of countries:
+
+118
+00:05:18,698 --> 00:05:21,300
+countries on the right,
+that seem to be giving a lot;
+
+119
+00:05:21,324 --> 00:05:24,283
+and countries on the left
+that seem to giving very little,
+
+120
+00:05:24,307 --> 00:05:25,910
+or much less.
+
+121
+00:05:25,934 --> 00:05:27,086
+The question is, why?
+
+122
+00:05:27,110 --> 00:05:30,434
+Why do some countries give a lot
+and some countries give a little?
+
+123
+00:05:30,458 --> 00:05:32,086
+When you ask people this question,
+
+124
+00:05:32,110 --> 00:05:34,642
+they usually think that it has
+to be about culture.
+
+125
+00:05:34,666 --> 00:05:36,292
+How much do you care about people?
+
+126
+00:05:36,316 --> 00:05:37,796
+Giving organs to somebody else
+
+127
+00:05:37,820 --> 00:05:41,154
+is probably about how much you care
+about society, how linked you are.
+
+128
+00:05:41,178 --> 00:05:42,796
+Or maybe it's about religion.
+
+129
+00:05:42,820 --> 00:05:44,775
+But if you look at this plot,
+
+130
+00:05:44,799 --> 00:05:48,226
+you can see that countries
+that we think about as very similar,
+
+131
+00:05:48,250 --> 00:05:50,392
+actually exhibit very different behavior.
+
+132
+00:05:51,028 --> 00:05:53,289
+For example, Sweden
+is all the way on the right,
+
+133
+00:05:53,313 --> 00:05:55,972
+and Denmark, which we think
+is culturally very similar,
+
+134
+00:05:55,996 --> 00:05:57,796
+is all the way on the left.
+
+135
+00:05:57,820 --> 00:06:01,796
+Germany is on the left,
+and Austria is on the right.
+
+136
+00:06:01,820 --> 00:06:05,136
+The Netherlands is on the left,
+and Belgium is on the right.
+
+137
+00:06:05,160 --> 00:06:07,796
+And finally, depending
+on your particular version
+
+138
+00:06:07,820 --> 00:06:09,796
+of European similarity,
+
+139
+00:06:09,820 --> 00:06:14,986
+you can think about the U.K. and France
+as either similar culturally or not,
+
+140
+00:06:15,010 --> 00:06:18,834
+but it turns out that with organ
+donation, they are very different.
+
+141
+00:06:18,858 --> 00:06:21,297
+By the way, the Netherlands
+is an interesting story.
+
+142
+00:06:21,321 --> 00:06:24,940
+You see, the Netherlands is kind
+of the biggest of the small group.
+
+143
+00:06:26,154 --> 00:06:28,796
+It turns out that they got to 28 percent
+
+144
+00:06:28,820 --> 00:06:32,099
+after mailing every household
+in the country a letter,
+
+145
+00:06:32,123 --> 00:06:34,796
+begging people to join
+this organ donation program.
+
+146
+00:06:35,332 --> 00:06:38,300
+You know the expression,
+"Begging only gets you so far."
+
+147
+00:06:38,324 --> 00:06:40,796
+It's 28 percent in organ donation.
+
+148
+00:06:40,820 --> 00:06:42,689
+(Laughter)
+
+149
+00:06:43,093 --> 00:06:45,443
+But whatever the countries
+on the right are doing,
+
+150
+00:06:45,467 --> 00:06:47,578
+they're doing a much
+better job than begging.
+
+151
+00:06:47,602 --> 00:06:48,910
+So what are they doing?
+
+152
+00:06:48,934 --> 00:06:52,402
+Turns out the secret has to do
+with a form at the DMV.
+
+153
+00:06:52,426 --> 00:06:53,796
+And here is the story.
+
+154
+00:06:53,820 --> 00:06:56,327
+The countries on the left
+have a form at the DMV
+
+155
+00:06:56,351 --> 00:06:58,042
+that looks something like this.
+
+156
+00:06:58,066 --> 00:07:02,351
+"Check the box below if you want to
+participate in the organ donor program."
+
+157
+00:07:02,375 --> 00:07:03,796
+And what happens?
+
+158
+00:07:03,820 --> 00:07:06,129
+People don't check, and they don't join.
+
+159
+00:07:06,820 --> 00:07:09,322
+The countries on the right,
+the ones that give a lot,
+
+160
+00:07:09,346 --> 00:07:10,948
+have a slightly different form.
+
+161
+00:07:10,972 --> 00:07:14,472
+It says, "Check the box below
+if you don't want to participate ..."
+
+162
+00:07:14,496 --> 00:07:16,686
+Interestingly enough,
+when people get this,
+
+163
+00:07:16,710 --> 00:07:18,796
+they again don't check, but now they join.
+
+164
+00:07:18,820 --> 00:07:21,796
+(Laughter)
+
+165
+00:07:21,820 --> 00:07:24,732
+Now, think about what this means.
+
+166
+00:07:25,226 --> 00:07:28,796
+You know, we wake up in the morning
+and we feel we make decisions.
+
+167
+00:07:28,820 --> 00:07:31,130
+We wake up in the morning
+and we open the closet;
+
+168
+00:07:31,154 --> 00:07:32,938
+we feel that we decide what to wear.
+
+169
+00:07:32,962 --> 00:07:36,034
+we open the refrigerator and we feel
+that we decide what to eat.
+
+170
+00:07:36,058 --> 00:07:37,557
+What this is actually saying,
+
+171
+00:07:37,581 --> 00:07:40,391
+is that many of these decisions
+are not residing within us.
+
+172
+00:07:40,415 --> 00:07:43,192
+They are residing in the person
+who is designing that form.
+
+173
+00:07:43,541 --> 00:07:45,487
+When you walk into the DMV,
+
+174
+00:07:45,511 --> 00:07:48,510
+the person who designed the form
+will have a huge influence
+
+175
+00:07:48,534 --> 00:07:50,343
+on what you'll end up doing.
+
+176
+00:07:50,367 --> 00:07:53,146
+Now, it's also very hard
+to intuit these results.
+
+177
+00:07:53,170 --> 00:07:54,511
+Think about it for yourself.
+
+178
+00:07:54,535 --> 00:07:55,796
+How many of you believe
+
+179
+00:07:55,820 --> 00:07:58,106
+that if you went to renew
+your license tomorrow,
+
+180
+00:07:58,130 --> 00:07:59,796
+and you went to the DMV,
+
+181
+00:07:59,820 --> 00:08:02,087
+and you encountered one of these forms,
+
+182
+00:08:02,111 --> 00:08:04,572
+that it would actually
+change your own behavior?
+
+183
+00:08:04,596 --> 00:08:06,903
+Very hard to think
+that it would influence us.
+
+184
+00:08:06,927 --> 00:08:10,466
+We can say, "Oh, these funny Europeans,
+of course it would influence them."
+
+185
+00:08:10,490 --> 00:08:12,253
+But when it comes to us,
+
+186
+00:08:12,277 --> 00:08:14,915
+we have such a feeling
+that we're in the driver's seat,
+
+187
+00:08:14,939 --> 00:08:18,228
+such a feeling that we're in control
+and we are making the decision,
+
+188
+00:08:18,252 --> 00:08:20,851
+that it's very hard
+to even accept the idea
+
+189
+00:08:20,875 --> 00:08:23,550
+that we actually have an illusion
+of making a decision,
+
+190
+00:08:23,574 --> 00:08:25,638
+rather than an actual decision.
+
+191
+00:08:25,662 --> 00:08:28,130
+Now, you might say,
+
+192
+00:08:28,154 --> 00:08:30,571
+"These are decisions we don't care about."
+
+193
+00:08:30,595 --> 00:08:32,868
+In fact, by definition,
+these are decisions
+
+194
+00:08:32,892 --> 00:08:35,475
+about something that will happen
+to us after we die.
+
+195
+00:08:35,499 --> 00:08:37,619
+How could we care about something less
+
+196
+00:08:37,643 --> 00:08:39,932
+than about something
+that happens after we die?
+
+197
+00:08:39,956 --> 00:08:42,878
+So a standard economist,
+somebody who believes in rationality,
+
+198
+00:08:42,902 --> 00:08:44,155
+would say, "You know what?
+
+199
+00:08:44,179 --> 00:08:47,631
+The cost of lifting the pencil
+and marking a "V" is higher
+
+200
+00:08:47,655 --> 00:08:49,796
+than the possible benefit of the decision,
+
+201
+00:08:49,820 --> 00:08:51,618
+so that's why we get this effect."
+
+202
+00:08:51,642 --> 00:08:52,651
+(Laughter)
+
+203
+00:08:52,675 --> 00:08:55,173
+But, in fact, it's not because it's easy.
+
+204
+00:08:55,197 --> 00:08:58,213
+It's not because it's trivial.
+It's not because we don't care.
+
+205
+00:08:58,237 --> 00:09:00,658
+It's the opposite. It's because we care.
+
+206
+00:09:00,682 --> 00:09:02,626
+It's difficult and it's complex.
+
+207
+00:09:02,650 --> 00:09:05,201
+And it's so complex
+that we don't know what to do.
+
+208
+00:09:05,225 --> 00:09:07,201
+And because we have no idea what to do,
+
+209
+00:09:07,225 --> 00:09:10,796
+we just pick whatever it was
+that was chosen for us.
+
+210
+00:09:11,429 --> 00:09:12,970
+I'll give you one more example.
+
+211
+00:09:12,994 --> 00:09:15,581
+This is from a paper
+by Redelmeier and Shafir.
+
+212
+00:09:15,605 --> 00:09:19,111
+And they said, "Would this
+effect also happens to experts?
+
+213
+00:09:19,135 --> 00:09:22,263
+People who are well-paid,
+experts in their decisions,
+
+214
+00:09:22,287 --> 00:09:23,643
+and who make a lot of them?"
+
+215
+00:09:23,667 --> 00:09:25,852
+And they took a group of physicians.
+
+216
+00:09:25,876 --> 00:09:28,328
+They presented to them
+a case study of a patient.
+
+217
+00:09:28,352 --> 00:09:31,796
+They said, "Here is a patient.
+He is a 67-year-old farmer.
+
+218
+00:09:31,820 --> 00:09:34,550
+He's been suffering from
+right hip pain for a while."
+
+219
+00:09:34,574 --> 00:09:36,408
+And then, they said to the physicians,
+
+220
+00:09:36,432 --> 00:09:37,796
+"You decided a few weeks ago
+
+221
+00:09:37,820 --> 00:09:39,796
+that nothing is working for this patient.
+
+222
+00:09:39,820 --> 00:09:42,249
+All these medications,
+nothing seems to be working.
+
+223
+00:09:42,273 --> 00:09:45,045
+So you refer the patient
+for hip replacement therapy.
+
+224
+00:09:45,069 --> 00:09:46,796
+Hip replacement. Okay?"
+
+225
+00:09:46,820 --> 00:09:49,795
+So the patient is on a path
+to have his hip replaced.
+
+226
+00:09:50,276 --> 00:09:52,245
+Then they said to half of the physicians,
+
+227
+00:09:52,269 --> 00:09:54,608
+"Yesterday, you reviewed
+the patient's case,
+
+228
+00:09:54,632 --> 00:09:57,242
+and you realized that you forgot
+to try one medication.
+
+229
+00:09:57,266 --> 00:09:58,862
+You did not try ibuprofen.
+
+230
+00:09:59,820 --> 00:10:03,145
+What do you do? Do you pull
+the patient back and try ibuprofen?
+
+231
+00:10:03,169 --> 00:10:05,939
+Or do you let him go
+and have hip replacement?"
+
+232
+00:10:05,963 --> 00:10:08,614
+Well, the good news is
+that most physicians in this case
+
+233
+00:10:08,638 --> 00:10:11,447
+decided to pull the patient
+and try ibuprofen.
+
+234
+00:10:11,471 --> 00:10:13,211
+Very good for the physicians.
+
+235
+00:10:13,235 --> 00:10:15,302
+To the other group
+of physicians, they said,
+
+236
+00:10:15,326 --> 00:10:19,175
+"Yesterday when you reviewed the case,
+you discovered there were two medications
+
+237
+00:10:19,199 --> 00:10:21,715
+you didn't try out yet --
+ibuprofen and piroxicam."
+
+238
+00:10:21,739 --> 00:10:23,990
+You have two medications
+you didn't try out yet.
+
+239
+00:10:24,014 --> 00:10:26,657
+What do you do? You let him go,
+or you pull him back?
+
+240
+00:10:26,681 --> 00:10:30,125
+And if you pull him back, do you try
+ibuprofen or piroxicam? Which one?"
+
+241
+00:10:30,149 --> 00:10:31,305
+Now, think of it:
+
+242
+00:10:31,329 --> 00:10:35,201
+This decision makes it as easy to let
+the patient continue with hip replacement,
+
+243
+00:10:35,225 --> 00:10:38,351
+but pulling him back, all of the sudden
+it becomes more complex.
+
+244
+00:10:38,375 --> 00:10:40,193
+There is one more decision.
+
+245
+00:10:40,217 --> 00:10:41,543
+What happens now?
+
+246
+00:10:41,567 --> 00:10:45,186
+The majority of the physicians
+now choose to let the patient go
+
+247
+00:10:45,210 --> 00:10:46,727
+for a hip replacement.
+
+248
+00:10:46,751 --> 00:10:48,796
+I hope this worries you, by the way --
+
+249
+00:10:48,820 --> 00:10:50,053
+(Laughter)
+
+250
+00:10:50,077 --> 00:10:51,796
+when you go to see your physician.
+
+251
+00:10:52,442 --> 00:10:55,164
+The thing is that
+no physician would ever say,
+
+252
+00:10:55,188 --> 00:10:58,981
+"Piroxicam, ibuprofen, hip replacement.
+Let's go for hip replacement."
+
+253
+00:10:59,005 --> 00:11:01,796
+But the moment you set this
+as the default,
+
+254
+00:11:01,820 --> 00:11:05,796
+it has a huge power over whatever
+people end up doing.
+
+255
+00:11:05,820 --> 00:11:09,154
+I'll give you a couple of more examples
+on irrational decision-making.
+
+256
+00:11:09,178 --> 00:11:10,996
+Imagine I give you a choice:
+
+257
+00:11:11,020 --> 00:11:14,633
+Do you want to go for a weekend to Rome,
+all expenses paid --
+
+258
+00:11:14,657 --> 00:11:19,219
+hotel, transportation, food,
+a continental breakfast, everything --
+
+259
+00:11:19,243 --> 00:11:20,796
+or a weekend in Paris?
+
+260
+00:11:20,820 --> 00:11:24,074
+Now, weekend in Paris, weekend
+in Rome -- these are different things.
+
+261
+00:11:24,098 --> 00:11:26,876
+They have different food,
+different culture, different art.
+
+262
+00:11:26,900 --> 00:11:30,256
+Imagine I added a choice to the set
+that nobody wanted.
+
+263
+00:11:30,280 --> 00:11:32,032
+Imagine I said, "A weekend in Rome,
+
+264
+00:11:32,056 --> 00:11:33,424
+a weekend in Paris,
+
+265
+00:11:33,448 --> 00:11:35,040
+or having your car stolen?"
+
+266
+00:11:35,064 --> 00:11:38,097
+(Laughter)
+
+267
+00:11:38,121 --> 00:11:41,367
+It's a funny idea, because why
+would having your car stolen,
+
+268
+00:11:41,391 --> 00:11:42,987
+in this set, influence anything?
+
+269
+00:11:43,011 --> 00:11:45,125
+(Laughter)
+
+270
+00:11:45,149 --> 00:11:49,598
+But what if the option to have your car
+stolen was not exactly like this?
+
+271
+00:11:49,622 --> 00:11:52,154
+What if it was a trip to Rome,
+all expenses paid,
+
+272
+00:11:52,178 --> 00:11:54,456
+transportation, breakfast,
+
+273
+00:11:54,480 --> 00:11:56,796
+but it doesn't include
+coffee in the morning?
+
+274
+00:11:56,820 --> 00:12:00,193
+If you want coffee, you have to pay
+for it yourself, it's two euros 50.
+
+275
+00:12:00,217 --> 00:12:01,224
+(Laughter)
+
+276
+00:12:01,248 --> 00:12:02,796
+Now in some ways,
+
+277
+00:12:02,820 --> 00:12:05,119
+given that you can have Rome with coffee,
+
+278
+00:12:05,143 --> 00:12:07,524
+why would you possibly
+want Rome without coffee?
+
+279
+00:12:07,548 --> 00:12:10,492
+It's like having your car stolen.
+It's an inferior option.
+
+280
+00:12:11,134 --> 00:12:12,286
+But guess what happened?
+
+281
+00:12:12,310 --> 00:12:14,621
+The moment you add Rome without coffee,
+
+282
+00:12:14,645 --> 00:12:18,263
+Rome with coffee becomes more popular,
+and people choose it.
+
+283
+00:12:18,287 --> 00:12:20,796
+The fact that you have Rome without coffee
+
+284
+00:12:20,820 --> 00:12:22,796
+makes Rome with coffee look superior,
+
+285
+00:12:22,820 --> 00:12:25,796
+and not just to Rome without coffee --
+even superior to Paris.
+
+286
+00:12:25,820 --> 00:12:29,897
+(Laughter)
+
+287
+00:12:29,921 --> 00:12:32,373
+Here are two examples of this principle.
+
+288
+00:12:32,397 --> 00:12:35,049
+This was an ad in The Economist
+a few years ago
+
+289
+00:12:35,073 --> 00:12:37,153
+that gave us three choices:
+
+290
+00:12:37,177 --> 00:12:40,010
+an online subscription for 59 dollars,
+
+291
+00:12:40,034 --> 00:12:43,519
+a print subscription for 125 dollars,
+
+292
+00:12:43,543 --> 00:12:45,796
+or you could get both for 125.
+
+293
+00:12:45,820 --> 00:12:47,796
+(Laughter)
+
+294
+00:12:47,820 --> 00:12:50,405
+Now I looked at this,
+and I called up The Economist,
+
+295
+00:12:50,429 --> 00:12:52,992
+and I tried to figure out
+what they were thinking.
+
+296
+00:12:53,016 --> 00:12:56,158
+And they passed me from one person
+to another to another,
+
+297
+00:12:56,182 --> 00:12:59,905
+until eventually I got to the person
+who was in charge of the website,
+
+298
+00:12:59,929 --> 00:13:03,524
+and I called them up, and they went
+to check what was going on.
+
+299
+00:13:03,548 --> 00:13:07,395
+The next thing I know,
+the ad is gone, no explanation.
+
+300
+00:13:07,419 --> 00:13:09,306
+So I decided to do the experiment
+
+301
+00:13:09,330 --> 00:13:11,972
+that I would have loved
+The Economist to do with me.
+
+302
+00:13:11,996 --> 00:13:14,395
+I took this and I gave it
+to 100 MIT students.
+
+303
+00:13:14,419 --> 00:13:15,983
+I said, "What would you choose?"
+
+304
+00:13:16,007 --> 00:13:19,993
+These are the market shares --
+most people wanted the combo deal.
+
+305
+00:13:20,017 --> 00:13:22,225
+Thankfully, nobody wanted
+the dominant option.
+
+306
+00:13:22,249 --> 00:13:23,889
+That means our students can read.
+
+307
+00:13:23,913 --> 00:13:25,295
+(Laughter)
+
+308
+00:13:25,319 --> 00:13:28,208
+But now, if you have an option
+that nobody wants,
+
+309
+00:13:28,232 --> 00:13:29,931
+you can take it off, right?
+
+310
+00:13:29,955 --> 00:13:31,796
+So I printed another version of this,
+
+311
+00:13:31,820 --> 00:13:33,637
+where I eliminated the middle option.
+
+312
+00:13:33,661 --> 00:13:37,144
+I gave it to another 100 students.
+Here is what happened:
+
+313
+00:13:37,168 --> 00:13:39,905
+Now the most popular option
+became the least popular,
+
+314
+00:13:39,929 --> 00:13:42,572
+and the least popular
+became the most popular.
+
+315
+00:13:43,461 --> 00:13:46,796
+What was happening
+was the option that was useless,
+
+316
+00:13:46,820 --> 00:13:50,671
+in the middle, was useless
+in the sense that nobody wanted it.
+
+317
+00:13:50,695 --> 00:13:53,861
+But it wasn't useless in the sense
+that it helped people figure out
+
+318
+00:13:53,885 --> 00:13:55,036
+what they wanted.
+
+319
+00:13:55,060 --> 00:13:57,796
+In fact, relative
+to the option in the middle,
+
+320
+00:13:57,820 --> 00:14:02,319
+which was get only the print for 125,
+
+321
+00:14:02,343 --> 00:14:06,096
+the print and web for 125
+looked like a fantastic deal.
+
+322
+00:14:06,120 --> 00:14:08,223
+And as a consequence, people chose it.
+
+323
+00:14:08,247 --> 00:14:09,874
+The general idea here, by the way,
+
+324
+00:14:09,898 --> 00:14:12,589
+is that we actually don't know
+our preferences that well.
+
+325
+00:14:12,613 --> 00:14:15,083
+And because we don't know
+our preferences that well,
+
+326
+00:14:15,107 --> 00:14:18,396
+we're susceptible to all of these
+influences from the external forces:
+
+327
+00:14:18,420 --> 00:14:22,096
+the defaults, the particular options
+that are presented to us, and so on.
+
+328
+00:14:22,452 --> 00:14:23,796
+One more example of this.
+
+329
+00:14:23,820 --> 00:14:27,177
+People believe that when we deal
+with physical attraction,
+
+330
+00:14:27,201 --> 00:14:30,464
+we see somebody, and we know immediately
+whether we like them or not,
+
+331
+00:14:30,488 --> 00:14:31,796
+if we're attracted or not.
+
+332
+00:14:31,820 --> 00:14:34,252
+This is why we have
+these four-minute dates.
+
+333
+00:14:34,276 --> 00:14:36,796
+So I decided to do
+this experiment with people.
+
+334
+00:14:36,820 --> 00:14:40,796
+I'll show you images here, no real people,
+but the experiment was with people.
+
+335
+00:14:40,820 --> 00:14:43,796
+I showed some people a picture
+of Tom, and a picture of Jerry.
+
+336
+00:14:43,820 --> 00:14:45,889
+and I said, "Who do you want to date?
+
+337
+00:14:45,913 --> 00:14:47,388
+Tom or Jerry?"
+
+338
+00:14:47,412 --> 00:14:50,691
+But for half the people,
+I added an ugly version of Jerry.
+
+339
+00:14:50,715 --> 00:14:55,796
+I took Photoshop and I made
+Jerry slightly less attractive.
+
+340
+00:14:55,820 --> 00:14:57,233
+(Laughter)
+
+341
+00:14:57,257 --> 00:15:00,796
+For the other people, I added
+an ugly version of Tom.
+
+342
+00:15:00,820 --> 00:15:03,796
+And the question was,
+will ugly Jerry and ugly Tom
+
+343
+00:15:03,820 --> 00:15:07,588
+help their respective,
+more attractive brothers?
+
+344
+00:15:07,612 --> 00:15:09,841
+The answer was absolutely yes.
+
+345
+00:15:09,865 --> 00:15:12,011
+When ugly Jerry was around,
+Jerry was popular.
+
+346
+00:15:12,035 --> 00:15:14,175
+When ugly Tom was around, Tom was popular.
+
+347
+00:15:14,199 --> 00:15:15,796
+(Laughter)
+
+348
+00:15:15,820 --> 00:15:18,332
+This of course has two
+very clear implications
+
+349
+00:15:18,356 --> 00:15:20,665
+for life in general.
+
+350
+00:15:21,610 --> 00:15:24,796
+If you ever go bar-hopping,
+who do you want to take with you?
+
+351
+00:15:24,820 --> 00:15:30,549
+(Laughter)
+
+352
+00:15:30,573 --> 00:15:34,350
+You want a slightly uglier
+version of yourself.
+
+353
+00:15:34,374 --> 00:15:35,796
+(Laughter)
+
+354
+00:15:35,820 --> 00:15:38,057
+Similar, but slightly uglier.
+
+355
+00:15:38,081 --> 00:15:39,524
+(Laughter)
+
+356
+00:15:39,548 --> 00:15:43,317
+The second point, or course, is that
+if somebody invites you to bar hop,
+
+357
+00:15:43,341 --> 00:15:45,088
+you know what they think about you.
+
+358
+00:15:45,112 --> 00:15:47,796
+(Laughter)
+
+359
+00:15:47,820 --> 00:15:50,102
+Now you get it.
+
+360
+00:15:50,126 --> 00:15:51,796
+What is the general point?
+
+361
+00:15:51,820 --> 00:15:53,078
+The general point is that,
+
+362
+00:15:53,102 --> 00:15:56,796
+when we think about economics, we have
+this beautiful view of human nature.
+
+363
+00:15:56,820 --> 00:15:59,357
+"What a piece of work is a man!
+How noble in reason!"
+
+364
+00:15:59,381 --> 00:16:01,959
+We have this view of ourselves, of others.
+
+365
+00:16:01,983 --> 00:16:07,197
+The behavioral economics perspective
+is slightly less "generous" to people;
+
+366
+00:16:07,221 --> 00:16:09,320
+in fact, in medical terms,
+
+367
+00:16:09,344 --> 00:16:10,536
+that's our view.
+
+368
+00:16:10,560 --> 00:16:15,687
+(Laughter)
+
+369
+00:16:15,711 --> 00:16:17,796
+But there is a silver lining.
+
+370
+00:16:17,820 --> 00:16:19,694
+The silver lining is, I think,
+
+371
+00:16:19,718 --> 00:16:23,796
+kind of the reason that behavioral
+economics is interesting and exciting.
+
+372
+00:16:23,820 --> 00:16:26,685
+Are we Superman, or are we Homer Simpson?
+
+373
+00:16:27,106 --> 00:16:30,097
+When it comes to building
+the physical world,
+
+374
+00:16:30,121 --> 00:16:32,153
+we kind of understand our limitations.
+
+375
+00:16:32,177 --> 00:16:33,348
+We build steps.
+
+376
+00:16:33,372 --> 00:16:36,515
+And we build these things
+that not everybody can use, obviously.
+
+377
+00:16:36,539 --> 00:16:38,435
+(Laughter)
+
+378
+00:16:38,459 --> 00:16:40,006
+We understand our limitations,
+
+379
+00:16:40,030 --> 00:16:41,680
+and we build around them.
+
+380
+00:16:41,704 --> 00:16:44,283
+But for some reason, when it comes
+to the mental world,
+
+381
+00:16:44,307 --> 00:16:47,664
+when we design things like healthcare
+and retirement and stock markets,
+
+382
+00:16:47,688 --> 00:16:50,036
+we somehow forget the idea
+that we are limited.
+
+383
+00:16:50,060 --> 00:16:52,967
+I think that if we understood
+our cognitive limitations
+
+384
+00:16:52,991 --> 00:16:55,603
+in the same way we understand
+our physical limitations,
+
+385
+00:16:55,627 --> 00:16:58,437
+even though they don't stare us
+in the face the same way,
+
+386
+00:16:58,461 --> 00:17:00,941
+we could design a better world,
+and that, I think,
+
+387
+00:17:00,965 --> 00:17:02,358
+is the hope of this thing.
+
+388
+00:17:02,382 --> 00:17:03,796
+Thank you very much.
+
+389
+00:17:03,820 --> 00:17:10,462
+(Applause)
+

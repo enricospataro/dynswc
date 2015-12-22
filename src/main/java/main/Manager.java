@@ -1,16 +1,23 @@
 package main.java.main;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 
 import main.java.layout.*;
 import main.java.layout.morphing.MorphingStrategy;
 import main.java.layout.morphing.SimpleMorphing;
+import main.java.metrics.CoherenceMetric;
+import main.java.metrics.CombinationMetric;
+import main.java.metrics.DistortionMetric;
+import main.java.metrics.SpaceMetric;
 import main.java.render.color.*;
 import main.java.render.color.morphing.ColorMorphingStrategy;
 import main.java.render.color.morphing.SimpleColorMorphing;
@@ -39,9 +46,15 @@ import opennlp.tools.util.InvalidFormatException;
 public class Manager {
 	
 	public static void main(String[] args) throws IOException {
-		try{
-			new Manager().run();
-		}catch (Exception e){e.printStackTrace();}	
+
+		File[] files = new File("src/main/resources/speeches/txt").listFiles();
+		int n=files.length;
+		for(int i=0;i<n;i++) {
+			try{
+				new Manager().run(files[i]);
+			}catch (Exception e){e.printStackTrace();}	
+		}		
+		createResult(a,cmValue/n,smValue/n,rtValue/n);
 	}
 	
 	private TokenizerME tokenizer;
@@ -62,19 +75,24 @@ public class Manager {
 	private List<ColorHandler> frameColorHandlers;
 	private int frames;
 	private static int words;
+	private static double a;
+	private static long rtValue;
+	private static double cmValue;
+	private static double smValue; 
+	private long runningTime;
 	
-	private void run() throws IOException {
+	private void run(File in) throws IOException {
 		
 		// 1 compute elaboration of a document 	
 		File sentModel = new File("src/main/resources/opennlp/en-sent.bin");
-		setSentenceDetector(sentModel);
-		File in = new File("src/main/resources/speeches/nucleardeal.srt");
-		// Text parsing if the input file is a .srt file
-		File out = File.createTempFile(in.getName(), "_cleaned");
-		cleanFile(in,out);
-		String text = TextUtils.readFileToString(out);
-
+//		// Text parsing if the input file is a .srt file
+//		File out = File.createTempFile(in.getName(), "_cleaned");
+//		cleanFile(in,out);
+		
+		String text = TextUtils.readFileToString(in);
+		
 		// Tokenization, stop words removal and stemming of the text
+		setSentenceDetector(sentModel);
 		File inStopWords = new File("src/main/resources/opennlp/en-stopwords");
 		stopWords = getStopWords(inStopWords);
 		File tokenModel = new File("src/main/resources/opennlp/en-token.bin");
@@ -105,7 +123,10 @@ public class Manager {
 			wordGraphs.add(wordGraph);
 			
 			// 3 run a layout algorithm
+	        long startTime = System.nanoTime();
 			layoutResults.add(layout(wordGraph));
+	        long endTime = System.nanoTime();
+	        runningTime = (endTime - startTime); 
 		}
 		
 		setFrames(100);
@@ -138,7 +159,36 @@ public class Manager {
 		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
 		
 		// 4 visualize wordcloud
-		visualize(wordGraph,frameResults,frameColorHandlers); 
+//		visualize(wordGraph,frameResults,frameColorHandlers); 
+		
+		// 5 execute test
+		test();
+	}
+
+	private void test() {
+		a = 0.5;
+		CombinationMetric cm = new CombinationMetric(a);
+		SpaceMetric sm = new SpaceMetric(false);
+		
+		cmValue += cm.getValue(wordGraphs,layoutResults);
+		smValue += sm.getValue(wordGraphs,layoutResults);
+		rtValue += runningTime/wordGraphs.size();
+	}
+
+	private static void createResult(double a, double cmValue, double smValue,long runningTime) throws IOException {
+		Random r = new Random();
+		File path = new File("src/main/resources/results");
+		File result = File.createTempFile("Test_1_",".txt",path);
+		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
+		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CPWCV" + "\r\n" +
+				"Cluster Similarity: Jaccard " + "\r\n");
+		bw.write("Words: " + getWords() + "\r\n");
+		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
+		bw.write("SpaceMetric: " + smValue + "\r\n");
+		bw.write("CombinationMetric: " + cmValue + "\r\n");
+		bw.write("RunningTime: " + runningTime + "\r\n");
+		bw.flush();
+		bw.close();
 	}
 
 	private static void cleanFile(File in,File out) {

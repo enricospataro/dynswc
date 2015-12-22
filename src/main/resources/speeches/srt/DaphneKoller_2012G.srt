@@ -1,0 +1,1840 @@
+﻿1
+00:00:12,545 --> 00:00:15,656
+Like many of you, I'm one of the lucky people.
+
+2
+00:00:15,656 --> 00:00:19,056
+I was born to a family where education was pervasive.
+
+3
+00:00:19,056 --> 00:00:23,294
+I'm a third-generation PhD, a daughter of two academics.
+
+4
+00:00:23,294 --> 00:00:27,088
+In my childhood, I played around in my father's university lab.
+
+5
+00:00:27,088 --> 00:00:30,937
+So it was taken for granted that I attend some of the best universities,
+
+6
+00:00:30,937 --> 00:00:34,738
+which in turn opened the door to a world of opportunity.
+
+7
+00:00:34,738 --> 00:00:38,858
+Unfortunately, most of the people in the world are not so lucky.
+
+8
+00:00:38,858 --> 00:00:41,993
+In some parts of the world, for example, South Africa,
+
+9
+00:00:41,993 --> 00:00:44,698
+education is just not readily accessible.
+
+10
+00:00:44,698 --> 00:00:47,673
+In South Africa, the educational system was constructed
+
+11
+00:00:47,673 --> 00:00:50,546
+in the days of apartheid for the white minority.
+
+12
+00:00:50,546 --> 00:00:53,246
+And as a consequence, today there is just not enough spots
+
+13
+00:00:53,246 --> 00:00:57,098
+for the many more people who want and deserve a high quality education.
+
+14
+00:00:57,098 --> 00:01:00,978
+That scarcity led to a crisis in January of this year
+
+15
+00:01:00,978 --> 00:01:02,814
+at the University of Johannesburg.
+
+16
+00:01:02,814 --> 00:01:04,945
+There were a handful of positions left open
+
+17
+00:01:04,945 --> 00:01:07,914
+from the standard admissions process, and the night before
+
+18
+00:01:07,914 --> 00:01:10,474
+they were supposed to open that for registration,
+
+19
+00:01:10,474 --> 00:01:14,526
+thousands of people lined up outside the gate in a line a mile long,
+
+20
+00:01:14,526 --> 00:01:18,406
+hoping to be first in line to get one of those positions.
+
+21
+00:01:18,406 --> 00:01:20,714
+When the gates opened, there was a stampede,
+
+22
+00:01:20,714 --> 00:01:24,366
+and 20 people were injured and one woman died.
+
+23
+00:01:24,366 --> 00:01:26,306
+She was a mother who gave her life
+
+24
+00:01:26,306 --> 00:01:30,369
+trying to get her son a chance at a better life.
+
+25
+00:01:30,369 --> 00:01:33,526
+But even in parts of the world like the United States
+
+26
+00:01:33,526 --> 00:01:37,882
+where education is available, it might not be within reach.
+
+27
+00:01:37,882 --> 00:01:40,554
+There has been much discussed in the last few years
+
+28
+00:01:40,554 --> 00:01:42,543
+about the rising cost of health care.
+
+29
+00:01:42,543 --> 00:01:45,185
+What might not be quite as obvious to people
+
+30
+00:01:45,185 --> 00:01:49,207
+is that during that same period the cost of higher education tuition
+
+31
+00:01:49,207 --> 00:01:51,687
+has been increasing at almost twice the rate,
+
+32
+00:01:51,687 --> 00:01:55,967
+for a total of 559 percent since 1985.
+
+33
+00:01:55,967 --> 00:02:00,501
+This makes education unaffordable for many people.
+
+34
+00:02:00,501 --> 00:02:04,302
+Finally, even for those who do manage to get the higher education,
+
+35
+00:02:04,302 --> 00:02:06,927
+the doors of opportunity might not open.
+
+36
+00:02:06,927 --> 00:02:10,134
+Only a little over half of recent college graduates
+
+37
+00:02:10,134 --> 00:02:12,447
+in the United States who get a higher education
+
+38
+00:02:12,447 --> 00:02:15,910
+actually are working in jobs that require that education.
+
+39
+00:02:15,910 --> 00:02:17,750
+This, of course, is not true for the students
+
+40
+00:02:17,750 --> 00:02:19,702
+who graduate from the top institutions,
+
+41
+00:02:19,702 --> 00:02:22,334
+but for many others, they do not get the value
+
+42
+00:02:22,334 --> 00:02:25,870
+for their time and their effort.
+
+43
+00:02:25,870 --> 00:02:28,900
+Tom Friedman, in his recent New York Times article,
+
+44
+00:02:28,900 --> 00:02:33,268
+captured, in the way that no one else could, the spirit behind our effort.
+
+45
+00:02:33,268 --> 00:02:36,388
+He said the big breakthroughs are what happen
+
+46
+00:02:36,388 --> 00:02:40,287
+when what is suddenly possible meets what is desperately necessary.
+
+47
+00:02:40,287 --> 00:02:42,908
+I've talked about what's desperately necessary.
+
+48
+00:02:42,908 --> 00:02:45,420
+Let's talk about what's suddenly possible.
+
+49
+00:02:45,420 --> 00:02:48,539
+What's suddenly possible was demonstrated by
+
+50
+00:02:48,539 --> 00:02:50,107
+three big Stanford classes,
+
+51
+00:02:50,107 --> 00:02:53,987
+each of which had an enrollment of 100,000 people or more.
+
+52
+00:02:53,987 --> 00:02:57,371
+So to understand this, let's look at one of those classes,
+
+53
+00:02:57,371 --> 00:02:59,291
+the Machine Learning class offered by my colleague
+
+54
+00:02:59,291 --> 00:03:01,020
+and cofounder Andrew Ng.
+
+55
+00:03:01,020 --> 00:03:03,339
+Andrew teaches one of the bigger Stanford classes.
+
+56
+00:03:03,339 --> 00:03:04,548
+It's a Machine Learning class,
+
+57
+00:03:04,548 --> 00:03:08,066
+and it has 400 people enrolled every time it's offered.
+
+58
+00:03:08,066 --> 00:03:11,331
+When Andrew taught the Machine Learning class to the general public,
+
+59
+00:03:11,331 --> 00:03:13,947
+it had 100,000 people registered.
+
+60
+00:03:13,947 --> 00:03:15,956
+So to put that number in perspective,
+
+61
+00:03:15,956 --> 00:03:18,315
+for Andrew to reach that same size audience
+
+62
+00:03:18,315 --> 00:03:20,141
+by teaching a Stanford class,
+
+63
+00:03:20,141 --> 00:03:24,067
+he would have to do that for 250 years.
+
+64
+00:03:24,067 --> 00:03:27,553
+Of course, he'd get really bored.
+
+65
+00:03:27,553 --> 00:03:30,290
+So, having seen the impact of this,
+
+66
+00:03:30,290 --> 00:03:33,418
+Andrew and I decided that we needed to really try and scale this up,
+
+67
+00:03:33,418 --> 00:03:37,538
+to bring the best quality education to as many people as we could.
+
+68
+00:03:37,538 --> 00:03:39,033
+So we formed Coursera,
+
+69
+00:03:39,033 --> 00:03:42,170
+whose goal is to take the best courses
+
+70
+00:03:42,170 --> 00:03:45,487
+from the best instructors at the best universities
+
+71
+00:03:45,487 --> 00:03:49,515
+and provide it to everyone around the world for free.
+
+72
+00:03:49,515 --> 00:03:52,115
+We currently have 43 courses on the platform
+
+73
+00:03:52,115 --> 00:03:55,314
+from four universities across a range of disciplines,
+
+74
+00:03:55,314 --> 00:03:57,147
+and let me show you a little bit of an overview
+
+75
+00:03:57,147 --> 00:04:00,425
+of what that looks like.
+
+76
+00:04:00,425 --> 00:04:01,638
+(Video) Robert Ghrist: Welcome to Calculus.
+
+77
+00:04:01,638 --> 00:04:03,518
+Ezekiel Emanuel: Fifty million people are uninsured.
+
+78
+00:04:03,518 --> 00:04:06,789
+Scott Page: Models help us design more effective institutions and policies.
+
+79
+00:04:06,789 --> 00:04:09,197
+We get unbelievable segregation.
+
+80
+00:04:09,197 --> 00:04:10,989
+Scott Klemmer: So Bush imagined that in the future,
+
+81
+00:04:10,989 --> 00:04:13,367
+you'd wear a camera right in the center of your head.
+
+82
+00:04:13,367 --> 00:04:17,621
+Mitchell Duneier: Mills wants the student of sociology to develop the quality of mind ...
+
+83
+00:04:17,621 --> 00:04:21,286
+RG: Hanging cable takes on the form of a hyperbolic cosine.
+
+84
+00:04:21,286 --> 00:04:24,357
+Nick Parlante: For each pixel in the image, set the red to zero.
+
+85
+00:04:24,357 --> 00:04:27,334
+Paul Offit: ... Vaccine allowed us to eliminate polio virus.
+
+86
+00:04:27,334 --> 00:04:30,957
+Dan Jurafsky: Does Lufthansa serve breakfast and San Jose? Well, that sounds funny.
+
+87
+00:04:30,957 --> 00:04:34,573
+Daphne Koller: So this is which coin you pick, and this is the two tosses.
+
+88
+00:04:34,573 --> 00:04:38,260
+Andrew Ng: So in large-scale machine learning, we'd like to come up with computational ...
+
+89
+00:04:38,260 --> 00:04:43,869
+(Applause)
+
+90
+00:04:43,869 --> 00:04:46,143
+DK: It turns out, maybe not surprisingly,
+
+91
+00:04:46,143 --> 00:04:48,381
+that students like getting the best content
+
+92
+00:04:48,381 --> 00:04:51,268
+from the best universities for free.
+
+93
+00:04:51,268 --> 00:04:53,790
+Since we opened the website in February,
+
+94
+00:04:53,790 --> 00:04:58,148
+we now have 640,000 students from 190 countries.
+
+95
+00:04:58,148 --> 00:05:00,300
+We have 1.5 million enrollments,
+
+96
+00:05:00,300 --> 00:05:03,150
+6 million quizzes in the 15 classes that have launched
+
+97
+00:05:03,150 --> 00:05:08,066
+so far have been submitted, and 14 million videos have been viewed.
+
+98
+00:05:08,066 --> 00:05:10,584
+But it's not just about the numbers,
+
+99
+00:05:10,584 --> 00:05:12,225
+it's also about the people.
+
+100
+00:05:12,225 --> 00:05:15,201
+Whether it's Akash, who comes from a small town in India
+
+101
+00:05:15,201 --> 00:05:17,376
+and would never have access in this case
+
+102
+00:05:17,376 --> 00:05:18,865
+to a Stanford-quality course
+
+103
+00:05:18,865 --> 00:05:21,380
+and would never be able to afford it.
+
+104
+00:05:21,380 --> 00:05:23,418
+Or Jenny, who is a single mother of two
+
+105
+00:05:23,418 --> 00:05:25,385
+and wants to hone her skills
+
+106
+00:05:25,385 --> 00:05:28,520
+so that she can go back and complete her master's degree.
+
+107
+00:05:28,520 --> 00:05:31,656
+Or Ryan, who can't go to school,
+
+108
+00:05:31,656 --> 00:05:33,521
+because his immune deficient daughter
+
+109
+00:05:33,521 --> 00:05:36,904
+can't be risked to have germs come into the house,
+
+110
+00:05:36,904 --> 00:05:38,744
+so he couldn't leave the house.
+
+111
+00:05:38,744 --> 00:05:40,376
+I'm really glad to say --
+
+112
+00:05:40,376 --> 00:05:42,628
+recently, we've been in correspondence with Ryan --
+
+113
+00:05:42,628 --> 00:05:44,560
+that this story had a happy ending.
+
+114
+00:05:44,560 --> 00:05:46,463
+Baby Shannon -- you can see her on the left --
+
+115
+00:05:46,463 --> 00:05:47,814
+is doing much better now,
+
+116
+00:05:47,814 --> 00:05:52,012
+and Ryan got a job by taking some of our courses.
+
+117
+00:05:52,012 --> 00:05:54,256
+So what made these courses so different?
+
+118
+00:05:54,256 --> 00:05:57,976
+After all, online course content has been available for a while.
+
+119
+00:05:57,976 --> 00:06:01,688
+What made it different was that this was real course experience.
+
+120
+00:06:01,688 --> 00:06:03,414
+It started on a given day,
+
+121
+00:06:03,414 --> 00:06:07,048
+and then the students would watch videos on a weekly basis
+
+122
+00:06:07,048 --> 00:06:08,903
+and do homework assignments.
+
+123
+00:06:08,903 --> 00:06:10,694
+And these would be real homework assignments
+
+124
+00:06:10,694 --> 00:06:13,998
+for a real grade, with a real deadline.
+
+125
+00:06:13,998 --> 00:06:16,054
+You can see the deadlines and the usage graph.
+
+126
+00:06:16,054 --> 00:06:18,142
+These are the spikes showing
+
+127
+00:06:18,142 --> 00:06:21,931
+that procrastination is global phenomenon.
+
+128
+00:06:21,931 --> 00:06:24,507
+(Laughter)
+
+129
+00:06:24,507 --> 00:06:26,179
+At the end of the course,
+
+130
+00:06:26,179 --> 00:06:28,035
+the students got a certificate.
+
+131
+00:06:28,035 --> 00:06:30,195
+They could present that certificate
+
+132
+00:06:30,195 --> 00:06:32,348
+to a prospective employer and get a better job,
+
+133
+00:06:32,348 --> 00:06:34,408
+and we know many students who did.
+
+134
+00:06:34,408 --> 00:06:36,327
+Some students took their certificate
+
+135
+00:06:36,327 --> 00:06:39,449
+and presented this to an educational institution at which they were enrolled
+
+136
+00:06:39,449 --> 00:06:41,290
+for actual college credit.
+
+137
+00:06:41,290 --> 00:06:43,504
+So these students were really getting something meaningful
+
+138
+00:06:43,504 --> 00:06:46,338
+for their investment of time and effort.
+
+139
+00:06:46,338 --> 00:06:48,893
+Let's talk a little bit about some of the components
+
+140
+00:06:48,893 --> 00:06:50,785
+that go into these courses.
+
+141
+00:06:50,785 --> 00:06:53,413
+The first component is that when you move away
+
+142
+00:06:53,413 --> 00:06:55,710
+from the constraints of a physical classroom
+
+143
+00:06:55,710 --> 00:06:58,550
+and design content explicitly for an online format,
+
+144
+00:06:58,550 --> 00:07:01,078
+you can break away from, for example,
+
+145
+00:07:01,078 --> 00:07:03,493
+the monolithic one-hour lecture.
+
+146
+00:07:03,493 --> 00:07:05,278
+You can break up the material, for example,
+
+147
+00:07:05,278 --> 00:07:08,654
+into these short, modular units of eight to 12 minutes,
+
+148
+00:07:08,654 --> 00:07:11,628
+each of which represents a coherent concept.
+
+149
+00:07:11,628 --> 00:07:14,198
+Students can traverse this material in different ways,
+
+150
+00:07:14,198 --> 00:07:17,902
+depending on their background, their skills or their interests.
+
+151
+00:07:17,902 --> 00:07:20,422
+So, for example, some students might benefit
+
+152
+00:07:20,422 --> 00:07:23,182
+from a little bit of preparatory material
+
+153
+00:07:23,182 --> 00:07:25,253
+that other students might already have.
+
+154
+00:07:25,253 --> 00:07:27,693
+Other students might be interested in a particular
+
+155
+00:07:27,693 --> 00:07:30,779
+enrichment topic that they want to pursue individually.
+
+156
+00:07:30,779 --> 00:07:34,014
+So this format allows us to break away
+
+157
+00:07:34,014 --> 00:07:36,838
+from the one-size-fits-all model of education,
+
+158
+00:07:36,838 --> 00:07:40,830
+and allows students to follow a much more personalized curriculum.
+
+159
+00:07:40,830 --> 00:07:43,173
+Of course, we all know as educators
+
+160
+00:07:43,173 --> 00:07:46,533
+that students don't learn by sitting and passively watching videos.
+
+161
+00:07:46,533 --> 00:07:49,478
+Perhaps one of the biggest components of this effort
+
+162
+00:07:49,478 --> 00:07:52,070
+is that we need to have students
+
+163
+00:07:52,070 --> 00:07:54,479
+who practice with the material
+
+164
+00:07:54,479 --> 00:07:57,635
+in order to really understand it.
+
+165
+00:07:57,635 --> 00:08:00,903
+There's been a range of studies that demonstrate the importance of this.
+
+166
+00:08:00,903 --> 00:08:03,435
+This one that appeared in Science last year, for example,
+
+167
+00:08:03,435 --> 00:08:06,267
+demonstrates that even simple retrieval practice,
+
+168
+00:08:06,267 --> 00:08:09,059
+where students are just supposed to repeat
+
+169
+00:08:09,059 --> 00:08:10,459
+what they already learned
+
+170
+00:08:10,459 --> 00:08:12,379
+gives considerably improved results
+
+171
+00:08:12,379 --> 00:08:14,648
+on various achievement tests down the line
+
+172
+00:08:14,648 --> 00:08:18,952
+than many other educational interventions.
+
+173
+00:08:18,952 --> 00:08:21,914
+We've tried to build in retrieval practice into the platform,
+
+174
+00:08:21,914 --> 00:08:24,168
+as well as other forms of practice in many ways.
+
+175
+00:08:24,168 --> 00:08:28,312
+For example, even our videos are not just videos.
+
+176
+00:08:28,312 --> 00:08:30,355
+Every few minutes, the video pauses
+
+177
+00:08:30,355 --> 00:08:32,506
+and the students get asked a question.
+
+178
+00:08:32,506 --> 00:08:34,727
+(Video) SP: ... These four things. Prospect theory, hyperbolic discounting,
+
+179
+00:08:34,727 --> 00:08:37,819
+status quo bias, base rate bias. They're all well documented.
+
+180
+00:08:37,819 --> 00:08:40,586
+So they're all well documented deviations from rational behavior.
+
+181
+00:08:40,586 --> 00:08:42,210
+DK: So here the video pauses,
+
+182
+00:08:42,210 --> 00:08:44,466
+and the student types in the answer into the box
+
+183
+00:08:44,466 --> 00:08:47,689
+and submits. Obviously they weren't paying attention.
+
+184
+00:08:47,704 --> 00:08:48,573
+(Laughter)
+
+185
+00:08:48,573 --> 00:08:50,583
+So they get to try again,
+
+186
+00:08:50,583 --> 00:08:53,119
+and this time they got it right.
+
+187
+00:08:53,119 --> 00:08:55,312
+There's an optional explanation if they want.
+
+188
+00:08:55,312 --> 00:08:59,569
+And now the video moves on to the next part of the lecture.
+
+189
+00:08:59,569 --> 00:09:01,447
+This is a kind of simple question
+
+190
+00:09:01,447 --> 00:09:03,528
+that I as an instructor might ask in class,
+
+191
+00:09:03,528 --> 00:09:06,028
+but when I ask that kind of a question in class,
+
+192
+00:09:06,028 --> 00:09:07,328
+80 percent of the students
+
+193
+00:09:07,328 --> 00:09:09,194
+are still scribbling the last thing I said,
+
+194
+00:09:09,194 --> 00:09:12,515
+15 percent are zoned out on Facebook,
+
+195
+00:09:12,515 --> 00:09:14,971
+and then there's the smarty pants in the front row
+
+196
+00:09:14,971 --> 00:09:16,330
+who blurts out the answer
+
+197
+00:09:16,330 --> 00:09:18,537
+before anyone else has had a chance to think about it,
+
+198
+00:09:18,537 --> 00:09:21,409
+and I as the instructor am terribly gratified
+
+199
+00:09:21,409 --> 00:09:23,057
+that somebody actually knew the answer.
+
+200
+00:09:23,057 --> 00:09:25,849
+And so the lecture moves on before, really,
+
+201
+00:09:25,849 --> 00:09:29,378
+most of the students have even noticed that a question had been asked.
+
+202
+00:09:29,378 --> 00:09:31,985
+Here, every single student
+
+203
+00:09:31,985 --> 00:09:34,769
+has to engage with the material.
+
+204
+00:09:34,769 --> 00:09:36,705
+And of course these simple retrieval questions
+
+205
+00:09:36,705 --> 00:09:38,367
+are not the end of the story.
+
+206
+00:09:38,367 --> 00:09:41,337
+One needs to build in much more meaningful practice questions,
+
+207
+00:09:41,337 --> 00:09:43,690
+and one also needs to provide the students with feedback
+
+208
+00:09:43,690 --> 00:09:45,353
+on those questions.
+
+209
+00:09:45,353 --> 00:09:48,241
+Now, how do you grade the work of 100,000 students
+
+210
+00:09:48,241 --> 00:09:51,323
+if you do not have 10,000 TAs?
+
+211
+00:09:51,323 --> 00:09:53,677
+The answer is, you need to use technology
+
+212
+00:09:53,677 --> 00:09:55,172
+to do it for you.
+
+213
+00:09:55,172 --> 00:09:57,820
+Now, fortunately, technology has come a long way,
+
+214
+00:09:57,820 --> 00:10:01,088
+and we can now grade a range of interesting types of homework.
+
+215
+00:10:01,088 --> 00:10:02,615
+In addition to multiple choice
+
+216
+00:10:02,615 --> 00:10:05,768
+and the kinds of short answer questions that you saw in the video,
+
+217
+00:10:05,768 --> 00:10:09,028
+we can also grade math, mathematical expressions
+
+218
+00:10:09,028 --> 00:10:10,980
+as well as mathematical derivations.
+
+219
+00:10:10,980 --> 00:10:13,854
+We can grade models, whether it's
+
+220
+00:10:13,854 --> 00:10:16,030
+financial models in a business class
+
+221
+00:10:16,030 --> 00:10:19,014
+or physical models in a science or engineering class
+
+222
+00:10:19,014 --> 00:10:22,758
+and we can grade some pretty sophisticated programming assignments.
+
+223
+00:10:22,758 --> 00:10:24,677
+Let me show you one that's actually pretty simple
+
+224
+00:10:24,677 --> 00:10:26,157
+but fairly visual.
+
+225
+00:10:26,157 --> 00:10:28,634
+This is from Stanford's Computer Science 101 class,
+
+226
+00:10:28,634 --> 00:10:30,238
+and the students are supposed to color-correct
+
+227
+00:10:30,238 --> 00:10:31,830
+that blurry red image.
+
+228
+00:10:31,830 --> 00:10:33,848
+They're typing their program into the browser,
+
+229
+00:10:33,848 --> 00:10:37,906
+and you can see they didn't get it quite right, Lady Liberty is still seasick.
+
+230
+00:10:37,906 --> 00:10:41,662
+And so, the student tries again, and now they got it right, and they're told that,
+
+231
+00:10:41,662 --> 00:10:44,021
+and they can move on to the next assignment.
+
+232
+00:10:44,021 --> 00:10:47,169
+This ability to interact actively with the material
+
+233
+00:10:47,169 --> 00:10:48,853
+and be told when you're right or wrong
+
+234
+00:10:48,853 --> 00:10:51,979
+is really essential to student learning.
+
+235
+00:10:51,979 --> 00:10:54,254
+Now, of course we cannot yet grade
+
+236
+00:10:54,254 --> 00:10:57,088
+the range of work that one needs for all courses.
+
+237
+00:10:57,088 --> 00:11:00,389
+Specifically, what's lacking is the kind of critical thinking work
+
+238
+00:11:00,389 --> 00:11:02,311
+that is so essential in such disciplines
+
+239
+00:11:02,311 --> 00:11:05,908
+as the humanities, the social sciences, business and others.
+
+240
+00:11:05,908 --> 00:11:08,157
+So we tried to convince, for example,
+
+241
+00:11:08,157 --> 00:11:09,773
+some of our humanities faculty
+
+242
+00:11:09,773 --> 00:11:12,469
+that multiple choice was not such a bad strategy.
+
+243
+00:11:12,469 --> 00:11:14,660
+That didn't go over really well.
+
+244
+00:11:14,660 --> 00:11:17,093
+So we had to come up with a different solution.
+
+245
+00:11:17,093 --> 00:11:20,167
+And the solution we ended up using is peer grading.
+
+246
+00:11:20,167 --> 00:11:22,589
+It turns out that previous studies show,
+
+247
+00:11:22,589 --> 00:11:24,261
+like this one by Saddler and Good,
+
+248
+00:11:24,261 --> 00:11:26,749
+that peer grading is a surprisingly effective strategy
+
+249
+00:11:26,749 --> 00:11:29,963
+for providing reproducible grades.
+
+250
+00:11:29,963 --> 00:11:31,733
+It was tried only in small classes,
+
+251
+00:11:31,733 --> 00:11:33,220
+but there it showed, for example,
+
+252
+00:11:33,220 --> 00:11:35,702
+that these student-assigned grades on the y-axis
+
+253
+00:11:35,702 --> 00:11:37,013
+are actually very well correlated
+
+254
+00:11:37,013 --> 00:11:39,309
+with the teacher-assigned grade on the x-axis.
+
+255
+00:11:39,309 --> 00:11:42,469
+What's even more surprising is that self-grades,
+
+256
+00:11:42,469 --> 00:11:44,780
+where the students grade their own work critically --
+
+257
+00:11:44,780 --> 00:11:46,517
+so long as you incentivize them properly
+
+258
+00:11:46,517 --> 00:11:48,455
+so they can't give themselves a perfect score --
+
+259
+00:11:48,455 --> 00:11:51,646
+are actually even better correlated with the teacher grades.
+
+260
+00:11:51,646 --> 00:11:53,253
+And so this is an effective strategy
+
+261
+00:11:53,253 --> 00:11:55,357
+that can be used for grading at scale,
+
+262
+00:11:55,357 --> 00:11:58,093
+and is also a useful learning strategy for the students,
+
+263
+00:11:58,093 --> 00:12:00,348
+because they actually learn from the experience.
+
+264
+00:12:00,348 --> 00:12:04,997
+So we now have the largest peer-grading pipeline ever devised,
+
+265
+00:12:04,997 --> 00:12:07,501
+where tens of thousands of students
+
+266
+00:12:07,501 --> 00:12:08,699
+are grading each other's work,
+
+267
+00:12:08,699 --> 00:12:11,768
+and quite successfully, I have to say.
+
+268
+00:12:11,768 --> 00:12:14,028
+But this is not just about students
+
+269
+00:12:14,028 --> 00:12:17,069
+sitting alone in their living room working through problems.
+
+270
+00:12:17,069 --> 00:12:18,876
+Around each one of our courses,
+
+271
+00:12:18,876 --> 00:12:21,036
+a community of students had formed,
+
+272
+00:12:21,036 --> 00:12:22,916
+a global community of people
+
+273
+00:12:22,916 --> 00:12:25,448
+around a shared intellectual endeavor.
+
+274
+00:12:25,448 --> 00:12:28,100
+What you see here is a self-generated map
+
+275
+00:12:28,100 --> 00:12:31,061
+from students in our Princeton Sociology 101 course,
+
+276
+00:12:31,061 --> 00:12:33,820
+where they have put themselves on a world map,
+
+277
+00:12:33,820 --> 00:12:36,780
+and you can really see the global reach of this kind of effort.
+
+278
+00:12:36,780 --> 00:12:41,347
+Students collaborated in these courses in a variety of different ways.
+
+279
+00:12:41,347 --> 00:12:43,986
+First of all, there was a question and answer forum,
+
+280
+00:12:43,986 --> 00:12:46,130
+where students would pose questions,
+
+281
+00:12:46,130 --> 00:12:48,554
+and other students would answer those questions.
+
+282
+00:12:48,554 --> 00:12:50,267
+And the really amazing thing is,
+
+283
+00:12:50,267 --> 00:12:51,937
+because there were so many students,
+
+284
+00:12:51,937 --> 00:12:54,302
+it means that even if a student posed a question
+
+285
+00:12:54,302 --> 00:12:55,934
+at 3 o'clock in the morning,
+
+286
+00:12:55,934 --> 00:12:57,516
+somewhere around the world,
+
+287
+00:12:57,516 --> 00:12:59,590
+there would be somebody who was awake
+
+288
+00:12:59,590 --> 00:13:01,903
+and working on the same problem.
+
+289
+00:13:01,903 --> 00:13:03,861
+And so, in many of our courses,
+
+290
+00:13:03,861 --> 00:13:06,190
+the median response time for a question
+
+291
+00:13:06,190 --> 00:13:09,608
+on the question and answer forum was 22 minutes.
+
+292
+00:13:09,608 --> 00:13:14,185
+Which is not a level of service I have ever offered to my Stanford students.
+
+293
+00:13:14,185 --> 00:13:15,526
+(Laughter)
+
+294
+00:13:15,526 --> 00:13:17,468
+And you can see from the student testimonials
+
+295
+00:13:17,468 --> 00:13:19,155
+that students actually find
+
+296
+00:13:19,155 --> 00:13:21,676
+that because of this large online community,
+
+297
+00:13:21,676 --> 00:13:24,275
+they got to interact with each other in many ways
+
+298
+00:13:24,275 --> 00:13:28,468
+that were deeper than they did in the context of the physical classroom.
+
+299
+00:13:28,468 --> 00:13:30,812
+Students also self-assembled,
+
+300
+00:13:30,812 --> 00:13:32,675
+without any kind of intervention from us,
+
+301
+00:13:32,675 --> 00:13:34,578
+into small study groups.
+
+302
+00:13:34,578 --> 00:13:36,940
+Some of these were physical study groups
+
+303
+00:13:36,940 --> 00:13:38,766
+along geographical constraints
+
+304
+00:13:38,766 --> 00:13:41,488
+and met on a weekly basis to work through problem sets.
+
+305
+00:13:41,488 --> 00:13:43,388
+This is the San Francisco study group,
+
+306
+00:13:43,388 --> 00:13:45,707
+but there were ones all over the world.
+
+307
+00:13:45,707 --> 00:13:47,739
+Others were virtual study groups,
+
+308
+00:13:47,739 --> 00:13:50,728
+sometimes along language lines or along cultural lines,
+
+309
+00:13:50,728 --> 00:13:52,172
+and on the bottom left there,
+
+310
+00:13:52,172 --> 00:13:55,968
+you see our multicultural universal study group
+
+311
+00:13:55,968 --> 00:13:57,731
+where people explicitly wanted to connect
+
+312
+00:13:57,731 --> 00:14:00,737
+with people from other cultures.
+
+313
+00:14:00,737 --> 00:14:02,848
+There are some tremendous opportunities
+
+314
+00:14:02,848 --> 00:14:06,173
+to be had from this kind of framework.
+
+315
+00:14:06,173 --> 00:14:09,827
+The first is that it has the potential of giving us
+
+316
+00:14:09,827 --> 00:14:12,261
+a completely unprecedented look
+
+317
+00:14:12,261 --> 00:14:14,550
+into understanding human learning.
+
+318
+00:14:14,550 --> 00:14:18,013
+Because the data that we can collect here is unique.
+
+319
+00:14:18,013 --> 00:14:22,022
+You can collect every click, every homework submission,
+
+320
+00:14:22,022 --> 00:14:26,385
+every forum post from tens of thousands of students.
+
+321
+00:14:26,385 --> 00:14:28,728
+So you can turn the study of human learning
+
+322
+00:14:28,728 --> 00:14:30,661
+from the hypothesis-driven mode
+
+323
+00:14:30,661 --> 00:14:33,519
+to the data-driven mode, a transformation that,
+
+324
+00:14:33,519 --> 00:14:36,560
+for example, has revolutionized biology.
+
+325
+00:14:36,560 --> 00:14:39,984
+You can use these data to understand fundamental questions
+
+326
+00:14:39,984 --> 00:14:41,864
+like, what are good learning strategies
+
+327
+00:14:41,864 --> 00:14:44,560
+that are effective versus ones that are not?
+
+328
+00:14:44,560 --> 00:14:46,800
+And in the context of particular courses,
+
+329
+00:14:46,800 --> 00:14:48,337
+you can ask questions
+
+330
+00:14:48,337 --> 00:14:51,592
+like, what are some of the misconceptions that are more common
+
+331
+00:14:51,592 --> 00:14:53,769
+and how do we help students fix them?
+
+332
+00:14:53,769 --> 00:14:55,193
+So here's an example of that,
+
+333
+00:14:55,193 --> 00:14:57,209
+also from Andrew's Machine Learning class.
+
+334
+00:14:57,209 --> 00:14:59,417
+This is a distribution of wrong answers
+
+335
+00:14:59,417 --> 00:15:01,027
+to one of Andrew's assignments.
+
+336
+00:15:01,027 --> 00:15:02,920
+The answers happen to be pairs of numbers,
+
+337
+00:15:02,920 --> 00:15:05,191
+so you can draw them on this two-dimensional plot.
+
+338
+00:15:05,191 --> 00:15:08,969
+Each of the little crosses that you see is a different wrong answer.
+
+339
+00:15:08,969 --> 00:15:11,375
+The big cross at the top left
+
+340
+00:15:11,375 --> 00:15:13,523
+is where 2,000 students
+
+341
+00:15:13,523 --> 00:15:16,568
+gave the exact same wrong answer.
+
+342
+00:15:16,568 --> 00:15:18,895
+Now, if two students in a class of 100
+
+343
+00:15:18,895 --> 00:15:20,182
+give the same wrong answer,
+
+344
+00:15:20,182 --> 00:15:21,533
+you would never notice.
+
+345
+00:15:21,533 --> 00:15:24,093
+But when 2,000 students give the same wrong answer,
+
+346
+00:15:24,093 --> 00:15:25,790
+it's kind of hard to miss.
+
+347
+00:15:25,790 --> 00:15:27,982
+So Andrew and his students went in,
+
+348
+00:15:27,982 --> 00:15:29,502
+looked at some of those assignments,
+
+349
+00:15:29,502 --> 00:15:33,590
+understood the root cause of the misconception,
+
+350
+00:15:33,590 --> 00:15:36,110
+and then they produced a targeted error message
+
+351
+00:15:36,110 --> 00:15:38,359
+that would be provided to every student
+
+352
+00:15:38,359 --> 00:15:40,538
+whose answer fell into that bucket,
+
+353
+00:15:40,538 --> 00:15:42,622
+which means that students who made that same mistake
+
+354
+00:15:42,622 --> 00:15:44,648
+would now get personalized feedback
+
+355
+00:15:44,648 --> 00:15:49,047
+telling them how to fix their misconception much more effectively.
+
+356
+00:15:49,047 --> 00:15:52,858
+So this personalization is something that one can then build
+
+357
+00:15:52,858 --> 00:15:55,998
+by having the virtue of large numbers.
+
+358
+00:15:55,998 --> 00:15:58,310
+Personalization is perhaps
+
+359
+00:15:58,310 --> 00:16:00,733
+one of the biggest opportunities here as well,
+
+360
+00:16:00,733 --> 00:16:03,078
+because it provides us with the potential
+
+361
+00:16:03,078 --> 00:16:05,768
+of solving a 30-year-old problem.
+
+362
+00:16:05,768 --> 00:16:09,117
+Educational researcher Benjamin Bloom, in 1984,
+
+363
+00:16:09,117 --> 00:16:11,368
+posed what's called the 2 sigma problem,
+
+364
+00:16:11,368 --> 00:16:14,430
+which he observed by studying three populations.
+
+365
+00:16:14,430 --> 00:16:18,038
+The first is the population that studied in a lecture-based classroom.
+
+366
+00:16:18,038 --> 00:16:20,815
+The second is a population of students that studied
+
+367
+00:16:20,815 --> 00:16:22,534
+using a standard lecture-based classroom,
+
+368
+00:16:22,534 --> 00:16:24,614
+but with a mastery-based approach,
+
+369
+00:16:24,614 --> 00:16:26,534
+so the students couldn't move on to the next topic
+
+370
+00:16:26,534 --> 00:16:29,888
+before demonstrating mastery of the previous one.
+
+371
+00:16:29,888 --> 00:16:32,182
+And finally, there was a population of students
+
+372
+00:16:32,182 --> 00:16:36,710
+that were taught in a one-on-one instruction using a tutor.
+
+373
+00:16:36,710 --> 00:16:39,982
+The mastery-based population was a full standard deviation,
+
+374
+00:16:39,982 --> 00:16:42,270
+or sigma, in achievement scores better
+
+375
+00:16:42,270 --> 00:16:44,664
+than the standard lecture-based class,
+
+376
+00:16:44,664 --> 00:16:46,808
+and the individual tutoring gives you 2 sigma
+
+377
+00:16:46,808 --> 00:16:48,638
+improvement in performance.
+
+378
+00:16:48,638 --> 00:16:50,101
+To understand what that means,
+
+379
+00:16:50,101 --> 00:16:51,934
+let's look at the lecture-based classroom,
+
+380
+00:16:51,934 --> 00:16:54,853
+and let's pick the median performance as a threshold.
+
+381
+00:16:54,853 --> 00:16:56,191
+So in a lecture-based class,
+
+382
+00:16:56,191 --> 00:17:00,070
+half the students are above that level and half are below.
+
+383
+00:17:00,070 --> 00:17:02,168
+In the individual tutoring instruction,
+
+384
+00:17:02,168 --> 00:17:06,969
+98 percent of the students are going to be above that threshold.
+
+385
+00:17:06,969 --> 00:17:10,889
+Imagine if we could teach so that 98 percent of our students
+
+386
+00:17:10,889 --> 00:17:13,087
+would be above average.
+
+387
+00:17:13,087 --> 00:17:16,510
+Hence, the 2 sigma problem.
+
+388
+00:17:16,510 --> 00:17:18,909
+Because we cannot afford, as a society,
+
+389
+00:17:18,909 --> 00:17:21,981
+to provide every student with an individual human tutor.
+
+390
+00:17:21,981 --> 00:17:24,230
+But maybe we can afford to provide each student
+
+391
+00:17:24,230 --> 00:17:26,249
+with a computer or a smartphone.
+
+392
+00:17:26,249 --> 00:17:28,438
+So the question is, how can we use technology
+
+393
+00:17:28,438 --> 00:17:31,813
+to push from the left side of the graph, from the blue curve,
+
+394
+00:17:31,813 --> 00:17:34,551
+to the right side with the green curve?
+
+395
+00:17:34,551 --> 00:17:36,888
+Mastery is easy to achieve using a computer,
+
+396
+00:17:36,888 --> 00:17:38,293
+because a computer doesn't get tired
+
+397
+00:17:38,293 --> 00:17:41,366
+of showing you the same video five times.
+
+398
+00:17:41,366 --> 00:17:44,617
+And it doesn't even get tired of grading the same work multiple times,
+
+399
+00:17:44,622 --> 00:17:47,648
+we've seen that in many of the examples that I've shown you.
+
+400
+00:17:47,648 --> 00:17:49,502
+And even personalization
+
+401
+00:17:49,502 --> 00:17:51,638
+is something that we're starting to see the beginnings of,
+
+402
+00:17:51,638 --> 00:17:54,830
+whether it's via the personalized trajectory through the curriculum
+
+403
+00:17:54,830 --> 00:17:58,094
+or some of the personalized feedback that we've shown you.
+
+404
+00:17:58,094 --> 00:18:00,582
+So the goal here is to try and push,
+
+405
+00:18:00,582 --> 00:18:04,079
+and see how far we can get towards the green curve.
+
+406
+00:18:04,079 --> 00:18:09,438
+So, if this is so great, are universities now obsolete?
+
+407
+00:18:09,438 --> 00:18:12,430
+Well, Mark Twain certainly thought so.
+
+408
+00:18:12,430 --> 00:18:14,975
+He said that, "College is a place where a professor's lecture notes
+
+409
+00:18:14,975 --> 00:18:16,678
+go straight to the students' lecture notes,
+
+410
+00:18:16,678 --> 00:18:19,054
+without passing through the brains of either."
+
+411
+00:18:19,054 --> 00:18:23,101
+(Laughter)
+
+412
+00:18:23,101 --> 00:18:25,769
+I beg to differ with Mark Twain, though.
+
+413
+00:18:25,769 --> 00:18:28,434
+I think what he was complaining about is not
+
+414
+00:18:28,434 --> 00:18:31,184
+universities but rather the lecture-based format
+
+415
+00:18:31,184 --> 00:18:33,968
+that so many universities spend so much time on.
+
+416
+00:18:33,968 --> 00:18:37,127
+So let's go back even further, to Plutarch,
+
+417
+00:18:37,127 --> 00:18:39,354
+who said that, "The mind is not a vessel that needs filling,
+
+418
+00:18:39,354 --> 00:18:41,377
+but wood that needs igniting."
+
+419
+00:18:41,377 --> 00:18:43,567
+And maybe we should spend less time at universities
+
+420
+00:18:43,567 --> 00:18:46,138
+filling our students' minds with content
+
+421
+00:18:46,138 --> 00:18:49,938
+by lecturing at them, and more time igniting their creativity,
+
+422
+00:18:49,938 --> 00:18:53,193
+their imagination and their problem-solving skills
+
+423
+00:18:53,193 --> 00:18:55,691
+by actually talking with them.
+
+424
+00:18:55,691 --> 00:18:57,058
+So how do we do that?
+
+425
+00:18:57,058 --> 00:19:00,489
+We do that by doing active learning in the classroom.
+
+426
+00:19:00,489 --> 00:19:02,938
+So there's been many studies, including this one,
+
+427
+00:19:02,938 --> 00:19:05,018
+that show that if you use active learning,
+
+428
+00:19:05,018 --> 00:19:07,434
+interacting with your students in the classroom,
+
+429
+00:19:07,434 --> 00:19:10,130
+performance improves on every single metric --
+
+430
+00:19:10,130 --> 00:19:12,579
+on attendance, on engagement and on learning
+
+431
+00:19:12,579 --> 00:19:14,634
+as measured by a standardized test.
+
+432
+00:19:14,634 --> 00:19:16,498
+You can see, for example, that the achievement score
+
+433
+00:19:16,498 --> 00:19:19,368
+almost doubles in this particular experiment.
+
+434
+00:19:19,368 --> 00:19:23,769
+So maybe this is how we should spend our time at universities.
+
+435
+00:19:23,769 --> 00:19:28,346
+So to summarize, if we could offer a top quality education
+
+436
+00:19:28,346 --> 00:19:30,249
+to everyone around the world for free,
+
+437
+00:19:30,249 --> 00:19:33,070
+what would that do? Three things.
+
+438
+00:19:33,070 --> 00:19:36,491
+First it would establish education as a fundamental human right,
+
+439
+00:19:36,491 --> 00:19:37,857
+where anyone around the world
+
+440
+00:19:37,857 --> 00:19:39,778
+with the ability and the motivation
+
+441
+00:19:39,778 --> 00:19:41,729
+could get the skills that they need
+
+442
+00:19:41,729 --> 00:19:43,314
+to make a better life for themselves,
+
+443
+00:19:43,314 --> 00:19:45,331
+their families and their communities.
+
+444
+00:19:45,331 --> 00:19:47,962
+Second, it would enable lifelong learning.
+
+445
+00:19:47,962 --> 00:19:49,913
+It's a shame that for so many people,
+
+446
+00:19:49,913 --> 00:19:53,225
+learning stops when we finish high school or when we finish college.
+
+447
+00:19:53,225 --> 00:19:55,706
+By having this amazing content be available,
+
+448
+00:19:55,706 --> 00:19:58,449
+we would be able to learn something new
+
+449
+00:19:58,449 --> 00:19:59,585
+every time we wanted,
+
+450
+00:19:59,585 --> 00:20:00,914
+whether it's just to expand our minds
+
+451
+00:20:00,914 --> 00:20:02,873
+or it's to change our lives.
+
+452
+00:20:02,873 --> 00:20:06,018
+And finally, this would enable a wave of innovation,
+
+453
+00:20:06,018 --> 00:20:09,090
+because amazing talent can be found anywhere.
+
+454
+00:20:09,090 --> 00:20:12,098
+Maybe the next Albert Einstein or the next Steve Jobs
+
+455
+00:20:12,098 --> 00:20:14,713
+is living somewhere in a remote village in Africa.
+
+456
+00:20:14,713 --> 00:20:17,369
+And if we could offer that person an education,
+
+457
+00:20:17,369 --> 00:20:19,725
+they would be able to come up with the next big idea
+
+458
+00:20:19,725 --> 00:20:22,129
+and make the world a better place for all of us.
+
+459
+00:20:22,129 --> 00:20:23,289
+Thank you very much.
+
+460
+00:20:23,289 --> 00:20:30,872
+(Applause)
+

@@ -1,0 +1,1572 @@
+﻿1
+00:00:12,820 --> 00:00:14,820
+This is a picture of Maurice Druon,
+
+2
+00:00:14,820 --> 00:00:18,820
+the Honorary Perpetual Secretary of L'Academie francaise,
+
+3
+00:00:18,820 --> 00:00:20,820
+the French Academy.
+
+4
+00:00:20,820 --> 00:00:25,820
+He is splendidly attired in his 68,000-dollar uniform,
+
+5
+00:00:25,820 --> 00:00:28,820
+befitting the role of the French Academy
+
+6
+00:00:28,820 --> 00:00:31,820
+as legislating the
+
+7
+00:00:31,820 --> 00:00:33,820
+correct usage in French
+
+8
+00:00:33,820 --> 00:00:35,820
+and perpetuating the language.
+
+9
+00:00:35,820 --> 00:00:38,820
+The French Academy has two main tasks:
+
+10
+00:00:38,820 --> 00:00:41,820
+it compiles a dictionary of official French.
+
+11
+00:00:41,820 --> 00:00:44,820
+They're now working on their ninth edition,
+
+12
+00:00:44,820 --> 00:00:47,820
+which they began in 1930, and they've reached the letter P.
+
+13
+00:00:48,820 --> 00:00:51,820
+They also legislate on correct usage,
+
+14
+00:00:51,820 --> 00:00:55,820
+such as the proper term for what the French call "email,"
+
+15
+00:00:55,820 --> 00:00:57,820
+which ought to be "courriel."
+
+16
+00:00:57,820 --> 00:00:59,820
+The World Wide Web, the French are told,
+
+17
+00:00:59,820 --> 00:01:01,820
+ought to be referred to as
+
+18
+00:01:01,820 --> 00:01:05,820
+"la toile d'araignee mondiale" -- the Global Spider Web --
+
+19
+00:01:05,820 --> 00:01:09,820
+recommendations that the French gaily ignore.
+
+20
+00:01:10,820 --> 00:01:14,820
+Now, this is one model of how language comes to be:
+
+21
+00:01:14,820 --> 00:01:17,820
+namely, it's legislated by an academy.
+
+22
+00:01:17,820 --> 00:01:20,820
+But anyone who looks at language realizes
+
+23
+00:01:20,820 --> 00:01:24,820
+that this is a rather silly conceit,
+
+24
+00:01:24,820 --> 00:01:27,820
+that language, rather, emerges from human minds interacting from one another.
+
+25
+00:01:27,820 --> 00:01:31,820
+And this is visible in the unstoppable change in language --
+
+26
+00:01:31,820 --> 00:01:34,820
+the fact that by the time the Academy finishes their dictionary,
+
+27
+00:01:34,820 --> 00:01:36,820
+it will already be well out of date.
+
+28
+00:01:36,820 --> 00:01:38,820
+We see it in the
+
+29
+00:01:38,820 --> 00:01:42,820
+constant appearance of slang and jargon,
+
+30
+00:01:42,820 --> 00:01:44,820
+of the historical change in languages,
+
+31
+00:01:44,820 --> 00:01:46,820
+in divergence of dialects
+
+32
+00:01:46,820 --> 00:01:49,820
+and the formation of new languages.
+
+33
+00:01:49,820 --> 00:01:52,820
+So language is not so much a creator or shaper of human nature,
+
+34
+00:01:52,820 --> 00:01:55,820
+so much as a window onto human nature.
+
+35
+00:01:55,820 --> 00:01:58,820
+In a book that I'm currently working on,
+
+36
+00:01:58,820 --> 00:02:01,820
+I hope to use language to shed light on
+
+37
+00:02:01,820 --> 00:02:03,820
+a number of aspects of human nature,
+
+38
+00:02:03,820 --> 00:02:05,820
+including the cognitive machinery
+
+39
+00:02:05,820 --> 00:02:08,820
+with which humans conceptualize the world
+
+40
+00:02:08,820 --> 00:02:11,820
+and the relationship types that govern human interaction.
+
+41
+00:02:11,820 --> 00:02:14,820
+And I'm going to say a few words about each one this morning.
+
+42
+00:02:14,820 --> 00:02:16,820
+Let me start off with a technical problem in language
+
+43
+00:02:16,820 --> 00:02:18,820
+that I've worried about for quite some time --
+
+44
+00:02:18,820 --> 00:02:22,820
+and indulge me
+
+45
+00:02:22,820 --> 00:02:25,820
+in my passion for verbs and how they're used.
+
+46
+00:02:25,820 --> 00:02:28,820
+The problem is, which verbs go in which constructions?
+
+47
+00:02:28,820 --> 00:02:31,820
+The verb is the chassis of the sentence.
+
+48
+00:02:31,820 --> 00:02:35,820
+It's the framework onto which the other parts are bolted.
+
+49
+00:02:35,820 --> 00:02:37,820
+Let me give you a quick reminder
+
+50
+00:02:37,820 --> 00:02:39,820
+of something that you've long forgotten.
+
+51
+00:02:39,820 --> 00:02:42,820
+An intransitive verb, such as "dine," for example,
+
+52
+00:02:42,820 --> 00:02:44,820
+can't take a direct object.
+
+53
+00:02:44,820 --> 00:02:47,820
+You have to say, "Sam dined," not, "Sam dined the pizza."
+
+54
+00:02:47,820 --> 00:02:49,820
+A transitive verb mandates
+
+55
+00:02:49,820 --> 00:02:51,820
+that there has to be an object there:
+
+56
+00:02:51,820 --> 00:02:54,820
+"Sam devoured the pizza." You can't just say, "Sam devoured."
+
+57
+00:02:54,820 --> 00:02:58,820
+There are dozens or scores of verbs of this type,
+
+58
+00:02:58,820 --> 00:03:00,820
+each of which shapes its sentence.
+
+59
+00:03:00,820 --> 00:03:04,820
+So, a problem in explaining how children learn language,
+
+60
+00:03:04,820 --> 00:03:09,820
+a problem in teaching language to adults so that they don't make grammatical errors,
+
+61
+00:03:09,820 --> 00:03:12,820
+and a problem in programming computers to use language is
+
+62
+00:03:12,820 --> 00:03:14,820
+which verbs go in which constructions.
+
+63
+00:03:15,820 --> 00:03:17,820
+For example, the dative construction in English.
+
+64
+00:03:17,820 --> 00:03:20,820
+You can say, "Give a muffin to a mouse," the prepositional dative.
+
+65
+00:03:20,820 --> 00:03:23,820
+Or, "Give a mouse a muffin," the double-object dative.
+
+66
+00:03:23,820 --> 00:03:27,820
+"Promise anything to her," "Promise her anything," and so on.
+
+67
+00:03:27,820 --> 00:03:29,820
+Hundreds of verbs can go both ways.
+
+68
+00:03:29,820 --> 00:03:31,820
+So a tempting generalization for a child,
+
+69
+00:03:31,820 --> 00:03:33,820
+for an adult, for a computer
+
+70
+00:03:33,820 --> 00:03:35,820
+is that any verb that can appear in the construction,
+
+71
+00:03:35,820 --> 00:03:38,820
+"subject-verb-thing-to-a-recipient"
+
+72
+00:03:38,820 --> 00:03:41,820
+can also be expressed as "subject-verb-recipient-thing."
+
+73
+00:03:41,820 --> 00:03:43,820
+A handy thing to have,
+
+74
+00:03:43,820 --> 00:03:45,820
+because language is infinite,
+
+75
+00:03:45,820 --> 00:03:48,820
+and you can't just parrot back the sentences that you've heard.
+
+76
+00:03:48,820 --> 00:03:50,820
+You've got to extract generalizations
+
+77
+00:03:50,820 --> 00:03:53,820
+so you can produce and understand new sentences.
+
+78
+00:03:53,820 --> 00:03:55,820
+This would be an example of how to do that.
+
+79
+00:03:55,820 --> 00:03:58,820
+Unfortunately, there appear to be idiosyncratic exceptions.
+
+80
+00:03:58,820 --> 00:04:01,820
+You can say, "Biff drove the car to Chicago,"
+
+81
+00:04:01,820 --> 00:04:04,820
+but not, "Biff drove Chicago the car."
+
+82
+00:04:04,820 --> 00:04:07,820
+You can say, "Sal gave Jason a headache,"
+
+83
+00:04:07,820 --> 00:04:09,820
+but it's a bit odd to say, "Sal gave a headache to Jason."
+
+84
+00:04:10,820 --> 00:04:13,820
+The solution is that these constructions, despite initial appearance,
+
+85
+00:04:13,820 --> 00:04:15,820
+are not synonymous,
+
+86
+00:04:15,820 --> 00:04:17,820
+that when you crank up the microscope
+
+87
+00:04:17,820 --> 00:04:19,820
+on human cognition, you see that there's a subtle difference
+
+88
+00:04:19,820 --> 00:04:21,820
+in meaning between them.
+
+89
+00:04:21,820 --> 00:04:23,820
+So, "give the X to the Y,"
+
+90
+00:04:23,820 --> 00:04:26,820
+that construction corresponds to the thought
+
+91
+00:04:26,820 --> 00:04:29,820
+"cause X to go to Y." Whereas "give the Y the X"
+
+92
+00:04:29,820 --> 00:04:33,820
+corresponds to the thought "cause Y to have X."
+
+93
+00:04:33,820 --> 00:04:37,820
+Now, many events can be subject to either construal,
+
+94
+00:04:37,820 --> 00:04:40,820
+kind of like the classic figure-ground reversal illusions,
+
+95
+00:04:40,820 --> 00:04:43,820
+in which you can either pay attention
+
+96
+00:04:43,820 --> 00:04:45,820
+to the particular object,
+
+97
+00:04:45,820 --> 00:04:49,820
+in which case the space around it recedes from attention,
+
+98
+00:04:49,820 --> 00:04:51,820
+or you can see the faces in the empty space,
+
+99
+00:04:51,820 --> 00:04:55,820
+in which case the object recedes out of consciousness.
+
+100
+00:04:55,820 --> 00:04:57,820
+How are these construals reflected in language?
+
+101
+00:04:57,820 --> 00:05:01,820
+Well, in both cases, the thing that is construed as being affected
+
+102
+00:05:01,820 --> 00:05:03,820
+is expressed as the direct object,
+
+103
+00:05:03,820 --> 00:05:05,820
+the noun after the verb.
+
+104
+00:05:05,820 --> 00:05:09,820
+So, when you think of the event as causing the muffin to go somewhere --
+
+105
+00:05:09,820 --> 00:05:11,820
+where you're doing something to the muffin --
+
+106
+00:05:11,820 --> 00:05:13,820
+you say, "Give the muffin to the mouse."
+
+107
+00:05:13,820 --> 00:05:16,820
+When you construe it as "cause the mouse to have something,"
+
+108
+00:05:16,820 --> 00:05:18,820
+you're doing something to the mouse,
+
+109
+00:05:18,820 --> 00:05:21,820
+and therefore you express it as, "Give the mouse the muffin."
+
+110
+00:05:21,820 --> 00:05:23,820
+So which verbs go in which construction --
+
+111
+00:05:23,820 --> 00:05:25,820
+the problem with which I began --
+
+112
+00:05:25,820 --> 00:05:29,820
+depends on whether the verb specifies a kind of motion
+
+113
+00:05:29,820 --> 00:05:31,820
+or a kind of possession change.
+
+114
+00:05:31,820 --> 00:05:34,820
+To give something involves both causing something to go
+
+115
+00:05:34,820 --> 00:05:36,820
+and causing someone to have.
+
+116
+00:05:36,820 --> 00:05:39,820
+To drive the car only causes something to go,
+
+117
+00:05:39,820 --> 00:05:41,820
+because Chicago's not the kind of thing that can possess something.
+
+118
+00:05:41,820 --> 00:05:44,820
+Only humans can possess things.
+
+119
+00:05:44,820 --> 00:05:46,820
+And to give someone a headache causes them to have the headache,
+
+120
+00:05:46,820 --> 00:05:49,820
+but it's not as if you're taking the headache out of your head
+
+121
+00:05:49,820 --> 00:05:51,820
+and causing it to go to the other person,
+
+122
+00:05:51,820 --> 00:05:53,820
+and implanting it in them.
+
+123
+00:05:53,820 --> 00:05:55,820
+You may just be loud or obnoxious,
+
+124
+00:05:55,820 --> 00:05:57,820
+or some other way causing them to have the headache.
+
+125
+00:05:57,820 --> 00:06:01,820
+So, that's
+
+126
+00:06:01,820 --> 00:06:03,820
+an example of the kind of thing that I do in my day job.
+
+127
+00:06:03,820 --> 00:06:05,820
+So why should anyone care?
+
+128
+00:06:05,820 --> 00:06:08,820
+Well, there are a number of interesting conclusions, I think,
+
+129
+00:06:08,820 --> 00:06:12,820
+from this and many similar kinds of analyses
+
+130
+00:06:12,820 --> 00:06:14,820
+of hundreds of English verbs.
+
+131
+00:06:14,820 --> 00:06:17,820
+First, there's a level of fine-grained conceptual structure,
+
+132
+00:06:17,820 --> 00:06:20,820
+which we automatically and unconsciously compute
+
+133
+00:06:20,820 --> 00:06:24,820
+every time we produce or utter a sentence, that governs our use of language.
+
+134
+00:06:24,820 --> 00:06:28,820
+You can think of this as the language of thought, or "mentalese."
+
+135
+00:06:28,820 --> 00:06:31,820
+It seems to be based on a fixed set of concepts,
+
+136
+00:06:31,820 --> 00:06:34,820
+which govern dozens of constructions and thousands of verbs --
+
+137
+00:06:34,820 --> 00:06:37,820
+not only in English, but in all other languages --
+
+138
+00:06:37,820 --> 00:06:39,820
+fundamental concepts such as space,
+
+139
+00:06:39,820 --> 00:06:42,820
+time, causation and human intention,
+
+140
+00:06:42,820 --> 00:06:45,820
+such as, what is the means and what is the ends?
+
+141
+00:06:45,820 --> 00:06:47,820
+These are reminiscent of the kinds of categories
+
+142
+00:06:47,820 --> 00:06:49,820
+that Immanuel Kant argued
+
+143
+00:06:49,820 --> 00:06:52,820
+are the basic framework for human thought,
+
+144
+00:06:52,820 --> 00:06:55,820
+and it's interesting that our unconscious use of language
+
+145
+00:06:55,820 --> 00:06:58,820
+seems to reflect these Kantian categories.
+
+146
+00:06:58,820 --> 00:07:00,820
+Doesn't care about perceptual qualities,
+
+147
+00:07:00,820 --> 00:07:02,820
+such as color, texture, weight and speed,
+
+148
+00:07:02,820 --> 00:07:04,820
+which virtually never differentiate
+
+149
+00:07:04,820 --> 00:07:06,820
+the use of verbs in different constructions.
+
+150
+00:07:07,820 --> 00:07:10,820
+An additional twist is that all of the constructions in English
+
+151
+00:07:10,820 --> 00:07:12,820
+are used not only literally,
+
+152
+00:07:12,820 --> 00:07:15,820
+but in a quasi-metaphorical way.
+
+153
+00:07:15,820 --> 00:07:17,820
+For example, this construction, the dative,
+
+154
+00:07:17,820 --> 00:07:19,820
+is used not only to transfer things,
+
+155
+00:07:19,820 --> 00:07:22,820
+but also for the metaphorical transfer of ideas,
+
+156
+00:07:22,820 --> 00:07:24,820
+as when we say, "She told a story to me"
+
+157
+00:07:24,820 --> 00:07:26,820
+or "told me a story,"
+
+158
+00:07:26,820 --> 00:07:29,820
+"Max taught Spanish to the students" or "taught the students Spanish."
+
+159
+00:07:29,820 --> 00:07:31,820
+It's exactly the same construction,
+
+160
+00:07:31,820 --> 00:07:35,820
+but no muffins, no mice, nothing moving at all.
+
+161
+00:07:35,820 --> 00:07:38,820
+It evokes the container metaphor of communication,
+
+162
+00:07:38,820 --> 00:07:40,820
+in which we conceive of ideas as objects,
+
+163
+00:07:40,820 --> 00:07:42,820
+sentences as containers,
+
+164
+00:07:42,820 --> 00:07:44,820
+and communication as a kind of sending.
+
+165
+00:07:44,820 --> 00:07:47,820
+As when we say we "gather" our ideas, to "put" them "into" words,
+
+166
+00:07:47,820 --> 00:07:49,820
+and if our words aren't "empty" or "hollow,"
+
+167
+00:07:49,820 --> 00:07:52,820
+we might get these ideas "across" to a listener,
+
+168
+00:07:52,820 --> 00:07:55,820
+who can "unpack" our words to "extract" their "content."
+
+169
+00:07:55,820 --> 00:07:58,820
+And indeed, this kind of verbiage is not the exception, but the rule.
+
+170
+00:07:58,820 --> 00:08:01,820
+It's very hard to find any example of abstract language
+
+171
+00:08:01,820 --> 00:08:04,820
+that is not based on some concrete metaphor.
+
+172
+00:08:04,820 --> 00:08:07,820
+For example, you can use the verb "go"
+
+173
+00:08:07,820 --> 00:08:09,820
+and the prepositions "to" and "from"
+
+174
+00:08:09,820 --> 00:08:11,820
+in a literal, spatial sense.
+
+175
+00:08:11,820 --> 00:08:13,820
+"The messenger went from Paris to Istanbul."
+
+176
+00:08:13,820 --> 00:08:16,820
+You can also say, "Biff went from sick to well."
+
+177
+00:08:16,820 --> 00:08:19,820
+He needn't go anywhere. He could have been in bed the whole time,
+
+178
+00:08:19,820 --> 00:08:21,820
+but it's as if his health is a point in state space
+
+179
+00:08:21,820 --> 00:08:23,820
+that you conceptualize as moving.
+
+180
+00:08:23,820 --> 00:08:25,820
+Or, "The meeting went from three to four,"
+
+181
+00:08:25,820 --> 00:08:28,820
+in which we conceive of time as stretched along a line.
+
+182
+00:08:28,820 --> 00:08:31,820
+Likewise, we use "force" to indicate
+
+183
+00:08:31,820 --> 00:08:33,820
+not only physical force,
+
+184
+00:08:33,820 --> 00:08:35,820
+as in, "Rose forced the door to open,"
+
+185
+00:08:35,820 --> 00:08:37,820
+but also interpersonal force,
+
+186
+00:08:37,820 --> 00:08:41,820
+as in, "Rose forced Sadie to go," not necessarily by manhandling her,
+
+187
+00:08:41,820 --> 00:08:43,820
+but by issuing a threat.
+
+188
+00:08:43,820 --> 00:08:45,820
+Or, "Rose forced herself to go,"
+
+189
+00:08:45,820 --> 00:08:47,820
+as if there were two entities inside Rose's head,
+
+190
+00:08:48,820 --> 00:08:50,820
+engaged in a tug of a war.
+
+191
+00:08:50,820 --> 00:08:53,820
+Second conclusion is that the ability to conceive
+
+192
+00:08:53,820 --> 00:08:56,820
+of a given event in two different ways,
+
+193
+00:08:56,820 --> 00:08:58,820
+such as "cause something to go to someone"
+
+194
+00:08:58,820 --> 00:09:00,820
+and "causing someone to have something,"
+
+195
+00:09:00,820 --> 00:09:04,820
+I think is a fundamental feature of human thought,
+
+196
+00:09:04,820 --> 00:09:07,820
+and it's the basis for much human argumentation,
+
+197
+00:09:07,820 --> 00:09:10,820
+in which people don't differ so much on the facts
+
+198
+00:09:10,820 --> 00:09:12,820
+as on how they ought to be construed.
+
+199
+00:09:12,820 --> 00:09:14,820
+Just to give you a few examples:
+
+200
+00:09:14,820 --> 00:09:16,820
+"ending a pregnancy" versus "killing a fetus;"
+
+201
+00:09:16,820 --> 00:09:19,820
+"a ball of cells" versus "an unborn child;"
+
+202
+00:09:19,820 --> 00:09:21,820
+"invading Iraq" versus "liberating Iraq;"
+
+203
+00:09:21,820 --> 00:09:25,820
+"redistributing wealth" versus "confiscating earnings."
+
+204
+00:09:25,820 --> 00:09:27,820
+And I think the biggest picture of all
+
+205
+00:09:27,820 --> 00:09:30,820
+would take seriously the fact
+
+206
+00:09:30,820 --> 00:09:33,820
+that so much of our verbiage about abstract events
+
+207
+00:09:33,820 --> 00:09:35,820
+is based on a concrete metaphor
+
+208
+00:09:35,820 --> 00:09:37,820
+and see human intelligence itself
+
+209
+00:09:37,820 --> 00:09:40,820
+as consisting of a repertoire of concepts --
+
+210
+00:09:40,820 --> 00:09:43,820
+such as objects, space, time, causation and intention --
+
+211
+00:09:43,820 --> 00:09:47,820
+which are useful in a social, knowledge-intensive species,
+
+212
+00:09:47,820 --> 00:09:49,820
+whose evolution you can well imagine,
+
+213
+00:09:49,820 --> 00:09:52,820
+and a process of metaphorical abstraction
+
+214
+00:09:52,820 --> 00:09:54,820
+that allows us to bleach these concepts
+
+215
+00:09:54,820 --> 00:09:57,820
+of their original conceptual content --
+
+216
+00:09:57,820 --> 00:10:00,820
+space, time and force --
+
+217
+00:10:00,820 --> 00:10:02,820
+and apply them to new abstract domains,
+
+218
+00:10:02,820 --> 00:10:05,820
+therefore allowing a species that evolved
+
+219
+00:10:05,820 --> 00:10:07,820
+to deal with rocks and tools and animals,
+
+220
+00:10:07,820 --> 00:10:10,820
+to conceptualize mathematics, physics, law
+
+221
+00:10:10,820 --> 00:10:13,820
+and other abstract domains.
+
+222
+00:10:13,820 --> 00:10:16,820
+Well, I said I'd talk about two windows on human nature --
+
+223
+00:10:16,820 --> 00:10:19,820
+the cognitive machinery with which we conceptualize the world,
+
+224
+00:10:19,820 --> 00:10:21,820
+and now I'm going to say a few words about the relationship types
+
+225
+00:10:21,820 --> 00:10:23,820
+that govern human social interaction,
+
+226
+00:10:23,820 --> 00:10:25,820
+again, as reflected in language.
+
+227
+00:10:26,820 --> 00:10:30,820
+And I'll start out with a puzzle, the puzzle of indirect speech acts.
+
+228
+00:10:30,820 --> 00:10:32,820
+Now, I'm sure most of you have seen the movie "Fargo."
+
+229
+00:10:32,820 --> 00:10:34,820
+And you might remember the scene in which
+
+230
+00:10:34,820 --> 00:10:37,820
+the kidnapper is pulled over by a police officer,
+
+231
+00:10:37,820 --> 00:10:39,820
+is asked to show his driver's license
+
+232
+00:10:39,820 --> 00:10:41,820
+and holds his wallet out
+
+233
+00:10:41,820 --> 00:10:44,820
+with a 50-dollar bill extending
+
+234
+00:10:44,820 --> 00:10:46,820
+at a slight angle out of the wallet.
+
+235
+00:10:46,820 --> 00:10:48,820
+And he says, "I was just thinking
+
+236
+00:10:48,820 --> 00:10:50,820
+that maybe we could take care of it here in Fargo,"
+
+237
+00:10:50,820 --> 00:10:53,820
+which everyone, including the audience,
+
+238
+00:10:53,820 --> 00:10:56,820
+interprets as a veiled bribe.
+
+239
+00:10:56,820 --> 00:11:00,820
+This kind of indirect speech is rampant in language.
+
+240
+00:11:00,820 --> 00:11:02,820
+For example, in polite requests,
+
+241
+00:11:02,820 --> 00:11:04,820
+if someone says, "If you could pass the guacamole,
+
+242
+00:11:04,820 --> 00:11:06,820
+that would be awesome,"
+
+243
+00:11:06,820 --> 00:11:08,820
+we know exactly what he means,
+
+244
+00:11:08,820 --> 00:11:10,820
+even though that's a rather bizarre
+
+245
+00:11:10,820 --> 00:11:12,820
+concept being expressed.
+
+246
+00:11:12,820 --> 00:11:15,820
+(Laughter)
+
+247
+00:11:15,820 --> 00:11:17,820
+"Would you like to come up and see my etchings?"
+
+248
+00:11:17,820 --> 00:11:19,820
+I think most people
+
+249
+00:11:19,820 --> 00:11:22,820
+understand the intent behind that.
+
+250
+00:11:22,820 --> 00:11:24,820
+And likewise, if someone says,
+
+251
+00:11:24,820 --> 00:11:27,820
+"Nice store you've got there. It would be a real shame if something happened to it" --
+
+252
+00:11:27,820 --> 00:11:28,820
+(Laughter) --
+
+253
+00:11:28,820 --> 00:11:30,820
+we understand that as a veiled threat,
+
+254
+00:11:30,820 --> 00:11:33,820
+rather than a musing of hypothetical possibilities.
+
+255
+00:11:33,820 --> 00:11:36,820
+So the puzzle is, why are bribes,
+
+256
+00:11:36,820 --> 00:11:39,820
+polite requests, solicitations and threats so often veiled?
+
+257
+00:11:39,820 --> 00:11:41,820
+No one's fooled.
+
+258
+00:11:41,820 --> 00:11:44,820
+Both parties know exactly what the speaker means,
+
+259
+00:11:44,820 --> 00:11:46,820
+and the speaker knows the listener knows
+
+260
+00:11:46,820 --> 00:11:49,820
+that the speaker knows that the listener knows, etc., etc.
+
+261
+00:11:49,820 --> 00:11:51,820
+So what's going on?
+
+262
+00:11:51,820 --> 00:11:53,820
+I think the key idea is that language
+
+263
+00:11:53,820 --> 00:11:55,820
+is a way of negotiating relationships,
+
+264
+00:11:55,820 --> 00:11:58,820
+and human relationships fall into a number of types.
+
+265
+00:11:58,820 --> 00:12:02,820
+There's an influential taxonomy by the anthropologist Alan Fiske,
+
+266
+00:12:02,820 --> 00:12:05,820
+in which relationships can be categorized, more or less,
+
+267
+00:12:05,820 --> 00:12:07,820
+into communality, which works on the principle
+
+268
+00:12:07,820 --> 00:12:10,820
+"what's mine is thine, what's thine is mine,"
+
+269
+00:12:10,820 --> 00:12:14,820
+the kind of mindset that operates within a family, for example;
+
+270
+00:12:14,820 --> 00:12:17,820
+dominance, whose principle is "don't mess with me;"
+
+271
+00:12:17,820 --> 00:12:21,820
+reciprocity, "you scratch my back, I'll scratch yours;"
+
+272
+00:12:21,820 --> 00:12:26,820
+and sexuality, in the immortal words of Cole Porter, "Let's do it."
+
+273
+00:12:26,820 --> 00:12:29,820
+Now, relationship types can be negotiated.
+
+274
+00:12:29,820 --> 00:12:32,820
+Even though there are default situations
+
+275
+00:12:32,820 --> 00:12:34,820
+in which one of these mindsets can be applied,
+
+276
+00:12:34,820 --> 00:12:37,820
+they can be stretched and extended.
+
+277
+00:12:37,820 --> 00:12:40,820
+For example, communality applies most naturally
+
+278
+00:12:40,820 --> 00:12:42,820
+within family or friends,
+
+279
+00:12:42,820 --> 00:12:44,820
+but it can be used to try to transfer
+
+280
+00:12:44,820 --> 00:12:46,820
+the mentality of sharing
+
+281
+00:12:46,820 --> 00:12:50,820
+to groups that ordinarily would not be disposed to exercise it.
+
+282
+00:12:50,820 --> 00:12:54,820
+For example, in brotherhoods, fraternal organizations,
+
+283
+00:12:54,820 --> 00:12:57,820
+sororities, locutions like "the family of man,"
+
+284
+00:12:57,820 --> 00:12:59,820
+you try to get people who are not related
+
+285
+00:12:59,820 --> 00:13:03,820
+to use the relationship type that would ordinarily
+
+286
+00:13:03,820 --> 00:13:05,820
+be appropriate to close kin.
+
+287
+00:13:05,820 --> 00:13:08,820
+Now, mismatches -- when one person assumes one relationship type,
+
+288
+00:13:08,820 --> 00:13:11,820
+and another assumes a different one -- can be awkward.
+
+289
+00:13:11,820 --> 00:13:13,820
+If you went over and you helped yourself
+
+290
+00:13:13,820 --> 00:13:15,820
+to a shrimp off your boss' plate,
+
+291
+00:13:15,820 --> 00:13:17,820
+for example, that would be an awkward situation.
+
+292
+00:13:17,820 --> 00:13:19,820
+Or if a dinner guest after the meal
+
+293
+00:13:19,820 --> 00:13:22,820
+pulled out his wallet and offered to pay you for the meal,
+
+294
+00:13:22,820 --> 00:13:24,820
+that would be rather awkward as well.
+
+295
+00:13:24,820 --> 00:13:27,820
+In less blatant cases,
+
+296
+00:13:27,820 --> 00:13:30,820
+there's still a kind of negotiation that often goes on.
+
+297
+00:13:30,820 --> 00:13:32,820
+In the workplace, for example,
+
+298
+00:13:32,820 --> 00:13:34,820
+there's often a tension over whether an employee
+
+299
+00:13:34,820 --> 00:13:36,820
+can socialize with the boss,
+
+300
+00:13:36,820 --> 00:13:38,820
+or refer to him or her
+
+301
+00:13:38,820 --> 00:13:40,820
+on a first-name basis.
+
+302
+00:13:40,820 --> 00:13:42,820
+If two friends have a
+
+303
+00:13:42,820 --> 00:13:44,820
+reciprocal transaction, like selling a car,
+
+304
+00:13:44,820 --> 00:13:46,820
+it's well known that this can be a source
+
+305
+00:13:46,820 --> 00:13:48,820
+of tension or awkwardness.
+
+306
+00:13:48,820 --> 00:13:50,820
+In dating, the transition
+
+307
+00:13:50,820 --> 00:13:52,820
+from friendship to sex
+
+308
+00:13:52,820 --> 00:13:55,820
+can lead to, notoriously, various forms of awkwardness,
+
+309
+00:13:55,820 --> 00:13:57,820
+and as can sex in the workplace,
+
+310
+00:13:57,820 --> 00:13:59,820
+in which we call the conflict between a
+
+311
+00:13:59,820 --> 00:14:03,820
+dominant and a sexual relationship "sexual harassment."
+
+312
+00:14:03,820 --> 00:14:05,820
+Well, what does this have to do with language?
+
+313
+00:14:05,820 --> 00:14:07,820
+Well, language, as a social interaction,
+
+314
+00:14:07,820 --> 00:14:09,820
+has to satisfy two conditions.
+
+315
+00:14:09,820 --> 00:14:12,820
+You have to convey the actual content --
+
+316
+00:14:12,820 --> 00:14:14,820
+here we get back to the container metaphor.
+
+317
+00:14:14,820 --> 00:14:17,820
+You want to express the bribe, the command, the promise,
+
+318
+00:14:17,820 --> 00:14:19,820
+the solicitation and so on,
+
+319
+00:14:19,820 --> 00:14:21,820
+but you also have to negotiate
+
+320
+00:14:21,820 --> 00:14:23,820
+and maintain the kind of relationship
+
+321
+00:14:23,820 --> 00:14:25,820
+you have with the other person.
+
+322
+00:14:25,820 --> 00:14:28,820
+The solution, I think, is that we use language at two levels:
+
+323
+00:14:28,820 --> 00:14:30,820
+the literal form signals
+
+324
+00:14:30,820 --> 00:14:32,820
+the safest relationship with the listener,
+
+325
+00:14:32,820 --> 00:14:34,820
+whereas the implicated content --
+
+326
+00:14:35,820 --> 00:14:37,820
+the reading between the lines that we count on the listener to perform --
+
+327
+00:14:38,820 --> 00:14:40,820
+allows the listener to derive the interpretation
+
+328
+00:14:40,820 --> 00:14:42,820
+which is most relevant in context,
+
+329
+00:14:42,820 --> 00:14:45,820
+which possibly initiates a changed relationship.
+
+330
+00:14:45,820 --> 00:14:49,820
+The simplest example of this is in the polite request.
+
+331
+00:14:49,820 --> 00:14:52,820
+If you express your request as a conditional --
+
+332
+00:14:52,820 --> 00:14:55,820
+"if you could open the window, that would be great" --
+
+333
+00:14:55,820 --> 00:14:57,820
+even though the content is an imperative,
+
+334
+00:14:57,820 --> 00:14:59,820
+the fact that you're not using the imperative voice
+
+335
+00:15:00,820 --> 00:15:03,820
+means that you're not acting as if you're in a relationship of dominance,
+
+336
+00:15:04,820 --> 00:15:07,820
+where you could presuppose the compliance of the other person.
+
+337
+00:15:07,820 --> 00:15:09,820
+On the other hand, you want the damn guacamole.
+
+338
+00:15:09,820 --> 00:15:12,820
+By expressing it as an if-then statement,
+
+339
+00:15:12,820 --> 00:15:14,820
+you can get the message across
+
+340
+00:15:14,820 --> 00:15:18,820
+without appearing to boss another person around.
+
+341
+00:15:18,820 --> 00:15:20,820
+And in a more subtle way, I think, this works
+
+342
+00:15:20,820 --> 00:15:22,820
+for all of the veiled speech acts
+
+343
+00:15:22,820 --> 00:15:24,820
+involving plausible deniability:
+
+344
+00:15:24,820 --> 00:15:26,820
+the bribes, threats, propositions,
+
+345
+00:15:26,820 --> 00:15:28,820
+solicitations and so on.
+
+346
+00:15:28,820 --> 00:15:30,820
+One way of thinking about it is to imagine what it would be like
+
+347
+00:15:30,820 --> 00:15:33,820
+if language -- where it could only be used literally.
+
+348
+00:15:33,820 --> 00:15:35,820
+And you can think of it in terms of a
+
+349
+00:15:35,820 --> 00:15:38,820
+game-theoretic payoff matrix.
+
+350
+00:15:38,820 --> 00:15:40,820
+Put yourself in the position of the
+
+351
+00:15:40,820 --> 00:15:43,820
+kidnapper wanting to bribe the officer.
+
+352
+00:15:43,820 --> 00:15:45,820
+There's a high stakes
+
+353
+00:15:45,820 --> 00:15:48,820
+in the two possibilities
+
+354
+00:15:48,820 --> 00:15:51,820
+of having a dishonest officer or an honest officer.
+
+355
+00:15:51,820 --> 00:15:54,820
+If you don't bribe the officer,
+
+356
+00:15:54,820 --> 00:15:56,820
+then you will get a traffic ticket --
+
+357
+00:15:56,820 --> 00:15:58,820
+or, as is the case of "Fargo," worse --
+
+358
+00:15:58,820 --> 00:16:00,820
+whether the honest officer
+
+359
+00:16:00,820 --> 00:16:02,820
+is honest or dishonest.
+
+360
+00:16:02,820 --> 00:16:04,820
+Nothing ventured, nothing gained.
+
+361
+00:16:04,820 --> 00:16:07,820
+In that case, the consequences are rather severe.
+
+362
+00:16:07,820 --> 00:16:09,820
+On the other hand, if you extend the bribe,
+
+363
+00:16:09,820 --> 00:16:11,820
+if the officer is dishonest,
+
+364
+00:16:11,820 --> 00:16:14,820
+you get a huge payoff of going free.
+
+365
+00:16:14,820 --> 00:16:17,820
+If the officer is honest, you get a huge penalty
+
+366
+00:16:17,820 --> 00:16:19,820
+of being arrested for bribery.
+
+367
+00:16:19,820 --> 00:16:21,820
+So this is a rather fraught situation.
+
+368
+00:16:21,820 --> 00:16:23,820
+On the other hand, with indirect language,
+
+369
+00:16:23,820 --> 00:16:25,820
+if you issue a veiled bribe,
+
+370
+00:16:25,820 --> 00:16:27,820
+then the dishonest officer
+
+371
+00:16:27,820 --> 00:16:29,820
+could interpret it as a bribe,
+
+372
+00:16:29,820 --> 00:16:32,820
+in which case you get the payoff of going free.
+
+373
+00:16:32,820 --> 00:16:35,820
+The honest officer can't hold you to it as being a bribe,
+
+374
+00:16:35,820 --> 00:16:38,820
+and therefore, you get the nuisance of the traffic ticket.
+
+375
+00:16:38,820 --> 00:16:41,820
+So you get the best of both worlds.
+
+376
+00:16:41,820 --> 00:16:43,820
+And a similar analysis, I think,
+
+377
+00:16:43,820 --> 00:16:45,820
+can apply to the potential awkwardness
+
+378
+00:16:45,820 --> 00:16:47,820
+of a sexual solicitation,
+
+379
+00:16:47,820 --> 00:16:50,820
+and other cases where plausible deniability is an asset.
+
+380
+00:16:50,820 --> 00:16:52,820
+I think this affirms
+
+381
+00:16:52,820 --> 00:16:54,820
+something that's long been known by diplomats --
+
+382
+00:16:54,820 --> 00:16:56,820
+namely, that the vagueness of language,
+
+383
+00:16:56,820 --> 00:16:59,820
+far from being a bug or an imperfection,
+
+384
+00:16:59,820 --> 00:17:02,820
+actually might be a feature of language,
+
+385
+00:17:02,820 --> 00:17:05,820
+one that we use to our advantage in social interactions.
+
+386
+00:17:05,820 --> 00:17:08,820
+So to sum up: language is a collective human creation,
+
+387
+00:17:08,820 --> 00:17:10,820
+reflecting human nature,
+
+388
+00:17:10,820 --> 00:17:12,820
+how we conceptualize reality,
+
+389
+00:17:12,820 --> 00:17:14,820
+how we relate to one another.
+
+390
+00:17:14,820 --> 00:17:18,820
+And then by analyzing the various quirks and complexities of language,
+
+391
+00:17:18,820 --> 00:17:21,820
+I think we can get a window onto what makes us tick.
+
+392
+00:17:21,820 --> 00:17:22,820
+Thank you very much.
+
+393
+00:17:22,820 --> 00:17:23,820
+(Applause)
+

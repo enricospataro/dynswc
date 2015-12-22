@@ -1,0 +1,2076 @@
+﻿1
+00:00:11,820 --> 00:00:13,820
+A few months ago
+
+2
+00:00:13,820 --> 00:00:15,820
+the Nobel Prize in physics
+
+3
+00:00:15,820 --> 00:00:17,820
+was awarded to two teams of astronomers
+
+4
+00:00:17,820 --> 00:00:20,820
+for a discovery that has been hailed
+
+5
+00:00:20,820 --> 00:00:22,820
+as one of the most important
+
+6
+00:00:22,820 --> 00:00:24,820
+astronomical observations ever.
+
+7
+00:00:24,820 --> 00:00:26,820
+And today, after briefly describing what they found,
+
+8
+00:00:26,820 --> 00:00:29,820
+I'm going to tell you about a highly controversial framework
+
+9
+00:00:29,820 --> 00:00:32,820
+for explaining their discovery,
+
+10
+00:00:32,820 --> 00:00:34,820
+namely the possibility
+
+11
+00:00:34,820 --> 00:00:36,820
+that way beyond the Earth,
+
+12
+00:00:36,820 --> 00:00:39,820
+the Milky Way and other distant galaxies,
+
+13
+00:00:39,820 --> 00:00:41,820
+we may find that our universe
+
+14
+00:00:41,820 --> 00:00:43,820
+is not the only universe,
+
+15
+00:00:43,820 --> 00:00:45,820
+but is instead
+
+16
+00:00:45,820 --> 00:00:47,820
+part of a vast complex of universes
+
+17
+00:00:47,820 --> 00:00:49,820
+that we call the multiverse.
+
+18
+00:00:49,820 --> 00:00:52,820
+Now the idea of a multiverse is a strange one.
+
+19
+00:00:52,820 --> 00:00:54,820
+I mean, most of us were raised to believe
+
+20
+00:00:54,820 --> 00:00:57,820
+that the word "universe" means everything.
+
+21
+00:00:57,820 --> 00:01:00,820
+And I say most of us with forethought,
+
+22
+00:01:00,820 --> 00:01:03,820
+as my four-year-old daughter has heard me speak of these ideas since she was born.
+
+23
+00:01:03,820 --> 00:01:05,820
+And last year I was holding her
+
+24
+00:01:05,820 --> 00:01:07,820
+and I said, "Sophia,
+
+25
+00:01:07,820 --> 00:01:10,820
+I love you more than anything in the universe."
+
+26
+00:01:10,820 --> 00:01:12,820
+And she turned to me and said, "Daddy,
+
+27
+00:01:12,820 --> 00:01:14,820
+universe or multiverse?"
+
+28
+00:01:14,820 --> 00:01:17,820
+(Laughter)
+
+29
+00:01:17,820 --> 00:01:20,820
+But barring such an anomalous upbringing,
+
+30
+00:01:20,820 --> 00:01:22,820
+it is strange to imagine
+
+31
+00:01:22,820 --> 00:01:24,820
+other realms separate from ours,
+
+32
+00:01:24,820 --> 00:01:26,820
+most with fundamentally different features,
+
+33
+00:01:26,820 --> 00:01:29,820
+that would rightly be called universes of their own.
+
+34
+00:01:29,820 --> 00:01:31,820
+And yet,
+
+35
+00:01:31,820 --> 00:01:33,820
+speculative though the idea surely is,
+
+36
+00:01:33,820 --> 00:01:35,820
+I aim to convince you
+
+37
+00:01:35,820 --> 00:01:37,820
+that there's reason for taking it seriously,
+
+38
+00:01:37,820 --> 00:01:39,820
+as it just might be right.
+
+39
+00:01:39,820 --> 00:01:42,820
+I'm going to tell the story of the multiverse in three parts.
+
+40
+00:01:42,820 --> 00:01:44,820
+In part one,
+
+41
+00:01:44,820 --> 00:01:46,820
+I'm going to describe those Nobel Prize-winning results
+
+42
+00:01:46,820 --> 00:01:48,820
+and to highlight a profound mystery
+
+43
+00:01:48,820 --> 00:01:50,820
+which those results revealed.
+
+44
+00:01:50,820 --> 00:01:52,820
+In part two,
+
+45
+00:01:52,820 --> 00:01:54,820
+I'll offer a solution to that mystery.
+
+46
+00:01:54,820 --> 00:01:56,820
+It's based on an approach called string theory,
+
+47
+00:01:56,820 --> 00:01:58,820
+and that's where the idea of the multiverse
+
+48
+00:01:58,820 --> 00:02:00,820
+will come into the story.
+
+49
+00:02:00,820 --> 00:02:02,820
+Finally, in part three,
+
+50
+00:02:02,820 --> 00:02:04,820
+I'm going to describe a cosmological theory
+
+51
+00:02:04,820 --> 00:02:06,820
+called inflation,
+
+52
+00:02:06,820 --> 00:02:09,820
+which will pull all the pieces of the story together.
+
+53
+00:02:09,820 --> 00:02:13,820
+Okay, part one starts back in 1929
+
+54
+00:02:13,820 --> 00:02:15,820
+when the great astronomer Edwin Hubble
+
+55
+00:02:15,820 --> 00:02:18,820
+realized that the distant galaxies
+
+56
+00:02:18,820 --> 00:02:20,820
+were all rushing away from us,
+
+57
+00:02:20,820 --> 00:02:22,820
+establishing that space itself is stretching,
+
+58
+00:02:22,820 --> 00:02:24,820
+it's expanding.
+
+59
+00:02:24,820 --> 00:02:27,820
+Now this was revolutionary.
+
+60
+00:02:27,820 --> 00:02:30,820
+The prevailing wisdom was that on the largest of scales
+
+61
+00:02:30,820 --> 00:02:32,820
+the universe was static.
+
+62
+00:02:32,820 --> 00:02:34,820
+But even so,
+
+63
+00:02:34,820 --> 00:02:37,820
+there was one thing that everyone was certain of:
+
+64
+00:02:37,820 --> 00:02:40,820
+The expansion must be slowing down.
+
+65
+00:02:40,820 --> 00:02:43,820
+That, much as the gravitational pull of the Earth
+
+66
+00:02:43,820 --> 00:02:46,820
+slows the ascent of an apple tossed upward,
+
+67
+00:02:46,820 --> 00:02:48,820
+the gravitational pull
+
+68
+00:02:48,820 --> 00:02:50,820
+of each galaxy on every other
+
+69
+00:02:50,820 --> 00:02:52,820
+must be slowing
+
+70
+00:02:52,820 --> 00:02:54,820
+the expansion of space.
+
+71
+00:02:54,820 --> 00:02:57,820
+Now let's fast-forward to the 1990s
+
+72
+00:02:57,820 --> 00:02:59,820
+when those two teams of astronomers
+
+73
+00:02:59,820 --> 00:03:01,820
+I mentioned at the outset
+
+74
+00:03:01,820 --> 00:03:03,820
+were inspired by this reasoning
+
+75
+00:03:03,820 --> 00:03:05,820
+to measure the rate
+
+76
+00:03:05,820 --> 00:03:07,820
+at which the expansion has been slowing.
+
+77
+00:03:07,820 --> 00:03:09,820
+And they did this
+
+78
+00:03:09,820 --> 00:03:11,820
+by painstaking observations
+
+79
+00:03:11,820 --> 00:03:13,820
+of numerous distant galaxies,
+
+80
+00:03:13,820 --> 00:03:15,820
+allowing them to chart
+
+81
+00:03:15,820 --> 00:03:18,820
+how the expansion rate has changed over time.
+
+82
+00:03:18,820 --> 00:03:21,820
+Here's the surprise:
+
+83
+00:03:21,820 --> 00:03:24,820
+They found that the expansion is not slowing down.
+
+84
+00:03:24,820 --> 00:03:26,820
+Instead they found that it's speeding up,
+
+85
+00:03:26,820 --> 00:03:28,820
+going faster and faster.
+
+86
+00:03:28,820 --> 00:03:30,820
+That's like tossing an apple upward
+
+87
+00:03:30,820 --> 00:03:32,820
+and it goes up faster and faster.
+
+88
+00:03:32,820 --> 00:03:34,820
+Now if you saw an apple do that,
+
+89
+00:03:34,820 --> 00:03:36,820
+you'd want to know why.
+
+90
+00:03:36,820 --> 00:03:38,820
+What's pushing on it?
+
+91
+00:03:38,820 --> 00:03:40,820
+Similarly, the astronomers' results
+
+92
+00:03:40,820 --> 00:03:43,820
+are surely well-deserving of the Nobel Prize,
+
+93
+00:03:43,820 --> 00:03:47,820
+but they raised an analogous question.
+
+94
+00:03:47,820 --> 00:03:49,820
+What force is driving all galaxies
+
+95
+00:03:49,820 --> 00:03:52,820
+to rush away from every other
+
+96
+00:03:52,820 --> 00:03:55,820
+at an ever-quickening speed?
+
+97
+00:03:55,820 --> 00:03:57,820
+Well the most promising answer
+
+98
+00:03:57,820 --> 00:04:00,820
+comes from an old idea of Einstein's.
+
+99
+00:04:00,820 --> 00:04:02,820
+You see, we are all used to gravity
+
+100
+00:04:02,820 --> 00:04:05,820
+being a force that does one thing,
+
+101
+00:04:05,820 --> 00:04:07,820
+pulls objects together.
+
+102
+00:04:07,820 --> 00:04:09,820
+But in Einstein's theory of gravity,
+
+103
+00:04:09,820 --> 00:04:11,820
+his general theory of relativity,
+
+104
+00:04:11,820 --> 00:04:14,820
+gravity can also push things apart.
+
+105
+00:04:14,820 --> 00:04:17,820
+How? Well according to Einstein's math,
+
+106
+00:04:17,820 --> 00:04:19,820
+if space is uniformly filled
+
+107
+00:04:19,820 --> 00:04:21,820
+with an invisible energy,
+
+108
+00:04:21,820 --> 00:04:24,820
+sort of like a uniform, invisible mist,
+
+109
+00:04:24,820 --> 00:04:27,820
+then the gravity generated by that mist
+
+110
+00:04:27,820 --> 00:04:29,820
+would be repulsive,
+
+111
+00:04:29,820 --> 00:04:31,820
+repulsive gravity,
+
+112
+00:04:31,820 --> 00:04:34,820
+which is just what we need to explain the observations.
+
+113
+00:04:34,820 --> 00:04:36,820
+Because the repulsive gravity
+
+114
+00:04:36,820 --> 00:04:38,820
+of an invisible energy in space --
+
+115
+00:04:38,820 --> 00:04:40,820
+we now call it dark energy,
+
+116
+00:04:40,820 --> 00:04:43,820
+but I've made it smokey white here so you can see it --
+
+117
+00:04:43,820 --> 00:04:45,820
+its repulsive gravity
+
+118
+00:04:45,820 --> 00:04:47,820
+would cause each galaxy to push against every other,
+
+119
+00:04:47,820 --> 00:04:49,820
+driving expansion to speed up,
+
+120
+00:04:49,820 --> 00:04:51,820
+not slow down.
+
+121
+00:04:51,820 --> 00:04:53,820
+And this explanation
+
+122
+00:04:53,820 --> 00:04:55,820
+represents great progress.
+
+123
+00:04:55,820 --> 00:04:58,820
+But I promised you a mystery
+
+124
+00:04:58,820 --> 00:05:00,820
+here in part one.
+
+125
+00:05:00,820 --> 00:05:02,820
+Here it is.
+
+126
+00:05:02,820 --> 00:05:04,820
+When the astronomers worked out
+
+127
+00:05:04,820 --> 00:05:07,820
+how much of this dark energy
+
+128
+00:05:07,820 --> 00:05:09,820
+must be infusing space
+
+129
+00:05:09,820 --> 00:05:11,820
+to account for the cosmic speed up,
+
+130
+00:05:11,820 --> 00:05:13,820
+look at what they found.
+
+131
+00:05:20,820 --> 00:05:22,820
+This number is small.
+
+132
+00:05:22,820 --> 00:05:24,820
+Expressed in the relevant unit,
+
+133
+00:05:24,820 --> 00:05:26,820
+it is spectacularly small.
+
+134
+00:05:26,820 --> 00:05:29,820
+And the mystery is to explain this peculiar number.
+
+135
+00:05:29,820 --> 00:05:31,820
+We want this number
+
+136
+00:05:31,820 --> 00:05:33,820
+to emerge from the laws of physics,
+
+137
+00:05:33,820 --> 00:05:36,820
+but so far no one has found a way to do that.
+
+138
+00:05:36,820 --> 00:05:39,820
+Now you might wonder,
+
+139
+00:05:39,820 --> 00:05:41,820
+should you care?
+
+140
+00:05:41,820 --> 00:05:43,820
+Maybe explaining this number
+
+141
+00:05:43,820 --> 00:05:45,820
+is just a technical issue,
+
+142
+00:05:45,820 --> 00:05:48,820
+a technical detail of interest to experts,
+
+143
+00:05:48,820 --> 00:05:50,820
+but of no relevance to anybody else.
+
+144
+00:05:50,820 --> 00:05:53,820
+Well it surely is a technical detail,
+
+145
+00:05:53,820 --> 00:05:55,820
+but some details really matter.
+
+146
+00:05:55,820 --> 00:05:57,820
+Some details provide
+
+147
+00:05:57,820 --> 00:05:59,820
+windows into uncharted realms of reality,
+
+148
+00:05:59,820 --> 00:06:02,820
+and this peculiar number may be doing just that,
+
+149
+00:06:02,820 --> 00:06:05,820
+as the only approach that's so far made headway to explain it
+
+150
+00:06:05,820 --> 00:06:08,820
+invokes the possibility of other universes --
+
+151
+00:06:08,820 --> 00:06:11,820
+an idea that naturally emerges from string theory,
+
+152
+00:06:11,820 --> 00:06:14,820
+which takes me to part two: string theory.
+
+153
+00:06:14,820 --> 00:06:18,820
+So hold the mystery of the dark energy
+
+154
+00:06:18,820 --> 00:06:20,820
+in the back of your mind
+
+155
+00:06:20,820 --> 00:06:22,820
+as I now go on to tell you
+
+156
+00:06:22,820 --> 00:06:25,820
+three key things about string theory.
+
+157
+00:06:25,820 --> 00:06:27,820
+First off, what is it?
+
+158
+00:06:27,820 --> 00:06:30,820
+Well it's an approach to realize Einstein's dream
+
+159
+00:06:30,820 --> 00:06:33,820
+of a unified theory of physics,
+
+160
+00:06:33,820 --> 00:06:35,820
+a single overarching framework
+
+161
+00:06:35,820 --> 00:06:37,820
+that would be able to describe
+
+162
+00:06:37,820 --> 00:06:39,820
+all the forces at work in the universe.
+
+163
+00:06:39,820 --> 00:06:41,820
+And the central idea of string theory
+
+164
+00:06:41,820 --> 00:06:43,820
+is quite straightforward.
+
+165
+00:06:43,820 --> 00:06:45,820
+It says that if you examine
+
+166
+00:06:45,820 --> 00:06:47,820
+any piece of matter ever more finely,
+
+167
+00:06:47,820 --> 00:06:49,820
+at first you'll find molecules
+
+168
+00:06:49,820 --> 00:06:52,820
+and then you'll find atoms and subatomic particles.
+
+169
+00:06:52,820 --> 00:06:54,820
+But the theory says that if you could probe smaller,
+
+170
+00:06:54,820 --> 00:06:57,820
+much smaller than we can with existing technology,
+
+171
+00:06:57,820 --> 00:07:00,820
+you'd find something else inside these particles --
+
+172
+00:07:00,820 --> 00:07:03,820
+a little tiny vibrating filament of energy,
+
+173
+00:07:03,820 --> 00:07:06,820
+a little tiny vibrating string.
+
+174
+00:07:06,820 --> 00:07:08,820
+And just like the strings on a violin,
+
+175
+00:07:08,820 --> 00:07:10,820
+they can vibrate in different patterns
+
+176
+00:07:10,820 --> 00:07:12,820
+producing different musical notes.
+
+177
+00:07:12,820 --> 00:07:14,820
+These little fundamental strings,
+
+178
+00:07:14,820 --> 00:07:16,820
+when they vibrate in different patterns,
+
+179
+00:07:16,820 --> 00:07:18,820
+they produce different kinds of particles --
+
+180
+00:07:18,820 --> 00:07:20,820
+so electrons, quarks, neutrinos, photons,
+
+181
+00:07:20,820 --> 00:07:22,820
+all other particles
+
+182
+00:07:22,820 --> 00:07:24,820
+would be united into a single framework,
+
+183
+00:07:24,820 --> 00:07:27,820
+as they would all arise from vibrating strings.
+
+184
+00:07:27,820 --> 00:07:30,820
+It's a compelling picture,
+
+185
+00:07:30,820 --> 00:07:32,820
+a kind of cosmic symphony,
+
+186
+00:07:32,820 --> 00:07:34,820
+where all the richness
+
+187
+00:07:34,820 --> 00:07:36,820
+that we see in the world around us
+
+188
+00:07:36,820 --> 00:07:38,820
+emerges from the music
+
+189
+00:07:38,820 --> 00:07:41,820
+that these little, tiny strings can play.
+
+190
+00:07:41,820 --> 00:07:43,820
+But there's a cost
+
+191
+00:07:43,820 --> 00:07:45,820
+to this elegant unification,
+
+192
+00:07:45,820 --> 00:07:47,820
+because years of research
+
+193
+00:07:47,820 --> 00:07:50,820
+have shown that the math of string theory doesn't quite work.
+
+194
+00:07:50,820 --> 00:07:52,820
+It has internal inconsistencies,
+
+195
+00:07:52,820 --> 00:07:54,820
+unless we allow
+
+196
+00:07:54,820 --> 00:07:57,820
+for something wholly unfamiliar --
+
+197
+00:07:57,820 --> 00:08:00,820
+extra dimensions of space.
+
+198
+00:08:00,820 --> 00:08:03,820
+That is, we all know about the usual three dimensions of space.
+
+199
+00:08:03,820 --> 00:08:05,820
+And you can think about those
+
+200
+00:08:05,820 --> 00:08:08,820
+as height, width and depth.
+
+201
+00:08:08,820 --> 00:08:11,820
+But string theory says that, on fantastically small scales,
+
+202
+00:08:11,820 --> 00:08:13,820
+there are additional dimensions
+
+203
+00:08:13,820 --> 00:08:15,820
+crumpled to a tiny size so small
+
+204
+00:08:15,820 --> 00:08:17,820
+that we have not detected them.
+
+205
+00:08:17,820 --> 00:08:19,820
+But even though the dimensions are hidden,
+
+206
+00:08:19,820 --> 00:08:22,820
+they would have an impact on things that we can observe
+
+207
+00:08:22,820 --> 00:08:25,820
+because the shape of the extra dimensions
+
+208
+00:08:25,820 --> 00:08:28,820
+constrains how the strings can vibrate.
+
+209
+00:08:28,820 --> 00:08:30,820
+And in string theory,
+
+210
+00:08:30,820 --> 00:08:33,820
+vibration determines everything.
+
+211
+00:08:33,820 --> 00:08:35,820
+So particle masses, the strengths of forces,
+
+212
+00:08:35,820 --> 00:08:38,820
+and most importantly, the amount of dark energy
+
+213
+00:08:38,820 --> 00:08:40,820
+would be determined
+
+214
+00:08:40,820 --> 00:08:42,820
+by the shape of the extra dimensions.
+
+215
+00:08:42,820 --> 00:08:45,820
+So if we knew the shape of the extra dimensions,
+
+216
+00:08:45,820 --> 00:08:48,820
+we should be able to calculate these features,
+
+217
+00:08:48,820 --> 00:08:51,820
+calculate the amount of dark energy.
+
+218
+00:08:51,820 --> 00:08:53,820
+The challenge
+
+219
+00:08:53,820 --> 00:08:55,820
+is we don't know
+
+220
+00:08:55,820 --> 00:08:58,820
+the shape of the extra dimensions.
+
+221
+00:08:58,820 --> 00:09:00,820
+All we have
+
+222
+00:09:00,820 --> 00:09:02,820
+is a list of candidate shapes
+
+223
+00:09:02,820 --> 00:09:05,820
+allowed by the math.
+
+224
+00:09:05,820 --> 00:09:07,820
+Now when these ideas were first developed,
+
+225
+00:09:07,820 --> 00:09:09,820
+there were only about five different candidate shapes,
+
+226
+00:09:09,820 --> 00:09:11,820
+so you can imagine
+
+227
+00:09:11,820 --> 00:09:13,820
+analyzing them one-by-one
+
+228
+00:09:13,820 --> 00:09:15,820
+to determine if any yield
+
+229
+00:09:15,820 --> 00:09:17,820
+the physical features we observe.
+
+230
+00:09:17,820 --> 00:09:19,820
+But over time the list grew
+
+231
+00:09:19,820 --> 00:09:21,820
+as researchers found other candidate shapes.
+
+232
+00:09:21,820 --> 00:09:24,820
+From five, the number grew into the hundreds and then the thousands --
+
+233
+00:09:24,820 --> 00:09:27,820
+A large, but still manageable, collection to analyze,
+
+234
+00:09:27,820 --> 00:09:29,820
+since after all,
+
+235
+00:09:29,820 --> 00:09:32,820
+graduate students need something to do.
+
+236
+00:09:32,820 --> 00:09:34,820
+But then the list continued to grow
+
+237
+00:09:34,820 --> 00:09:37,820
+into the millions and the billions, until today.
+
+238
+00:09:37,820 --> 00:09:39,820
+The list of candidate shapes
+
+239
+00:09:39,820 --> 00:09:44,820
+has soared to about 10 to the 500.
+
+240
+00:09:44,820 --> 00:09:47,820
+So, what to do?
+
+241
+00:09:47,820 --> 00:09:50,820
+Well some researchers lost heart,
+
+242
+00:09:50,820 --> 00:09:53,820
+concluding that was so many candidate shapes for the extra dimensions,
+
+243
+00:09:53,820 --> 00:09:56,820
+each giving rise to different physical features,
+
+244
+00:09:56,820 --> 00:09:58,820
+string theory would never make
+
+245
+00:09:58,820 --> 00:10:00,820
+definitive, testable predictions.
+
+246
+00:10:00,820 --> 00:10:04,820
+But others turned this issue on its head,
+
+247
+00:10:04,820 --> 00:10:06,820
+taking us to the possibility of a multiverse.
+
+248
+00:10:06,820 --> 00:10:08,820
+Here's the idea.
+
+249
+00:10:08,820 --> 00:10:11,820
+Maybe each of these shapes is on an equal footing with every other.
+
+250
+00:10:11,820 --> 00:10:13,820
+Each is as real as every other,
+
+251
+00:10:13,820 --> 00:10:15,820
+in the sense
+
+252
+00:10:15,820 --> 00:10:17,820
+that there are many universes,
+
+253
+00:10:17,820 --> 00:10:20,820
+each with a different shape, for the extra dimensions.
+
+254
+00:10:20,820 --> 00:10:22,820
+And this radical proposal
+
+255
+00:10:22,820 --> 00:10:25,820
+has a profound impact on this mystery:
+
+256
+00:10:25,820 --> 00:10:28,820
+the amount of dark energy revealed by the Nobel Prize-winning results.
+
+257
+00:10:28,820 --> 00:10:30,820
+Because you see,
+
+258
+00:10:30,820 --> 00:10:33,820
+if there are other universes,
+
+259
+00:10:33,820 --> 00:10:35,820
+and if those universes
+
+260
+00:10:35,820 --> 00:10:39,820
+each have, say, a different shape for the extra dimensions,
+
+261
+00:10:39,820 --> 00:10:41,820
+then the physical features of each universe will be different,
+
+262
+00:10:41,820 --> 00:10:43,820
+and in particular,
+
+263
+00:10:43,820 --> 00:10:45,820
+the amount of dark energy in each universe
+
+264
+00:10:45,820 --> 00:10:47,820
+will be different.
+
+265
+00:10:47,820 --> 00:10:49,820
+Which means that the mystery
+
+266
+00:10:49,820 --> 00:10:51,820
+of explaining the amount of dark energy we've now measured
+
+267
+00:10:51,820 --> 00:10:54,820
+would take on a wholly different character.
+
+268
+00:10:54,820 --> 00:10:56,820
+In this context,
+
+269
+00:10:56,820 --> 00:10:59,820
+the laws of physics can't explain one number for the dark energy
+
+270
+00:10:59,820 --> 00:11:02,820
+because there isn't just one number,
+
+271
+00:11:02,820 --> 00:11:04,820
+there are many numbers.
+
+272
+00:11:04,820 --> 00:11:06,820
+Which means
+
+273
+00:11:06,820 --> 00:11:09,820
+we have been asking the wrong question.
+
+274
+00:11:09,820 --> 00:11:11,820
+It's that the right question to ask is,
+
+275
+00:11:11,820 --> 00:11:14,820
+why do we humans find ourselves in a universe
+
+276
+00:11:14,820 --> 00:11:17,820
+with a particular amount of dark energy we've measured
+
+277
+00:11:17,820 --> 00:11:20,820
+instead of any of the other possibilities
+
+278
+00:11:20,820 --> 00:11:22,820
+that are out there?
+
+279
+00:11:22,820 --> 00:11:25,820
+And that's a question on which we can make headway.
+
+280
+00:11:25,820 --> 00:11:27,820
+Because those universes
+
+281
+00:11:27,820 --> 00:11:29,820
+that have much more dark energy than ours,
+
+282
+00:11:29,820 --> 00:11:32,820
+whenever matter tries to clump into galaxies,
+
+283
+00:11:32,820 --> 00:11:35,820
+the repulsive push of the dark energy is so strong
+
+284
+00:11:35,820 --> 00:11:37,820
+that it blows the clump apart
+
+285
+00:11:37,820 --> 00:11:39,820
+and galaxies don't form.
+
+286
+00:11:39,820 --> 00:11:42,820
+And in those universes that have much less dark energy,
+
+287
+00:11:42,820 --> 00:11:44,820
+well they collapse back on themselves so quickly
+
+288
+00:11:44,820 --> 00:11:47,820
+that, again, galaxies don't form.
+
+289
+00:11:47,820 --> 00:11:50,820
+And without galaxies, there are no stars, no planets
+
+290
+00:11:50,820 --> 00:11:52,820
+and no chance
+
+291
+00:11:52,820 --> 00:11:54,820
+for our form of life
+
+292
+00:11:54,820 --> 00:11:56,820
+to exist in those other universes.
+
+293
+00:11:56,820 --> 00:11:58,820
+So we find ourselves in a universe
+
+294
+00:11:58,820 --> 00:12:01,820
+with the particular amount of dark energy we've measured
+
+295
+00:12:01,820 --> 00:12:04,820
+simply because our universe has conditions
+
+296
+00:12:04,820 --> 00:12:08,820
+hospitable to our form of life.
+
+297
+00:12:08,820 --> 00:12:10,820
+And that would be that.
+
+298
+00:12:10,820 --> 00:12:12,820
+Mystery solved,
+
+299
+00:12:12,820 --> 00:12:14,820
+multiverse found.
+
+300
+00:12:14,820 --> 00:12:19,820
+Now some find this explanation unsatisfying.
+
+301
+00:12:19,820 --> 00:12:21,820
+We're used to physics
+
+302
+00:12:21,820 --> 00:12:24,820
+giving us definitive explanations for the features we observe.
+
+303
+00:12:24,820 --> 00:12:26,820
+But the point is,
+
+304
+00:12:26,820 --> 00:12:29,820
+if the feature you're observing
+
+305
+00:12:29,820 --> 00:12:31,820
+can and does take on
+
+306
+00:12:31,820 --> 00:12:33,820
+a wide variety of different values
+
+307
+00:12:33,820 --> 00:12:36,820
+across the wider landscape of reality,
+
+308
+00:12:36,820 --> 00:12:38,820
+then thinking one explanation
+
+309
+00:12:38,820 --> 00:12:40,820
+for a particular value
+
+310
+00:12:40,820 --> 00:12:43,820
+is simply misguided.
+
+311
+00:12:43,820 --> 00:12:45,820
+An early example
+
+312
+00:12:45,820 --> 00:12:48,820
+comes from the great astronomer Johannes Kepler
+
+313
+00:12:48,820 --> 00:12:50,820
+who was obsessed with understanding
+
+314
+00:12:50,820 --> 00:12:52,820
+a different number --
+
+315
+00:12:52,820 --> 00:12:56,820
+why the Sun is 93 million miles away from the Earth.
+
+316
+00:12:56,820 --> 00:12:59,820
+And he worked for decades trying to explain this number,
+
+317
+00:12:59,820 --> 00:13:02,820
+but he never succeeded, and we know why.
+
+318
+00:13:02,820 --> 00:13:04,820
+Kepler was asking
+
+319
+00:13:04,820 --> 00:13:06,820
+the wrong question.
+
+320
+00:13:06,820 --> 00:13:09,820
+We now know that there are many planets
+
+321
+00:13:09,820 --> 00:13:12,820
+at a wide variety of different distances from their host stars.
+
+322
+00:13:12,820 --> 00:13:15,820
+So hoping that the laws of physics
+
+323
+00:13:15,820 --> 00:13:18,820
+will explain one particular number, 93 million miles,
+
+324
+00:13:18,820 --> 00:13:21,820
+well that is simply wrongheaded.
+
+325
+00:13:21,820 --> 00:13:23,820
+Instead the right question to ask is,
+
+326
+00:13:23,820 --> 00:13:26,820
+why do we humans find ourselves on a planet
+
+327
+00:13:26,820 --> 00:13:28,820
+at this particular distance,
+
+328
+00:13:28,820 --> 00:13:31,820
+instead of any of the other possibilities?
+
+329
+00:13:31,820 --> 00:13:34,820
+And again, that's a question we can answer.
+
+330
+00:13:34,820 --> 00:13:37,820
+Those planets which are much closer to a star like the Sun
+
+331
+00:13:37,820 --> 00:13:39,820
+would be so hot
+
+332
+00:13:39,820 --> 00:13:41,820
+that our form of life wouldn't exist.
+
+333
+00:13:41,820 --> 00:13:44,820
+And those planets that are much farther away from the star,
+
+334
+00:13:44,820 --> 00:13:46,820
+well they're so cold
+
+335
+00:13:46,820 --> 00:13:48,820
+that, again, our form of life would not take hold.
+
+336
+00:13:48,820 --> 00:13:50,820
+So we find ourselves
+
+337
+00:13:50,820 --> 00:13:52,820
+on a planet at this particular distance
+
+338
+00:13:52,820 --> 00:13:54,820
+simply because it yields conditions
+
+339
+00:13:54,820 --> 00:13:57,820
+vital to our form of life.
+
+340
+00:13:57,820 --> 00:14:00,820
+And when it comes to planets and their distances,
+
+341
+00:14:00,820 --> 00:14:04,820
+this clearly is the right kind of reasoning.
+
+342
+00:14:04,820 --> 00:14:06,820
+The point is,
+
+343
+00:14:06,820 --> 00:14:09,820
+when it comes to universes and the dark energy that they contain,
+
+344
+00:14:09,820 --> 00:14:13,820
+it may also be the right kind of reasoning.
+
+345
+00:14:13,820 --> 00:14:16,820
+One key difference, of course,
+
+346
+00:14:16,820 --> 00:14:18,820
+is we know that there are other planets out there,
+
+347
+00:14:18,820 --> 00:14:21,820
+but so far I've only speculated on the possibility
+
+348
+00:14:21,820 --> 00:14:23,820
+that there might be other universes.
+
+349
+00:14:23,820 --> 00:14:25,820
+So to pull it all together,
+
+350
+00:14:25,820 --> 00:14:27,820
+we need a mechanism
+
+351
+00:14:27,820 --> 00:14:30,820
+that can actually generate other universes.
+
+352
+00:14:30,820 --> 00:14:33,820
+And that takes me to my final part, part three.
+
+353
+00:14:33,820 --> 00:14:36,820
+Because such a mechanism has been found
+
+354
+00:14:36,820 --> 00:14:39,820
+by cosmologists trying to understand the Big Bang.
+
+355
+00:14:39,820 --> 00:14:41,820
+You see, when we speak of the Big Bang,
+
+356
+00:14:41,820 --> 00:14:43,820
+we often have an image
+
+357
+00:14:43,820 --> 00:14:45,820
+of a kind of cosmic explosion
+
+358
+00:14:45,820 --> 00:14:47,820
+that created our universe
+
+359
+00:14:47,820 --> 00:14:50,820
+and set space rushing outward.
+
+360
+00:14:50,820 --> 00:14:52,820
+But there's a little secret.
+
+361
+00:14:52,820 --> 00:14:55,820
+The Big Bang leaves out something pretty important,
+
+362
+00:14:55,820 --> 00:14:57,820
+the Bang.
+
+363
+00:14:57,820 --> 00:15:00,820
+It tells us how the universe evolved after the Bang,
+
+364
+00:15:00,820 --> 00:15:02,820
+but gives us no insight
+
+365
+00:15:02,820 --> 00:15:06,820
+into what would have powered the Bang itself.
+
+366
+00:15:06,820 --> 00:15:08,820
+And this gap was finally filled
+
+367
+00:15:08,820 --> 00:15:10,820
+by an enhanced version of the Big Bang theory.
+
+368
+00:15:10,820 --> 00:15:13,820
+It's called inflationary cosmology,
+
+369
+00:15:13,820 --> 00:15:17,820
+which identified a particular kind of fuel
+
+370
+00:15:17,820 --> 00:15:19,820
+that would naturally generate
+
+371
+00:15:19,820 --> 00:15:21,820
+an outward rush of space.
+
+372
+00:15:21,820 --> 00:15:24,820
+The fuel is based on something called a quantum field,
+
+373
+00:15:24,820 --> 00:15:27,820
+but the only detail that matters for us
+
+374
+00:15:27,820 --> 00:15:30,820
+is that this fuel proves to be so efficient
+
+375
+00:15:30,820 --> 00:15:32,820
+that it's virtually impossible
+
+376
+00:15:32,820 --> 00:15:34,820
+to use it all up,
+
+377
+00:15:34,820 --> 00:15:36,820
+which means in the inflationary theory,
+
+378
+00:15:36,820 --> 00:15:39,820
+the Big Bang giving rise to our universe
+
+379
+00:15:39,820 --> 00:15:42,820
+is likely not a one-time event.
+
+380
+00:15:42,820 --> 00:15:45,820
+Instead the fuel not only generated our Big Bang,
+
+381
+00:15:45,820 --> 00:15:51,820
+but it would also generate countless other Big Bangs,
+
+382
+00:15:51,820 --> 00:15:54,820
+each giving rise to its own separate universe
+
+383
+00:15:54,820 --> 00:15:56,820
+with our universe becoming but one bubble
+
+384
+00:15:56,820 --> 00:15:59,820
+in a grand cosmic bubble bath of universes.
+
+385
+00:15:59,820 --> 00:16:01,820
+And now, when we meld this with string theory,
+
+386
+00:16:01,820 --> 00:16:03,820
+here's the picture we're led to.
+
+387
+00:16:03,820 --> 00:16:05,820
+Each of these universes has extra dimensions.
+
+388
+00:16:05,820 --> 00:16:08,820
+The extra dimensions take on a wide variety of different shapes.
+
+389
+00:16:08,820 --> 00:16:11,820
+The different shapes yield different physical features.
+
+390
+00:16:11,820 --> 00:16:14,820
+And we find ourselves in one universe instead of another
+
+391
+00:16:14,820 --> 00:16:17,820
+simply because it's only in our universe
+
+392
+00:16:17,820 --> 00:16:20,820
+that the physical features, like the amount of dark energy,
+
+393
+00:16:20,820 --> 00:16:24,820
+are right for our form of life to take hold.
+
+394
+00:16:24,820 --> 00:16:27,820
+And this is the compelling but highly controversial picture
+
+395
+00:16:27,820 --> 00:16:29,820
+of the wider cosmos
+
+396
+00:16:29,820 --> 00:16:31,820
+that cutting-edge observation and theory
+
+397
+00:16:31,820 --> 00:16:35,820
+have now led us to seriously consider.
+
+398
+00:16:35,820 --> 00:16:39,820
+One big remaining question, of course, is,
+
+399
+00:16:39,820 --> 00:16:42,820
+could we ever confirm
+
+400
+00:16:42,820 --> 00:16:45,820
+the existence of other universes?
+
+401
+00:16:45,820 --> 00:16:47,820
+Well let me describe
+
+402
+00:16:47,820 --> 00:16:50,820
+one way that might one day happen.
+
+403
+00:16:50,820 --> 00:16:52,820
+The inflationary theory
+
+404
+00:16:52,820 --> 00:16:54,820
+already has strong observational support.
+
+405
+00:16:54,820 --> 00:16:56,820
+Because the theory predicts
+
+406
+00:16:56,820 --> 00:16:58,820
+that the Big Bang would have been so intense
+
+407
+00:16:58,820 --> 00:17:01,820
+that as space rapidly expanded,
+
+408
+00:17:01,820 --> 00:17:03,820
+tiny quantum jitters from the micro world
+
+409
+00:17:03,820 --> 00:17:06,820
+would have been stretched out to the macro world,
+
+410
+00:17:06,820 --> 00:17:09,820
+yielding a distinctive fingerprint,
+
+411
+00:17:09,820 --> 00:17:11,820
+a pattern of slightly hotter spots and slightly colder spots,
+
+412
+00:17:11,820 --> 00:17:13,820
+across space,
+
+413
+00:17:13,820 --> 00:17:16,820
+which powerful telescopes have now observed.
+
+414
+00:17:16,820 --> 00:17:19,820
+Going further, if there are other universes,
+
+415
+00:17:19,820 --> 00:17:21,820
+the theory predicts that every so often
+
+416
+00:17:21,820 --> 00:17:23,820
+those universes can collide.
+
+417
+00:17:23,820 --> 00:17:25,820
+And if our universe got hit by another,
+
+418
+00:17:25,820 --> 00:17:27,820
+that collision
+
+419
+00:17:27,820 --> 00:17:29,820
+would generate an additional subtle pattern
+
+420
+00:17:29,820 --> 00:17:31,820
+of temperature variations across space
+
+421
+00:17:31,820 --> 00:17:33,820
+that we might one day
+
+422
+00:17:33,820 --> 00:17:35,820
+be able to detect.
+
+423
+00:17:35,820 --> 00:17:38,820
+And so exotic as this picture is,
+
+424
+00:17:38,820 --> 00:17:40,820
+it may one day be grounded
+
+425
+00:17:40,820 --> 00:17:42,820
+in observations,
+
+426
+00:17:42,820 --> 00:17:45,820
+establishing the existence of other universes.
+
+427
+00:17:45,820 --> 00:17:47,820
+I'll conclude
+
+428
+00:17:47,820 --> 00:17:50,820
+with a striking implication
+
+429
+00:17:50,820 --> 00:17:52,820
+of all these ideas
+
+430
+00:17:52,820 --> 00:17:54,820
+for the very far future.
+
+431
+00:17:54,820 --> 00:17:56,820
+You see, we learned
+
+432
+00:17:56,820 --> 00:17:58,820
+that our universe is not static,
+
+433
+00:17:58,820 --> 00:18:00,820
+that space is expanding,
+
+434
+00:18:00,820 --> 00:18:02,820
+that that expansion is speeding up
+
+435
+00:18:02,820 --> 00:18:04,820
+and that there might be other universes
+
+436
+00:18:04,820 --> 00:18:06,820
+all by carefully examining
+
+437
+00:18:06,820 --> 00:18:08,820
+faint pinpoints of starlight
+
+438
+00:18:08,820 --> 00:18:11,820
+coming to us from distant galaxies.
+
+439
+00:18:11,820 --> 00:18:14,820
+But because the expansion is speeding up,
+
+440
+00:18:14,820 --> 00:18:16,820
+in the very far future,
+
+441
+00:18:16,820 --> 00:18:19,820
+those galaxies will rush away so far and so fast
+
+442
+00:18:19,820 --> 00:18:22,820
+that we won't be able to see them --
+
+443
+00:18:22,820 --> 00:18:24,820
+not because of technological limitations,
+
+444
+00:18:24,820 --> 00:18:26,820
+but because of the laws of physics.
+
+445
+00:18:26,820 --> 00:18:28,820
+The light those galaxies emit,
+
+446
+00:18:28,820 --> 00:18:31,820
+even traveling at the fastest speed, the speed of light,
+
+447
+00:18:31,820 --> 00:18:33,820
+will not be able to overcome
+
+448
+00:18:33,820 --> 00:18:36,820
+the ever-widening gulf between us.
+
+449
+00:18:36,820 --> 00:18:38,820
+So astronomers in the far future
+
+450
+00:18:38,820 --> 00:18:40,820
+looking out into deep space
+
+451
+00:18:40,820 --> 00:18:43,820
+will see nothing but an endless stretch
+
+452
+00:18:43,820 --> 00:18:47,820
+of static, inky, black stillness.
+
+453
+00:18:47,820 --> 00:18:49,820
+And they will conclude
+
+454
+00:18:49,820 --> 00:18:51,820
+that the universe is static and unchanging
+
+455
+00:18:51,820 --> 00:18:54,820
+and populated by a single central oasis of matter
+
+456
+00:18:54,820 --> 00:18:56,820
+that they inhabit --
+
+457
+00:18:56,820 --> 00:18:58,820
+a picture of the cosmos
+
+458
+00:18:58,820 --> 00:19:01,820
+that we definitively know to be wrong.
+
+459
+00:19:01,820 --> 00:19:04,820
+Now maybe those future astronomers will have records
+
+460
+00:19:04,820 --> 00:19:06,820
+handed down from an earlier era,
+
+461
+00:19:06,820 --> 00:19:08,820
+like ours,
+
+462
+00:19:08,820 --> 00:19:10,820
+attesting to an expanding cosmos
+
+463
+00:19:10,820 --> 00:19:12,820
+teeming with galaxies.
+
+464
+00:19:12,820 --> 00:19:14,820
+But would those future astronomers
+
+465
+00:19:14,820 --> 00:19:17,820
+believe such ancient knowledge?
+
+466
+00:19:17,820 --> 00:19:19,820
+Or would they believe
+
+467
+00:19:19,820 --> 00:19:22,820
+in the black, static empty universe
+
+468
+00:19:22,820 --> 00:19:26,820
+that their own state-of-the-art observations reveal?
+
+469
+00:19:26,820 --> 00:19:28,820
+I suspect the latter.
+
+470
+00:19:28,820 --> 00:19:30,820
+Which means that we are living
+
+471
+00:19:30,820 --> 00:19:33,820
+through a remarkably privileged era
+
+472
+00:19:33,820 --> 00:19:35,820
+when certain deep truths about the cosmos
+
+473
+00:19:35,820 --> 00:19:37,820
+are still within reach
+
+474
+00:19:37,820 --> 00:19:39,820
+of the human spirit of exploration.
+
+475
+00:19:39,820 --> 00:19:44,820
+It appears that it may not always be that way.
+
+476
+00:19:44,820 --> 00:19:46,820
+Because today's astronomers,
+
+477
+00:19:46,820 --> 00:19:49,820
+by turning powerful telescopes to the sky,
+
+478
+00:19:49,820 --> 00:19:52,820
+have captured a handful of starkly informative photons --
+
+479
+00:19:52,820 --> 00:19:55,820
+a kind of cosmic telegram
+
+480
+00:19:55,820 --> 00:19:57,820
+billions of years in transit.
+
+481
+00:19:57,820 --> 00:20:01,820
+and the message echoing across the ages is clear.
+
+482
+00:20:01,820 --> 00:20:04,820
+Sometimes nature guards her secrets
+
+483
+00:20:04,820 --> 00:20:06,820
+with the unbreakable grip
+
+484
+00:20:06,820 --> 00:20:08,820
+of physical law.
+
+485
+00:20:08,820 --> 00:20:12,820
+Sometimes the true nature of reality beckons
+
+486
+00:20:12,820 --> 00:20:15,820
+from just beyond the horizon.
+
+487
+00:20:15,820 --> 00:20:17,820
+Thank you very much.
+
+488
+00:20:17,820 --> 00:20:21,820
+(Applause)
+
+489
+00:20:21,820 --> 00:20:23,820
+Chris Anderson: Brian, thank you.
+
+490
+00:20:23,820 --> 00:20:25,820
+The range of ideas you've just spoken about
+
+491
+00:20:25,820 --> 00:20:28,820
+are dizzying, exhilarating, incredible.
+
+492
+00:20:28,820 --> 00:20:30,820
+How do you think
+
+493
+00:20:30,820 --> 00:20:32,820
+of where cosmology is now,
+
+494
+00:20:32,820 --> 00:20:34,820
+in a sort of historical side?
+
+495
+00:20:34,820 --> 00:20:37,820
+Are we in the middle of something unusual historically in your opinion?
+
+496
+00:20:37,820 --> 00:20:39,820
+BG: Well it's hard to say.
+
+497
+00:20:39,820 --> 00:20:42,820
+When we learn that astronomers of the far future
+
+498
+00:20:42,820 --> 00:20:45,820
+may not have enough information to figure things out,
+
+499
+00:20:45,820 --> 00:20:48,820
+the natural question is, maybe we're already in that position
+
+500
+00:20:48,820 --> 00:20:51,820
+and certain deep, critical features of the universe
+
+501
+00:20:51,820 --> 00:20:54,820
+already have escaped our ability to understand
+
+502
+00:20:54,820 --> 00:20:56,820
+because of how cosmology evolves.
+
+503
+00:20:56,820 --> 00:20:58,820
+So from that perspective,
+
+504
+00:20:58,820 --> 00:21:00,820
+maybe we will always be asking questions
+
+505
+00:21:00,820 --> 00:21:02,820
+and never be able to fully answer them.
+
+506
+00:21:02,820 --> 00:21:04,820
+On the other hand, we now can understand
+
+507
+00:21:04,820 --> 00:21:06,820
+how old the universe is.
+
+508
+00:21:06,820 --> 00:21:08,820
+We can understand
+
+509
+00:21:08,820 --> 00:21:11,820
+how to understand the data from the microwave background radiation
+
+510
+00:21:11,820 --> 00:21:14,820
+that was set down 13.72 billion years ago --
+
+511
+00:21:14,820 --> 00:21:16,820
+and yet, we can do calculations today to predict how it will look
+
+512
+00:21:16,820 --> 00:21:18,820
+and it matches.
+
+513
+00:21:18,820 --> 00:21:20,820
+Holy cow! That's just amazing.
+
+514
+00:21:20,820 --> 00:21:23,820
+So on the one hand, it's just incredible where we've gotten,
+
+515
+00:21:23,820 --> 00:21:27,820
+but who knows what sort of blocks we may find in the future.
+
+516
+00:21:27,820 --> 00:21:30,820
+CA: You're going to be around for the next few days.
+
+517
+00:21:30,820 --> 00:21:32,820
+Maybe some of these conversations can continue.
+
+518
+00:21:32,820 --> 00:21:34,820
+Thank you. Thank you, Brian. (BG: My pleasure.)
+
+519
+00:21:34,820 --> 00:21:37,820
+(Applause)
+

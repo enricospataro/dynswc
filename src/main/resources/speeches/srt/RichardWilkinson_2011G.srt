@@ -1,0 +1,1540 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+You all know the truth of what I'm going to say.
+
+2
+00:00:14,820 --> 00:00:18,820
+I think the intuition that inequality is divisive and socially corrosive
+
+3
+00:00:18,820 --> 00:00:22,820
+has been around since before the French Revolution.
+
+4
+00:00:22,820 --> 00:00:24,820
+What's changed
+
+5
+00:00:24,820 --> 00:00:26,820
+is we now can look at the evidence,
+
+6
+00:00:26,820 --> 00:00:29,820
+we can compare societies, more and less equal societies,
+
+7
+00:00:29,820 --> 00:00:32,820
+and see what inequality does.
+
+8
+00:00:32,820 --> 00:00:35,820
+I'm going to take you through that data
+
+9
+00:00:35,820 --> 00:00:37,820
+and then explain why
+
+10
+00:00:37,820 --> 00:00:41,820
+the links I'm going to be showing you exist.
+
+11
+00:00:41,820 --> 00:00:44,820
+But first, see what a miserable lot we are.
+
+12
+00:00:44,820 --> 00:00:46,820
+(Laughter)
+
+13
+00:00:46,820 --> 00:00:48,820
+I want to start though
+
+14
+00:00:48,820 --> 00:00:51,820
+with a paradox.
+
+15
+00:00:51,820 --> 00:00:53,820
+This shows you life expectancy
+
+16
+00:00:53,820 --> 00:00:55,820
+against gross national income --
+
+17
+00:00:55,820 --> 00:00:57,820
+how rich countries are on average.
+
+18
+00:00:57,820 --> 00:00:59,820
+And you see the countries on the right,
+
+19
+00:00:59,820 --> 00:01:01,820
+like Norway and the USA,
+
+20
+00:01:01,820 --> 00:01:06,820
+are twice as rich as Israel, Greece, Portugal on the left.
+
+21
+00:01:06,820 --> 00:01:10,820
+And it makes no difference to their life expectancy at all.
+
+22
+00:01:10,820 --> 00:01:12,820
+There's no suggestion of a relationship there.
+
+23
+00:01:12,820 --> 00:01:15,820
+But if we look within our societies,
+
+24
+00:01:15,820 --> 00:01:18,820
+there are extraordinary social gradients in health
+
+25
+00:01:18,820 --> 00:01:20,820
+running right across society.
+
+26
+00:01:20,820 --> 00:01:22,820
+This, again, is life expectancy.
+
+27
+00:01:22,820 --> 00:01:24,820
+These are small areas of England and Wales --
+
+28
+00:01:24,820 --> 00:01:28,820
+the poorest on the right, the richest on the left.
+
+29
+00:01:28,820 --> 00:01:31,820
+A lot of difference between the poor and the rest of us.
+
+30
+00:01:31,820 --> 00:01:33,820
+Even the people just below the top
+
+31
+00:01:33,820 --> 00:01:35,820
+have less good health
+
+32
+00:01:35,820 --> 00:01:37,820
+than the people at the top.
+
+33
+00:01:37,820 --> 00:01:39,820
+So income means something very important
+
+34
+00:01:39,820 --> 00:01:41,820
+within our societies,
+
+35
+00:01:41,820 --> 00:01:44,820
+and nothing between them.
+
+36
+00:01:44,820 --> 00:01:47,820
+The explanation of that paradox
+
+37
+00:01:47,820 --> 00:01:49,820
+is that, within our societies,
+
+38
+00:01:49,820 --> 00:01:51,820
+we're looking at relative income
+
+39
+00:01:51,820 --> 00:01:54,820
+or social position, social status --
+
+40
+00:01:54,820 --> 00:01:57,820
+where we are in relation to each other
+
+41
+00:01:57,820 --> 00:02:00,820
+and the size of the gaps between us.
+
+42
+00:02:00,820 --> 00:02:02,820
+And as soon as you've got that idea,
+
+43
+00:02:02,820 --> 00:02:04,820
+you should immediately wonder:
+
+44
+00:02:04,820 --> 00:02:07,820
+what happens if we widen the differences,
+
+45
+00:02:07,820 --> 00:02:09,820
+or compress them,
+
+46
+00:02:09,820 --> 00:02:11,820
+make the income differences bigger or smaller?
+
+47
+00:02:11,820 --> 00:02:14,820
+And that's what I'm going to show you.
+
+48
+00:02:14,820 --> 00:02:16,820
+I'm not using any hypothetical data.
+
+49
+00:02:16,820 --> 00:02:18,820
+I'm taking data from the U.N. --
+
+50
+00:02:18,820 --> 00:02:20,820
+it's the same as the World Bank has --
+
+51
+00:02:20,820 --> 00:02:22,820
+on the scale of income differences
+
+52
+00:02:22,820 --> 00:02:25,820
+in these rich developed market democracies.
+
+53
+00:02:25,820 --> 00:02:27,820
+The measure we've used,
+
+54
+00:02:27,820 --> 00:02:29,820
+because it's easy to understand and you can download it,
+
+55
+00:02:29,820 --> 00:02:31,820
+is how much richer the top 20 percent
+
+56
+00:02:31,820 --> 00:02:34,820
+than the bottom 20 percent in each country.
+
+57
+00:02:34,820 --> 00:02:37,820
+And you see in the more equal countries on the left --
+
+58
+00:02:37,820 --> 00:02:39,820
+Japan, Finland, Norway, Sweden --
+
+59
+00:02:39,820 --> 00:02:41,820
+the top 20 percent are about three and a half, four times as rich
+
+60
+00:02:41,820 --> 00:02:44,820
+as the bottom 20 percent.
+
+61
+00:02:44,820 --> 00:02:46,820
+But on the more unequal end --
+
+62
+00:02:46,820 --> 00:02:48,820
+U.K., Portugal, USA, Singapore --
+
+63
+00:02:48,820 --> 00:02:51,820
+the differences are twice as big.
+
+64
+00:02:51,820 --> 00:02:54,820
+On that measure, we are twice as unequal
+
+65
+00:02:54,820 --> 00:02:58,820
+as some of the other successful market democracies.
+
+66
+00:02:58,820 --> 00:03:02,820
+Now I'm going to show you what that does to our societies.
+
+67
+00:03:02,820 --> 00:03:05,820
+We collected data on problems with social gradients,
+
+68
+00:03:05,820 --> 00:03:07,820
+the kind of problems that are more common
+
+69
+00:03:07,820 --> 00:03:09,820
+at the bottom of the social ladder.
+
+70
+00:03:09,820 --> 00:03:12,820
+Internationally comparable data on life expectancy,
+
+71
+00:03:12,820 --> 00:03:15,820
+on kids' maths and literacy scores,
+
+72
+00:03:15,820 --> 00:03:18,820
+on infant mortality rates, homicide rates,
+
+73
+00:03:18,820 --> 00:03:21,820
+proportion of the population in prison, teenage birthrates,
+
+74
+00:03:21,820 --> 00:03:23,820
+levels of trust,
+
+75
+00:03:23,820 --> 00:03:25,820
+obesity, mental illness --
+
+76
+00:03:25,820 --> 00:03:28,820
+which in standard diagnostic classification
+
+77
+00:03:28,820 --> 00:03:30,820
+includes drug and alcohol addiction --
+
+78
+00:03:30,820 --> 00:03:32,820
+and social mobility.
+
+79
+00:03:32,820 --> 00:03:35,820
+We put them all in one index.
+
+80
+00:03:35,820 --> 00:03:37,820
+They're all weighted equally.
+
+81
+00:03:37,820 --> 00:03:40,820
+Where a country is is a sort of average score on these things.
+
+82
+00:03:40,820 --> 00:03:42,820
+And there, you see it
+
+83
+00:03:42,820 --> 00:03:45,820
+in relation to the measure of inequality I've just shown you,
+
+84
+00:03:45,820 --> 00:03:48,820
+which I shall use over and over again in the data.
+
+85
+00:03:48,820 --> 00:03:50,820
+The more unequal countries
+
+86
+00:03:50,820 --> 00:03:52,820
+are doing worse
+
+87
+00:03:52,820 --> 00:03:54,820
+on all these kinds of social problems.
+
+88
+00:03:54,820 --> 00:03:57,820
+It's an extraordinarily close correlation.
+
+89
+00:03:57,820 --> 00:03:59,820
+But if you look at that same index
+
+90
+00:03:59,820 --> 00:04:01,820
+of health and social problems
+
+91
+00:04:01,820 --> 00:04:03,820
+in relation to GNP per capita,
+
+92
+00:04:03,820 --> 00:04:05,820
+gross national income,
+
+93
+00:04:05,820 --> 00:04:07,820
+there's nothing there,
+
+94
+00:04:07,820 --> 00:04:10,820
+no correlation anymore.
+
+95
+00:04:10,820 --> 00:04:12,820
+We were a little bit worried
+
+96
+00:04:12,820 --> 00:04:14,820
+that people might think
+
+97
+00:04:14,820 --> 00:04:16,820
+we'd been choosing problems to suit our argument
+
+98
+00:04:16,820 --> 00:04:19,820
+and just manufactured this evidence,
+
+99
+00:04:19,820 --> 00:04:22,820
+so we also did a paper in the British Medical Journal
+
+100
+00:04:22,820 --> 00:04:26,820
+on the UNICEF index of child well-being.
+
+101
+00:04:26,820 --> 00:04:28,820
+It has 40 different components
+
+102
+00:04:28,820 --> 00:04:30,820
+put together by other people.
+
+103
+00:04:30,820 --> 00:04:33,820
+It contains whether kids can talk to their parents,
+
+104
+00:04:33,820 --> 00:04:35,820
+whether they have books at home,
+
+105
+00:04:35,820 --> 00:04:38,820
+what immunization rates are like, whether there's bullying at school.
+
+106
+00:04:38,820 --> 00:04:40,820
+Everything goes into it.
+
+107
+00:04:40,820 --> 00:04:44,820
+Here it is in relation to that same measure of inequality.
+
+108
+00:04:44,820 --> 00:04:47,820
+Kids do worse in the more unequal societies.
+
+109
+00:04:47,820 --> 00:04:50,820
+Highly significant relationship.
+
+110
+00:04:50,820 --> 00:04:52,820
+But once again,
+
+111
+00:04:52,820 --> 00:04:55,820
+if you look at that measure of child well-being,
+
+112
+00:04:55,820 --> 00:04:57,820
+in relation to national income per person,
+
+113
+00:04:57,820 --> 00:04:59,820
+there's no relationship,
+
+114
+00:04:59,820 --> 00:05:02,820
+no suggestion of a relationship.
+
+115
+00:05:02,820 --> 00:05:05,820
+What all the data I've shown you so far says
+
+116
+00:05:05,820 --> 00:05:07,820
+is the same thing.
+
+117
+00:05:07,820 --> 00:05:09,820
+The average well-being of our societies
+
+118
+00:05:09,820 --> 00:05:12,820
+is not dependent any longer
+
+119
+00:05:12,820 --> 00:05:15,820
+on national income and economic growth.
+
+120
+00:05:15,820 --> 00:05:17,820
+That's very important in poorer countries,
+
+121
+00:05:17,820 --> 00:05:20,820
+but not in the rich developed world.
+
+122
+00:05:20,820 --> 00:05:22,820
+But the differences between us
+
+123
+00:05:22,820 --> 00:05:24,820
+and where we are in relation to each other
+
+124
+00:05:24,820 --> 00:05:27,820
+now matter very much.
+
+125
+00:05:27,820 --> 00:05:30,820
+I'm going to show you some of the separate bits of our index.
+
+126
+00:05:30,820 --> 00:05:32,820
+Here, for instance, is trust.
+
+127
+00:05:32,820 --> 00:05:34,820
+It's simply the proportion of the population
+
+128
+00:05:34,820 --> 00:05:36,820
+who agree most people can be trusted.
+
+129
+00:05:36,820 --> 00:05:38,820
+It comes from the World Values Survey.
+
+130
+00:05:38,820 --> 00:05:40,820
+You see, at the more unequal end,
+
+131
+00:05:40,820 --> 00:05:43,820
+it's about 15 percent of the population
+
+132
+00:05:43,820 --> 00:05:45,820
+who feel they can trust others.
+
+133
+00:05:45,820 --> 00:05:47,820
+But in the more equal societies,
+
+134
+00:05:47,820 --> 00:05:51,820
+it rises to 60 or 65 percent.
+
+135
+00:05:51,820 --> 00:05:54,820
+And if you look at measures of involvement in community life
+
+136
+00:05:54,820 --> 00:05:56,820
+or social capital,
+
+137
+00:05:56,820 --> 00:05:58,820
+very similar relationships
+
+138
+00:05:58,820 --> 00:06:01,820
+closely related to inequality.
+
+139
+00:06:01,820 --> 00:06:04,820
+I may say, we did all this work twice.
+
+140
+00:06:04,820 --> 00:06:07,820
+We did it first on these rich, developed countries,
+
+141
+00:06:07,820 --> 00:06:09,820
+and then as a separate test bed,
+
+142
+00:06:09,820 --> 00:06:12,820
+we repeated it all on the 50 American states --
+
+143
+00:06:12,820 --> 00:06:14,820
+asking just the same question:
+
+144
+00:06:14,820 --> 00:06:16,820
+do the more unequal states
+
+145
+00:06:16,820 --> 00:06:18,820
+do worse on all these kinds of measures?
+
+146
+00:06:18,820 --> 00:06:22,820
+So here is trust from a general social survey of the federal government
+
+147
+00:06:22,820 --> 00:06:24,820
+related to inequality.
+
+148
+00:06:24,820 --> 00:06:26,820
+Very similar scatter
+
+149
+00:06:26,820 --> 00:06:28,820
+over a similar range of levels of trust.
+
+150
+00:06:28,820 --> 00:06:30,820
+Same thing is going on.
+
+151
+00:06:30,820 --> 00:06:32,820
+Basically we found
+
+152
+00:06:32,820 --> 00:06:35,820
+that almost anything that's related to trust internationally
+
+153
+00:06:35,820 --> 00:06:37,820
+is related to trust amongst the 50 states
+
+154
+00:06:37,820 --> 00:06:39,820
+in that separate test bed.
+
+155
+00:06:39,820 --> 00:06:41,820
+We're not just talking about a fluke.
+
+156
+00:06:41,820 --> 00:06:43,820
+This is mental illness.
+
+157
+00:06:43,820 --> 00:06:45,820
+WHO put together figures
+
+158
+00:06:45,820 --> 00:06:47,820
+using the same diagnostic interviews
+
+159
+00:06:47,820 --> 00:06:49,820
+on random samples of the population
+
+160
+00:06:49,820 --> 00:06:52,820
+to allow us to compare rates of mental illness
+
+161
+00:06:52,820 --> 00:06:54,820
+in each society.
+
+162
+00:06:54,820 --> 00:06:56,820
+This is the percent of the population
+
+163
+00:06:56,820 --> 00:06:59,820
+with any mental illness in the preceding year.
+
+164
+00:06:59,820 --> 00:07:02,820
+And it goes from about eight percent
+
+165
+00:07:02,820 --> 00:07:04,820
+up to three times that --
+
+166
+00:07:04,820 --> 00:07:06,820
+whole societies
+
+167
+00:07:06,820 --> 00:07:09,820
+with three times the level of mental illness of others.
+
+168
+00:07:09,820 --> 00:07:13,820
+And again, closely related to inequality.
+
+169
+00:07:13,820 --> 00:07:15,820
+This is violence.
+
+170
+00:07:15,820 --> 00:07:17,820
+These red dots are American states,
+
+171
+00:07:17,820 --> 00:07:21,820
+and the blue triangles are Canadian provinces.
+
+172
+00:07:21,820 --> 00:07:24,820
+But look at the scale of the differences.
+
+173
+00:07:24,820 --> 00:07:27,820
+It goes from 15 homicides per million
+
+174
+00:07:27,820 --> 00:07:30,820
+up to 150.
+
+175
+00:07:30,820 --> 00:07:33,820
+This is the proportion of the population in prison.
+
+176
+00:07:33,820 --> 00:07:36,820
+There's a about a tenfold difference there,
+
+177
+00:07:36,820 --> 00:07:38,820
+log scale up the side.
+
+178
+00:07:38,820 --> 00:07:40,820
+But it goes from about 40 to 400
+
+179
+00:07:40,820 --> 00:07:43,820
+people in prison.
+
+180
+00:07:43,820 --> 00:07:45,820
+That relationship
+
+181
+00:07:45,820 --> 00:07:47,820
+is not mainly driven by more crime.
+
+182
+00:07:47,820 --> 00:07:50,820
+In some places, that's part of it.
+
+183
+00:07:50,820 --> 00:07:52,820
+But most of it is about more punitive sentencing,
+
+184
+00:07:52,820 --> 00:07:54,820
+harsher sentencing.
+
+185
+00:07:54,820 --> 00:07:56,820
+And the more unequal societies
+
+186
+00:07:56,820 --> 00:08:00,820
+are more likely also to retain the death penalty.
+
+187
+00:08:00,820 --> 00:08:05,820
+Here we have children dropping out of high school.
+
+188
+00:08:05,820 --> 00:08:07,820
+Again, quite big differences.
+
+189
+00:08:07,820 --> 00:08:09,820
+Extraordinarily damaging,
+
+190
+00:08:09,820 --> 00:08:12,820
+if you're talking about using the talents of the population.
+
+191
+00:08:12,820 --> 00:08:15,820
+This is social mobility.
+
+192
+00:08:15,820 --> 00:08:17,820
+It's actually a measure of mobility
+
+193
+00:08:17,820 --> 00:08:19,820
+based on income.
+
+194
+00:08:19,820 --> 00:08:21,820
+Basically, it's asking:
+
+195
+00:08:21,820 --> 00:08:23,820
+do rich fathers have rich sons
+
+196
+00:08:23,820 --> 00:08:25,820
+and poor fathers have poor sons,
+
+197
+00:08:25,820 --> 00:08:28,820
+or is there no relationship between the two?
+
+198
+00:08:28,820 --> 00:08:30,820
+And at the more unequal end,
+
+199
+00:08:30,820 --> 00:08:33,820
+fathers' income is much more important --
+
+200
+00:08:33,820 --> 00:08:36,820
+in the U.K., USA.
+
+201
+00:08:36,820 --> 00:08:38,820
+And in Scandinavian countries,
+
+202
+00:08:38,820 --> 00:08:40,820
+fathers' income is much less important.
+
+203
+00:08:40,820 --> 00:08:43,820
+There's more social mobility.
+
+204
+00:08:43,820 --> 00:08:45,820
+And as we like to say --
+
+205
+00:08:45,820 --> 00:08:48,820
+and I know there are a lot of Americans in the audience here --
+
+206
+00:08:48,820 --> 00:08:51,820
+if Americans want to live the American dream,
+
+207
+00:08:51,820 --> 00:08:53,820
+they should go to Denmark.
+
+208
+00:08:53,820 --> 00:08:55,820
+(Laughter)
+
+209
+00:08:55,820 --> 00:08:59,820
+(Applause)
+
+210
+00:08:59,820 --> 00:09:02,820
+I've shown you just a few things in italics here.
+
+211
+00:09:02,820 --> 00:09:04,820
+I could have shown a number of other problems.
+
+212
+00:09:04,820 --> 00:09:06,820
+They're all problems that tend to be more common
+
+213
+00:09:06,820 --> 00:09:08,820
+at the bottom of the social gradient.
+
+214
+00:09:08,820 --> 00:09:13,820
+But there are endless problems with social gradients
+
+215
+00:09:13,820 --> 00:09:15,820
+that are worse in more unequal countries --
+
+216
+00:09:15,820 --> 00:09:17,820
+not just a little bit worse,
+
+217
+00:09:17,820 --> 00:09:20,820
+but anything from twice as common to 10 times as common.
+
+218
+00:09:20,820 --> 00:09:22,820
+Think of the expense,
+
+219
+00:09:22,820 --> 00:09:25,820
+the human cost of that.
+
+220
+00:09:25,820 --> 00:09:27,820
+I want to go back though to this graph that I showed you earlier
+
+221
+00:09:27,820 --> 00:09:29,820
+where we put it all together
+
+222
+00:09:29,820 --> 00:09:31,820
+to make two points.
+
+223
+00:09:31,820 --> 00:09:34,820
+One is that, in graph after graph,
+
+224
+00:09:34,820 --> 00:09:36,820
+we find the countries that do worse,
+
+225
+00:09:36,820 --> 00:09:38,820
+whatever the outcome,
+
+226
+00:09:38,820 --> 00:09:40,820
+seem to be the more unequal ones,
+
+227
+00:09:40,820 --> 00:09:42,820
+and the ones that do well
+
+228
+00:09:42,820 --> 00:09:45,820
+seem to be the Nordic countries and Japan.
+
+229
+00:09:45,820 --> 00:09:47,820
+So what we're looking at
+
+230
+00:09:47,820 --> 00:09:50,820
+is general social disfunction related to inequality.
+
+231
+00:09:50,820 --> 00:09:52,820
+It's not just one or two things that go wrong,
+
+232
+00:09:52,820 --> 00:09:54,820
+it's most things.
+
+233
+00:09:54,820 --> 00:09:57,820
+The other really important point I want to make on this graph
+
+234
+00:09:57,820 --> 00:09:59,820
+is that, if you look at the bottom,
+
+235
+00:09:59,820 --> 00:10:02,820
+Sweden and Japan,
+
+236
+00:10:02,820 --> 00:10:05,820
+they're very different countries in all sorts of ways.
+
+237
+00:10:05,820 --> 00:10:07,820
+The position of women,
+
+238
+00:10:07,820 --> 00:10:09,820
+how closely they keep to the nuclear family,
+
+239
+00:10:09,820 --> 00:10:11,820
+are on opposite ends of the poles
+
+240
+00:10:11,820 --> 00:10:13,820
+in terms of the rich developed world.
+
+241
+00:10:13,820 --> 00:10:15,820
+But another really important difference
+
+242
+00:10:15,820 --> 00:10:18,820
+is how they get their greater equality.
+
+243
+00:10:18,820 --> 00:10:21,820
+Sweden has huge differences in earnings,
+
+244
+00:10:21,820 --> 00:10:23,820
+and it narrows the gap through taxation,
+
+245
+00:10:23,820 --> 00:10:25,820
+general welfare state,
+
+246
+00:10:25,820 --> 00:10:28,820
+generous benefits and so on.
+
+247
+00:10:28,820 --> 00:10:30,820
+Japan is rather different though.
+
+248
+00:10:30,820 --> 00:10:33,820
+It starts off with much smaller differences in earnings before tax.
+
+249
+00:10:33,820 --> 00:10:35,820
+It has lower taxes.
+
+250
+00:10:35,820 --> 00:10:37,820
+It has a smaller welfare state.
+
+251
+00:10:37,820 --> 00:10:39,820
+And in our analysis of the American states,
+
+252
+00:10:39,820 --> 00:10:41,820
+we find rather the same contrast.
+
+253
+00:10:41,820 --> 00:10:44,820
+There are some states that do well through redistribution,
+
+254
+00:10:44,820 --> 00:10:46,820
+some states that do well
+
+255
+00:10:46,820 --> 00:10:49,820
+because they have smaller income differences before tax.
+
+256
+00:10:49,820 --> 00:10:51,820
+So we conclude
+
+257
+00:10:51,820 --> 00:10:54,820
+that it doesn't much matter how you get your greater equality,
+
+258
+00:10:54,820 --> 00:10:56,820
+as long as you get there somehow.
+
+259
+00:10:56,820 --> 00:10:58,820
+I am not talking about perfect equality,
+
+260
+00:10:58,820 --> 00:11:02,820
+I'm talking about what exists in rich developed market democracies.
+
+261
+00:11:04,820 --> 00:11:09,820
+Another really surprising part of this picture
+
+262
+00:11:09,820 --> 00:11:11,820
+is that it's not just the poor
+
+263
+00:11:11,820 --> 00:11:14,820
+who are affected by inequality.
+
+264
+00:11:14,820 --> 00:11:16,820
+There seems to be some truth in John Donne's
+
+265
+00:11:16,820 --> 00:11:19,820
+"No man is an island."
+
+266
+00:11:19,820 --> 00:11:22,820
+And in a number of studies, it's possible to compare
+
+267
+00:11:22,820 --> 00:11:25,820
+how people do in more and less equal countries
+
+268
+00:11:25,820 --> 00:11:28,820
+at each level in the social hierarchy.
+
+269
+00:11:28,820 --> 00:11:31,820
+This is just one example.
+
+270
+00:11:31,820 --> 00:11:33,820
+It's infant mortality.
+
+271
+00:11:33,820 --> 00:11:36,820
+Some Swedes very kindly classified a lot of their infant deaths
+
+272
+00:11:36,820 --> 00:11:41,820
+according to the British register of general socioeconomic classification.
+
+273
+00:11:41,820 --> 00:11:44,820
+And so it's anachronistically
+
+274
+00:11:44,820 --> 00:11:46,820
+a classification by fathers' occupations,
+
+275
+00:11:46,820 --> 00:11:48,820
+so single parents go on their own.
+
+276
+00:11:48,820 --> 00:11:51,820
+But then where it says "low social class,"
+
+277
+00:11:51,820 --> 00:11:54,820
+that's unskilled manual occupations.
+
+278
+00:11:54,820 --> 00:11:58,820
+It goes through towards the skilled manual occupations in the middle,
+
+279
+00:11:58,820 --> 00:12:00,820
+then the junior non-manual,
+
+280
+00:12:00,820 --> 00:12:03,820
+going up high to the professional occupations --
+
+281
+00:12:03,820 --> 00:12:05,820
+doctors, lawyers,
+
+282
+00:12:05,820 --> 00:12:07,820
+directors of larger companies.
+
+283
+00:12:07,820 --> 00:12:10,820
+You see there that Sweden does better than Britain
+
+284
+00:12:10,820 --> 00:12:13,820
+all the way across the social hierarchy.
+
+285
+00:12:15,820 --> 00:12:17,820
+The biggest differences are at the bottom of society.
+
+286
+00:12:17,820 --> 00:12:19,820
+But even at the top,
+
+287
+00:12:19,820 --> 00:12:21,820
+there seems to be a small benefit
+
+288
+00:12:21,820 --> 00:12:23,820
+to being in a more equal society.
+
+289
+00:12:23,820 --> 00:12:26,820
+We show that on about five different sets of data
+
+290
+00:12:26,820 --> 00:12:28,820
+covering educational outcomes
+
+291
+00:12:28,820 --> 00:12:31,820
+and health in the United States and internationally.
+
+292
+00:12:31,820 --> 00:12:34,820
+And that seems to be the general picture --
+
+293
+00:12:34,820 --> 00:12:37,820
+that greater equality makes most difference at the bottom,
+
+294
+00:12:37,820 --> 00:12:40,820
+but has some benefits even at the top.
+
+295
+00:12:40,820 --> 00:12:44,820
+But I should say a few words about what's going on.
+
+296
+00:12:44,820 --> 00:12:46,820
+I think I'm looking and talking
+
+297
+00:12:46,820 --> 00:12:49,820
+about the psychosocial effects of inequality.
+
+298
+00:12:49,820 --> 00:12:52,820
+More to do with feelings of superiority and inferiority,
+
+299
+00:12:52,820 --> 00:12:54,820
+of being valued and devalued,
+
+300
+00:12:54,820 --> 00:12:57,820
+respected and disrespected.
+
+301
+00:12:57,820 --> 00:12:59,820
+And of course, those feelings
+
+302
+00:12:59,820 --> 00:13:02,820
+of the status competition that comes out of that
+
+303
+00:13:02,820 --> 00:13:05,820
+drives the consumerism in our society.
+
+304
+00:13:05,820 --> 00:13:08,820
+It also leads to status insecurity.
+
+305
+00:13:08,820 --> 00:13:12,820
+We worry more about how we're judged and seen by others,
+
+306
+00:13:12,820 --> 00:13:15,820
+whether we're regarded as attractive, clever,
+
+307
+00:13:15,820 --> 00:13:18,820
+all that kind of thing.
+
+308
+00:13:18,820 --> 00:13:21,820
+The social-evaluative judgments increase,
+
+309
+00:13:21,820 --> 00:13:25,820
+the fear of those social-evaluative judgments.
+
+310
+00:13:25,820 --> 00:13:27,820
+Interestingly,
+
+311
+00:13:27,820 --> 00:13:31,820
+some parallel work going on in social psychology:
+
+312
+00:13:31,820 --> 00:13:34,820
+some people reviewed 208 different studies
+
+313
+00:13:34,820 --> 00:13:37,820
+in which volunteers had been invited
+
+314
+00:13:37,820 --> 00:13:39,820
+into a psychological laboratory
+
+315
+00:13:39,820 --> 00:13:41,820
+and had their stress hormones,
+
+316
+00:13:41,820 --> 00:13:45,820
+their responses to doing stressful tasks, measured.
+
+317
+00:13:45,820 --> 00:13:47,820
+And in the review,
+
+318
+00:13:47,820 --> 00:13:49,820
+what they were interested in seeing
+
+319
+00:13:49,820 --> 00:13:51,820
+is what kind of stresses
+
+320
+00:13:51,820 --> 00:13:54,820
+most reliably raise levels of cortisol,
+
+321
+00:13:54,820 --> 00:13:56,820
+the central stress hormone.
+
+322
+00:13:56,820 --> 00:13:58,820
+And the conclusion was
+
+323
+00:13:58,820 --> 00:14:01,820
+it was tasks that included social-evaluative threat --
+
+324
+00:14:01,820 --> 00:14:04,820
+threats to self-esteem or social status
+
+325
+00:14:04,820 --> 00:14:07,820
+in which others can negatively judge your performance.
+
+326
+00:14:07,820 --> 00:14:09,820
+Those kind of stresses
+
+327
+00:14:09,820 --> 00:14:12,820
+have a very particular effect
+
+328
+00:14:12,820 --> 00:14:15,820
+on the physiology of stress.
+
+329
+00:14:16,820 --> 00:14:18,820
+Now we have been criticized.
+
+330
+00:14:18,820 --> 00:14:21,820
+Of course, there are people who dislike this stuff
+
+331
+00:14:21,820 --> 00:14:24,820
+and people who find it very surprising.
+
+332
+00:14:24,820 --> 00:14:26,820
+I should tell you though
+
+333
+00:14:26,820 --> 00:14:29,820
+that when people criticize us for picking and choosing data,
+
+334
+00:14:29,820 --> 00:14:31,820
+we never pick and choose data.
+
+335
+00:14:31,820 --> 00:14:33,820
+We have an absolute rule
+
+336
+00:14:33,820 --> 00:14:36,820
+that if our data source has data for one of the countries we're looking at,
+
+337
+00:14:36,820 --> 00:14:38,820
+it goes into the analysis.
+
+338
+00:14:38,820 --> 00:14:40,820
+Our data source decides
+
+339
+00:14:40,820 --> 00:14:42,820
+whether it's reliable data,
+
+340
+00:14:42,820 --> 00:14:44,820
+we don't.
+
+341
+00:14:44,820 --> 00:14:46,820
+Otherwise that would introduce bias.
+
+342
+00:14:46,820 --> 00:14:48,820
+What about other countries?
+
+343
+00:14:48,820 --> 00:14:51,820
+There are 200 studies
+
+344
+00:14:51,820 --> 00:14:54,820
+of health in relation to income and equality
+
+345
+00:14:54,820 --> 00:14:57,820
+in the academic peer-reviewed journals.
+
+346
+00:14:57,820 --> 00:15:00,820
+This isn't confined to these countries here,
+
+347
+00:15:00,820 --> 00:15:02,820
+hiding a very simple demonstration.
+
+348
+00:15:02,820 --> 00:15:04,820
+The same countries,
+
+349
+00:15:04,820 --> 00:15:06,820
+the same measure of inequality,
+
+350
+00:15:06,820 --> 00:15:09,820
+one problem after another.
+
+351
+00:15:10,820 --> 00:15:12,820
+Why don't we control for other factors?
+
+352
+00:15:12,820 --> 00:15:14,820
+Well we've shown you that GNP per capita
+
+353
+00:15:14,820 --> 00:15:16,820
+doesn't make any difference.
+
+354
+00:15:16,820 --> 00:15:20,820
+And of course, others using more sophisticated methods in the literature
+
+355
+00:15:20,820 --> 00:15:22,820
+have controlled for poverty and education
+
+356
+00:15:22,820 --> 00:15:25,820
+and so on.
+
+357
+00:15:26,820 --> 00:15:28,820
+What about causality?
+
+358
+00:15:28,820 --> 00:15:31,820
+Correlation in itself doesn't prove causality.
+
+359
+00:15:31,820 --> 00:15:33,820
+We spend a good bit of time.
+
+360
+00:15:33,820 --> 00:15:35,820
+And indeed, people know the causal links quite well
+
+361
+00:15:35,820 --> 00:15:37,820
+in some of these outcomes.
+
+362
+00:15:37,820 --> 00:15:39,820
+The big change in our understanding
+
+363
+00:15:39,820 --> 00:15:41,820
+of drivers of chronic health
+
+364
+00:15:41,820 --> 00:15:43,820
+in the rich developed world
+
+365
+00:15:43,820 --> 00:15:47,820
+is how important chronic stress from social sources
+
+366
+00:15:47,820 --> 00:15:49,820
+is affecting the immune system,
+
+367
+00:15:49,820 --> 00:15:52,820
+the cardiovascular system.
+
+368
+00:15:52,820 --> 00:15:54,820
+Or for instance, the reason why violence
+
+369
+00:15:54,820 --> 00:15:57,820
+becomes more common in more unequal societies
+
+370
+00:15:57,820 --> 00:16:02,820
+is because people are sensitive to being looked down on.
+
+371
+00:16:02,820 --> 00:16:05,820
+I should say that to deal with this,
+
+372
+00:16:05,820 --> 00:16:07,820
+we've got to deal with the post-tax things
+
+373
+00:16:07,820 --> 00:16:09,820
+and the pre-tax things.
+
+374
+00:16:09,820 --> 00:16:12,820
+We've got to constrain income,
+
+375
+00:16:12,820 --> 00:16:14,820
+the bonus culture incomes at the top.
+
+376
+00:16:14,820 --> 00:16:17,820
+I think we must make our bosses accountable to their employees
+
+377
+00:16:17,820 --> 00:16:20,820
+in any way we can.
+
+378
+00:16:20,820 --> 00:16:23,820
+I think the take-home message though
+
+379
+00:16:23,820 --> 00:16:27,820
+is that we can improve the real quality of human life
+
+380
+00:16:27,820 --> 00:16:30,820
+by reducing the differences in incomes between us.
+
+381
+00:16:30,820 --> 00:16:32,820
+Suddenly we have a handle
+
+382
+00:16:32,820 --> 00:16:34,820
+on the psychosocial well-being of whole societies,
+
+383
+00:16:34,820 --> 00:16:36,820
+and that's exciting.
+
+384
+00:16:36,820 --> 00:16:38,820
+Thank you.
+
+385
+00:16:38,820 --> 00:16:44,820
+(Applause)
+

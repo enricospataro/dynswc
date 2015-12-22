@@ -108,9 +108,9 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     private void runForceDirected(LayoutResult lastResult) {
 
 		int numIterations = 0;
-		
+//		doIteration(lastResult);
 		while(numIterations++ < TOTAL_ITERATIONS)  {
-	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration " + numIterations);
+	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration: " + numIterations);
 	        if(!doIteration(lastResult)) break;
 
 	        //cooling down the temperature (max allowed step is decreased)
@@ -151,12 +151,10 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 		for(Word w:commonWords) {
 			
 			Rectangle rect = wordPositionsMap.get(w);
-	    	Word w1 = lastWordPositions.keySet().stream().filter(w0 -> w0.getStem().equals(w.getStem())).findFirst().get();
-
-			Rectangle lastRect = lastWordPositions.get(w1);
+			Rectangle lastRect = lastWordPositions.get(w);
+			
             Point dxy = new Point();
-
-            dxy.add(computeAttractiveForce(bb,w1,rect,lastRect,maxScore));
+            dxy.add(computeAttractiveForce(bb,w,rect,lastRect,maxScore));
 
             // move the rectangle
             rect.setRect(rect.getX()+dxy.getX(),rect.getY()+dxy.getY(),rect.getWidth(),rect.getHeight());
@@ -217,15 +215,16 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         double k = Math.max(w.getScore(),maxScore/5.0);     
         
         // distance between the two rectangles
-        Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
-        double len = dir.length(); 
-        
-        double force = maxScore*maxScore/(k*k);
+        Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY()); 
+
+//        double force = Math.pow(2,k);
+//        double force = k*k;
+        double force = Math.sqrt(k)*k;
+//        double force = k;
 
     	dir.normalize();
         dir.scale(force); 
         dxy.add(dir);
-
         return dxy;
 	}
     

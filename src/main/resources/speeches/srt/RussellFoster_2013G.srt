@@ -1,0 +1,2070 @@
+﻿1
+00:00:11,833 --> 00:00:15,840
+What I'd like to do today is talk
+about one of my favorite subjects,
+
+2
+00:00:15,841 --> 00:00:18,840
+and that is the neuroscience of sleep.
+
+3
+00:00:19,833 --> 00:00:21,840
+Now, there is a sound --
+
+4
+00:00:22,832 --> 00:00:24,834
+(Alarm clock)
+
+5
+00:00:24,835 --> 00:00:26,838
+Ah, it worked.
+
+6
+00:00:26,839 --> 00:00:29,841
+A sound that is desperately
+familiar to most of us,
+
+7
+00:00:29,842 --> 00:00:32,823
+and of course it's the sound
+of the alarm clock.
+
+8
+00:00:32,824 --> 00:00:35,823
+And what that truly ghastly,
+awful sound does
+
+9
+00:00:35,824 --> 00:00:40,835
+is stop the single most important
+behavioral experience
+
+10
+00:00:40,836 --> 00:00:42,833
+that we have, and that's sleep.
+
+11
+00:00:43,837 --> 00:00:47,820
+If you're an average sort of person,
+
+12
+00:00:47,821 --> 00:00:51,830
+36 percent of your life
+will be spent asleep,
+
+13
+00:00:51,831 --> 00:00:53,835
+which means that if you live to 90,
+
+14
+00:00:53,836 --> 00:00:59,844
+then 32 years will have
+been spent entirely asleep.
+
+15
+00:01:00,831 --> 00:01:05,829
+Now what that 32 years is telling us
+is that sleep at some level is important.
+
+16
+00:01:05,841 --> 00:01:08,840
+And yet, for most of us,
+we don't give sleep a second thought.
+
+17
+00:01:08,841 --> 00:01:10,839
+We throw it away.
+
+18
+00:01:10,840 --> 00:01:13,843
+We really just don't think about sleep.
+
+19
+00:01:13,844 --> 00:01:17,833
+And so what I'd like to do today
+is change your views,
+
+20
+00:01:17,834 --> 00:01:20,827
+change your ideas
+and your thoughts about sleep.
+
+21
+00:01:20,840 --> 00:01:23,821
+And the journey
+that I want to take you on,
+
+22
+00:01:23,822 --> 00:01:25,837
+we need to start by going back in time.
+
+23
+00:01:27,838 --> 00:01:31,834
+"Enjoy the honey-heavy dew of slumber."
+
+24
+00:01:32,826 --> 00:01:33,837
+Any ideas who said that?
+
+25
+00:01:35,835 --> 00:01:37,842
+Shakespeare's Julius Caesar.
+
+26
+00:01:37,843 --> 00:01:39,843
+Yes, let me give you a few more quotes.
+
+27
+00:01:41,836 --> 00:01:45,833
+"O sleep, O gentle sleep,
+nature's soft nurse,
+
+28
+00:01:45,834 --> 00:01:46,843
+how have I frighted thee?"
+
+29
+00:01:46,844 --> 00:01:49,835
+Shakespeare again, from --
+I won't say it --
+
+30
+00:01:49,836 --> 00:01:50,837
+the Scottish play.
+
+31
+00:01:51,820 --> 00:01:52,839
+(Laughter)
+
+32
+00:01:53,835 --> 00:01:54,840
+From the same time:
+
+33
+00:01:54,841 --> 00:01:59,825
+"Sleep is the golden chain
+that ties health and our bodies together."
+
+34
+00:01:59,826 --> 00:02:03,822
+Extremely prophetic, by Thomas Dekker,
+another Elizabethan dramatist.
+
+35
+00:02:03,837 --> 00:02:06,836
+But if we jump forward 400 years,
+
+36
+00:02:06,837 --> 00:02:09,843
+the tone about sleep changes somewhat.
+
+37
+00:02:09,844 --> 00:02:13,824
+This is from Thomas Edison,
+from the beginning of the 20th century.
+
+38
+00:02:13,825 --> 00:02:16,842
+"Sleep is a criminal waste of time
+and a heritage from our cave days."
+
+39
+00:02:16,843 --> 00:02:17,843
+Bang.
+
+40
+00:02:17,844 --> 00:02:20,836
+(Laughter)
+
+41
+00:02:20,837 --> 00:02:24,834
+And if we also jump into the 1980s,
+
+42
+00:02:24,835 --> 00:02:26,843
+some of you may remember
+that Margaret Thatcher
+
+43
+00:02:26,844 --> 00:02:29,836
+was reported to have said,
+"Sleep is for wimps."
+
+44
+00:02:29,837 --> 00:02:32,833
+And of course the infamous --
+what was his name? --
+
+45
+00:02:32,834 --> 00:02:34,843
+the infamous Gordon Gekko
+from "Wall Street" said,
+
+46
+00:02:34,844 --> 00:02:36,834
+"Money never sleeps."
+
+47
+00:02:37,832 --> 00:02:40,823
+What do we do
+in the 20th century about sleep?
+
+48
+00:02:40,824 --> 00:02:43,832
+Well, of course, we use
+Thomas Edison's light bulb
+
+49
+00:02:43,833 --> 00:02:46,828
+to invade the night,
+and we occupied the dark,
+
+50
+00:02:46,829 --> 00:02:48,843
+and in the process of this occupation,
+
+51
+00:02:48,844 --> 00:02:51,838
+we've treated sleep as an illness, almost.
+
+52
+00:02:51,839 --> 00:02:54,826
+We've treated it as an enemy.
+
+53
+00:02:54,834 --> 00:02:59,843
+At most now, I suppose,
+we tolerate the need for sleep,
+
+54
+00:02:59,844 --> 00:03:02,841
+and at worst perhaps
+many of us think of sleep
+
+55
+00:03:02,842 --> 00:03:05,824
+as an illness that needs
+some sort of a cure.
+
+56
+00:03:05,825 --> 00:03:08,837
+And our ignorance about sleep
+is really quite profound.
+
+57
+00:03:09,826 --> 00:03:10,826
+Why is it?
+
+58
+00:03:10,827 --> 00:03:12,836
+Why do we abandon sleep in our thoughts?
+
+59
+00:03:12,837 --> 00:03:16,843
+Well, it's because you don't do anything
+much while you're asleep, it seems.
+
+60
+00:03:16,844 --> 00:03:20,821
+You don't eat. You don't drink.
+
+61
+00:03:20,834 --> 00:03:21,841
+And you don't have sex.
+
+62
+00:03:21,842 --> 00:03:23,826
+Well, most of us anyway.
+
+63
+00:03:23,827 --> 00:03:25,826
+And so, therefore it's --
+
+64
+00:03:25,827 --> 00:03:26,829
+Sorry.
+
+65
+00:03:26,830 --> 00:03:28,842
+It's a complete waste of time, right?
+
+66
+00:03:29,827 --> 00:03:30,827
+Wrong.
+
+67
+00:03:30,839 --> 00:03:34,832
+Actually, sleep is an incredibly
+important part of our biology,
+
+68
+00:03:34,833 --> 00:03:37,827
+and neuroscientists
+are beginning to explain
+
+69
+00:03:37,828 --> 00:03:39,834
+why it's so very important.
+
+70
+00:03:39,835 --> 00:03:41,825
+So let's move to the brain.
+
+71
+00:03:42,830 --> 00:03:45,841
+Now, here we have a brain.
+
+72
+00:03:47,824 --> 00:03:50,843
+This is donated by a social scientist,
+
+73
+00:03:50,843 --> 00:03:52,843
+and they said they didn't
+know what it was,
+
+74
+00:03:52,844 --> 00:03:54,843
+or indeed how to use it, so --
+
+75
+00:03:54,844 --> 00:03:57,836
+(Laughter)
+
+76
+00:03:57,837 --> 00:03:58,841
+Sorry.
+
+77
+00:03:59,839 --> 00:04:01,823
+So I borrowed it.
+
+78
+00:04:01,824 --> 00:04:03,822
+I don't think they noticed. Okay.
+
+79
+00:04:03,823 --> 00:04:05,841
+(Laughter)
+
+80
+00:04:05,842 --> 00:04:08,839
+The point I'm trying to make
+is that when you're asleep,
+
+81
+00:04:08,840 --> 00:04:10,834
+this thing doesn't shut down.
+
+82
+00:04:10,835 --> 00:04:13,827
+In fact, some areas of the brain
+are actually more active
+
+83
+00:04:13,828 --> 00:04:15,841
+during the sleep state
+than during the wake state.
+
+84
+00:04:16,833 --> 00:04:18,844
+The other thing that's really
+important about sleep
+
+85
+00:04:19,820 --> 00:04:22,828
+is that it doesn't arise from a single
+structure within the brain,
+
+86
+00:04:22,829 --> 00:04:24,839
+but is to some extent a network property.
+
+87
+00:04:24,840 --> 00:04:26,835
+If we flip the brain on its back --
+
+88
+00:04:26,836 --> 00:04:29,838
+I love this little bit
+of spinal cord here --
+
+89
+00:04:29,839 --> 00:04:32,832
+this bit here is the hypothalamus,
+
+90
+00:04:32,833 --> 00:04:36,834
+and right under there
+is a whole raft of interesting structures,
+
+91
+00:04:36,835 --> 00:04:38,824
+not least the biological clock.
+
+92
+00:04:38,824 --> 00:04:40,839
+The biological clock tells us
+when it's good to be up,
+
+93
+00:04:40,840 --> 00:04:42,825
+when it's good to be asleep,
+
+94
+00:04:42,826 --> 00:04:44,824
+and what that structure does is interact
+
+95
+00:04:44,825 --> 00:04:47,827
+with a whole raft of other areas
+within the hypothalamus,
+
+96
+00:04:47,828 --> 00:04:50,829
+the lateral hypothalamus,
+the ventrolateral preoptic nuclei.
+
+97
+00:04:50,830 --> 00:04:51,835
+All of those combine,
+
+98
+00:04:51,836 --> 00:04:54,841
+and they send projections
+down to the brain stem here.
+
+99
+00:04:54,842 --> 00:04:57,841
+The brain stem then projects forward
+
+100
+00:04:57,842 --> 00:05:01,843
+and bathes the cortex,
+this wonderfully wrinkly bit over here,
+
+101
+00:05:01,844 --> 00:05:04,830
+with neurotransmitters that keep us awake
+
+102
+00:05:04,831 --> 00:05:06,841
+and essentially provide us
+with our consciousness.
+
+103
+00:05:06,842 --> 00:05:09,837
+So sleep arises from a whole raft
+
+104
+00:05:09,838 --> 00:05:11,842
+of different interactions
+within the brain,
+
+105
+00:05:11,843 --> 00:05:14,828
+and essentially,
+sleep is turned on and off
+
+106
+00:05:14,829 --> 00:05:16,836
+as a result of a range
+of interactions in here.
+
+107
+00:05:16,844 --> 00:05:18,842
+Okay. So where have we got to?
+
+108
+00:05:18,843 --> 00:05:22,831
+We've said that sleep is complicated
+
+109
+00:05:22,832 --> 00:05:27,823
+and it takes 32 years of our life.
+
+110
+00:05:27,824 --> 00:05:30,823
+But what I haven't explained
+is what sleep is about.
+
+111
+00:05:30,824 --> 00:05:32,829
+So why do we sleep?
+
+112
+00:05:32,830 --> 00:05:34,837
+And it won't surprise
+any of you that, of course,
+
+113
+00:05:34,838 --> 00:05:36,838
+the scientists, we don't have a consensus.
+
+114
+00:05:36,839 --> 00:05:39,843
+There are dozens of different ideas
+about why we sleep,
+
+115
+00:05:39,844 --> 00:05:42,822
+and I'm going to outline three of those.
+
+116
+00:05:42,833 --> 00:05:45,843
+The first is sort of the restoration idea,
+
+117
+00:05:45,844 --> 00:05:47,830
+and it's somewhat intuitive.
+
+118
+00:05:47,831 --> 00:05:50,834
+Essentially, all the stuff
+we've burned up during the day,
+
+119
+00:05:50,835 --> 00:05:53,824
+we restore, we replace,
+we rebuild during the night.
+
+120
+00:05:53,825 --> 00:05:56,835
+And indeed, as an explanation,
+it goes back to Aristotle,
+
+121
+00:05:56,836 --> 00:05:58,838
+so that's, what, 2,300 years ago.
+
+122
+00:05:58,839 --> 00:06:00,831
+It's gone in and out of fashion.
+
+123
+00:06:00,832 --> 00:06:01,844
+It's fashionable at the moment
+
+124
+00:06:02,820 --> 00:06:04,837
+because what's been shown
+is that within the brain,
+
+125
+00:06:04,838 --> 00:06:06,821
+a whole raft of genes
+
+126
+00:06:06,822 --> 00:06:09,820
+have been shown
+to be turned on only during sleep,
+
+127
+00:06:09,821 --> 00:06:13,826
+and those genes are associated
+with restoration and metabolic pathways.
+
+128
+00:06:13,827 --> 00:06:16,843
+So there's good evidence
+for the whole restoration hypothesis.
+
+129
+00:06:17,832 --> 00:06:19,831
+What about energy conservation?
+
+130
+00:06:19,832 --> 00:06:22,821
+Again, perhaps intuitive.
+
+131
+00:06:22,829 --> 00:06:24,844
+You essentially sleep to save calories.
+
+132
+00:06:25,833 --> 00:06:28,843
+Now, when you do the sums,
+though, it doesn't really pan out.
+
+133
+00:06:28,844 --> 00:06:33,825
+If you compare an individual
+who has slept at night,
+
+134
+00:06:33,826 --> 00:06:36,843
+or stayed awake
+and hasn't moved very much,
+
+135
+00:06:36,844 --> 00:06:41,834
+the energy saving of sleeping
+is about 110 calories a night.
+
+136
+00:06:41,835 --> 00:06:44,826
+Now, that's the equivalent
+of a hot dog bun.
+
+137
+00:06:44,844 --> 00:06:48,831
+Now, I would say that a hot dog bun
+
+138
+00:06:48,832 --> 00:06:50,827
+is kind of a meager return
+
+139
+00:06:50,828 --> 00:06:53,828
+for such a complicated
+and demanding behavior as sleep.
+
+140
+00:06:53,829 --> 00:06:56,838
+So I'm less convinced
+by the energy conservation idea.
+
+141
+00:06:57,830 --> 00:06:59,835
+But the third idea I'm quite attracted to,
+
+142
+00:06:59,836 --> 00:07:03,829
+which is brain processing
+and memory consolidation.
+
+143
+00:07:03,830 --> 00:07:06,843
+What we know is that,
+if after you've tried to learn a task,
+
+144
+00:07:06,844 --> 00:07:08,839
+and you sleep-deprive individuals,
+
+145
+00:07:08,840 --> 00:07:11,829
+the ability to learn that task is smashed.
+
+146
+00:07:11,830 --> 00:07:14,829
+It's really hugely attenuated.
+
+147
+00:07:14,830 --> 00:07:17,834
+So sleep and memory consolidation
+is also very important.
+
+148
+00:07:17,835 --> 00:07:20,826
+However, it's not just
+the laying down of memory
+
+149
+00:07:20,827 --> 00:07:21,828
+and recalling it.
+
+150
+00:07:21,836 --> 00:07:23,843
+What's turned out to be really exciting
+
+151
+00:07:23,844 --> 00:07:28,835
+is that our ability to come up
+with novel solutions to complex problems
+
+152
+00:07:28,836 --> 00:07:30,843
+is hugely enhanced by a night of sleep.
+
+153
+00:07:30,844 --> 00:07:34,830
+In fact, it's been estimated
+to give us a threefold advantage.
+
+154
+00:07:34,831 --> 00:07:36,843
+Sleeping at night enhances our creativity.
+
+155
+00:07:36,844 --> 00:07:39,843
+And what seems to be going on
+is that, in the brain,
+
+156
+00:07:39,844 --> 00:07:42,835
+those neural connections
+that are important,
+
+157
+00:07:42,836 --> 00:07:44,842
+those synaptic connections
+that are important,
+
+158
+00:07:44,842 --> 00:07:46,835
+are linked and strengthened,
+
+159
+00:07:46,836 --> 00:07:50,836
+while those that are less important
+tend to fade away and be less important.
+
+160
+00:07:51,822 --> 00:07:52,826
+Okay.
+
+161
+00:07:52,827 --> 00:07:55,829
+So we've had three explanations
+for why we might sleep,
+
+162
+00:07:55,830 --> 00:07:59,830
+and I think the important thing to realize
+is that the details will vary,
+
+163
+00:07:59,831 --> 00:08:02,825
+and it's probable we sleep
+for multiple different reasons.
+
+164
+00:08:02,826 --> 00:08:05,827
+But sleep is not an indulgence.
+
+165
+00:08:05,828 --> 00:08:10,823
+It's not some sort of thing
+that we can take on board rather casually.
+
+166
+00:08:10,824 --> 00:08:13,839
+I think that sleep was once
+likened to an upgrade
+
+167
+00:08:13,840 --> 00:08:16,837
+from economy to business class,
+you know, the equivalent of.
+
+168
+00:08:16,838 --> 00:08:20,837
+It's not even an upgrade
+from economy to first class.
+
+169
+00:08:20,838 --> 00:08:23,833
+The critical thing to realize
+
+170
+00:08:23,834 --> 00:08:25,839
+is that if you don't sleep,
+
+171
+00:08:25,840 --> 00:08:26,840
+you don't fly.
+
+172
+00:08:27,826 --> 00:08:29,822
+Essentially, you never get there,
+
+173
+00:08:29,823 --> 00:08:32,832
+and what's extraordinary
+about much of our society these days
+
+174
+00:08:32,833 --> 00:08:35,833
+is that we are desperately sleep-deprived.
+
+175
+00:08:35,834 --> 00:08:37,838
+So let's now look at sleep deprivation.
+
+176
+00:08:38,826 --> 00:08:40,843
+Huge sectors of society
+are sleep-deprived,
+
+177
+00:08:40,844 --> 00:08:43,828
+and let's look at our sleep-o-meter.
+
+178
+00:08:43,839 --> 00:08:47,823
+So in the 1950s, good data
+suggests that most of us
+
+179
+00:08:47,824 --> 00:08:49,840
+were getting around about eight hours
+of sleep a night.
+
+180
+00:08:50,831 --> 00:08:54,830
+Nowadays, we sleep one and a half
+to two hours less every night,
+
+181
+00:08:54,831 --> 00:08:57,844
+so we're in the six-and-a-half-hours
+every-night league.
+
+182
+00:08:58,836 --> 00:09:01,835
+For teenagers, it's worse, much worse.
+
+183
+00:09:01,836 --> 00:09:04,835
+They need nine hours
+for full brain performance,
+
+184
+00:09:04,836 --> 00:09:08,827
+and many of them, on a school night,
+are only getting five hours of sleep.
+
+185
+00:09:08,828 --> 00:09:09,833
+It's simply not enough.
+
+186
+00:09:09,844 --> 00:09:12,843
+If we think about other sectors
+of society, the aged,
+
+187
+00:09:12,844 --> 00:09:17,835
+if you are aged, then your ability
+to sleep in a single block
+
+188
+00:09:17,836 --> 00:09:20,823
+is somewhat disrupted,
+and many sleep, again,
+
+189
+00:09:20,824 --> 00:09:21,839
+less than five hours a night.
+
+190
+00:09:21,839 --> 00:09:22,842
+Shift work.
+
+191
+00:09:22,843 --> 00:09:24,833
+Shift work is extraordinary,
+
+192
+00:09:24,834 --> 00:09:26,843
+perhaps 20 percent
+of the working population,
+
+193
+00:09:26,844 --> 00:09:31,822
+and the body clock does not shift
+to the demands of working at night.
+
+194
+00:09:31,823 --> 00:09:34,823
+It's locked onto the same
+light-dark cycle as the rest of us.
+
+195
+00:09:34,824 --> 00:09:36,839
+So when the poor old
+shift worker is going home
+
+196
+00:09:36,840 --> 00:09:39,826
+to try and sleep during the day,
+desperately tired,
+
+197
+00:09:39,827 --> 00:09:42,829
+the body clock is saying,
+"Wake up. This is the time to be awake."
+
+198
+00:09:42,830 --> 00:09:45,837
+So the quality of sleep
+that you get as a night shift worker
+
+199
+00:09:45,838 --> 00:09:48,835
+is usually very poor,
+again in that sort of five-hour region.
+
+200
+00:09:48,836 --> 00:09:52,829
+And then, of course, tens of millions
+of people suffer from jet lag.
+
+201
+00:09:52,830 --> 00:09:54,831
+So who here has jet lag?
+
+202
+00:09:55,830 --> 00:09:57,826
+Well, my goodness gracious.
+
+203
+00:09:57,827 --> 00:10:00,825
+Well, thank you very much
+indeed for not falling asleep,
+
+204
+00:10:00,826 --> 00:10:02,834
+because that's what your brain is craving.
+
+205
+00:10:02,842 --> 00:10:08,823
+One of the things that the brain does
+is indulge in micro-sleeps,
+
+206
+00:10:08,824 --> 00:10:09,844
+this involuntary falling asleep,
+
+207
+00:10:10,820 --> 00:10:12,822
+and you have essentially
+no control over it.
+
+208
+00:10:12,823 --> 00:10:15,821
+Now, micro-sleeps can be sort
+of somewhat embarrassing,
+
+209
+00:10:15,822 --> 00:10:17,821
+but they can also be deadly.
+
+210
+00:10:17,822 --> 00:10:20,835
+It's been estimated
+that 31 percent of drivers
+
+211
+00:10:20,836 --> 00:10:24,843
+will fall asleep at the wheel
+at least once in their life,
+
+212
+00:10:24,844 --> 00:10:27,830
+and in the U.S.,
+the statistics are pretty good:
+
+213
+00:10:27,831 --> 00:10:32,830
+100,000 accidents on the freeway
+have been associated with tiredness,
+
+214
+00:10:32,831 --> 00:10:34,827
+loss of vigilance, and falling asleep.
+
+215
+00:10:34,828 --> 00:10:36,837
+A hundred thousand a year.
+It's extraordinary.
+
+216
+00:10:36,838 --> 00:10:38,841
+At another level of terror,
+
+217
+00:10:38,842 --> 00:10:42,830
+we dip into the tragic
+accidents at Chernobyl
+
+218
+00:10:42,831 --> 00:10:44,840
+and indeed the space shuttle Challenger,
+
+219
+00:10:44,841 --> 00:10:46,831
+which was so tragically lost.
+
+220
+00:10:46,832 --> 00:10:49,843
+And in the investigations
+that followed those disasters,
+
+221
+00:10:49,844 --> 00:10:53,821
+poor judgment as a result
+of extended shift work
+
+222
+00:10:53,822 --> 00:10:55,827
+and loss of vigilance and tiredness
+
+223
+00:10:55,828 --> 00:10:59,844
+was attributed to a big chunk
+of those disasters.
+
+224
+00:11:01,829 --> 00:11:03,832
+When you're tired, and you lack sleep,
+
+225
+00:11:03,833 --> 00:11:06,843
+you have poor memory,
+you have poor creativity,
+
+226
+00:11:06,844 --> 00:11:09,825
+you have increased impulsiveness,
+
+227
+00:11:09,826 --> 00:11:11,844
+and you have overall poor judgment.
+
+228
+00:11:12,820 --> 00:11:14,841
+But my friends,
+it's so much worse than that.
+
+229
+00:11:14,842 --> 00:11:17,820
+(Laughter)
+
+230
+00:11:17,821 --> 00:11:18,843
+If you are a tired brain,
+
+231
+00:11:18,844 --> 00:11:22,823
+the brain is craving things to wake it up.
+
+232
+00:11:22,824 --> 00:11:24,825
+So drugs, stimulants.
+
+233
+00:11:24,826 --> 00:11:27,843
+Caffeine represents
+the stimulant of choice
+
+234
+00:11:27,844 --> 00:11:29,833
+across much of the Western world.
+
+235
+00:11:29,834 --> 00:11:31,833
+Much of the day is fueled by caffeine,
+
+236
+00:11:31,834 --> 00:11:34,831
+and if you're a really naughty
+tired brain, nicotine.
+
+237
+00:11:34,832 --> 00:11:37,842
+Of course, you're fueling
+the waking state with these stimulants,
+
+238
+00:11:37,843 --> 00:11:40,826
+and then of course
+it gets to 11 o'clock at night,
+
+239
+00:11:40,827 --> 00:11:41,837
+and the brain says to itself,
+
+240
+00:11:41,838 --> 00:11:43,843
+"Actually, I need
+to be asleep fairly shortly.
+
+241
+00:11:43,844 --> 00:11:46,840
+What do we do about that
+when I'm feeling completely wired?"
+
+242
+00:11:46,841 --> 00:11:49,827
+Well, of course,
+you then resort to alcohol.
+
+243
+00:11:49,839 --> 00:11:53,821
+Now alcohol, short-term,
+you know, once or twice,
+
+244
+00:11:53,822 --> 00:11:55,841
+to use to mildly sedate you,
+can be very useful.
+
+245
+00:11:55,842 --> 00:11:58,838
+It can actually ease the sleep transition.
+
+246
+00:11:58,839 --> 00:12:03,843
+But what you must be so aware of
+is that alcohol doesn't provide sleep,
+
+247
+00:12:03,844 --> 00:12:05,831
+a biological mimic for sleep.
+
+248
+00:12:05,832 --> 00:12:06,835
+It sedates you.
+
+249
+00:12:06,836 --> 00:12:09,830
+So it actually harms
+some of the neural processing
+
+250
+00:12:09,831 --> 00:12:11,831
+that's going on during memory
+consolidation
+
+251
+00:12:11,832 --> 00:12:12,837
+and memory recall.
+
+252
+00:12:12,838 --> 00:12:15,824
+So it's a short-term acute measure,
+
+253
+00:12:15,825 --> 00:12:17,843
+but for goodness sake,
+don't become addicted
+
+254
+00:12:17,844 --> 00:12:20,832
+to alcohol as a way of getting
+to sleep every night.
+
+255
+00:12:21,821 --> 00:12:24,835
+Another connection
+between loss of sleep is weight gain.
+
+256
+00:12:24,836 --> 00:12:28,825
+If you sleep around
+about five hours or less every night,
+
+257
+00:12:28,826 --> 00:12:31,843
+then you have a 50 percent
+likelihood of being obese.
+
+258
+00:12:31,844 --> 00:12:33,841
+What's the connection here?
+
+259
+00:12:33,842 --> 00:12:36,842
+Well, sleep loss seems
+to give rise to the release
+
+260
+00:12:36,843 --> 00:12:39,825
+of the hormone ghrelin,
+the hunger hormone.
+
+261
+00:12:39,826 --> 00:12:40,835
+Ghrelin is released.
+
+262
+00:12:40,836 --> 00:12:42,825
+It gets to the brain.
+
+263
+00:12:42,826 --> 00:12:44,841
+The brain says, "I need carbohydrates,"
+
+264
+00:12:44,842 --> 00:12:48,831
+and what it does is seek out carbohydrates
+and particularly sugars.
+
+265
+00:12:48,832 --> 00:12:50,827
+So there's a link between tiredness
+
+266
+00:12:50,828 --> 00:12:53,835
+and the metabolic
+predisposition for weight gain.
+
+267
+00:12:53,843 --> 00:12:54,844
+Stress.
+
+268
+00:12:55,820 --> 00:12:57,828
+Tired people are massively stressed.
+
+269
+00:12:58,844 --> 00:13:01,844
+And one of the things of stress,
+of course, is loss of memory,
+
+270
+00:13:02,820 --> 00:13:05,824
+which is what I sort of just
+then had a little lapse of.
+
+271
+00:13:05,825 --> 00:13:07,839
+But stress is so much more.
+
+272
+00:13:07,840 --> 00:13:11,822
+So if you're acutely stressed,
+not a great problem,
+
+273
+00:13:11,823 --> 00:13:12,840
+but it's sustained stress
+
+274
+00:13:12,841 --> 00:13:15,821
+associated with sleep loss
+that's the problem.
+
+275
+00:13:15,822 --> 00:13:19,824
+So sustained stress leads
+to suppressed immunity,
+
+276
+00:13:19,825 --> 00:13:22,840
+and so tired people tend to have
+higher rates of overall infection,
+
+277
+00:13:22,841 --> 00:13:24,834
+and there's some very good studies
+
+278
+00:13:24,835 --> 00:13:28,828
+showing that shift workers, for example,
+have higher rates of cancer.
+
+279
+00:13:28,829 --> 00:13:31,835
+Increased levels of stress
+throw glucose into the circulation.
+
+280
+00:13:31,836 --> 00:13:35,835
+Glucose becomes a dominant part
+of the vasculature
+
+281
+00:13:35,836 --> 00:13:38,826
+and essentially you become
+glucose intolerant.
+
+282
+00:13:38,827 --> 00:13:40,824
+Therefore, diabetes 2.
+
+283
+00:13:40,825 --> 00:13:46,831
+Stress increases cardiovascular disease
+as a result of raising blood pressure.
+
+284
+00:13:46,832 --> 00:13:49,841
+So there's a whole raft of things
+associated with sleep loss
+
+285
+00:13:49,842 --> 00:13:53,829
+that are more than just
+a mildly impaired brain,
+
+286
+00:13:53,830 --> 00:13:56,834
+which is where I think most people think
+that sleep loss resides.
+
+287
+00:13:56,835 --> 00:14:00,821
+So at this point in the talk,
+this is a nice time to think,
+
+288
+00:14:00,822 --> 00:14:03,823
+"Well, do you think on the whole
+I'm getting enough sleep?"
+
+289
+00:14:03,824 --> 00:14:04,843
+So a quick show of hands.
+
+290
+00:14:04,844 --> 00:14:07,836
+Who feels that they're getting
+enough sleep here?
+
+291
+00:14:07,844 --> 00:14:10,834
+Oh. Well, that's pretty impressive.
+
+292
+00:14:10,835 --> 00:14:13,837
+Good. We'll talk more about that later,
+about what are your tips.
+
+293
+00:14:13,838 --> 00:14:15,843
+So most of us, of course,
+ask the question,
+
+294
+00:14:15,844 --> 00:14:18,827
+"How do I know whether
+I'm getting enough sleep?"
+
+295
+00:14:18,828 --> 00:14:19,840
+Well, it's not rocket science.
+
+296
+00:14:19,841 --> 00:14:22,842
+If you need an alarm clock to get
+you out of bed in the morning,
+
+297
+00:14:22,843 --> 00:14:24,842
+if you are taking a long time to get up,
+
+298
+00:14:24,843 --> 00:14:26,836
+if you need lots of stimulants,
+
+299
+00:14:26,837 --> 00:14:28,832
+if you're grumpy, if you're irritable,
+
+300
+00:14:28,833 --> 00:14:32,832
+if you're told by your work colleagues
+that you're looking tired and irritable,
+
+301
+00:14:32,833 --> 00:14:34,838
+chances are you are sleep-deprived.
+
+302
+00:14:34,839 --> 00:14:36,838
+Listen to them. Listen to yourself.
+
+303
+00:14:36,839 --> 00:14:37,840
+What do you do?
+
+304
+00:14:38,828 --> 00:14:40,827
+Well -- and this is slightly offensive --
+
+305
+00:14:40,828 --> 00:14:41,832
+sleep for dummies.
+
+306
+00:14:41,833 --> 00:14:43,838
+(Laughter)
+
+307
+00:14:43,839 --> 00:14:46,831
+Make your bedroom a haven for sleep.
+
+308
+00:14:46,832 --> 00:14:50,820
+The first critical thing is make it
+as dark as you possibly can,
+
+309
+00:14:50,821 --> 00:14:51,841
+and also make it slightly cool.
+
+310
+00:14:51,842 --> 00:14:52,844
+Very important.
+
+311
+00:14:52,844 --> 00:14:55,843
+Actually, reduce
+your amount of light exposure
+
+312
+00:14:55,844 --> 00:14:58,828
+at least half an hour
+before you go to bed.
+
+313
+00:14:58,829 --> 00:15:01,823
+Light increases levels
+of alertness and will delay sleep.
+
+314
+00:15:01,824 --> 00:15:04,821
+What's the last thing that most of us
+do before we go to bed?
+
+315
+00:15:04,822 --> 00:15:05,843
+We stand in a massively lit bathroom
+
+316
+00:15:05,844 --> 00:15:08,833
+looking into the mirror
+cleaning our teeth.
+
+317
+00:15:08,834 --> 00:15:11,840
+It's the worst thing we can possibly do
+before we went to sleep.
+
+318
+00:15:12,823 --> 00:15:14,840
+Turn off those mobile phones.
+Turn off those computers.
+
+319
+00:15:14,841 --> 00:15:18,829
+Turn off all of those things
+that are also going to excite the brain.
+
+320
+00:15:19,824 --> 00:15:21,843
+Try not to drink caffeine
+too late in the day,
+
+321
+00:15:21,844 --> 00:15:24,826
+ideally not after lunch.
+
+322
+00:15:24,837 --> 00:15:28,823
+Now, we've set about reducing light
+exposure before you go to bed,
+
+323
+00:15:28,824 --> 00:15:29,843
+but light exposure in the morning
+
+324
+00:15:29,844 --> 00:15:33,828
+is very good at setting the biological
+clock to the light-dark cycle.
+
+325
+00:15:33,829 --> 00:15:34,836
+So seek out morning light.
+
+326
+00:15:34,844 --> 00:15:36,841
+Basically, listen to yourself.
+
+327
+00:15:37,829 --> 00:15:38,830
+Wind down.
+
+328
+00:15:38,831 --> 00:15:41,839
+Do those sorts of things that you know
+are going to ease you off
+
+329
+00:15:41,840 --> 00:15:44,836
+into the honey-heavy dew of slumber.
+
+330
+00:15:45,823 --> 00:15:46,823
+Okay.
+
+331
+00:15:46,824 --> 00:15:48,836
+That's some facts. What about some myths?
+
+332
+00:15:48,837 --> 00:15:50,820
+Teenagers are lazy.
+
+333
+00:15:50,821 --> 00:15:51,841
+No. Poor things.
+
+334
+00:15:51,842 --> 00:15:55,827
+They have a biological predisposition
+to go to bed late and get up late,
+
+335
+00:15:55,828 --> 00:15:56,836
+so give them a break.
+
+336
+00:15:56,837 --> 00:15:59,825
+We need eight hours of sleep a night.
+
+337
+00:16:00,830 --> 00:16:01,834
+That's an average.
+
+338
+00:16:01,835 --> 00:16:04,822
+Some people need more.
+Some people need less.
+
+339
+00:16:04,823 --> 00:16:06,830
+And what you need to do
+is listen to your body.
+
+340
+00:16:06,830 --> 00:16:08,833
+Do you need that much or do you need more?
+
+341
+00:16:08,834 --> 00:16:09,841
+Simple as that.
+
+342
+00:16:09,842 --> 00:16:12,820
+Old people need less sleep.
+
+343
+00:16:12,821 --> 00:16:13,825
+Not true.
+
+344
+00:16:13,836 --> 00:16:16,825
+The sleep demands
+of the aged do not go down.
+
+345
+00:16:16,834 --> 00:16:19,841
+Essentially, sleep fragments
+and becomes less robust,
+
+346
+00:16:19,842 --> 00:16:21,844
+but sleep requirements do not go down.
+
+347
+00:16:22,838 --> 00:16:26,833
+And the fourth myth is,
+early to bed, early to rise
+
+348
+00:16:26,834 --> 00:16:29,826
+makes a man healthy, wealthy and wise.
+
+349
+00:16:29,827 --> 00:16:32,824
+Well that's wrong
+at so many different levels.
+
+350
+00:16:32,825 --> 00:16:34,829
+(Laughter)
+
+351
+00:16:34,830 --> 00:16:39,821
+There is no evidence that getting up early
+and going to bed early
+
+352
+00:16:39,821 --> 00:16:40,835
+gives you more wealth at all.
+
+353
+00:16:40,836 --> 00:16:43,821
+There's no difference
+in socioeconomic status.
+
+354
+00:16:43,822 --> 00:16:46,840
+In my experience, the only difference
+between morning people and evening people
+
+355
+00:16:46,841 --> 00:16:49,829
+is that those people
+that get up in the morning early
+
+356
+00:16:49,830 --> 00:16:50,841
+are just horribly smug.
+
+357
+00:16:50,842 --> 00:16:52,843
+(Laughter)
+
+358
+00:16:52,844 --> 00:16:55,834
+(Applause)
+
+359
+00:16:55,835 --> 00:16:56,835
+Okay.
+
+360
+00:16:56,836 --> 00:16:59,823
+So for the last part,
+the last few minutes,
+
+361
+00:16:59,824 --> 00:17:00,838
+what I want to do is change gears
+
+362
+00:17:00,839 --> 00:17:04,820
+and talk about some really new,
+breaking areas of neuroscience,
+
+363
+00:17:04,821 --> 00:17:06,843
+which is the association
+between mental health,
+
+364
+00:17:06,844 --> 00:17:09,823
+mental illness and sleep disruption.
+
+365
+00:17:09,824 --> 00:17:13,827
+We've known for 130 years
+that in severe mental illness,
+
+366
+00:17:13,828 --> 00:17:16,834
+there is always, always sleep disruption,
+
+367
+00:17:16,835 --> 00:17:18,821
+but it's been largely ignored.
+
+368
+00:17:18,822 --> 00:17:20,843
+In the 1970s, when people started
+to think about this again,
+
+369
+00:17:20,844 --> 00:17:24,836
+they said, "Yes, well, of course
+you have sleep disruption in schizophrenia
+
+370
+00:17:24,837 --> 00:17:26,839
+because they're on anti-psychotics.
+
+371
+00:17:26,840 --> 00:17:29,839
+It's the anti-psychotics
+causing the sleep problems,"
+
+372
+00:17:29,840 --> 00:17:32,839
+ignoring the fact
+that for a hundred years previously,
+
+373
+00:17:32,840 --> 00:17:36,838
+sleep disruption had been reported
+before anti-psychotics.
+
+374
+00:17:36,839 --> 00:17:38,833
+So what's going on?
+
+375
+00:17:38,834 --> 00:17:41,833
+Several groups are studying
+
+376
+00:17:41,834 --> 00:17:45,821
+conditions like depression,
+schizophrenia and bipolar,
+
+377
+00:17:45,822 --> 00:17:47,839
+and what's going on
+in terms of sleep disruption.
+
+378
+00:17:47,840 --> 00:17:51,832
+We have a big study which we published
+last year on schizophrenia,
+
+379
+00:17:51,833 --> 00:17:54,843
+and the data were quite extraordinary.
+
+380
+00:17:54,844 --> 00:17:57,843
+In those individuals with schizophrenia,
+
+381
+00:17:57,844 --> 00:18:01,839
+much of the time, they were awake
+during the night phase
+
+382
+00:18:01,840 --> 00:18:03,843
+and then they were asleep during the day.
+
+383
+00:18:03,844 --> 00:18:06,836
+Other groups showed
+no 24-hour patterns whatsoever.
+
+384
+00:18:06,837 --> 00:18:08,833
+Their sleep was absolutely smashed.
+
+385
+00:18:08,834 --> 00:18:12,841
+And some had no ability to regulate
+their sleep by the light-dark cycle.
+
+386
+00:18:12,842 --> 00:18:15,843
+They were getting up later
+and later and later each night.
+
+387
+00:18:15,844 --> 00:18:17,826
+It was smashed.
+
+388
+00:18:17,827 --> 00:18:18,843
+So what's going on?
+
+389
+00:18:19,831 --> 00:18:21,832
+And the really exciting news
+
+390
+00:18:21,833 --> 00:18:26,837
+is that mental illness and sleep
+are not simply associated
+
+391
+00:18:26,838 --> 00:18:29,828
+but they are physically linked
+within the brain.
+
+392
+00:18:29,829 --> 00:18:32,831
+The neural networks
+that predispose you to normal sleep,
+
+393
+00:18:32,832 --> 00:18:33,834
+give you normal sleep,
+
+394
+00:18:33,835 --> 00:18:36,836
+and those that give you
+normal mental health, are overlapping.
+
+395
+00:18:37,827 --> 00:18:38,843
+And what's the evidence for that?
+
+396
+00:18:38,844 --> 00:18:41,833
+Well, genes that have been shown
+
+397
+00:18:41,834 --> 00:18:44,841
+to be very important
+in the generation of normal sleep,
+
+398
+00:18:44,842 --> 00:18:46,835
+when mutated, when changed,
+
+399
+00:18:46,836 --> 00:18:49,832
+also predispose individuals
+to mental health problems.
+
+400
+00:18:49,844 --> 00:18:51,843
+And last year, we published a study
+
+401
+00:18:51,844 --> 00:18:55,830
+which showed that a gene
+that's been linked to schizophrenia,
+
+402
+00:18:55,831 --> 00:18:58,839
+when mutated, also smashes the sleep.
+
+403
+00:18:58,840 --> 00:19:02,833
+So we have evidence
+of a genuine mechanistic overlap
+
+404
+00:19:02,834 --> 00:19:04,838
+between these two important systems.
+
+405
+00:19:04,839 --> 00:19:06,840
+Other work flowed from these studies.
+
+406
+00:19:06,841 --> 00:19:10,823
+The first was that sleep disruption
+
+407
+00:19:10,823 --> 00:19:13,840
+actually precedes
+certain types of mental illness,
+
+408
+00:19:13,841 --> 00:19:16,832
+and we've shown
+that in those young individuals
+
+409
+00:19:16,833 --> 00:19:19,836
+who are at high risk
+of developing bipolar disorder,
+
+410
+00:19:19,837 --> 00:19:22,824
+they already have a sleep abnormality
+
+411
+00:19:22,825 --> 00:19:25,839
+prior to any clinical
+diagnosis of bipolar.
+
+412
+00:19:26,832 --> 00:19:32,822
+The other bit of data
+was that sleep disruption
+
+413
+00:19:32,823 --> 00:19:33,836
+may actually exacerbate,
+
+414
+00:19:33,837 --> 00:19:36,828
+make worse the mental illness state.
+
+415
+00:19:36,829 --> 00:19:39,823
+My colleague Dan Freeman
+has used a range of agents
+
+416
+00:19:39,824 --> 00:19:42,833
+which have stabilized sleep
+and reduced levels of paranoia
+
+417
+00:19:42,834 --> 00:19:44,839
+in those individuals by 50 percent.
+
+418
+00:19:45,825 --> 00:19:46,840
+So what have we got?
+
+419
+00:19:46,841 --> 00:19:52,821
+We've got, in these connections,
+some really exciting things.
+
+420
+00:19:52,839 --> 00:19:54,826
+In terms of the neuroscience,
+
+421
+00:19:54,826 --> 00:19:56,820
+by understanding these two systems,
+
+422
+00:19:56,821 --> 00:19:59,831
+we're really beginning to understand
+how both sleep and mental illness
+
+423
+00:19:59,832 --> 00:20:02,821
+are generated and regulated
+within the brain.
+
+424
+00:20:02,822 --> 00:20:05,840
+The second area
+is that if we can use sleep
+
+425
+00:20:05,841 --> 00:20:08,830
+and sleep disruption
+as an early warning signal,
+
+426
+00:20:08,831 --> 00:20:10,837
+then we have the chance of going in.
+
+427
+00:20:10,838 --> 00:20:13,824
+If we know that these individuals
+are vulnerable,
+
+428
+00:20:13,825 --> 00:20:15,836
+early intervention then becomes possible.
+
+429
+00:20:15,837 --> 00:20:18,821
+And the third, which I think
+is the most exciting,
+
+430
+00:20:18,822 --> 00:20:20,841
+is that we can think of the sleep
+centers within the brain
+
+431
+00:20:20,842 --> 00:20:22,832
+as a new therapeutic target.
+
+432
+00:20:22,833 --> 00:20:25,824
+Stabilize sleep in those individuals
+who are vulnerable,
+
+433
+00:20:25,825 --> 00:20:27,828
+we can certainly make them healthier,
+
+434
+00:20:27,829 --> 00:20:32,820
+but also alleviate some of the appalling
+symptoms of mental illness.
+
+435
+00:20:32,821 --> 00:20:33,830
+So let me just finish.
+
+436
+00:20:33,831 --> 00:20:36,831
+What I started by saying
+is take sleep seriously.
+
+437
+00:20:36,839 --> 00:20:39,835
+Our attitudes toward sleep
+are so very different
+
+438
+00:20:39,836 --> 00:20:40,842
+from a pre-industrial age,
+
+439
+00:20:40,843 --> 00:20:42,843
+when we were almost wrapped in a duvet.
+
+440
+00:20:42,844 --> 00:20:46,825
+We used to understand intuitively
+the importance of sleep.
+
+441
+00:20:46,826 --> 00:20:49,840
+And this isn't some sort
+of crystal-waving nonsense.
+
+442
+00:20:49,841 --> 00:20:52,832
+This is a pragmatic response
+to good health.
+
+443
+00:20:52,833 --> 00:20:55,832
+If you have good sleep,
+it increases your concentration,
+
+444
+00:20:55,833 --> 00:20:59,828
+attention, decision-making,
+creativity, social skills, health.
+
+445
+00:20:59,829 --> 00:21:03,837
+If you get sleep, it reduces
+your mood changes, your stress,
+
+446
+00:21:03,838 --> 00:21:05,843
+your levels of anger, your impulsivity,
+
+447
+00:21:05,844 --> 00:21:08,839
+and your tendency to drink and take drugs.
+
+448
+00:21:08,840 --> 00:21:11,826
+And we finished by saying
+
+449
+00:21:11,827 --> 00:21:14,830
+that an understanding
+of the neuroscience of sleep
+
+450
+00:21:14,831 --> 00:21:17,825
+is really informing the way we think
+
+451
+00:21:17,826 --> 00:21:19,839
+about some of the causes
+of mental illness,
+
+452
+00:21:19,840 --> 00:21:21,843
+and indeed is providing us new ways
+
+453
+00:21:21,844 --> 00:21:25,826
+to treat these incredibly
+debilitating conditions.
+
+454
+00:21:26,836 --> 00:21:30,831
+Jim Butcher, the fantasy writer, said,
+
+455
+00:21:30,832 --> 00:21:32,831
+"Sleep is God. Go worship."
+
+456
+00:21:32,832 --> 00:21:34,839
+And I can only recommend
+that you do the same.
+
+457
+00:21:34,840 --> 00:21:36,825
+Thank you for your attention.
+
+458
+00:21:36,826 --> 00:21:39,826
+(Applause)
+

@@ -1,0 +1,1156 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+Can I ask you to please recall a time
+
+2
+00:00:14,820 --> 00:00:16,820
+when you really loved something --
+
+3
+00:00:16,820 --> 00:00:18,820
+a movie, an album, a song or a book --
+
+4
+00:00:18,820 --> 00:00:21,820
+and you recommended it wholeheartedly
+
+5
+00:00:21,820 --> 00:00:23,820
+to someone you also really liked,
+
+6
+00:00:23,820 --> 00:00:25,820
+and you anticipated that reaction, you waited for it,
+
+7
+00:00:25,820 --> 00:00:28,820
+and it came back, and the person hated it?
+
+8
+00:00:28,820 --> 00:00:30,820
+So, by way of introduction,
+
+9
+00:00:30,820 --> 00:00:32,820
+that is the exact same state
+
+10
+00:00:32,820 --> 00:00:35,820
+in which I spent every working day of the last six years. (Laughter)
+
+11
+00:00:35,820 --> 00:00:37,820
+I teach high school math.
+
+12
+00:00:37,820 --> 00:00:40,820
+I sell a product to a market
+
+13
+00:00:40,820 --> 00:00:43,820
+that doesn't want it, but is forced by law to buy it.
+
+14
+00:00:43,820 --> 00:00:46,820
+I mean, it's just a losing proposition.
+
+15
+00:00:46,820 --> 00:00:49,820
+So there's a useful stereotype about students that I see,
+
+16
+00:00:49,820 --> 00:00:51,820
+a useful stereotype about you all.
+
+17
+00:00:51,820 --> 00:00:53,820
+I could give you guys
+
+18
+00:00:53,820 --> 00:00:55,820
+an algebra-two final exam,
+
+19
+00:00:55,820 --> 00:00:57,820
+and I would expect no higher
+
+20
+00:00:57,820 --> 00:00:59,820
+than a 25 percent pass rate.
+
+21
+00:00:59,820 --> 00:01:02,820
+And both of these facts say less about you or my students
+
+22
+00:01:02,820 --> 00:01:04,820
+than they do about what we call math education
+
+23
+00:01:04,820 --> 00:01:06,820
+in the U.S. today.
+
+24
+00:01:06,820 --> 00:01:09,820
+To start with, I'd like to break math down into two categories.
+
+25
+00:01:09,820 --> 00:01:12,820
+One is computation; this is the stuff you've forgotten.
+
+26
+00:01:12,820 --> 00:01:14,820
+For example, factoring quadratics with
+
+27
+00:01:14,820 --> 00:01:16,820
+leading coefficients greater than one.
+
+28
+00:01:16,820 --> 00:01:18,820
+This stuff is also really easy to relearn,
+
+29
+00:01:18,820 --> 00:01:20,820
+provided you have a really strong grounding
+
+30
+00:01:20,820 --> 00:01:22,820
+in reasoning. Math reasoning --
+
+31
+00:01:22,820 --> 00:01:24,820
+we'll call it the application
+
+32
+00:01:24,820 --> 00:01:26,820
+of math processes to the world around us --
+
+33
+00:01:26,820 --> 00:01:28,820
+this is hard to teach.
+
+34
+00:01:28,820 --> 00:01:30,820
+This is what we would love students to retain,
+
+35
+00:01:30,820 --> 00:01:32,820
+even if they don't go into mathematical fields.
+
+36
+00:01:32,820 --> 00:01:34,820
+This is also something that, the way we teach it in the U.S.
+
+37
+00:01:34,820 --> 00:01:36,820
+all but ensures they won't retain it.
+
+38
+00:01:37,820 --> 00:01:38,820
+So, I'd like to talk about why that is,
+
+39
+00:01:38,820 --> 00:01:41,820
+why that's such a calamity for society, what we can do about it
+
+40
+00:01:41,820 --> 00:01:43,820
+and, to close with, why this is an amazing time
+
+41
+00:01:43,820 --> 00:01:45,820
+to be a math teacher.
+
+42
+00:01:45,820 --> 00:01:47,820
+So first, five symptoms
+
+43
+00:01:47,820 --> 00:01:49,820
+that you're doing math reasoning wrong
+
+44
+00:01:49,820 --> 00:01:51,820
+in your classroom.
+
+45
+00:01:51,820 --> 00:01:54,820
+One is a lack of initiative; your students don't self-start.
+
+46
+00:01:54,820 --> 00:01:56,820
+You finish your lecture block
+
+47
+00:01:56,820 --> 00:01:58,820
+and immediately you have five hands going up
+
+48
+00:01:58,820 --> 00:02:00,820
+asking you to re-explain the entire thing at their desks.
+
+49
+00:02:00,820 --> 00:02:02,820
+Students lack perseverance.
+
+50
+00:02:02,820 --> 00:02:04,820
+They lack retention; you find yourself
+
+51
+00:02:04,820 --> 00:02:06,820
+re-explaining concepts three months later, wholesale.
+
+52
+00:02:06,820 --> 00:02:08,820
+There's an aversion to word problems,
+
+53
+00:02:08,820 --> 00:02:10,820
+which describes 99 percent of my students.
+
+54
+00:02:10,820 --> 00:02:12,820
+And then the other one percent
+
+55
+00:02:12,820 --> 00:02:14,820
+is eagerly looking for the formula
+
+56
+00:02:14,820 --> 00:02:16,820
+to apply in that situation.
+
+57
+00:02:16,820 --> 00:02:18,820
+This is really destructive.
+
+58
+00:02:18,820 --> 00:02:21,820
+David Milch, creator of "Deadwood" and other amazing TV shows,
+
+59
+00:02:21,820 --> 00:02:24,820
+has a really good description for this.
+
+60
+00:02:24,820 --> 00:02:26,820
+He swore off creating
+
+61
+00:02:26,820 --> 00:02:28,820
+contemporary drama,
+
+62
+00:02:28,820 --> 00:02:30,820
+shows set in the present day,
+
+63
+00:02:30,820 --> 00:02:32,820
+because he saw that when people fill their mind
+
+64
+00:02:32,820 --> 00:02:35,820
+with four hours a day of, for example, "Two and a Half Men," no disrespect,
+
+65
+00:02:35,820 --> 00:02:37,820
+it shapes the neural pathways, he said,
+
+66
+00:02:37,820 --> 00:02:40,820
+in such a way that they expect simple problems.
+
+67
+00:02:40,820 --> 00:02:43,820
+He called it, "an impatience with irresolution."
+
+68
+00:02:43,820 --> 00:02:46,820
+You're impatient with things that don't resolve quickly.
+
+69
+00:02:46,820 --> 00:02:49,820
+You expect sitcom-sized problems that wrap up in 22 minutes,
+
+70
+00:02:49,820 --> 00:02:52,820
+three commercial breaks and a laugh track.
+
+71
+00:02:52,820 --> 00:02:54,820
+And I'll put it to all of you,
+
+72
+00:02:55,820 --> 00:02:58,820
+what you already know, that no problem worth solving is that simple.
+
+73
+00:02:58,820 --> 00:03:00,820
+I am very concerned about this
+
+74
+00:03:00,820 --> 00:03:03,820
+because I'm going to retire in a world that my students will run.
+
+75
+00:03:03,820 --> 00:03:05,820
+I'm doing bad things
+
+76
+00:03:05,820 --> 00:03:07,820
+to my own future and well-being
+
+77
+00:03:07,820 --> 00:03:09,820
+when I teach this way.
+
+78
+00:03:09,820 --> 00:03:12,820
+I'm here to tell you that the way our textbooks -- particularly
+
+79
+00:03:12,820 --> 00:03:15,820
+mass-adopted textbooks -- teach math reasoning
+
+80
+00:03:15,820 --> 00:03:17,820
+and patient problem solving,
+
+81
+00:03:17,820 --> 00:03:20,820
+it's functionally equivalent to turning on "Two and a Half Men" and calling it a day.
+
+82
+00:03:20,820 --> 00:03:22,820
+(Laughter)
+
+83
+00:03:22,820 --> 00:03:25,820
+In all seriousness. Here's an example from a physics textbook.
+
+84
+00:03:25,820 --> 00:03:27,820
+It applies equally to math.
+
+85
+00:03:27,820 --> 00:03:29,820
+Notice, first of all here,
+
+86
+00:03:29,820 --> 00:03:31,820
+that you have exactly three pieces of information there,
+
+87
+00:03:31,820 --> 00:03:33,820
+each of which will figure into a formula
+
+88
+00:03:33,820 --> 00:03:35,820
+somewhere, eventually,
+
+89
+00:03:35,820 --> 00:03:37,820
+which the student will then compute.
+
+90
+00:03:37,820 --> 00:03:39,820
+I believe in real life.
+
+91
+00:03:39,820 --> 00:03:41,820
+And ask yourself, what problem have you solved, ever,
+
+92
+00:03:41,820 --> 00:03:43,820
+that was worth solving
+
+93
+00:03:43,820 --> 00:03:45,820
+where you knew all of the given information in advance;
+
+94
+00:03:45,820 --> 00:03:48,820
+where you didn't have a surplus of information and you had to filter it out,
+
+95
+00:03:48,820 --> 00:03:50,820
+or you didn't have sufficient information
+
+96
+00:03:50,820 --> 00:03:52,820
+and had to go find some.
+
+97
+00:03:52,820 --> 00:03:55,820
+I'm sure we all agree that no problem worth solving is like that.
+
+98
+00:03:55,820 --> 00:03:58,820
+And the textbook, I think, knows how it's hamstringing students
+
+99
+00:03:58,820 --> 00:04:01,820
+because, watch this, this is the practice problem set.
+
+100
+00:04:01,820 --> 00:04:03,820
+When it comes time to do the actual problem set,
+
+101
+00:04:03,820 --> 00:04:05,820
+we have problems like this right here
+
+102
+00:04:05,820 --> 00:04:08,820
+where we're just swapping out numbers and tweaking the context a little bit.
+
+103
+00:04:08,820 --> 00:04:11,820
+And if the student still doesn't recognize the stamp this was molded from,
+
+104
+00:04:11,820 --> 00:04:13,820
+it helpfully explains to you
+
+105
+00:04:13,820 --> 00:04:16,820
+what sample problem you can return to to find the formula.
+
+106
+00:04:16,820 --> 00:04:18,820
+You could literally, I mean this,
+
+107
+00:04:18,820 --> 00:04:21,820
+pass this particular unit without knowing any physics,
+
+108
+00:04:21,820 --> 00:04:24,820
+just knowing how to decode a textbook. That's a shame.
+
+109
+00:04:24,820 --> 00:04:27,820
+So I can diagnose the problem a little more specifically in math.
+
+110
+00:04:27,820 --> 00:04:29,820
+Here's a really cool problem. I like this.
+
+111
+00:04:29,820 --> 00:04:31,820
+It's about defining steepness and slope
+
+112
+00:04:31,820 --> 00:04:33,820
+using a ski lift.
+
+113
+00:04:33,820 --> 00:04:35,820
+But what you have here is actually four separate layers,
+
+114
+00:04:35,820 --> 00:04:38,820
+and I'm curious which of you can see the four separate layers
+
+115
+00:04:38,820 --> 00:04:41,820
+and, particularly, how when they're compressed together
+
+116
+00:04:41,820 --> 00:04:43,820
+and presented to the student all at once,
+
+117
+00:04:43,820 --> 00:04:46,820
+how that creates this impatient problem solving.
+
+118
+00:04:46,820 --> 00:04:48,820
+I'll define them here: You have the visual.
+
+119
+00:04:48,820 --> 00:04:50,820
+You also have the mathematical structure,
+
+120
+00:04:50,820 --> 00:04:52,820
+talking about grids, measurements, labels,
+
+121
+00:04:52,820 --> 00:04:54,820
+points, axes, that sort of thing.
+
+122
+00:04:54,820 --> 00:04:57,820
+You have substeps, which all lead to what we really want to talk about:
+
+123
+00:04:57,820 --> 00:04:59,820
+which section is the steepest.
+
+124
+00:04:59,820 --> 00:05:01,820
+So I hope you can see.
+
+125
+00:05:01,820 --> 00:05:03,820
+I really hope you can see how what we're doing here
+
+126
+00:05:03,820 --> 00:05:05,820
+is taking a compelling question, a compelling answer,
+
+127
+00:05:05,820 --> 00:05:07,820
+but we're paving a smooth, straight path
+
+128
+00:05:07,820 --> 00:05:09,820
+from one to the other
+
+129
+00:05:09,820 --> 00:05:11,820
+and congratulating our students for how well
+
+130
+00:05:11,820 --> 00:05:13,820
+they can step over the small cracks in the way.
+
+131
+00:05:13,820 --> 00:05:15,820
+That's all we're doing here.
+
+132
+00:05:15,820 --> 00:05:17,820
+So I want to put to you that if we can separate these in a different way
+
+133
+00:05:17,820 --> 00:05:19,820
+and build them up with students,
+
+134
+00:05:19,820 --> 00:05:22,820
+we can have everything we're looking for in terms of patient problem solving.
+
+135
+00:05:22,820 --> 00:05:24,820
+So right here I start with the visual,
+
+136
+00:05:24,820 --> 00:05:26,820
+and I immediately ask the question:
+
+137
+00:05:26,820 --> 00:05:28,820
+Which section is the steepest?
+
+138
+00:05:28,820 --> 00:05:30,820
+And this starts conversation
+
+139
+00:05:30,820 --> 00:05:33,820
+because the visual is created in such a way where you can defend two answers.
+
+140
+00:05:33,820 --> 00:05:35,820
+So you get people arguing against each other,
+
+141
+00:05:35,820 --> 00:05:37,820
+friend versus friend,
+
+142
+00:05:37,820 --> 00:05:39,820
+in pairs, journaling, whatever.
+
+143
+00:05:39,820 --> 00:05:41,820
+And then eventually we realize
+
+144
+00:05:41,820 --> 00:05:43,820
+it's getting annoying to talk about
+
+145
+00:05:43,820 --> 00:05:45,820
+the skier in the lower left-hand side of the screen
+
+146
+00:05:45,820 --> 00:05:47,820
+or the skier just above the mid line.
+
+147
+00:05:47,820 --> 00:05:49,820
+And we realize how great would it be
+
+148
+00:05:49,820 --> 00:05:51,820
+if we just had some A, B, C and D labels
+
+149
+00:05:51,820 --> 00:05:53,820
+to talk about them more easily.
+
+150
+00:05:53,820 --> 00:05:56,820
+And then as we start to define what does steepness mean,
+
+151
+00:05:56,820 --> 00:05:58,820
+we realize it would be nice to have some measurements
+
+152
+00:05:58,820 --> 00:06:01,820
+to really narrow it down, specifically what that means.
+
+153
+00:06:01,820 --> 00:06:03,820
+And then and only then,
+
+154
+00:06:03,820 --> 00:06:05,820
+we throw down that mathematical structure.
+
+155
+00:06:05,820 --> 00:06:07,820
+The math serves the conversation,
+
+156
+00:06:07,820 --> 00:06:09,820
+the conversation doesn't serve the math.
+
+157
+00:06:09,820 --> 00:06:12,820
+And at that point, I'll put it to you that nine out of 10 classes
+
+158
+00:06:12,820 --> 00:06:14,820
+are good to go on the whole slope, steepness thing.
+
+159
+00:06:14,820 --> 00:06:16,820
+But if you need to,
+
+160
+00:06:16,820 --> 00:06:18,820
+your students can then develop those substeps together.
+
+161
+00:06:18,820 --> 00:06:21,820
+Do you guys see how this, right here, compared to that --
+
+162
+00:06:21,820 --> 00:06:24,820
+which one creates that patient problem solving, that math reasoning?
+
+163
+00:06:24,820 --> 00:06:27,820
+It's been obvious in my practice, to me.
+
+164
+00:06:27,820 --> 00:06:29,820
+And I'll yield the floor here for a second to Einstein,
+
+165
+00:06:29,820 --> 00:06:31,820
+who, I believe, has paid his dues.
+
+166
+00:06:31,820 --> 00:06:34,820
+He talked about the formulation of a problem being so incredibly important,
+
+167
+00:06:34,820 --> 00:06:36,820
+and yet in my practice, in the U.S. here,
+
+168
+00:06:36,820 --> 00:06:38,820
+we just give problems to students;
+
+169
+00:06:38,820 --> 00:06:41,820
+we don't involve them in the formulation of the problem.
+
+170
+00:06:42,820 --> 00:06:44,820
+So 90 percent of what I do
+
+171
+00:06:44,820 --> 00:06:46,820
+with my five hours of prep time per week
+
+172
+00:06:46,820 --> 00:06:49,820
+is to take fairly compelling elements
+
+173
+00:06:49,820 --> 00:06:51,820
+of problems like this from my textbook
+
+174
+00:06:51,820 --> 00:06:54,820
+and rebuild them in a way that supports math reasoning and patient problem solving.
+
+175
+00:06:54,820 --> 00:06:56,820
+And here's how it works.
+
+176
+00:06:56,820 --> 00:06:58,820
+I like this question. It's about a water tank.
+
+177
+00:06:58,820 --> 00:07:00,820
+The question is: How long will it take you to fill it up?
+
+178
+00:07:00,820 --> 00:07:02,820
+First things first, we eliminate all the substeps.
+
+179
+00:07:02,820 --> 00:07:04,820
+Students have to develop those,
+
+180
+00:07:04,820 --> 00:07:06,820
+they have to formulate those.
+
+181
+00:07:06,820 --> 00:07:09,820
+And then notice that all the information written on there is stuff you'll need.
+
+182
+00:07:09,820 --> 00:07:11,820
+None of it's a distractor, so we lose that.
+
+183
+00:07:11,820 --> 00:07:13,820
+Students need to decide, "All right, well,
+
+184
+00:07:13,820 --> 00:07:15,820
+does the height matter? Does the side of it matter?
+
+185
+00:07:15,820 --> 00:07:18,820
+Does the color of the valve matter? What matters here?"
+
+186
+00:07:18,820 --> 00:07:21,820
+Such an underrepresented question in math curriculum.
+
+187
+00:07:21,820 --> 00:07:23,820
+So now we have a water tank.
+
+188
+00:07:23,820 --> 00:07:25,820
+How long will it take you to fill it up? And that's it.
+
+189
+00:07:25,820 --> 00:07:27,820
+And because this is the 21st century
+
+190
+00:07:27,820 --> 00:07:30,820
+and we would love to talk about the real world on its own terms,
+
+191
+00:07:30,820 --> 00:07:33,820
+not in terms of line art or clip art
+
+192
+00:07:33,820 --> 00:07:35,820
+that you so often see in textbooks,
+
+193
+00:07:35,820 --> 00:07:37,820
+we go out and we take a picture of it.
+
+194
+00:07:37,820 --> 00:07:39,820
+So now we have the real deal.
+
+195
+00:07:39,820 --> 00:07:41,820
+How long will it take it to fill it up?
+
+196
+00:07:41,820 --> 00:07:43,820
+And then even better is we take a video,
+
+197
+00:07:43,820 --> 00:07:46,820
+a video of someone filling it up.
+
+198
+00:07:46,820 --> 00:07:48,820
+And it's filling up slowly, agonizingly slowly.
+
+199
+00:07:48,820 --> 00:07:50,820
+It's tedious.
+
+200
+00:07:50,820 --> 00:07:52,820
+Students are looking at their watches, rolling their eyes,
+
+201
+00:07:52,820 --> 00:07:55,820
+and they're all wondering at some point or another,
+
+202
+00:07:55,820 --> 00:07:58,820
+"Man, how long is it going to take to fill up?"
+
+203
+00:07:58,820 --> 00:08:03,820
+(Laughter)
+
+204
+00:08:03,820 --> 00:08:06,820
+That's how you know you've baited the hook, right?
+
+205
+00:08:07,820 --> 00:08:10,820
+And that question, off this right here, is really fun for me
+
+206
+00:08:10,820 --> 00:08:12,820
+because, like the intro,
+
+207
+00:08:12,820 --> 00:08:15,820
+I teach kids -- because of my inexperience --
+
+208
+00:08:15,820 --> 00:08:17,820
+I teach the kids that are the most remedial, all right?
+
+209
+00:08:17,820 --> 00:08:20,820
+And I've got kids who will not join a conversation about math
+
+210
+00:08:20,820 --> 00:08:22,820
+because someone else has the formula;
+
+211
+00:08:22,820 --> 00:08:25,820
+someone else knows how to work the formula better than me,
+
+212
+00:08:25,820 --> 00:08:27,820
+so I won't talk about it.
+
+213
+00:08:27,820 --> 00:08:30,820
+But here, every student is on a level playing field of intuition.
+
+214
+00:08:30,820 --> 00:08:33,820
+Everyone's filled something up with water before,
+
+215
+00:08:33,820 --> 00:08:36,820
+so I get kids answering the question, "How long will it take?"
+
+216
+00:08:36,820 --> 00:08:39,820
+I've got kids who are mathematically and conversationally intimidated
+
+217
+00:08:39,820 --> 00:08:41,820
+joining the conversation.
+
+218
+00:08:41,820 --> 00:08:44,820
+We put names on the board, attach them to guesses,
+
+219
+00:08:44,820 --> 00:08:46,820
+and kids have bought in here.
+
+220
+00:08:46,820 --> 00:08:48,820
+And then we follow the process I've described.
+
+221
+00:08:48,820 --> 00:08:50,820
+And the best part here, or one of the better parts
+
+222
+00:08:50,820 --> 00:08:52,820
+is that we don't get our answer from the answer key
+
+223
+00:08:52,820 --> 00:08:54,820
+in the back of the teacher's edition.
+
+224
+00:08:54,820 --> 00:08:57,820
+We, instead, just watch the end of the movie.
+
+225
+00:08:57,820 --> 00:08:59,820
+(Laughter)
+
+226
+00:08:59,820 --> 00:09:01,820
+And that's terrifying,
+
+227
+00:09:01,820 --> 00:09:03,820
+because the theoretical models that always work out
+
+228
+00:09:03,820 --> 00:09:05,820
+in the answer key in the back of a teacher's edition,
+
+229
+00:09:05,820 --> 00:09:07,820
+that's great, but
+
+230
+00:09:07,820 --> 00:09:09,820
+it's scary to talk about sources of error
+
+231
+00:09:09,820 --> 00:09:11,820
+when the theoretical does not match up with the practical.
+
+232
+00:09:11,820 --> 00:09:13,820
+But those conversations have been so valuable,
+
+233
+00:09:13,820 --> 00:09:15,820
+among the most valuable.
+
+234
+00:09:15,820 --> 00:09:17,820
+So I'm here to report some really fun games
+
+235
+00:09:17,820 --> 00:09:19,820
+with students who come pre-installed
+
+236
+00:09:19,820 --> 00:09:21,820
+with these viruses day one of the class.
+
+237
+00:09:21,820 --> 00:09:24,820
+These are the kids who now, one semester in,
+
+238
+00:09:24,820 --> 00:09:26,820
+I can put something on the board,
+
+239
+00:09:26,820 --> 00:09:28,820
+totally new, totally foreign,
+
+240
+00:09:28,820 --> 00:09:30,820
+and they'll have a conversation about it for three or four minutes more
+
+241
+00:09:30,820 --> 00:09:32,820
+than they would have at the start of the year,
+
+242
+00:09:32,820 --> 00:09:34,820
+which is just so fun.
+
+243
+00:09:34,820 --> 00:09:37,820
+We're no longer averse to word problems,
+
+244
+00:09:37,820 --> 00:09:40,820
+because we've redefined what a word problem is.
+
+245
+00:09:40,820 --> 00:09:42,820
+We're no longer intimidated by math,
+
+246
+00:09:42,820 --> 00:09:44,820
+because we're slowly redefining what math is.
+
+247
+00:09:44,820 --> 00:09:46,820
+This has been a lot of fun.
+
+248
+00:09:46,820 --> 00:09:49,820
+I encourage math teachers I talk to to use multimedia,
+
+249
+00:09:49,820 --> 00:09:51,820
+because it brings the real world into your classroom
+
+250
+00:09:51,820 --> 00:09:53,820
+in high resolution and full color;
+
+251
+00:09:53,820 --> 00:09:56,820
+to encourage student intuition for that level playing field;
+
+252
+00:09:56,820 --> 00:09:58,820
+to ask the shortest question you possibly can
+
+253
+00:09:58,820 --> 00:10:01,820
+and let those more specific questions come out in conversation;
+
+254
+00:10:01,820 --> 00:10:03,820
+to let students build the problem,
+
+255
+00:10:03,820 --> 00:10:05,820
+because Einstein said so;
+
+256
+00:10:05,820 --> 00:10:08,820
+and to finally, in total, just be less helpful,
+
+257
+00:10:08,820 --> 00:10:10,820
+because the textbook is helping you in all the wrong ways:
+
+258
+00:10:10,820 --> 00:10:13,820
+It's buying you out of your obligation,
+
+259
+00:10:13,820 --> 00:10:16,820
+for patient problem solving and math reasoning, to be less helpful.
+
+260
+00:10:16,820 --> 00:10:19,820
+And why this is an amazing time to be a math teacher right now
+
+261
+00:10:19,820 --> 00:10:21,820
+is because we have the tools to create
+
+262
+00:10:21,820 --> 00:10:23,820
+this high-quality curriculum in our front pocket.
+
+263
+00:10:23,820 --> 00:10:25,820
+It's ubiquitous and fairly cheap,
+
+264
+00:10:25,820 --> 00:10:27,820
+and the tools to distribute it
+
+265
+00:10:27,820 --> 00:10:29,820
+freely under open licenses
+
+266
+00:10:29,820 --> 00:10:32,820
+has also never been cheaper or more ubiquitous.
+
+267
+00:10:32,820 --> 00:10:34,820
+I put a video series on my blog not so long ago
+
+268
+00:10:34,820 --> 00:10:37,820
+and it got 6,000 views in two weeks.
+
+269
+00:10:37,820 --> 00:10:40,820
+I get emails still from teachers in countries I've never visited
+
+270
+00:10:40,820 --> 00:10:43,820
+saying, "Wow, yeah. We had a good conversation about that.
+
+271
+00:10:43,820 --> 00:10:46,820
+Oh, and by the way, here's how I made your stuff better,"
+
+272
+00:10:46,820 --> 00:10:48,820
+which, wow.
+
+273
+00:10:48,820 --> 00:10:50,820
+I put this problem on my blog recently:
+
+274
+00:10:50,820 --> 00:10:52,820
+In a grocery store, which line do you get into,
+
+275
+00:10:52,820 --> 00:10:54,820
+the one that has one cart and 19 items
+
+276
+00:10:54,820 --> 00:10:57,820
+or the line with four carts and three, five, two and one items.
+
+277
+00:10:57,820 --> 00:11:00,820
+And the linear modeling involved in that was some good stuff for my classroom,
+
+278
+00:11:00,820 --> 00:11:03,820
+but it eventually got me on "Good Morning America" a few weeks later,
+
+279
+00:11:03,820 --> 00:11:05,820
+which is just bizarre, right?
+
+280
+00:11:05,820 --> 00:11:07,820
+And from all of this, I can only conclude
+
+281
+00:11:07,820 --> 00:11:09,820
+that people, not just students,
+
+282
+00:11:09,820 --> 00:11:11,820
+are really hungry for this.
+
+283
+00:11:11,820 --> 00:11:13,820
+Math makes sense of the world.
+
+284
+00:11:13,820 --> 00:11:15,820
+Math is the vocabulary
+
+285
+00:11:15,820 --> 00:11:17,820
+for your own intuition.
+
+286
+00:11:17,820 --> 00:11:20,820
+So I just really encourage you, whatever your stake is in education --
+
+287
+00:11:20,820 --> 00:11:23,820
+whether you're a student, parent, teacher, policy maker, whatever --
+
+288
+00:11:23,820 --> 00:11:26,820
+insist on better math curriculum.
+
+289
+00:11:26,820 --> 00:11:29,820
+We need more patient problem solvers. Thank you. (Applause)
+

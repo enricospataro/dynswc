@@ -1,0 +1,1172 @@
+﻿1
+00:00:11,820 --> 00:00:12,820
+(Applause)
+
+2
+00:00:12,820 --> 00:00:16,820
+I want to talk to you a little bit about user-generated content.
+
+3
+00:00:16,820 --> 00:00:20,820
+I'm going to tell you three stories on the way to one argument
+
+4
+00:00:20,820 --> 00:00:22,820
+that's going to tell you a little bit
+
+5
+00:00:22,820 --> 00:00:26,820
+about how we open user-generated content up for business.
+
+6
+00:00:26,820 --> 00:00:27,820
+So, here's the first story.
+
+7
+00:00:27,820 --> 00:00:33,820
+1906. This man, John Philip Sousa, traveled to this place,
+
+8
+00:00:33,820 --> 00:00:37,820
+the United States Capitol, to talk about this technology,
+
+9
+00:00:37,820 --> 00:00:40,820
+what he called the, quote, "talking machines."
+
+10
+00:00:41,820 --> 00:00:45,820
+Sousa was not a fan of the talking machines.
+
+11
+00:00:45,820 --> 00:00:46,820
+This is what he had to say.
+
+12
+00:00:46,820 --> 00:00:50,820
+"These talking machines are going to ruin artistic development
+
+13
+00:00:50,820 --> 00:00:51,820
+of music in this country.
+
+14
+00:00:51,820 --> 00:00:56,820
+When I was a boy, in front of every house in the summer evenings,
+
+15
+00:00:56,820 --> 00:00:58,820
+you would find young people together
+
+16
+00:00:58,820 --> 00:01:02,820
+singing the songs of the day, or the old songs.
+
+17
+00:01:02,820 --> 00:01:08,820
+Today, you hear these infernal machines going night and day.
+
+18
+00:01:08,820 --> 00:01:11,820
+We will not have a vocal chord left," Sousa said.
+
+19
+00:01:11,820 --> 00:01:15,820
+"The vocal chords will be eliminated by a process of evolution
+
+20
+00:01:15,820 --> 00:01:19,820
+as was the tail of man when he came from the ape."
+
+21
+00:01:19,820 --> 00:01:24,820
+Now, this is the picture I want you to focus on.
+
+22
+00:01:24,820 --> 00:01:26,820
+This is a picture of culture.
+
+23
+00:01:26,820 --> 00:01:30,820
+We could describe it using modern computer terminology
+
+24
+00:01:30,820 --> 00:01:33,820
+as a kind of read-write culture.
+
+25
+00:01:33,820 --> 00:01:36,820
+It's a culture where people participate in the creation
+
+26
+00:01:36,820 --> 00:01:41,820
+and the re-creation of their culture. In that sense, it's read-write.
+
+27
+00:01:41,820 --> 00:01:46,820
+Sousa's fear was that we would lose that capacity
+
+28
+00:01:46,820 --> 00:01:51,820
+because of these, quote, "infernal machines." They would take it away.
+
+29
+00:01:51,820 --> 00:01:55,820
+And in its place, we'd have the opposite of read-write culture,
+
+30
+00:01:55,820 --> 00:01:58,820
+what we could call read-only culture.
+
+31
+00:01:58,820 --> 00:02:01,820
+Culture where creativity was consumed
+
+32
+00:02:01,820 --> 00:02:04,820
+but the consumer is not a creator.
+
+33
+00:02:04,820 --> 00:02:07,820
+A culture which is top-down, owned,
+
+34
+00:02:07,820 --> 00:02:11,820
+where the vocal chords of the millions have been lost.
+
+35
+00:02:11,820 --> 00:02:15,820
+Now, as you look back at the twentieth century,
+
+36
+00:02:15,820 --> 00:02:20,820
+at least in what we think of as the, quote, "developed world" --
+
+37
+00:02:20,820 --> 00:02:23,820
+hard not to conclude that Sousa was right.
+
+38
+00:02:23,820 --> 00:02:26,820
+Never before in the history of human culture
+
+39
+00:02:26,820 --> 00:02:30,820
+had it been as professionalized, never before as concentrated.
+
+40
+00:02:30,820 --> 00:02:33,820
+Never before has creativity of the millions
+
+41
+00:02:33,820 --> 00:02:35,820
+been as effectively displaced,
+
+42
+00:02:35,820 --> 00:02:39,820
+and displaced because of these, quote, "infernal machines."
+
+43
+00:02:39,820 --> 00:02:41,820
+The twentieth century was that century
+
+44
+00:02:41,820 --> 00:02:44,820
+where, at least for those places we know the best,
+
+45
+00:02:44,820 --> 00:02:51,820
+culture moved from this read-write to read-only existence.
+
+46
+00:02:52,820 --> 00:02:55,820
+So, second. Land is a kind of property --
+
+47
+00:02:55,820 --> 00:02:59,820
+it is property. It's protected by law.
+
+48
+00:02:59,820 --> 00:03:04,820
+As Lord Blackstone described it, land is protected by trespass law,
+
+49
+00:03:04,820 --> 00:03:07,820
+for most of the history of trespass law,
+
+50
+00:03:07,820 --> 00:03:12,820
+by presuming it protects the land all the way down below
+
+51
+00:03:12,820 --> 00:03:16,820
+and to an indefinite extent upward.
+
+52
+00:03:16,820 --> 00:03:18,820
+Now, that was a pretty good system
+
+53
+00:03:18,820 --> 00:03:20,820
+for most of the history of the regulation of land,
+
+54
+00:03:20,820 --> 00:03:26,820
+until this technology came along, and people began to wonder,
+
+55
+00:03:26,820 --> 00:03:29,820
+were these instruments trespassers
+
+56
+00:03:29,820 --> 00:03:32,820
+as they flew over land without clearing the rights
+
+57
+00:03:32,820 --> 00:03:36,820
+of the farms below as they traveled across the country?
+
+58
+00:03:36,820 --> 00:03:41,820
+Well, in 1945, Supreme Court got a chance to address that question.
+
+59
+00:03:41,820 --> 00:03:47,820
+Two farmers, Thomas Lee and Tinie Causby, who raised chickens,
+
+60
+00:03:47,820 --> 00:03:51,820
+had a significant complaint because of these technologies.
+
+61
+00:03:51,820 --> 00:03:53,820
+The complaint was that their
+
+62
+00:03:53,820 --> 00:03:56,820
+chickens followed the pattern of the airplanes
+
+63
+00:03:56,820 --> 00:04:00,820
+and flew themselves into the walls of the barn
+
+64
+00:04:00,820 --> 00:04:02,820
+when the airplanes flew over the land.
+
+65
+00:04:02,820 --> 00:04:04,820
+And so they appealed to Lord Blackstone
+
+66
+00:04:04,820 --> 00:04:07,820
+to say these airplanes were trespassing.
+
+67
+00:04:08,820 --> 00:04:11,820
+Since time immemorial, the law had said,
+
+68
+00:04:11,820 --> 00:04:15,820
+you can't fly over the land without permission of the landowner,
+
+69
+00:04:15,820 --> 00:04:19,820
+so this flight must stop.
+
+70
+00:04:19,820 --> 00:04:24,820
+Well, the Supreme Court considered this 100-years tradition
+
+71
+00:04:24,820 --> 00:04:28,820
+and said, in an opinion written by Justice Douglas,
+
+72
+00:04:28,820 --> 00:04:30,820
+that the Causbys must lose.
+
+73
+00:04:30,820 --> 00:04:34,820
+The Supreme Court said the doctrine protecting land
+
+74
+00:04:34,820 --> 00:04:38,820
+all the way to the sky has no place in the modern world,
+
+75
+00:04:38,820 --> 00:04:41,820
+otherwise every transcontinental flight would
+
+76
+00:04:42,820 --> 00:04:45,820
+subject the operator to countless trespass suits.
+
+77
+00:04:45,820 --> 00:04:50,820
+Common sense, a rare idea in the law, but here it was. Common sense --
+
+78
+00:04:50,820 --> 00:04:51,820
+(Laughter) --
+
+79
+00:04:51,820 --> 00:04:55,820
+Revolts at the idea. Common sense.
+
+80
+00:04:55,820 --> 00:05:03,820
+Finally. Before the Internet, the last great terror
+
+81
+00:05:03,820 --> 00:05:06,820
+to rain down on the content industry
+
+82
+00:05:06,820 --> 00:05:12,820
+was a terror created by this technology. Broadcasting:
+
+83
+00:05:12,820 --> 00:05:15,820
+a new way to spread content,
+
+84
+00:05:15,820 --> 00:05:19,820
+and therefore a new battle over the control
+
+85
+00:05:19,820 --> 00:05:23,820
+of the businesses that would spread content.
+
+86
+00:05:23,820 --> 00:05:25,820
+Now, at that time, the entity,
+
+87
+00:05:25,820 --> 00:05:29,820
+the legal cartel, that controlled the performance rights
+
+88
+00:05:29,820 --> 00:05:33,820
+for most of the music that would be broadcast
+
+89
+00:05:33,820 --> 00:05:35,820
+using these technologies was ASCAP.
+
+90
+00:05:35,820 --> 00:05:39,820
+They had an exclusive license on the most popular content,
+
+91
+00:05:39,820 --> 00:05:43,820
+and they exercised it in a way that tried to demonstrate
+
+92
+00:05:43,820 --> 00:05:46,820
+to the broadcasters who really was in charge.
+
+93
+00:05:46,820 --> 00:05:53,820
+So, between 1931 and 1939, they raised rates by some 448 percent,
+
+94
+00:05:53,820 --> 00:05:56,820
+until the broadcasters finally got together
+
+95
+00:05:56,820 --> 00:05:58,820
+and said, okay, enough of this.
+
+96
+00:05:58,820 --> 00:06:01,820
+And in 1939, a lawyer, Sydney Kaye, started something
+
+97
+00:06:01,820 --> 00:06:05,820
+called Broadcast Music Inc. We know it as BMI.
+
+98
+00:06:05,820 --> 00:06:08,820
+And BMI was much more democratic in the art
+
+99
+00:06:08,820 --> 00:06:11,820
+that it would include within its repertoire,
+
+100
+00:06:11,820 --> 00:06:15,820
+including African American music for the first time in the repertoire.
+
+101
+00:06:15,820 --> 00:06:20,820
+But most important was that BMI took public domain works
+
+102
+00:06:20,820 --> 00:06:24,820
+and made arrangements of them, which they gave away for free
+
+103
+00:06:24,820 --> 00:06:28,820
+to their subscribers. So that in 1940,
+
+104
+00:06:28,820 --> 00:06:32,820
+when ASCAP threatened to double their rates,
+
+105
+00:06:32,820 --> 00:06:35,820
+the majority of broadcasters switched to BMI.
+
+106
+00:06:35,820 --> 00:06:37,820
+Now, ASCAP said they didn't care.
+
+107
+00:06:37,820 --> 00:06:41,820
+The people will revolt, they predicted, because the very best music
+
+108
+00:06:41,820 --> 00:06:44,820
+was no longer available, because they had shifted
+
+109
+00:06:44,820 --> 00:06:50,820
+to the second best public domain provided by BMI.
+
+110
+00:06:50,820 --> 00:06:56,820
+Well, they didn't revolt, and in 1941, ASCAP cracked.
+
+111
+00:06:56,820 --> 00:06:59,820
+And the important point to recognize
+
+112
+00:06:59,820 --> 00:07:04,820
+is that even though these broadcasters
+
+113
+00:07:04,820 --> 00:07:06,820
+were broadcasting something you would call second best,
+
+114
+00:07:06,820 --> 00:07:11,820
+that competition was enough to break, at that time,
+
+115
+00:07:11,820 --> 00:07:15,820
+this legal cartel over access to music.
+
+116
+00:07:15,820 --> 00:07:17,820
+Okay. Three stories. Here's the argument.
+
+117
+00:07:19,820 --> 00:07:21,820
+In my view, the most significant thing to recognize
+
+118
+00:07:21,820 --> 00:07:23,820
+about what this Internet is doing
+
+119
+00:07:23,820 --> 00:07:27,820
+is its opportunity to revive the read-write culture
+
+120
+00:07:27,820 --> 00:07:30,820
+that Sousa romanticized.
+
+121
+00:07:31,820 --> 00:07:33,820
+Digital technology is the opportunity
+
+122
+00:07:33,820 --> 00:07:35,820
+for the revival of these vocal chords
+
+123
+00:07:35,820 --> 00:07:39,820
+that he spoke so passionately to Congress about.
+
+124
+00:07:39,820 --> 00:07:43,820
+User-generated content, spreading in businesses
+
+125
+00:07:43,820 --> 00:07:46,820
+in extraordinarily valuable ways like these,
+
+126
+00:07:46,820 --> 00:07:48,820
+celebrating amateur culture.
+
+127
+00:07:49,820 --> 00:07:52,820
+By which I don't mean amateurish culture,
+
+128
+00:07:52,820 --> 00:07:55,820
+I mean culture where people produce
+
+129
+00:07:55,820 --> 00:07:58,820
+for the love of what they're doing and not for the money.
+
+130
+00:07:59,820 --> 00:08:04,820
+I mean the culture that your kids are producing all the time.
+
+131
+00:08:04,820 --> 00:08:07,820
+For when you think of what Sousa romanticized
+
+132
+00:08:07,820 --> 00:08:10,820
+in the young people together, singing the songs of the day,
+
+133
+00:08:10,820 --> 00:08:12,820
+of the old songs, you should recognize
+
+134
+00:08:12,820 --> 00:08:14,820
+what your kids are doing right now.
+
+135
+00:08:15,820 --> 00:08:17,820
+Taking the songs of the day and the old songs
+
+136
+00:08:17,820 --> 00:08:21,820
+and remixing them to make them something different.
+
+137
+00:08:21,820 --> 00:08:24,820
+It's how they understand access to this culture.
+
+138
+00:08:24,820 --> 00:08:27,820
+So, let's have some very few examples
+
+139
+00:08:27,820 --> 00:08:28,820
+to get a sense of what I'm talking about here.
+
+140
+00:08:29,820 --> 00:08:31,820
+Here's something called Anime Music Video, first example,
+
+141
+00:08:31,820 --> 00:08:35,820
+taking anime captured from television
+
+142
+00:08:35,820 --> 00:08:37,820
+re-edited to music tracks.
+
+143
+00:08:37,820 --> 00:09:17,820
+(Music)
+
+144
+00:09:17,820 --> 00:09:22,820
+This one you should be -- confidence. Jesus survives. Don't worry.
+
+145
+00:09:22,820 --> 00:10:07,820
+(Music)
+
+146
+00:10:07,820 --> 00:10:15,820
+(Laughter)
+
+147
+00:10:15,820 --> 00:10:17,820
+And this is the best.
+
+148
+00:10:17,820 --> 00:10:20,820
+(Music)
+
+149
+00:10:24,820 --> 00:10:26,820
+My love ...
+
+150
+00:10:28,820 --> 00:10:32,820
+There's only you in my life ...
+
+151
+00:10:33,820 --> 00:10:37,820
+The only thing that's bright ...
+
+152
+00:10:39,820 --> 00:10:42,820
+My first love ...
+
+153
+00:10:44,820 --> 00:10:48,820
+You're every breath that I take ...
+
+154
+00:10:48,820 --> 00:10:52,820
+You're every step I make ...
+
+155
+00:10:54,820 --> 00:10:58,820
+And I ....
+
+156
+00:10:58,820 --> 00:11:08,820
+I want to share all my love with you ...
+
+157
+00:11:09,820 --> 00:11:14,820
+No one else will do ...
+
+158
+00:11:14,820 --> 00:11:18,820
+And your eyes ...
+
+159
+00:11:18,820 --> 00:11:24,820
+They tell me how much you care ...
+
+160
+00:11:24,820 --> 00:11:27,820
+(Music)
+
+161
+00:11:29,820 --> 00:11:31,820
+So, this is remix, right?
+
+162
+00:11:31,820 --> 00:11:36,820
+(Applause)
+
+163
+00:11:37,820 --> 00:11:39,820
+And it's important to emphasize that what this is not
+
+164
+00:11:39,820 --> 00:11:42,820
+is not what we call, quote, "piracy."
+
+165
+00:11:42,820 --> 00:11:45,820
+I'm not talking about nor justifying
+
+166
+00:11:45,820 --> 00:11:48,820
+people taking other people's content in wholesale
+
+167
+00:11:48,820 --> 00:11:51,820
+and distributing it without the permission of the copyright owner.
+
+168
+00:11:51,820 --> 00:11:54,820
+I'm talking about people taking and recreating
+
+169
+00:11:54,820 --> 00:11:57,820
+using other people's content, using digital technologies
+
+170
+00:11:58,820 --> 00:12:00,820
+to say things differently.
+
+171
+00:12:00,820 --> 00:12:01,820
+Now, the importance of this
+
+172
+00:12:01,820 --> 00:12:04,820
+is not the technique that you've seen here.
+
+173
+00:12:05,820 --> 00:12:07,820
+Because, of course, every technique that you've seen here
+
+174
+00:12:07,820 --> 00:12:09,820
+is something that television and film producers
+
+175
+00:12:09,820 --> 00:12:11,820
+have been able to do for the last 50 years.
+
+176
+00:12:11,820 --> 00:12:15,820
+The importance is that that technique has been democratized.
+
+177
+00:12:16,820 --> 00:12:20,820
+It is now anybody with access to a $1,500 computer
+
+178
+00:12:21,820 --> 00:12:23,820
+who can take sounds and images from the culture around us
+
+179
+00:12:23,820 --> 00:12:25,820
+and use it to say things differently.
+
+180
+00:12:25,820 --> 00:12:30,820
+These tools of creativity have become tools of speech.
+
+181
+00:12:30,820 --> 00:12:36,820
+It is a literacy for this generation. This is how our kids speak.
+
+182
+00:12:37,820 --> 00:12:42,820
+It is how our kids think. It is what your kids are
+
+183
+00:12:42,820 --> 00:12:46,820
+as they increasingly understand digital technologies
+
+184
+00:12:46,820 --> 00:12:48,820
+and their relationship to themselves.
+
+185
+00:12:49,820 --> 00:12:55,820
+Now, in response to this new use of culture using digital technologies,
+
+186
+00:12:56,820 --> 00:12:59,820
+the law has not greeted this Sousa revival
+
+187
+00:13:00,820 --> 00:13:01,820
+with very much common sense.
+
+188
+00:13:02,820 --> 00:13:05,820
+Instead, the architecture of copyright law
+
+189
+00:13:05,820 --> 00:13:07,820
+and the architecture of digital technologies,
+
+190
+00:13:07,820 --> 00:13:10,820
+as they interact, have produced the presumption
+
+191
+00:13:10,820 --> 00:13:12,820
+that these activities are illegal.
+
+192
+00:13:13,820 --> 00:13:16,820
+Because if copyright law at its core regulates something called copies,
+
+193
+00:13:16,820 --> 00:13:19,820
+then in the digital world the one fact we can't escape
+
+194
+00:13:19,820 --> 00:13:24,820
+is that every single use of culture produces a copy.
+
+195
+00:13:24,820 --> 00:13:27,820
+Every single use therefore requires permission;
+
+196
+00:13:27,820 --> 00:13:30,820
+without permission, you are a trespasser.
+
+197
+00:13:30,820 --> 00:13:32,820
+You're a trespasser with about as much sense
+
+198
+00:13:32,820 --> 00:13:36,820
+as these people were trespassers.
+
+199
+00:13:37,820 --> 00:13:41,820
+Common sense here, though, has not yet revolted
+
+200
+00:13:41,820 --> 00:13:44,820
+in response to this response that the law has offered
+
+201
+00:13:44,820 --> 00:13:47,820
+to these forms of creativity.
+
+202
+00:13:47,820 --> 00:13:48,820
+Instead, what we've seen
+
+203
+00:13:48,820 --> 00:13:51,820
+is something much worse than a revolt.
+
+204
+00:13:52,820 --> 00:13:56,820
+There's a growing extremism that comes from both sides
+
+205
+00:13:56,820 --> 00:13:59,820
+in this debate, in response to this conflict
+
+206
+00:13:59,820 --> 00:14:02,820
+between the law and the use of these technologies.
+
+207
+00:14:02,820 --> 00:14:06,820
+One side builds new technologies, such as one recently announced
+
+208
+00:14:06,820 --> 00:14:09,820
+that will enable them
+
+209
+00:14:09,820 --> 00:14:11,820
+to automatically take down from sites like YouTube
+
+210
+00:14:12,820 --> 00:14:14,820
+any content that has any copyrighted content in it,
+
+211
+00:14:14,820 --> 00:14:16,820
+whether or not there's a judgment of fair use
+
+212
+00:14:17,820 --> 00:14:19,820
+that might be applied to the use of that content.
+
+213
+00:14:19,820 --> 00:14:22,820
+And on the other side, among our kids,
+
+214
+00:14:22,820 --> 00:14:25,820
+there's a growing copyright abolitionism,
+
+215
+00:14:26,820 --> 00:14:29,820
+a generation that rejects the very notion
+
+216
+00:14:29,820 --> 00:14:32,820
+of what copyright is supposed to do, rejects copyright
+
+217
+00:14:32,820 --> 00:14:35,820
+and believes that the law is nothing more than an ass
+
+218
+00:14:35,820 --> 00:14:42,820
+to be ignored and to be fought at every opportunity possible.
+
+219
+00:14:42,820 --> 00:14:46,820
+The extremism on one side begets extremism on the other,
+
+220
+00:14:46,820 --> 00:14:50,820
+a fact we should have learned many, many times over,
+
+221
+00:14:50,820 --> 00:14:53,820
+and both extremes in this debate are just wrong.
+
+222
+00:14:54,820 --> 00:14:57,820
+Now, the balance that I try to fight for,
+
+223
+00:14:58,820 --> 00:15:00,820
+I, as any good liberal, try to fight for first
+
+224
+00:15:00,820 --> 00:15:04,820
+by looking to the government. Total mistake, right?
+
+225
+00:15:04,820 --> 00:15:05,820
+(Laughter)
+
+226
+00:15:05,820 --> 00:15:08,820
+Looked first to the courts and the legislatures to try to get them
+
+227
+00:15:08,820 --> 00:15:10,820
+to do something to make the system make more sense.
+
+228
+00:15:10,820 --> 00:15:14,820
+It failed partly because the courts are too passive,
+
+229
+00:15:14,820 --> 00:15:16,820
+partly because the legislatures are corrupted,
+
+230
+00:15:16,820 --> 00:15:18,820
+by which I don't mean that there's bribery
+
+231
+00:15:19,820 --> 00:15:22,820
+operating to stop real change,
+
+232
+00:15:22,820 --> 00:15:26,820
+but more the economy of influence that governs how Congress functions
+
+233
+00:15:26,820 --> 00:15:30,820
+means that policymakers here will not understand this
+
+234
+00:15:30,820 --> 00:15:32,820
+until it's too late to fix it.
+
+235
+00:15:32,820 --> 00:15:36,820
+So, we need something different, we need a different kind of solution.
+
+236
+00:15:36,820 --> 00:15:39,820
+And the solution here, in my view, is a private solution,
+
+237
+00:15:40,820 --> 00:15:44,820
+a solution that looks to legalize what it is to be young again,
+
+238
+00:15:44,820 --> 00:15:46,820
+and to realize the economic potential of that,
+
+239
+00:15:46,820 --> 00:15:50,820
+and that's where the story of BMI becomes relevant.
+
+240
+00:15:50,820 --> 00:15:53,820
+Because, as BMI demonstrated, competition here
+
+241
+00:15:53,820 --> 00:15:58,820
+can achieve some form of balance. The same thing can happen now.
+
+242
+00:15:58,820 --> 00:16:01,820
+We don't have a public domain to draw upon now,
+
+243
+00:16:01,820 --> 00:16:04,820
+so instead what we need is two types of changes.
+
+244
+00:16:04,820 --> 00:16:08,820
+First, that artists and creators embrace the idea,
+
+245
+00:16:08,820 --> 00:16:12,820
+choose that their work be made available more freely.
+
+246
+00:16:12,820 --> 00:16:15,820
+So, for example, they can say their work is available freely
+
+247
+00:16:15,820 --> 00:16:17,820
+for non-commercial, this amateur-type of use,
+
+248
+00:16:17,820 --> 00:16:19,820
+but not freely for any commercial use.
+
+249
+00:16:19,820 --> 00:16:22,820
+And second, we need the businesses
+
+250
+00:16:22,820 --> 00:16:25,820
+that are building out this read-write culture
+
+251
+00:16:25,820 --> 00:16:30,820
+to embrace this opportunity expressly, to enable it,
+
+252
+00:16:30,820 --> 00:16:35,820
+so that this ecology of free content, or freer content,
+
+253
+00:16:35,820 --> 00:16:37,820
+can grow on a neutral platform
+
+254
+00:16:37,820 --> 00:16:40,820
+where they both exist simultaneously,
+
+255
+00:16:40,820 --> 00:16:45,820
+so that more-free can compete with less-free,
+
+256
+00:16:45,820 --> 00:16:49,820
+and the opportunity to develop the creativity in that competition
+
+257
+00:16:49,820 --> 00:16:52,820
+can teach one the lessons of the other.
+
+258
+00:16:52,820 --> 00:16:56,820
+Now, I would talk about one particular such plan
+
+259
+00:16:56,820 --> 00:16:57,820
+that I know something about,
+
+260
+00:16:57,820 --> 00:17:00,820
+but I don't want to violate TED's first commandment of selling,
+
+261
+00:17:00,820 --> 00:17:02,820
+so I'm not going to talk about this at all.
+
+262
+00:17:02,820 --> 00:17:08,820
+I'm instead just going to remind you of the point that BMI teaches us.
+
+263
+00:17:09,820 --> 00:17:14,820
+That artist choice is the key for new technology
+
+264
+00:17:14,820 --> 00:17:17,820
+having an opportunity to be open for business,
+
+265
+00:17:17,820 --> 00:17:20,820
+and we need to build artist choice here
+
+266
+00:17:20,820 --> 00:17:23,820
+if these new technologies are to have that opportunity.
+
+267
+00:17:23,820 --> 00:17:26,820
+But let me end with something I think much more important --
+
+268
+00:17:26,820 --> 00:17:27,820
+much more important than business.
+
+269
+00:17:28,820 --> 00:17:30,820
+It's the point about how this connects to our kids.
+
+270
+00:17:31,820 --> 00:17:36,820
+We have to recognize they're different from us. This is us, right?
+
+271
+00:17:36,820 --> 00:17:37,820
+(Laughter)
+
+272
+00:17:37,820 --> 00:17:39,820
+We made mixed tapes; they remix music.
+
+273
+00:17:39,820 --> 00:17:42,820
+We watched TV; they make TV.
+
+274
+00:17:42,820 --> 00:17:45,820
+It is technology that has made them different,
+
+275
+00:17:46,820 --> 00:17:48,820
+and as we see what this technology can do,
+
+276
+00:17:48,820 --> 00:17:50,820
+we need to recognize you can't kill
+
+277
+00:17:51,820 --> 00:17:55,820
+the instinct the technology produces. We can only criminalize it.
+
+278
+00:17:55,820 --> 00:17:57,820
+We can't stop our kids from using it.
+
+279
+00:17:57,820 --> 00:17:59,820
+We can only drive it underground.
+
+280
+00:17:59,820 --> 00:18:02,820
+We can't make our kids passive again.
+
+281
+00:18:02,820 --> 00:18:06,820
+We can only make them, quote, "pirates." And is that good?
+
+282
+00:18:07,820 --> 00:18:11,820
+We live in this weird time. It's kind of age of prohibitions,
+
+283
+00:18:11,820 --> 00:18:13,820
+where in many areas of our life,
+
+284
+00:18:13,820 --> 00:18:16,820
+we live life constantly against the law.
+
+285
+00:18:16,820 --> 00:18:18,820
+Ordinary people live life against the law,
+
+286
+00:18:18,820 --> 00:18:21,820
+and that's what I -- we are doing to our kids.
+
+287
+00:18:22,820 --> 00:18:25,820
+They live life knowing they live it against the law.
+
+288
+00:18:26,820 --> 00:18:30,820
+That realization is extraordinarily corrosive,
+
+289
+00:18:30,820 --> 00:18:32,820
+extraordinarily corrupting.
+
+290
+00:18:33,820 --> 00:18:37,820
+And in a democracy, we ought to be able to do better.
+
+291
+00:18:37,820 --> 00:18:43,820
+Do better, at least for them, if not for opening for business.
+
+292
+00:18:44,820 --> 00:18:45,820
+Thank you very much.
+
+293
+00:18:45,820 --> 00:18:51,820
+(Applause)
+

@@ -1,0 +1,924 @@
+﻿1
+00:00:12,239 --> 00:00:14,585
+One day in 1819,
+
+2
+00:00:14,585 --> 00:00:17,344
+3,000 miles off the coast of Chile,
+
+3
+00:00:17,344 --> 00:00:20,274
+in one of the most remote regions of the Pacific Ocean,
+
+4
+00:00:20,274 --> 00:00:24,314
+20 American sailors watched their ship flood with seawater.
+
+5
+00:00:24,314 --> 00:00:26,494
+They'd been struck by a sperm whale, which had ripped
+
+6
+00:00:26,494 --> 00:00:29,395
+a catastrophic hole in the ship's hull.
+
+7
+00:00:29,395 --> 00:00:31,724
+As their ship began to sink beneath the swells,
+
+8
+00:00:31,724 --> 00:00:36,037
+the men huddled together in three small whaleboats.
+
+9
+00:00:36,037 --> 00:00:38,300
+These men were 10,000 miles from home,
+
+10
+00:00:38,300 --> 00:00:41,523
+more than 1,000 miles from the nearest scrap of land.
+
+11
+00:00:41,523 --> 00:00:43,727
+In their small boats, they carried only
+
+12
+00:00:43,727 --> 00:00:45,293
+rudimentary navigational equipment
+
+13
+00:00:45,293 --> 00:00:48,941
+and limited supplies of food and water.
+
+14
+00:00:48,941 --> 00:00:51,145
+These were the men of the whaleship Essex,
+
+15
+00:00:51,145 --> 00:00:53,800
+whose story would later inspire parts of "Moby Dick."
+
+16
+00:00:53,800 --> 00:00:56,749
+Even in today's world, their situation would be really dire,
+
+17
+00:00:56,749 --> 00:00:58,675
+but think about how much worse it would have been then.
+
+18
+00:00:58,675 --> 00:01:01,900
+No one on land had any idea that anything had gone wrong.
+
+19
+00:01:01,900 --> 00:01:04,812
+No search party was coming to look for these men.
+
+20
+00:01:04,812 --> 00:01:07,674
+So most of us have never experienced a situation
+
+21
+00:01:07,674 --> 00:01:11,177
+as frightening as the one in which these sailors found themselves,
+
+22
+00:01:11,177 --> 00:01:13,044
+but we all know what it's like to be afraid.
+
+23
+00:01:13,044 --> 00:01:15,338
+We know how fear feels,
+
+24
+00:01:15,338 --> 00:01:17,442
+but I'm not sure we spend enough time thinking about
+
+25
+00:01:17,442 --> 00:01:19,087
+what our fears mean.
+
+26
+00:01:19,087 --> 00:01:21,924
+As we grow up, we're often encouraged to think of fear
+
+27
+00:01:21,924 --> 00:01:24,837
+as a weakness, just another childish thing to discard
+
+28
+00:01:24,837 --> 00:01:27,655
+like baby teeth or roller skates.
+
+29
+00:01:27,655 --> 00:01:30,150
+And I think it's no accident that we think this way.
+
+30
+00:01:30,150 --> 00:01:32,757
+Neuroscientists have actually shown that human beings
+
+31
+00:01:32,757 --> 00:01:35,496
+are hard-wired to be optimists.
+
+32
+00:01:35,496 --> 00:01:38,279
+So maybe that's why we think of fear, sometimes,
+
+33
+00:01:38,279 --> 00:01:40,257
+as a danger in and of itself.
+
+34
+00:01:40,257 --> 00:01:43,254
+"Don't worry," we like to say to one another. "Don't panic."
+
+35
+00:01:43,254 --> 00:01:45,903
+In English, fear is something we conquer.
+
+36
+00:01:45,903 --> 00:01:49,736
+It's something we fight. It's something we overcome.
+
+37
+00:01:49,736 --> 00:01:51,941
+But what if we looked at fear in a fresh way?
+
+38
+00:01:51,941 --> 00:01:56,084
+What if we thought of fear as an amazing act of the imagination,
+
+39
+00:01:56,084 --> 00:01:58,462
+something that can be as profound and insightful
+
+40
+00:01:58,462 --> 00:02:01,116
+as storytelling itself?
+
+41
+00:02:01,116 --> 00:02:03,709
+It's easiest to see this link between fear and the imagination
+
+42
+00:02:03,709 --> 00:02:06,988
+in young children, whose fears are often extraordinarily vivid.
+
+43
+00:02:06,988 --> 00:02:09,269
+When I was a child, I lived in California,
+
+44
+00:02:09,269 --> 00:02:11,958
+which is, you know, mostly a very nice place to live,
+
+45
+00:02:11,958 --> 00:02:15,966
+but for me as a child, California could also be a little scary.
+
+46
+00:02:15,966 --> 00:02:19,007
+I remember how frightening it was to see the chandelier
+
+47
+00:02:19,007 --> 00:02:21,440
+that hung above our dining table swing back and forth
+
+48
+00:02:21,440 --> 00:02:23,615
+during every minor earthquake,
+
+49
+00:02:23,615 --> 00:02:25,918
+and I sometimes couldn't sleep at night, terrified
+
+50
+00:02:25,918 --> 00:02:28,439
+that the Big One might strike while we were sleeping.
+
+51
+00:02:28,439 --> 00:02:31,311
+And what we say about kids who have fears like that
+
+52
+00:02:31,311 --> 00:02:34,539
+is that they have a vivid imagination.
+
+53
+00:02:34,539 --> 00:02:36,929
+But at a certain point, most of us learn
+
+54
+00:02:36,929 --> 00:02:39,815
+to leave these kinds of visions behind and grow up.
+
+55
+00:02:39,815 --> 00:02:42,572
+We learn that there are no monsters hiding under the bed,
+
+56
+00:02:42,572 --> 00:02:45,552
+and not every earthquake brings buildings down.
+
+57
+00:02:45,552 --> 00:02:48,960
+But maybe it's no coincidence that some of our most creative minds
+
+58
+00:02:48,960 --> 00:02:52,071
+fail to leave these kinds of fears behind as adults.
+
+59
+00:02:52,071 --> 00:02:55,932
+The same incredible imaginations that produced "The Origin of Species,"
+
+60
+00:02:55,932 --> 00:02:58,789
+"Jane Eyre" and "The Remembrance of Things Past,"
+
+61
+00:02:58,789 --> 00:03:02,128
+also generated intense worries that haunted the adult lives
+
+62
+00:03:02,128 --> 00:03:06,584
+of Charles Darwin, Charlotte BrontĂŤ and Marcel Proust.
+
+63
+00:03:06,584 --> 00:03:09,513
+So the question is, what can the rest of us learn about fear
+
+64
+00:03:09,513 --> 00:03:12,817
+from visionaries and young children?
+
+65
+00:03:12,817 --> 00:03:15,677
+Well let's return to the year 1819 for a moment,
+
+66
+00:03:15,677 --> 00:03:19,364
+to the situation facing the crew of the whaleship Essex.
+
+67
+00:03:19,364 --> 00:03:21,483
+Let's take a look at the fears that their imaginations
+
+68
+00:03:21,483 --> 00:03:25,239
+were generating as they drifted in the middle of the Pacific.
+
+69
+00:03:25,239 --> 00:03:28,788
+Twenty-four hours had now passed since the capsizing of the ship.
+
+70
+00:03:28,788 --> 00:03:31,491
+The time had come for the men to make a plan,
+
+71
+00:03:31,491 --> 00:03:34,217
+but they had very few options.
+
+72
+00:03:34,217 --> 00:03:36,648
+In his fascinating account of the disaster,
+
+73
+00:03:36,648 --> 00:03:39,388
+Nathaniel Philbrick wrote that these men were just about
+
+74
+00:03:39,388 --> 00:03:43,788
+as far from land as it was possible to be anywhere on Earth.
+
+75
+00:03:43,788 --> 00:03:46,088
+The men knew that the nearest islands they could reach
+
+76
+00:03:46,088 --> 00:03:49,864
+were the Marquesas Islands, 1,200 miles away.
+
+77
+00:03:49,864 --> 00:03:52,386
+But they'd heard some frightening rumors.
+
+78
+00:03:52,386 --> 00:03:54,064
+They'd been told that these islands,
+
+79
+00:03:54,064 --> 00:03:58,308
+and several others nearby, were populated by cannibals.
+
+80
+00:03:58,308 --> 00:04:00,684
+So the men pictured coming ashore only to be murdered
+
+81
+00:04:00,684 --> 00:04:02,325
+and eaten for dinner.
+
+82
+00:04:02,325 --> 00:04:05,077
+Another possible destination was Hawaii,
+
+83
+00:04:05,077 --> 00:04:06,949
+but given the season, the captain was afraid
+
+84
+00:04:06,949 --> 00:04:10,170
+they'd be struck by severe storms.
+
+85
+00:04:10,170 --> 00:04:13,962
+Now the last option was the longest, and the most difficult:
+
+86
+00:04:13,962 --> 00:04:17,586
+to sail 1,500 miles due south in hopes of reaching
+
+87
+00:04:17,586 --> 00:04:19,475
+a certain band of winds that could eventually
+
+88
+00:04:19,475 --> 00:04:21,739
+push them toward the coast of South America.
+
+89
+00:04:21,739 --> 00:04:24,460
+But they knew that the sheer length of this journey
+
+90
+00:04:24,460 --> 00:04:27,971
+would stretch their supplies of food and water.
+
+91
+00:04:27,971 --> 00:04:31,377
+To be eaten by cannibals, to be battered by storms,
+
+92
+00:04:31,377 --> 00:04:34,738
+to starve to death before reaching land.
+
+93
+00:04:34,738 --> 00:04:38,130
+These were the fears that danced in the imaginations of these poor men,
+
+94
+00:04:38,130 --> 00:04:41,029
+and as it turned out, the fear they chose to listen to
+
+95
+00:04:41,029 --> 00:04:43,683
+would govern whether they lived or died.
+
+96
+00:04:43,683 --> 00:04:47,893
+Now we might just as easily call these fears by a different name.
+
+97
+00:04:47,893 --> 00:04:50,171
+What if instead of calling them fears,
+
+98
+00:04:50,171 --> 00:04:51,782
+we called them stories?
+
+99
+00:04:51,782 --> 00:04:54,015
+Because that's really what fear is, if you think about it.
+
+100
+00:04:54,015 --> 00:04:57,075
+It's a kind of unintentional storytelling
+
+101
+00:04:57,075 --> 00:05:00,005
+that we are all born knowing how to do.
+
+102
+00:05:00,005 --> 00:05:02,768
+And fears and storytelling have the same components.
+
+103
+00:05:02,768 --> 00:05:04,633
+They have the same architecture.
+
+104
+00:05:04,633 --> 00:05:07,310
+Like all stories, fears have characters.
+
+105
+00:05:07,310 --> 00:05:09,733
+In our fears, the characters are us.
+
+106
+00:05:09,733 --> 00:05:14,035
+Fears also have plots. They have beginnings and middles and ends.
+
+107
+00:05:14,035 --> 00:05:18,151
+You board the plane. The plane takes off. The engine fails.
+
+108
+00:05:18,151 --> 00:05:20,719
+Our fears also tend to contain imagery that can be
+
+109
+00:05:20,719 --> 00:05:24,068
+every bit as vivid as what you might find in the pages of a novel.
+
+110
+00:05:24,068 --> 00:05:27,024
+Picture a cannibal, human teeth
+
+111
+00:05:27,024 --> 00:05:29,231
+sinking into human skin,
+
+112
+00:05:29,231 --> 00:05:32,285
+human flesh roasting over a fire.
+
+113
+00:05:32,285 --> 00:05:35,021
+Fears also have suspense.
+
+114
+00:05:35,021 --> 00:05:37,311
+If I've done my job as a storyteller today,
+
+115
+00:05:37,311 --> 00:05:38,819
+you should be wondering what happened
+
+116
+00:05:38,819 --> 00:05:40,920
+to the men of the whaleship Essex.
+
+117
+00:05:40,920 --> 00:05:45,165
+Our fears provoke in us a very similar form of suspense.
+
+118
+00:05:45,165 --> 00:05:48,718
+Just like all great stories, our fears focus our attention
+
+119
+00:05:48,718 --> 00:05:52,657
+on a question that is as important in life as it is in literature:
+
+120
+00:05:52,657 --> 00:05:55,414
+What will happen next?
+
+121
+00:05:55,414 --> 00:05:58,118
+In other words, our fears make us think about the future.
+
+122
+00:05:58,118 --> 00:06:00,136
+And humans, by the way, are the only creatures capable
+
+123
+00:06:00,136 --> 00:06:01,806
+of thinking about the future in this way,
+
+124
+00:06:01,806 --> 00:06:04,697
+of projecting ourselves forward in time,
+
+125
+00:06:04,697 --> 00:06:07,109
+and this mental time travel is just one more thing
+
+126
+00:06:07,109 --> 00:06:10,731
+that fears have in common with storytelling.
+
+127
+00:06:10,731 --> 00:06:13,224
+As a writer, I can tell you that a big part of writing fiction
+
+128
+00:06:13,224 --> 00:06:15,107
+is learning to predict how one event in a story
+
+129
+00:06:15,107 --> 00:06:16,851
+will affect all the other events,
+
+130
+00:06:16,851 --> 00:06:18,900
+and fear works in that same way.
+
+131
+00:06:18,900 --> 00:06:24,077
+In fear, just like in fiction, one thing always leads to another.
+
+132
+00:06:24,077 --> 00:06:26,723
+When I was writing my first novel, "The Age Of Miracles,"
+
+133
+00:06:26,723 --> 00:06:29,684
+I spent months trying to figure out what would happen
+
+134
+00:06:29,684 --> 00:06:32,873
+if the rotation of the Earth suddenly began to slow down.
+
+135
+00:06:32,873 --> 00:06:35,765
+What would happen to our days? What would happen to our crops?
+
+136
+00:06:35,765 --> 00:06:37,808
+What would happen to our minds?
+
+137
+00:06:37,808 --> 00:06:40,914
+And then it was only later that I realized how very similar
+
+138
+00:06:40,914 --> 00:06:43,035
+these questions were to the ones I used to ask myself
+
+139
+00:06:43,035 --> 00:06:45,272
+as a child frightened in the night.
+
+140
+00:06:45,272 --> 00:06:47,803
+If an earthquake strikes tonight, I used to worry,
+
+141
+00:06:47,803 --> 00:06:51,669
+what will happen to our house? What will happen to my family?
+
+142
+00:06:51,669 --> 00:06:56,369
+And the answer to those questions always took the form of a story.
+
+143
+00:06:56,369 --> 00:06:58,872
+So if we think of our fears as more than just fears
+
+144
+00:06:58,872 --> 00:07:01,799
+but as stories, we should think of ourselves
+
+145
+00:07:01,799 --> 00:07:04,030
+as the authors of those stories.
+
+146
+00:07:04,030 --> 00:07:05,992
+But just as importantly, we need to think of ourselves
+
+147
+00:07:05,992 --> 00:07:08,496
+as the readers of our fears, and how we choose
+
+148
+00:07:08,496 --> 00:07:12,831
+to read our fears can have a profound effect on our lives.
+
+149
+00:07:12,831 --> 00:07:15,832
+Now, some of us naturally read our fears more closely than others.
+
+150
+00:07:15,832 --> 00:07:18,753
+I read about a study recently of successful entrepreneurs,
+
+151
+00:07:18,753 --> 00:07:21,379
+and the author found that these people shared a habit
+
+152
+00:07:21,379 --> 00:07:24,738
+that he called "productive paranoia," which meant that
+
+153
+00:07:24,738 --> 00:07:27,259
+these people, instead of dismissing their fears,
+
+154
+00:07:27,259 --> 00:07:29,922
+these people read them closely, they studied them,
+
+155
+00:07:29,922 --> 00:07:33,522
+and then they translated that fear into preparation and action.
+
+156
+00:07:33,522 --> 00:07:35,439
+So that way, if their worst fears came true,
+
+157
+00:07:35,439 --> 00:07:37,517
+their businesses were ready.
+
+158
+00:07:37,517 --> 00:07:41,868
+And sometimes, of course, our worst fears do come true.
+
+159
+00:07:41,868 --> 00:07:45,027
+That's one of the things that is so extraordinary about fear.
+
+160
+00:07:45,027 --> 00:07:49,949
+Once in a while, our fears can predict the future.
+
+161
+00:07:49,949 --> 00:07:53,344
+But we can't possibly prepare for all of the fears
+
+162
+00:07:53,344 --> 00:07:55,742
+that our imaginations concoct.
+
+163
+00:07:55,742 --> 00:07:57,726
+So how can we tell the difference between
+
+164
+00:07:57,726 --> 00:08:01,546
+the fears worth listening to and all the others?
+
+165
+00:08:01,546 --> 00:08:04,023
+I think the end of the story of the whaleship Essex
+
+166
+00:08:04,023 --> 00:08:08,306
+offers an illuminating, if tragic, example.
+
+167
+00:08:08,306 --> 00:08:13,033
+After much deliberation, the men finally made a decision.
+
+168
+00:08:13,033 --> 00:08:16,906
+Terrified of cannibals, they decided to forgo the closest islands
+
+169
+00:08:16,906 --> 00:08:19,233
+and instead embarked on the longer
+
+170
+00:08:19,233 --> 00:08:22,360
+and much more difficult route to South America.
+
+171
+00:08:22,360 --> 00:08:25,830
+After more than two months at sea, the men ran out of food
+
+172
+00:08:25,830 --> 00:08:26,909
+as they knew they might,
+
+173
+00:08:26,909 --> 00:08:29,604
+and they were still quite far from land.
+
+174
+00:08:29,604 --> 00:08:32,491
+When the last of the survivors were finally picked up
+
+175
+00:08:32,491 --> 00:08:36,977
+by two passing ships, less than half of the men were left alive,
+
+176
+00:08:36,977 --> 00:08:41,880
+and some of them had resorted to their own form of cannibalism.
+
+177
+00:08:41,880 --> 00:08:45,243
+Herman Melville, who used this story as research for "Moby Dick,"
+
+178
+00:08:45,243 --> 00:08:49,123
+wrote years later, and from dry land, quote,
+
+179
+00:08:49,123 --> 00:08:51,747
+"All the sufferings of these miserable men of the Essex
+
+180
+00:08:51,747 --> 00:08:54,436
+might in all human probability have been avoided
+
+181
+00:08:54,436 --> 00:08:57,003
+had they, immediately after leaving the wreck,
+
+182
+00:08:57,003 --> 00:08:58,884
+steered straight for Tahiti.
+
+183
+00:08:58,884 --> 00:09:03,449
+But," as Melville put it, "they dreaded cannibals."
+
+184
+00:09:03,449 --> 00:09:06,495
+So the question is, why did these men dread cannibals
+
+185
+00:09:06,495 --> 00:09:10,684
+so much more than the extreme likelihood of starvation?
+
+186
+00:09:10,684 --> 00:09:12,551
+Why were they swayed by one story
+
+187
+00:09:12,551 --> 00:09:15,190
+so much more than the other?
+
+188
+00:09:15,190 --> 00:09:16,712
+Looked at from this angle,
+
+189
+00:09:16,712 --> 00:09:20,011
+theirs becomes a story about reading.
+
+190
+00:09:20,011 --> 00:09:22,667
+The novelist Vladimir Nabokov said that the best reader
+
+191
+00:09:22,667 --> 00:09:25,466
+has a combination of two very different temperaments,
+
+192
+00:09:25,466 --> 00:09:28,316
+the artistic and the scientific.
+
+193
+00:09:28,316 --> 00:09:30,820
+A good reader has an artist's passion,
+
+194
+00:09:30,820 --> 00:09:33,243
+a willingness to get caught up in the story,
+
+195
+00:09:33,243 --> 00:09:35,354
+but just as importantly, the readers also needs
+
+196
+00:09:35,354 --> 00:09:38,565
+the coolness of judgment of a scientist,
+
+197
+00:09:38,565 --> 00:09:40,056
+which acts to temper and complicate
+
+198
+00:09:40,056 --> 00:09:43,454
+the reader's intuitive reactions to the story.
+
+199
+00:09:43,454 --> 00:09:46,659
+As we've seen, the men of the Essex had no trouble with the artistic part.
+
+200
+00:09:46,659 --> 00:09:50,299
+They dreamed up a variety of horrifying scenarios.
+
+201
+00:09:50,299 --> 00:09:54,288
+The problem was that they listened to the wrong story.
+
+202
+00:09:54,288 --> 00:09:56,412
+Of all the narratives their fears wrote,
+
+203
+00:09:56,412 --> 00:10:00,063
+they responded only to the most lurid, the most vivid,
+
+204
+00:10:00,063 --> 00:10:03,282
+the one that was easiest for their imaginations to picture:
+
+205
+00:10:03,282 --> 00:10:05,233
+cannibals.
+
+206
+00:10:05,233 --> 00:10:07,514
+But perhaps if they'd been able to read their fears
+
+207
+00:10:07,514 --> 00:10:10,995
+more like a scientist, with more coolness of judgment,
+
+208
+00:10:10,995 --> 00:10:13,755
+they would have listened instead to the less violent
+
+209
+00:10:13,755 --> 00:10:17,043
+but the more likely tale, the story of starvation,
+
+210
+00:10:17,043 --> 00:10:22,623
+and headed for Tahiti, just as Melville's sad commentary suggests.
+
+211
+00:10:22,623 --> 00:10:25,491
+And maybe if we all tried to read our fears,
+
+212
+00:10:25,491 --> 00:10:27,468
+we too would be less often swayed
+
+213
+00:10:27,468 --> 00:10:29,344
+by the most salacious among them.
+
+214
+00:10:29,344 --> 00:10:31,012
+Maybe then we'd spend less time worrying about
+
+215
+00:10:31,012 --> 00:10:33,200
+serial killers and plane crashes,
+
+216
+00:10:33,200 --> 00:10:35,066
+and more time concerned with the subtler
+
+217
+00:10:35,066 --> 00:10:37,120
+and slower disasters we face:
+
+218
+00:10:37,120 --> 00:10:39,868
+the silent buildup of plaque in our arteries,
+
+219
+00:10:39,868 --> 00:10:42,411
+the gradual changes in our climate.
+
+220
+00:10:42,411 --> 00:10:46,060
+Just as the most nuanced stories in literature are often the richest,
+
+221
+00:10:46,060 --> 00:10:50,508
+so too might our subtlest fears be the truest.
+
+222
+00:10:50,508 --> 00:10:53,405
+Read in the right way, our fears are an amazing gift
+
+223
+00:10:53,405 --> 00:10:56,337
+of the imagination, a kind of everyday clairvoyance,
+
+224
+00:10:56,337 --> 00:10:58,572
+a way of glimpsing what might be the future
+
+225
+00:10:58,572 --> 00:11:02,007
+when there's still time to influence how that future will play out.
+
+226
+00:11:02,007 --> 00:11:05,403
+Properly read, our fears can offer us something as precious
+
+227
+00:11:05,403 --> 00:11:07,560
+as our favorite works of literature:
+
+228
+00:11:07,560 --> 00:11:10,605
+a little wisdom, a bit of insight
+
+229
+00:11:10,605 --> 00:11:13,179
+and a version of that most elusive thing --
+
+230
+00:11:13,179 --> 00:11:14,430
+the truth.
+
+231
+00:11:14,430 --> 00:11:19,461
+Thank you. (Applause)
+

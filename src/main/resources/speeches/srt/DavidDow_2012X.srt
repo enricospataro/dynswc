@@ -1,0 +1,1585 @@
+﻿1
+00:00:13,387 --> 00:00:15,280
+Two weeks ago,
+
+2
+00:00:15,280 --> 00:00:17,387
+I was sitting at the
+
+3
+00:00:17,387 --> 00:00:20,387
+kitchen table with my wife Katya,
+
+4
+00:00:20,387 --> 00:00:25,253
+and we were talking about what I was gonna talk about today.
+
+5
+00:00:25,253 --> 00:00:30,280
+We have an 11-year-old son; his name is Lincoln. He was sitting at the same table
+
+6
+00:00:30,280 --> 00:00:32,973
+doing his math homework.
+
+7
+00:00:32,973 --> 00:00:34,390
+And during a pause in my conversation
+
+8
+00:00:35,574 --> 00:00:38,087
+with Katya, I looked over at Lincoln
+
+9
+00:00:38,087 --> 00:00:39,953
+and I was suddenly thunderstruck
+
+10
+00:00:41,987 --> 00:00:45,453
+by a recollection of a client of mine.
+
+11
+00:00:45,453 --> 00:00:48,345
+My client was a guy named Will.
+
+12
+00:00:48,345 --> 00:00:50,263
+He was from North Texas.
+
+13
+00:00:50,263 --> 00:00:55,359
+He never knew his father very well, because his father left
+
+14
+00:00:55,359 --> 00:00:59,053
+his mom while she was pregnant with him.
+
+15
+00:00:59,053 --> 00:01:03,420
+And so, he was destined to be raised by a single mom,
+
+16
+00:01:03,420 --> 00:01:04,987
+which might have been all right
+
+17
+00:01:04,987 --> 00:01:07,153
+except that this particular single mom
+
+18
+00:01:07,153 --> 00:01:10,474
+was a paranoid schizophrenic,
+
+19
+00:01:10,474 --> 00:01:15,087
+and when Will was five years old she
+tried to kill him with a butcher knife.
+
+20
+00:01:15,087 --> 00:01:17,020
+She was
+
+21
+00:01:17,020 --> 00:01:21,155
+taken away by authorities and placed in a
+psychiatric hospital,
+
+22
+00:01:21,155 --> 00:01:24,887
+and so for the next several years Will
+lived with his older brother
+
+23
+00:01:24,887 --> 00:01:27,772
+until he committed suicide by shooting
+himself through the heart.
+
+24
+00:01:27,772 --> 00:01:30,853
+And after that
+
+25
+00:01:30,853 --> 00:01:33,887
+Will bounced around from one family
+member to another,
+
+26
+00:01:33,887 --> 00:01:39,220
+until, by the time he was nine years old,
+he was essentially living on his own.
+
+27
+00:01:39,220 --> 00:01:43,608
+That morning that I was sitting with
+Katya and Lincoln, I looked at my son,
+
+28
+00:01:43,608 --> 00:01:47,653
+and I realized that when my client, Will,
+
+29
+00:01:47,653 --> 00:01:49,720
+was his age,
+
+30
+00:01:49,720 --> 00:01:53,753
+he'd been living by himself for two years.
+
+31
+00:01:53,753 --> 00:01:56,333
+Will eventually joined a gang
+
+32
+00:01:56,333 --> 00:01:57,680
+and committed
+
+33
+00:01:57,680 --> 00:02:00,620
+a number of very serious crimes,
+
+34
+00:02:00,620 --> 00:02:03,453
+including, most seriously of all,
+
+35
+00:02:03,453 --> 00:02:05,749
+a horrible, tragic murder.
+
+36
+00:02:05,749 --> 00:02:11,320
+And Will was ultimately executed
+
+37
+00:02:11,320 --> 00:02:13,253
+as punishment for that crime.
+
+38
+00:02:13,253 --> 00:02:16,256
+But I don't want to
+
+39
+00:02:16,256 --> 00:02:17,928
+talk today
+
+40
+00:02:17,928 --> 00:02:22,177
+about the morality of capital punishment. I certainly think that my client
+
+41
+00:02:22,177 --> 00:02:27,187
+shouldn't have been executed, but what I would like to do today instead
+
+42
+00:02:27,187 --> 00:02:30,072
+is talk about the death penalty
+
+43
+00:02:30,072 --> 00:02:32,620
+in a way I've never done before,
+
+44
+00:02:32,828 --> 00:02:33,920
+in a way
+
+45
+00:02:33,920 --> 00:02:36,453
+that is entirely noncontroversial.
+
+46
+00:02:36,453 --> 00:02:39,336
+I think that's possible,
+
+47
+00:02:39,336 --> 00:02:42,053
+because there is a corner
+
+48
+00:02:42,053 --> 00:02:43,934
+of the death penalty debate --
+
+49
+00:02:43,934 --> 00:02:45,720
+maybe the most important corner --
+
+50
+00:02:45,720 --> 00:02:48,903
+where everybody agrees,
+
+51
+00:02:48,903 --> 00:02:52,853
+where the most ardent death penalty supporters
+
+52
+00:02:52,889 --> 00:02:56,867
+and the most vociferous abolitionists
+
+53
+00:02:56,867 --> 00:02:59,770
+are on exactly the same page.
+
+54
+00:02:59,770 --> 00:03:03,485
+That's the corner I want to explore.
+
+55
+00:03:03,485 --> 00:03:07,572
+Before I do that, though, I want to spend a couple of minutes telling you how a death
+
+56
+00:03:07,572 --> 00:03:09,587
+penalty case unfolds,
+
+57
+00:03:09,587 --> 00:03:15,025
+and then I want to tell you two lessons that I have learned over the last 20 years
+
+58
+00:03:15,025 --> 00:03:17,387
+as a death penalty lawyer,
+
+59
+00:03:17,387 --> 00:03:22,287
+from watching well more than a hundred cases unfold in this way.
+
+60
+00:03:22,287 --> 00:03:26,120
+You can think of a death penalty case as
+a story
+
+61
+00:03:26,120 --> 00:03:28,287
+that has four chapters.
+
+62
+00:03:28,287 --> 00:03:31,553
+The first chapter of every case is exactly the same,
+
+63
+00:03:31,553 --> 00:03:33,439
+and it is tragic.
+
+64
+00:03:33,439 --> 00:03:34,545
+It begins with the murder
+
+65
+00:03:34,545 --> 00:03:37,409
+of an innocent human being,
+
+66
+00:03:37,409 --> 00:03:39,053
+and it's followed by a trial
+
+67
+00:03:39,053 --> 00:03:41,453
+where the murderer is convicted and sent to death row,
+
+68
+00:03:41,453 --> 00:03:43,354
+and that death sentence is ultimately
+
+69
+00:03:43,354 --> 00:03:45,487
+upheld by the state appellate court.
+
+70
+00:03:45,487 --> 00:03:50,413
+The second chapter consists of a
+complicated legal proceeding known as
+
+71
+00:03:50,413 --> 00:03:53,106
+a state habeas corpus appeal.
+
+72
+00:03:53,106 --> 00:03:56,587
+The third chapter is an even more complicated legal proceeding known as a
+
+73
+00:03:56,587 --> 00:03:58,753
+federal habeas corpus proceeding.
+
+74
+00:03:58,753 --> 00:04:00,520
+And the fourth chapter
+
+75
+00:04:00,520 --> 00:04:04,670
+is one where a variety of things can happen. The lawyers might file a clemency petition,
+
+76
+00:04:04,670 --> 00:04:07,804
+they might initiate even more complex
+litigation,
+
+77
+00:04:07,804 --> 00:04:10,153
+or they might not do anything at all.
+
+78
+00:04:10,153 --> 00:04:11,787
+But that fourth chapter always ends
+
+79
+00:04:11,787 --> 00:04:14,087
+with an execution.
+
+80
+00:04:14,087 --> 00:04:18,950
+When I started representing death row
+inmates more than 20 years ago,
+
+81
+00:04:18,950 --> 00:04:22,887
+people on death row did not have a right
+to a lawyer in either the second
+
+82
+00:04:22,887 --> 00:04:25,587
+or the fourth chapter of this story.
+
+83
+00:04:25,587 --> 00:04:27,100
+They were on their own.
+
+84
+00:04:27,100 --> 00:04:30,537
+In fact, it wasn't until the late 1980s that they acquired a
+
+85
+00:04:30,537 --> 00:04:32,743
+right to a lawyer during the third chapter
+
+86
+00:04:32,743 --> 00:04:34,577
+of the story.
+
+87
+00:04:34,577 --> 00:04:37,253
+So what all of these death row inmates had to do
+
+88
+00:04:37,253 --> 00:04:40,253
+was rely on volunteer lawyers
+
+89
+00:04:40,253 --> 00:04:42,449
+to handle their legal proceedings.
+
+90
+00:04:42,449 --> 00:04:45,537
+The problem is that there were way more
+guys on death row
+
+91
+00:04:45,537 --> 00:04:51,053
+than there were lawyers who had both the interest and the expertise to work on these cases.
+
+92
+00:04:51,053 --> 00:04:52,553
+And so inevitably,
+
+93
+00:04:52,553 --> 00:04:56,253
+lawyers drifted to cases that were
+already in chapter four --
+
+94
+00:04:56,253 --> 00:04:59,487
+that makes sense, of course. Those are the
+cases that are most urgent;
+
+95
+00:04:59,487 --> 00:05:02,153
+those are the guys who are closest to being executed.
+
+96
+00:05:02,153 --> 00:05:06,342
+Some of these lawyers were successful; they managed to get new trials for their clients.
+
+97
+00:05:06,342 --> 00:05:10,287
+Others of them managed to extend
+the lives of their clients, sometimes by
+
+98
+00:05:10,287 --> 00:05:12,287
+years, sometimes by months.
+
+99
+00:05:12,287 --> 00:05:14,387
+But the one thing that didn't happen
+
+100
+00:05:14,387 --> 00:05:19,220
+was that there was never a serious and
+sustained decline in the number of
+
+101
+00:05:19,220 --> 00:05:21,620
+annual executions in Texas.
+
+102
+00:05:21,620 --> 00:05:25,387
+In fact, as you can see from this graph,
+from the time that the Texas execution
+
+103
+00:05:25,387 --> 00:05:28,720
+apparatus got efficient in the mid- to
+late-1990s,
+
+104
+00:05:28,720 --> 00:05:33,053
+there've only been a couple of years where
+the number of annual executions dipped
+
+105
+00:05:33,053 --> 00:05:35,220
+below 20.
+
+106
+00:05:35,220 --> 00:05:36,760
+In a typical year in Texas,
+
+107
+00:05:36,760 --> 00:05:39,012
+we're averaging about
+
+108
+00:05:39,012 --> 00:05:40,684
+two people a month.
+
+109
+00:05:40,684 --> 00:05:45,320
+In some years in Texas, we've executed
+close to 40 people, and this number
+
+110
+00:05:45,320 --> 00:05:50,042
+has never significantly declined over
+the last 15 years.
+
+111
+00:05:50,042 --> 00:05:53,687
+And yet, at the same time that we
+continue to execute
+
+112
+00:05:53,687 --> 00:05:55,787
+about the same number of people every
+year,
+
+113
+00:05:55,787 --> 00:05:58,355
+the number of people who we're sentencing
+to death
+
+114
+00:05:58,355 --> 00:05:59,516
+on an annual basis
+
+115
+00:05:59,516 --> 00:06:02,000
+has dropped rather steeply.
+
+116
+00:06:02,000 --> 00:06:03,387
+So we have this paradox,
+
+117
+00:06:03,387 --> 00:06:08,107
+which is that the number of annual
+executions has remained high
+
+118
+00:06:08,107 --> 00:06:12,542
+but the number of new death sentences
+has gone down.
+
+119
+00:06:12,542 --> 00:06:13,820
+Why is that?
+
+120
+00:06:13,820 --> 00:06:16,587
+It can't be attributed to a decline in the murder rate,
+
+121
+00:06:16,587 --> 00:06:18,420
+because the murder rate has not declined
+
+122
+00:06:18,420 --> 00:06:22,687
+nearly so steeply as the red line on
+that graph has gone down.
+
+123
+00:06:22,687 --> 00:06:25,553
+What has happened instead is
+
+124
+00:06:25,553 --> 00:06:29,387
+that juries have started to sentence
+more and more people to prison
+
+125
+00:06:29,387 --> 00:06:32,887
+for the rest of their lives without the
+possibility of parole,
+
+126
+00:06:32,887 --> 00:06:36,203
+rather than sending them to the
+execution chamber.
+
+127
+00:06:36,203 --> 00:06:38,553
+Why has that happened?
+
+128
+00:06:38,553 --> 00:06:42,960
+it hasn't happened because of a
+dissolution of popular support
+
+129
+00:06:42,960 --> 00:06:46,520
+for the death penalty. Death penalty opponents take great solace in the fact
+
+130
+00:06:46,520 --> 00:06:51,180
+that death penalty support in Texas is at
+an all-time low.
+
+131
+00:06:51,180 --> 00:06:53,187
+Do you know what all-time low in Texas
+means?
+
+132
+00:06:53,187 --> 00:06:55,753
+It means that it's in the low 60 percent.
+
+133
+00:06:55,753 --> 00:06:59,487
+Now that's really good compared to the
+mid 1980s, when it was in
+
+134
+00:06:59,487 --> 00:07:01,211
+excess of 80 percent,
+
+135
+00:07:01,211 --> 00:07:05,620
+but we can't explain the decline in
+death sentences and the affinity for
+
+136
+00:07:05,620 --> 00:07:09,487
+life without the possibility of parole
+by an erosion of support for the death
+
+137
+00:07:09,487 --> 00:07:11,953
+penalty, because people still support the
+death penalty.
+
+138
+00:07:11,953 --> 00:07:15,027
+What's happened to cause this phenomenon?
+
+139
+00:07:15,027 --> 00:07:16,653
+What's happened is
+
+140
+00:07:16,653 --> 00:07:17,558
+that lawyers
+
+141
+00:07:17,558 --> 00:07:21,253
+who represent death row inmates have
+shifted their focus
+
+142
+00:07:21,253 --> 00:07:25,755
+to earlier and earlier chapters of the
+death penalty story.
+
+143
+00:07:25,755 --> 00:07:29,020
+So 25 years ago, they focused on
+chapter four.
+
+144
+00:07:29,020 --> 00:07:32,883
+And they went from chapter four 25 years ago to chapter three
+
+145
+00:07:32,883 --> 00:07:34,587
+in the late 1980s.
+
+146
+00:07:34,587 --> 00:07:37,987
+And they went from chapter three in the
+late 1980s to chapter two in
+
+147
+00:07:37,987 --> 00:07:41,187
+the mid-1990s. And beginning
+in the mid- to late-1990s,
+
+148
+00:07:41,187 --> 00:07:44,377
+they began to focus on chapter one of
+the story.
+
+149
+00:07:44,377 --> 00:07:48,387
+Now you might think that this decline in
+death sentences and the increase in the
+
+150
+00:07:48,387 --> 00:07:50,853
+number of life sentences is a good thing
+or a bad thing.
+
+151
+00:07:50,853 --> 00:07:53,409
+I don't want to have a conversation about that
+today.
+
+152
+00:07:53,409 --> 00:07:56,567
+All that I want to tell you is that the
+reason that this has happened
+
+153
+00:07:56,567 --> 00:07:59,679
+is because death penalty lawyers have
+understood
+
+154
+00:07:59,679 --> 00:08:02,453
+that the earlier you intervene in a
+case,
+
+155
+00:08:02,453 --> 00:08:06,953
+the greater the likelihood that you're
+going to save your client's life.
+
+156
+00:08:06,953 --> 00:08:08,820
+That's the first thing I've learned.
+
+157
+00:08:08,820 --> 00:08:10,755
+Here's the second thing I learned:
+
+158
+00:08:10,755 --> 00:08:11,920
+My client Will
+
+159
+00:08:11,920 --> 00:08:15,376
+was not the exception to the rule;
+
+160
+00:08:15,376 --> 00:08:18,453
+he was the rule.
+
+161
+00:08:18,453 --> 00:08:21,987
+I sometimes say, if you tell me the name
+of a death row inmate --
+
+162
+00:08:21,987 --> 00:08:25,035
+doesn't matter what state he's in, doesn't matter if I've ever met him before --
+
+163
+00:08:25,035 --> 00:08:27,653
+I'll write his biography for you.
+
+164
+00:08:27,653 --> 00:08:30,853
+And eight out of 10 times,
+
+165
+00:08:30,853 --> 00:08:32,487
+the details of that biography
+
+166
+00:08:32,487 --> 00:08:34,950
+will be more or less accurate.
+
+167
+00:08:34,950 --> 00:08:38,953
+And the reason for that is that 80 percent of the people on death row are
+
+168
+00:08:38,953 --> 00:08:42,920
+people who came from the same sort of
+dysfunctional family that Will did.
+
+169
+00:08:42,920 --> 00:08:44,888
+Eighty percent of the people on death row
+
+170
+00:08:44,888 --> 00:08:47,020
+are people who had exposure
+
+171
+00:08:47,020 --> 00:08:49,653
+to the juvenile justice system.
+
+172
+00:08:49,653 --> 00:08:51,784
+That's the second lesson
+
+173
+00:08:51,784 --> 00:08:53,587
+that I've learned.
+
+174
+00:08:53,587 --> 00:08:56,987
+Now we're right on the cusp of that corner
+
+175
+00:08:56,987 --> 00:09:00,133
+where everybody's going to agree.
+
+176
+00:09:00,133 --> 00:09:02,326
+People in this room might disagree
+
+177
+00:09:02,326 --> 00:09:04,439
+about whether Will should have been
+executed,
+
+178
+00:09:04,439 --> 00:09:06,953
+but I think everybody would agree
+
+179
+00:09:06,953 --> 00:09:10,653
+that the best possible version of his story
+
+180
+00:09:10,653 --> 00:09:11,987
+would be a story
+
+181
+00:09:11,987 --> 00:09:16,769
+where no murder ever occurs.
+
+182
+00:09:16,769 --> 00:09:18,753
+How do we do that?
+
+183
+00:09:18,753 --> 00:09:22,783
+When our son Lincoln was working on that
+math problem
+
+184
+00:09:22,783 --> 00:09:25,825
+two weeks ago, it was a big, gnarly problem.
+
+185
+00:09:25,825 --> 00:09:29,308
+And he was learning how, when you have a big old gnarly problem,
+
+186
+00:09:29,308 --> 00:09:33,220
+sometimes the solution is to slice it
+into smaller problems.
+
+187
+00:09:33,220 --> 00:09:36,787
+That's what we do for most problems -- in
+math and physics, even in social policy --
+
+188
+00:09:36,787 --> 00:09:40,553
+we slice them into smaller, more
+manageable problems.
+
+189
+00:09:40,553 --> 00:09:42,288
+But every once in a while,
+
+190
+00:09:42,288 --> 00:09:44,320
+as Dwight Eisenhower said,
+
+191
+00:09:44,320 --> 00:09:45,840
+the way you solve a problem
+
+192
+00:09:45,840 --> 00:09:47,920
+is to make it bigger.
+
+193
+00:09:47,920 --> 00:09:51,853
+The way we solve this problem
+
+194
+00:09:51,853 --> 00:09:55,709
+is to make the issue of the death
+penalty bigger.
+
+195
+00:09:55,709 --> 00:09:57,953
+We have to say, all right.
+
+196
+00:09:57,953 --> 00:10:00,214
+We have these four chapters
+
+197
+00:10:00,214 --> 00:10:03,053
+of a death penalty story,
+
+198
+00:10:03,053 --> 00:10:04,820
+but what happens before
+
+199
+00:10:04,820 --> 00:10:06,947
+that story begins?
+
+200
+00:10:06,947 --> 00:10:11,753
+How can we intervene in the life of a murderer
+
+201
+00:10:11,753 --> 00:10:14,420
+before he's a murderer?
+
+202
+00:10:14,420 --> 00:10:16,769
+What options do we have
+
+203
+00:10:16,769 --> 00:10:18,153
+to nudge that person
+
+204
+00:10:18,153 --> 00:10:19,387
+off of the path
+
+205
+00:10:19,387 --> 00:10:23,550
+that is going to lead to a result that
+everybody --
+
+206
+00:10:23,550 --> 00:10:26,406
+death penalty supporters and death penalty
+opponents --
+
+207
+00:10:26,406 --> 00:10:27,153
+still think
+
+208
+00:10:27,153 --> 00:10:29,587
+is a bad result:
+
+209
+00:10:29,587 --> 00:10:32,153
+the murder of an innocent human being?
+
+210
+00:10:34,068 --> 00:10:36,753
+You know, sometimes people say
+
+211
+00:10:36,753 --> 00:10:37,993
+that something
+
+212
+00:10:37,993 --> 00:10:40,120
+isn't rocket science.
+
+213
+00:10:40,120 --> 00:10:43,453
+And by that, what they mean is rocket
+science is really complicated
+
+214
+00:10:43,453 --> 00:10:46,955
+and this problem that we're talking
+about now is really simple.
+
+215
+00:10:46,955 --> 00:10:48,387
+Well that's rocket science;
+
+216
+00:10:48,387 --> 00:10:50,187
+that's the mathematical expression
+
+217
+00:10:50,187 --> 00:10:54,053
+for the thrust created by a rocket.
+
+218
+00:10:54,053 --> 00:10:56,420
+What we're talking about today
+
+219
+00:10:56,420 --> 00:10:58,821
+is just as complicated.
+
+220
+00:10:58,821 --> 00:11:01,445
+What we're talking about today is also
+
+221
+00:11:01,445 --> 00:11:04,092
+rocket science.
+
+222
+00:11:04,092 --> 00:11:05,903
+My client Will
+
+223
+00:11:05,903 --> 00:11:08,573
+and 80 percent of the people on
+death row
+
+224
+00:11:08,573 --> 00:11:12,020
+had five chapters in their lives
+
+225
+00:11:12,020 --> 00:11:13,553
+that came before
+
+226
+00:11:13,553 --> 00:11:15,353
+the four chapters of the death penalty
+story.
+
+227
+00:11:15,353 --> 00:11:20,120
+I think of these five chapters as points
+of intervention,
+
+228
+00:11:20,120 --> 00:11:22,987
+places in their lives when our society
+
+229
+00:11:22,987 --> 00:11:27,920
+could've intervened in their lives and
+nudged them off of the path that they were on
+
+230
+00:11:27,920 --> 00:11:32,188
+that created a consequence that we all -- death penalty supporters or death
+
+231
+00:11:32,188 --> 00:11:33,906
+penalty opponents --
+
+232
+00:11:33,906 --> 00:11:35,926
+say was a bad result.
+
+233
+00:11:35,926 --> 00:11:38,553
+Now, during each of these five
+chapters:
+
+234
+00:11:38,553 --> 00:11:40,187
+when his mother was pregnant with him;
+
+235
+00:11:40,187 --> 00:11:42,453
+in his early childhood years;
+
+236
+00:11:42,453 --> 00:11:44,320
+when he was in elementary school;
+
+237
+00:11:44,320 --> 00:11:46,487
+when he was in middle school and then high
+school;
+
+238
+00:11:46,487 --> 00:11:49,987
+and when he was in the juvenile justice
+system -- during each of those five chapters,
+
+239
+00:11:49,987 --> 00:11:53,202
+there were a wide variety of things that society could have done.
+
+240
+00:11:53,202 --> 00:11:55,320
+In fact, if we just imagine
+
+241
+00:11:55,320 --> 00:12:00,420
+that there are five different modes of
+intervention, the way that society could intervene
+
+242
+00:12:00,420 --> 00:12:02,304
+in each of those five chapters,
+
+243
+00:12:02,304 --> 00:12:04,520
+and we could mix and match them any way
+we want,
+
+244
+00:12:04,520 --> 00:12:08,690
+there are 3,000 -- more than 3,000 -- possible strategies
+
+245
+00:12:08,690 --> 00:12:12,553
+that we could embrace in order to nudge
+kids like Will
+
+246
+00:12:12,553 --> 00:12:15,387
+off of the path that they're on.
+
+247
+00:12:15,387 --> 00:12:17,142
+So I'm not standing here today
+
+248
+00:12:17,142 --> 00:12:19,220
+with the solution.
+
+249
+00:12:19,220 --> 00:12:23,753
+But the fact that we still have a lot to learn,
+
+250
+00:12:23,753 --> 00:12:27,126
+that doesn't mean that we don't know a lot already.
+
+251
+00:12:27,126 --> 00:12:30,020
+We know from experience in other states
+
+252
+00:12:30,020 --> 00:12:33,687
+that there are a wide variety of modes
+of intervention
+
+253
+00:12:33,687 --> 00:12:37,575
+that we could be using in Texas, and in
+every other state that isn't using them,
+
+254
+00:12:37,575 --> 00:12:42,568
+in order to prevent a consequence that we all agree is bad.
+
+255
+00:12:42,568 --> 00:12:45,191
+I'll just mention a few.
+
+256
+00:12:45,191 --> 00:12:49,116
+I won't talk today about reforming the
+legal system.
+
+257
+00:12:49,116 --> 00:12:53,887
+That's probably a topic that is best
+reserved for a room full of lawyers and judges.
+
+258
+00:12:53,887 --> 00:12:57,707
+Instead, let me talk about a couple of
+modes of intervention
+
+259
+00:12:57,707 --> 00:13:00,075
+that we can all help accomplish,
+
+260
+00:13:00,075 --> 00:13:02,560
+because they are modes of intervention
+that will come about
+
+261
+00:13:02,560 --> 00:13:06,520
+when legislators and policymakers, when taxpayers and citizens,
+
+262
+00:13:06,520 --> 00:13:08,753
+agree that that's what we ought to be
+doing
+
+263
+00:13:08,753 --> 00:13:11,087
+and that's how we ought to be spending our money.
+
+264
+00:13:11,087 --> 00:13:13,473
+We could be providing early childhood care
+
+265
+00:13:13,473 --> 00:13:19,287
+for economically disadvantaged and
+otherwise troubled kids,
+
+266
+00:13:19,287 --> 00:13:21,670
+and we could be doing it for free.
+
+267
+00:13:21,670 --> 00:13:25,780
+And we could be nudging kids like Will
+off of the path that we're on.
+
+268
+00:13:25,780 --> 00:13:29,620
+There are other states that do that, but we don't.
+
+269
+00:13:29,620 --> 00:13:33,721
+We could be providing special schools, at
+both the high school level
+
+270
+00:13:33,721 --> 00:13:37,088
+and the middle school level, but even in K-5,
+
+271
+00:13:37,088 --> 00:13:41,477
+that target economically and otherwise
+disadvantaged kids, and particularly kids
+
+272
+00:13:41,477 --> 00:13:42,653
+who have had exposure
+
+273
+00:13:42,653 --> 00:13:44,753
+to the juvenile justice system.
+
+274
+00:13:44,753 --> 00:13:46,620
+There are a handful of states that do that;
+
+275
+00:13:46,620 --> 00:13:49,302
+Texas doesn't.
+
+276
+00:13:49,302 --> 00:13:51,120
+There's one other thing we can be doing --
+
+277
+00:13:51,120 --> 00:13:53,458
+well, there are a bunch of other things that we could be doing -- there's one other thing that we could be
+
+278
+00:13:53,458 --> 00:13:56,020
+doing that I'm going to mention, and this is
+gonna be the only controversial thing
+
+279
+00:13:56,020 --> 00:13:58,653
+that I say today.
+
+280
+00:13:58,653 --> 00:13:59,953
+We could be intervening
+
+281
+00:13:59,953 --> 00:14:02,053
+much more aggressively
+
+282
+00:14:02,053 --> 00:14:05,277
+into dangerously dysfunctional homes,
+
+283
+00:14:05,277 --> 00:14:07,120
+and getting kids out of them
+
+284
+00:14:07,120 --> 00:14:12,591
+before their moms pick up butcher knives
+and threaten to kill them.
+
+285
+00:14:12,591 --> 00:14:14,611
+If we're gonna do that,
+
+286
+00:14:14,611 --> 00:14:16,687
+we need a place to put them.
+
+287
+00:14:16,687 --> 00:14:20,091
+Even if we do all of those things, some
+kids are going to fall through the cracks
+
+288
+00:14:20,091 --> 00:14:23,687
+and they're going to end up in that last
+chapter before the murder story begins,
+
+289
+00:14:23,687 --> 00:14:25,720
+they're going to end up in the juvenile
+justice system.
+
+290
+00:14:25,720 --> 00:14:28,822
+And even if that happens,
+
+291
+00:14:28,822 --> 00:14:30,726
+it's not yet too late.
+
+292
+00:14:30,726 --> 00:14:33,520
+There's still time to nudge them,
+
+293
+00:14:33,520 --> 00:14:35,277
+if we think about nudging them
+
+294
+00:14:35,277 --> 00:14:37,646
+rather than just punishing them.
+
+295
+00:14:37,646 --> 00:14:40,386
+There are two professors in the Northeast --
+one at Yale and one at Maryland --
+
+296
+00:14:40,386 --> 00:14:42,153
+they set up a school
+
+297
+00:14:42,153 --> 00:14:46,053
+that is attached to a juvenile prison.
+
+298
+00:14:46,053 --> 00:14:49,302
+And the kids are in prison, but they go
+to school from eight in the morning
+
+299
+00:14:49,302 --> 00:14:50,987
+until four in the afternoon.
+
+300
+00:14:50,987 --> 00:14:52,623
+Now, it was logistically difficult.
+
+301
+00:14:52,623 --> 00:14:53,787
+They had to recruit teachers
+
+302
+00:14:53,787 --> 00:14:57,153
+who wanted to teach inside a prison, they had to establish strict
+
+303
+00:14:57,153 --> 00:15:00,355
+separation between the people who work
+at the school and the prison authorities,
+
+304
+00:15:00,355 --> 00:15:03,787
+and most dauntingly of all, they needed
+to invent a new curriculum because
+
+305
+00:15:03,787 --> 00:15:04,787
+you know what?
+
+306
+00:15:04,787 --> 00:15:10,287
+People don't come into and out of prison
+on a semester basis.
+
+307
+00:15:10,287 --> 00:15:13,404
+But they did all those things.
+
+308
+00:15:13,404 --> 00:15:16,153
+Now what do all of these things have in common?
+
+309
+00:15:16,153 --> 00:15:22,520
+What all of these things have in common
+is that they cost money.
+
+310
+00:15:22,520 --> 00:15:25,548
+Some of the people in the room might be
+old enough to remember
+
+311
+00:15:25,548 --> 00:15:29,310
+the guy on the old oil filter commercial.
+
+312
+00:15:29,310 --> 00:15:33,120
+He used to say, "Well, you can pay me now
+
+313
+00:15:33,120 --> 00:15:36,187
+or you can pay me later."
+
+314
+00:15:36,187 --> 00:15:38,320
+What we're doing
+
+315
+00:15:38,320 --> 00:15:40,340
+in the death penalty system
+
+316
+00:15:40,340 --> 00:15:43,939
+is we're paying later.
+
+317
+00:15:43,939 --> 00:15:45,787
+But the thing is
+
+318
+00:15:45,787 --> 00:15:49,653
+that for every 15,000 dollars
+that we spend intervening
+
+319
+00:15:49,653 --> 00:15:54,020
+in the lives of economically and
+otherwise disadvantaged kids
+
+320
+00:15:54,020 --> 00:15:55,340
+in those earlier chapters,
+
+321
+00:15:55,340 --> 00:15:59,753
+we save 80,000 dollars in crime-related costs down the road.
+
+322
+00:15:59,753 --> 00:16:01,516
+Even if you don't agree
+
+323
+00:16:01,516 --> 00:16:03,912
+that there's a moral imperative that we do it,
+
+324
+00:16:05,255 --> 00:16:07,832
+it just makes economic sense.
+
+325
+00:16:10,409 --> 00:16:14,432
+I want to tell you about the last conversation that
+I had with Will.
+
+326
+00:16:14,432 --> 00:16:18,520
+It was the day that he was going to be executed,
+
+327
+00:16:18,520 --> 00:16:22,832
+and we were just talking.
+
+328
+00:16:22,832 --> 00:16:23,887
+There was nothing left to do
+
+329
+00:16:23,887 --> 00:16:25,502
+in his case.
+
+330
+00:16:25,502 --> 00:16:27,853
+And we were talking about his life.
+
+331
+00:16:27,853 --> 00:16:30,720
+And he was talking first about his dad,
+who he hardly knew,
+
+332
+00:16:30,720 --> 00:16:31,553
+who had died,
+
+333
+00:16:31,553 --> 00:16:34,187
+and then about his mom,
+
+334
+00:16:34,187 --> 00:16:35,951
+who he did know,
+
+335
+00:16:35,951 --> 00:16:38,120
+who is still alive.
+
+336
+00:16:38,120 --> 00:16:40,820
+And I said to him,
+
+337
+00:16:40,820 --> 00:16:42,871
+"I know the story.
+
+338
+00:16:42,871 --> 00:16:44,687
+I've read the records.
+
+339
+00:16:44,687 --> 00:16:47,329
+I know that she tried to kill you."
+
+340
+00:16:47,329 --> 00:16:49,767
+I said, "But I've always wondered whether you
+really
+
+341
+00:16:49,767 --> 00:16:51,887
+actually remember that."
+
+342
+00:16:51,887 --> 00:16:53,390
+I said, "I don't remember anything
+
+343
+00:16:53,390 --> 00:16:55,549
+from when I was five years old.
+
+344
+00:16:55,549 --> 00:16:58,487
+Maybe you just remember somebody telling you."
+
+345
+00:16:58,487 --> 00:17:00,987
+And he looked at me and he leaned forward,
+
+346
+00:17:00,987 --> 00:17:04,587
+and he said, "Professor," -- he'd known me for
+12 years, he still called me Professor.
+
+347
+00:17:04,587 --> 00:17:07,902
+He said, "Professor, I don't mean any
+disrespect by this,
+
+348
+00:17:07,902 --> 00:17:09,553
+but when your mama
+
+349
+00:17:09,553 --> 00:17:12,653
+picks up a butcher knife that looks bigger
+than you are,
+
+350
+00:17:12,653 --> 00:17:16,453
+and chases you through the house
+screaming she's gonna kill you,
+
+351
+00:17:16,453 --> 00:17:20,278
+and you have to lock yourself in the
+bathroom and lean against the door and
+
+352
+00:17:20,278 --> 00:17:23,041
+holler for help until the police get
+there,"
+
+353
+00:17:23,041 --> 00:17:26,120
+he looked at me and he said,
+
+354
+00:17:26,120 --> 00:17:29,620
+"that's something you don't forget."
+
+355
+00:17:29,620 --> 00:17:32,120
+I hope there's one thing you all won't forget:
+
+356
+00:17:32,120 --> 00:17:34,976
+In between the time you arrived here
+this morning and the time we break for lunch,
+
+357
+00:17:34,976 --> 00:17:38,387
+there are going to be four homicides
+
+358
+00:17:38,387 --> 00:17:39,820
+in the United States.
+
+359
+00:17:39,820 --> 00:17:43,987
+We're going to devote enormous social
+resources to punishing the people who
+
+360
+00:17:43,987 --> 00:17:46,287
+commit those crimes, and that's
+appropriate, because we should punish
+
+361
+00:17:46,287 --> 00:17:48,353
+people who do bad things.
+
+362
+00:17:48,353 --> 00:17:51,920
+But three of those crimes are
+preventable.
+
+363
+00:17:51,920 --> 00:17:54,830
+If we make the picture bigger
+
+364
+00:17:54,992 --> 00:17:59,636
+and devote our attention to the
+earlier chapters,
+
+365
+00:17:59,636 --> 00:18:03,020
+then we're never going to write the
+first sentence
+
+366
+00:18:03,020 --> 00:18:04,814
+that begins the death penalty story.
+
+367
+00:18:04,814 --> 00:18:06,520
+Thank you.
+
+368
+00:18:06,520 --> 00:18:07,851
+(Applause)
+

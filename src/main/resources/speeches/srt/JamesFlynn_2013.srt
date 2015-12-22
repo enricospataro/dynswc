@@ -1,0 +1,1540 @@
+﻿1
+00:00:12,611 --> 00:00:15,010
+We are going to take a quick voyage
+
+2
+00:00:15,010 --> 00:00:18,517
+over the cognitive history of the 20th century,
+
+3
+00:00:18,517 --> 00:00:20,306
+because during that century,
+
+4
+00:00:20,306 --> 00:00:23,220
+our minds have altered dramatically.
+
+5
+00:00:23,220 --> 00:00:26,544
+As you all know, the cars that people drove in 1900
+
+6
+00:00:26,544 --> 00:00:28,618
+have altered because the roads are better
+
+7
+00:00:28,618 --> 00:00:30,973
+and because of technology.
+
+8
+00:00:30,973 --> 00:00:32,942
+And our minds have altered, too.
+
+9
+00:00:32,942 --> 00:00:36,886
+We've gone from people who confronted a concrete world
+
+10
+00:00:36,886 --> 00:00:40,285
+and analyzed that world primarily in terms
+
+11
+00:00:40,285 --> 00:00:42,518
+of how much it would benefit them
+
+12
+00:00:42,518 --> 00:00:47,110
+to people who confront a very complex world,
+
+13
+00:00:47,110 --> 00:00:49,319
+and it's a world where we've had to develop
+
+14
+00:00:49,319 --> 00:00:52,814
+new mental habits, new habits of mind.
+
+15
+00:00:52,814 --> 00:00:54,811
+And these include things like
+
+16
+00:00:54,811 --> 00:00:58,825
+clothing that concrete world with classification,
+
+17
+00:00:58,825 --> 00:01:01,747
+introducing abstractions that we try to make
+
+18
+00:01:01,747 --> 00:01:03,943
+logically consistent,
+
+19
+00:01:03,943 --> 00:01:06,773
+and also taking the hypothetical seriously,
+
+20
+00:01:06,773 --> 00:01:09,023
+that is, wondering about what might have been
+
+21
+00:01:09,023 --> 00:01:11,415
+rather than what is.
+
+22
+00:01:11,415 --> 00:01:14,967
+Now, this dramatic change was drawn to my attention
+
+23
+00:01:14,967 --> 00:01:18,727
+through massive I.Q. gains over time,
+
+24
+00:01:18,727 --> 00:01:21,096
+and these have been truly massive.
+
+25
+00:01:21,096 --> 00:01:25,507
+That is, we don't just get a few more questions right
+
+26
+00:01:25,507 --> 00:01:26,980
+on I.Q. tests.
+
+27
+00:01:26,980 --> 00:01:30,439
+We get far more questions right on I.Q. tests
+
+28
+00:01:30,439 --> 00:01:32,687
+than each succeeding generation
+
+29
+00:01:32,687 --> 00:01:35,597
+back to the time that they were invented.
+
+30
+00:01:35,597 --> 00:01:38,895
+Indeed, if you score the people a century ago
+
+31
+00:01:38,895 --> 00:01:40,443
+against modern norms,
+
+32
+00:01:40,443 --> 00:01:43,814
+they would have an average I.Q. of 70.
+
+33
+00:01:43,814 --> 00:01:46,539
+If you score us against their norms,
+
+34
+00:01:46,539 --> 00:01:50,138
+we would have an average I.Q. of 130.
+
+35
+00:01:50,138 --> 00:01:53,495
+Now this has raised all sorts of questions.
+
+36
+00:01:53,495 --> 00:01:55,400
+Were our immediate ancestors
+
+37
+00:01:55,400 --> 00:01:58,635
+on the verge of mental retardation?
+
+38
+00:01:58,635 --> 00:02:02,710
+Because 70 is normally the score for mental retardation.
+
+39
+00:02:02,710 --> 00:02:05,742
+Or are we on the verge of all being gifted?
+
+40
+00:02:05,742 --> 00:02:09,978
+Because 130 is the cutting line for giftedness.
+
+41
+00:02:09,978 --> 00:02:13,098
+Now I'm going to try and argue for a third alternative
+
+42
+00:02:13,098 --> 00:02:17,151
+that's much more illuminating than either of those,
+
+43
+00:02:17,151 --> 00:02:19,773
+and to put this into perspective,
+
+44
+00:02:19,773 --> 00:02:22,678
+let's imagine that a Martian came down to Earth
+
+45
+00:02:22,678 --> 00:02:25,513
+and found a ruined civilization.
+
+46
+00:02:25,513 --> 00:02:27,920
+And this Martian was an archaeologist,
+
+47
+00:02:27,920 --> 00:02:30,807
+and they found scores, target scores,
+
+48
+00:02:30,807 --> 00:02:33,730
+that people had used for shooting.
+
+49
+00:02:33,730 --> 00:02:36,233
+And first they looked at 1865,
+
+50
+00:02:36,233 --> 00:02:38,304
+and they found that in a minute,
+
+51
+00:02:38,304 --> 00:02:42,013
+people had only put one bullet in the bullseye.
+
+52
+00:02:42,013 --> 00:02:44,330
+And then they found, in 1898,
+
+53
+00:02:44,330 --> 00:02:48,114
+that they'd put about five bullets in the bullseye in a minute.
+
+54
+00:02:48,114 --> 00:02:53,341
+And then about 1918 they put a hundred bullets in the bullseye.
+
+55
+00:02:53,341 --> 00:02:57,196
+And initially, that archaeologist would be baffled.
+
+56
+00:02:57,196 --> 00:02:59,793
+They would say, look, these tests were designed
+
+57
+00:02:59,793 --> 00:03:03,391
+to find out how much people were steady of hand,
+
+58
+00:03:03,391 --> 00:03:06,166
+how keen their eyesight was,
+
+59
+00:03:06,166 --> 00:03:08,504
+whether they had control of their weapon.
+
+60
+00:03:08,504 --> 00:03:11,525
+How could these performances have escalated
+
+61
+00:03:11,525 --> 00:03:13,707
+to this enormous degree?
+
+62
+00:03:13,707 --> 00:03:15,982
+Well we now know, of course, the answer.
+
+63
+00:03:15,982 --> 00:03:18,794
+If that Martian looked at battlefields,
+
+64
+00:03:18,794 --> 00:03:21,618
+they would find that people had only muskets
+
+65
+00:03:21,618 --> 00:03:23,682
+at the time of the Civil War
+
+66
+00:03:23,682 --> 00:03:25,489
+and that they had repeating rifles
+
+67
+00:03:25,489 --> 00:03:28,674
+at the time of the Spanish-American War,
+
+68
+00:03:28,674 --> 00:03:30,410
+and then they had machine guns
+
+69
+00:03:30,410 --> 00:03:33,225
+by the time of World War I.
+
+70
+00:03:33,225 --> 00:03:35,776
+And, in other words, it was the equipment
+
+71
+00:03:35,776 --> 00:03:37,943
+that was in the hands of the average soldier
+
+72
+00:03:37,943 --> 00:03:41,006
+that was responsible, not greater keenness of eye
+
+73
+00:03:41,006 --> 00:03:43,179
+or steadiness of hand.
+
+74
+00:03:43,179 --> 00:03:46,499
+Now what we have to imagine is the mental artillery
+
+75
+00:03:46,499 --> 00:03:49,992
+that we have picked up over those hundred years,
+
+76
+00:03:49,992 --> 00:03:54,055
+and I think again that another thinker will help us here,
+
+77
+00:03:54,055 --> 00:03:56,190
+and that's Luria.
+
+78
+00:03:56,190 --> 00:03:58,334
+Luria looked at people
+
+79
+00:03:58,334 --> 00:04:01,987
+just before they entered the scientific age,
+
+80
+00:04:01,987 --> 00:04:03,984
+and he found that these people
+
+81
+00:04:03,984 --> 00:04:07,641
+were resistant to classifying the concrete world.
+
+82
+00:04:07,641 --> 00:04:08,695
+They wanted to break it up
+
+83
+00:04:08,695 --> 00:04:11,285
+into little bits that they could use.
+
+84
+00:04:11,285 --> 00:04:13,575
+He found that they were resistant
+
+85
+00:04:13,575 --> 00:04:17,076
+to deducing the hypothetical,
+
+86
+00:04:17,076 --> 00:04:19,753
+to speculating about what might be,
+
+87
+00:04:19,753 --> 00:04:22,390
+and he found finally that they didn't deal well
+
+88
+00:04:22,390 --> 00:04:26,787
+with abstractions or using logic on those abstractions.
+
+89
+00:04:26,787 --> 00:04:29,927
+Now let me give you a sample of some of his interviews.
+
+90
+00:04:29,927 --> 00:04:32,293
+He talked to the head man of a person
+
+91
+00:04:32,293 --> 00:04:34,125
+in rural Russia.
+
+92
+00:04:34,125 --> 00:04:36,599
+They'd only had, as people had in 1900,
+
+93
+00:04:36,599 --> 00:04:38,780
+about four years of schooling.
+
+94
+00:04:38,780 --> 00:04:41,140
+And he asked that particular person,
+
+95
+00:04:41,140 --> 00:04:44,610
+what do crows and fish have in common?
+
+96
+00:04:44,610 --> 00:04:47,677
+And the fellow said, "Absolutely nothing.
+
+97
+00:04:47,677 --> 00:04:50,670
+You know, I can eat a fish. I can't eat a crow.
+
+98
+00:04:50,670 --> 00:04:52,996
+A crow can peck at a fish.
+
+99
+00:04:52,996 --> 00:04:55,847
+A fish can't do anything to a crow."
+
+100
+00:04:55,847 --> 00:04:59,073
+And Luria said, "But aren't they both animals?"
+
+101
+00:04:59,073 --> 00:05:00,483
+And he said, "Of course not.
+
+102
+00:05:00,483 --> 00:05:02,470
+One's a fish.
+
+103
+00:05:02,470 --> 00:05:04,242
+The other is a bird."
+
+104
+00:05:04,242 --> 00:05:06,264
+And he was interested, effectively,
+
+105
+00:05:06,264 --> 00:05:09,932
+in what he could do with those concrete objects.
+
+106
+00:05:09,932 --> 00:05:12,810
+And then Luria went to another person,
+
+107
+00:05:12,810 --> 00:05:14,993
+and he said to them,
+
+108
+00:05:14,993 --> 00:05:17,689
+"There are no camels in Germany.
+
+109
+00:05:17,689 --> 00:05:20,100
+Hamburg is a city in Germany.
+
+110
+00:05:20,100 --> 00:05:22,643
+Are there camels in Hamburg?"
+
+111
+00:05:22,643 --> 00:05:23,534
+And the fellow said,
+
+112
+00:05:23,534 --> 00:05:27,753
+"Well, if it's large enough, there ought to be camels there."
+
+113
+00:05:27,753 --> 00:05:31,647
+And Luria said, "But what do my words imply?"
+
+114
+00:05:31,647 --> 00:05:33,924
+And he said, "Well, maybe it's a small village,
+
+115
+00:05:33,924 --> 00:05:36,493
+and there's no room for camels."
+
+116
+00:05:36,493 --> 00:05:38,756
+In other words, he was unwilling to treat this
+
+117
+00:05:38,756 --> 00:05:41,553
+as anything but a concrete problem,
+
+118
+00:05:41,553 --> 00:05:44,111
+and he was used to camels being in villages,
+
+119
+00:05:44,111 --> 00:05:48,044
+and he was quite unable to use the hypothetical,
+
+120
+00:05:48,044 --> 00:05:52,951
+to ask himself what if there were no camels in Germany.
+
+121
+00:05:52,951 --> 00:05:55,764
+A third interview was conducted
+
+122
+00:05:55,764 --> 00:05:58,748
+with someone about the North Pole.
+
+123
+00:05:58,748 --> 00:06:02,853
+And Luria said, "At the North Pole, there is always snow.
+
+124
+00:06:02,853 --> 00:06:06,808
+Wherever there is always snow, the bears are white.
+
+125
+00:06:06,808 --> 00:06:10,087
+What color are the bears at the North Pole?"
+
+126
+00:06:10,087 --> 00:06:12,489
+And the response was, "Such a thing
+
+127
+00:06:12,489 --> 00:06:14,799
+is to be settled by testimony.
+
+128
+00:06:14,799 --> 00:06:17,623
+If a wise person came from the North Pole
+
+129
+00:06:17,623 --> 00:06:19,474
+and told me the bears were white,
+
+130
+00:06:19,474 --> 00:06:20,953
+I might believe him,
+
+131
+00:06:20,953 --> 00:06:25,158
+but every bear that I have seen is a brown bear."
+
+132
+00:06:25,158 --> 00:06:28,142
+Now you see again, this person has rejected
+
+133
+00:06:28,142 --> 00:06:30,337
+going beyond the concrete world
+
+134
+00:06:30,337 --> 00:06:33,510
+and analyzing it through everyday experience,
+
+135
+00:06:33,510 --> 00:06:35,376
+and it was important to that person
+
+136
+00:06:35,376 --> 00:06:36,938
+what color bears were --
+
+137
+00:06:36,938 --> 00:06:39,219
+that is, they had to hunt bears.
+
+138
+00:06:39,219 --> 00:06:41,628
+They weren't willing to engage in this.
+
+139
+00:06:41,628 --> 00:06:43,465
+One of them said to Luria,
+
+140
+00:06:43,465 --> 00:06:46,965
+"How can we solve things that aren't real problems?
+
+141
+00:06:46,965 --> 00:06:48,856
+None of these problems are real.
+
+142
+00:06:48,856 --> 00:06:51,499
+How can we address them?"
+
+143
+00:06:51,499 --> 00:06:55,044
+Now, these three categories --
+
+144
+00:06:55,044 --> 00:06:56,535
+classification,
+
+145
+00:06:56,535 --> 00:06:58,676
+using logic on abstractions,
+
+146
+00:06:58,676 --> 00:07:01,445
+taking the hypothetical seriously --
+
+147
+00:07:01,445 --> 00:07:03,883
+how much difference do they make in the real world
+
+148
+00:07:03,883 --> 00:07:05,776
+beyond the testing room?
+
+149
+00:07:05,776 --> 00:07:08,746
+And let me give you a few illustrations.
+
+150
+00:07:08,746 --> 00:07:12,135
+First, almost all of us today get a high school diploma.
+
+151
+00:07:12,135 --> 00:07:15,532
+That is, we've gone from four to eight years of education
+
+152
+00:07:15,532 --> 00:07:18,309
+to 12 years of formal education,
+
+153
+00:07:18,309 --> 00:07:20,210
+and 52 percent of Americans
+
+154
+00:07:20,210 --> 00:07:24,030
+have actually experienced some type of tertiary education.
+
+155
+00:07:24,030 --> 00:07:28,062
+Now, not only do we have much more education,
+
+156
+00:07:28,062 --> 00:07:30,755
+and much of that education is scientific,
+
+157
+00:07:30,755 --> 00:07:34,765
+and you can't do science without classifying the world.
+
+158
+00:07:34,765 --> 00:07:38,624
+You can't do science without proposing hypotheses.
+
+159
+00:07:38,624 --> 00:07:42,798
+You can't do science without making it logically consistent.
+
+160
+00:07:42,798 --> 00:07:46,608
+And even down in grade school, things have changed.
+
+161
+00:07:46,608 --> 00:07:49,542
+In 1910, they looked at the examinations
+
+162
+00:07:49,542 --> 00:07:53,362
+that the state of Ohio gave to 14-year-olds,
+
+163
+00:07:53,362 --> 00:07:54,968
+and they found that they were all
+
+164
+00:07:54,968 --> 00:07:58,403
+for socially valued concrete information.
+
+165
+00:07:58,403 --> 00:07:59,734
+They were things like,
+
+166
+00:07:59,734 --> 00:08:02,621
+what are the capitals of the 44 or 45 states
+
+167
+00:08:02,621 --> 00:08:04,995
+that existed at that time?
+
+168
+00:08:04,995 --> 00:08:06,573
+When they looked at the exams
+
+169
+00:08:06,573 --> 00:08:09,720
+that the state of Ohio gave in 1990,
+
+170
+00:08:09,720 --> 00:08:12,106
+they were all about abstractions.
+
+171
+00:08:12,106 --> 00:08:13,699
+They were things like,
+
+172
+00:08:13,699 --> 00:08:18,833
+why is the largest city of a state rarely the capital?
+
+173
+00:08:18,833 --> 00:08:20,397
+And you were supposed to think, well,
+
+174
+00:08:20,397 --> 00:08:23,611
+the state legislature was rural-controlled,
+
+175
+00:08:23,611 --> 00:08:25,709
+and they hated the big city,
+
+176
+00:08:25,709 --> 00:08:28,302
+so rather than putting the capital in a big city,
+
+177
+00:08:28,302 --> 00:08:29,740
+they put it in a county seat.
+
+178
+00:08:29,740 --> 00:08:32,476
+They put it in Albany rather than New York.
+
+179
+00:08:32,476 --> 00:08:35,532
+They put it in Harrisburg rather than Philadelphia.
+
+180
+00:08:35,532 --> 00:08:37,467
+And so forth.
+
+181
+00:08:37,467 --> 00:08:39,898
+So the tenor of education has changed.
+
+182
+00:08:39,898 --> 00:08:43,932
+We are educating people to take the hypothetical seriously,
+
+183
+00:08:43,932 --> 00:08:47,510
+to use abstractions, and to link them logically.
+
+184
+00:08:47,510 --> 00:08:49,891
+What about employment?
+
+185
+00:08:49,891 --> 00:08:53,791
+Well, in 1900, three percent of Americans
+
+186
+00:08:53,791 --> 00:08:57,333
+practiced professions that were cognitively demanding.
+
+187
+00:08:57,333 --> 00:09:01,388
+Only three percent were lawyers or doctors or teachers.
+
+188
+00:09:01,388 --> 00:09:04,251
+Today, 35 percent of Americans
+
+189
+00:09:04,251 --> 00:09:07,570
+practice cognitively demanding professions,
+
+190
+00:09:07,570 --> 00:09:10,196
+not only to the professions proper like lawyer
+
+191
+00:09:10,196 --> 00:09:12,745
+or doctor or scientist or lecturer,
+
+192
+00:09:12,745 --> 00:09:14,563
+but many, many sub-professions
+
+193
+00:09:14,563 --> 00:09:16,504
+having to do with being a technician,
+
+194
+00:09:16,504 --> 00:09:18,529
+a computer programmer.
+
+195
+00:09:18,529 --> 00:09:22,853
+A whole range of professions now make cognitive demands.
+
+196
+00:09:22,853 --> 00:09:25,783
+And we can only meet the terms of employment
+
+197
+00:09:25,783 --> 00:09:28,280
+in the modern world by being cognitively
+
+198
+00:09:28,280 --> 00:09:30,541
+far more flexible.
+
+199
+00:09:30,541 --> 00:09:33,764
+And it's not just that we have many more people
+
+200
+00:09:33,764 --> 00:09:36,754
+in cognitively demanding professions.
+
+201
+00:09:36,754 --> 00:09:39,157
+The professions have been upgraded.
+
+202
+00:09:39,157 --> 00:09:41,268
+Compare the doctor in 1900,
+
+203
+00:09:41,268 --> 00:09:44,317
+who really had only a few tricks up his sleeve,
+
+204
+00:09:44,317 --> 00:09:47,125
+with the modern general practitioner or specialist,
+
+205
+00:09:47,125 --> 00:09:49,804
+with years of scientific training.
+
+206
+00:09:49,804 --> 00:09:52,073
+Compare the banker in 1900,
+
+207
+00:09:52,073 --> 00:09:54,486
+who really just needed a good accountant
+
+208
+00:09:54,486 --> 00:09:57,662
+and to know who was trustworthy in the local community
+
+209
+00:09:57,662 --> 00:09:59,953
+for paying back their mortgage.
+
+210
+00:09:59,953 --> 00:10:03,182
+Well, the merchant bankers who brought the world to their knees
+
+211
+00:10:03,182 --> 00:10:04,948
+may have been morally remiss,
+
+212
+00:10:04,948 --> 00:10:08,087
+but they were cognitively very agile.
+
+213
+00:10:08,087 --> 00:10:12,698
+They went far beyond that 1900 banker.
+
+214
+00:10:12,698 --> 00:10:14,865
+They had to look at computer projections
+
+215
+00:10:14,865 --> 00:10:16,865
+for the housing market.
+
+216
+00:10:16,865 --> 00:10:20,770
+They had to get complicated CDO-squared
+
+217
+00:10:20,770 --> 00:10:23,220
+in order to bundle debt together
+
+218
+00:10:23,220 --> 00:10:26,979
+and make debt look as if it were actually a profitable asset.
+
+219
+00:10:26,979 --> 00:10:30,079
+They had to prepare a case to get rating agencies
+
+220
+00:10:30,079 --> 00:10:31,190
+to give it a AAA,
+
+221
+00:10:31,190 --> 00:10:35,424
+though in many cases, they had virtually bribed the rating agencies.
+
+222
+00:10:35,424 --> 00:10:37,453
+And they also, of course, had to get people
+
+223
+00:10:37,453 --> 00:10:40,140
+to accept these so-called assets
+
+224
+00:10:40,140 --> 00:10:41,640
+and pay money for them
+
+225
+00:10:41,640 --> 00:10:44,227
+even though they were highly vulnerable.
+
+226
+00:10:44,227 --> 00:10:45,817
+Or take a farmer today.
+
+227
+00:10:45,817 --> 00:10:49,097
+I take the farm manager of today as very different
+
+228
+00:10:49,097 --> 00:10:51,588
+from the farmer of 1900.
+
+229
+00:10:51,588 --> 00:10:53,426
+So it hasn't just been the spread
+
+230
+00:10:53,426 --> 00:10:56,617
+of cognitively demanding professions.
+
+231
+00:10:56,617 --> 00:10:58,997
+It's also been the upgrading of tasks
+
+232
+00:10:58,997 --> 00:11:01,564
+like lawyer and doctor and what have you
+
+233
+00:11:01,564 --> 00:11:05,341
+that have made demands on our cognitive faculties.
+
+234
+00:11:05,341 --> 00:11:08,500
+But I've talked about education and employment.
+
+235
+00:11:08,500 --> 00:11:11,839
+Some of the habits of mind that we have developed
+
+236
+00:11:11,839 --> 00:11:13,446
+over the 20th century
+
+237
+00:11:13,446 --> 00:11:16,041
+have paid off in unexpected areas.
+
+238
+00:11:16,041 --> 00:11:18,312
+I'm primarily a moral philosopher.
+
+239
+00:11:18,312 --> 00:11:22,000
+I merely have a holiday in psychology,
+
+240
+00:11:22,000 --> 00:11:26,408
+and what interests me in general is moral debate.
+
+241
+00:11:26,408 --> 00:11:29,139
+Now over the last century,
+
+242
+00:11:29,139 --> 00:11:31,489
+in developed nations like America,
+
+243
+00:11:31,489 --> 00:11:33,470
+moral debate has escalated
+
+244
+00:11:33,470 --> 00:11:36,809
+because we take the hypothetical seriously,
+
+245
+00:11:36,809 --> 00:11:40,024
+and we also take universals seriously
+
+246
+00:11:40,024 --> 00:11:42,820
+and look for logical connections.
+
+247
+00:11:42,820 --> 00:11:46,555
+When I came home in 1955 from university
+
+248
+00:11:46,555 --> 00:11:48,862
+at the time of Martin Luther King,
+
+249
+00:11:48,862 --> 00:11:51,184
+a lot of people came home at that time
+
+250
+00:11:51,184 --> 00:11:54,934
+and started having arguments with their parents and grandparents.
+
+251
+00:11:54,934 --> 00:11:58,162
+My father was born in 1885,
+
+252
+00:11:58,162 --> 00:12:00,725
+and he was mildly racially biased.
+
+253
+00:12:00,725 --> 00:12:02,828
+As an Irishman, he hated the English so much
+
+254
+00:12:02,828 --> 00:12:05,149
+he didn't have much emotion for anyone else.
+
+255
+00:12:05,149 --> 00:12:08,420
+(Laughter)
+
+256
+00:12:08,420 --> 00:12:12,928
+But he did have a sense that black people were inferior.
+
+257
+00:12:12,928 --> 00:12:15,776
+And when we said to our parents and grandparents,
+
+258
+00:12:15,776 --> 00:12:20,269
+"How would you feel if tomorrow morning you woke up black?"
+
+259
+00:12:20,269 --> 00:12:23,890
+they said that is the dumbest thing you've ever said.
+
+260
+00:12:23,890 --> 00:12:26,392
+Who have you ever known who woke up in the morning --
+
+261
+00:12:26,392 --> 00:12:28,794
+(Laughter) --
+
+262
+00:12:28,794 --> 00:12:30,024
+that turned black?
+
+263
+00:12:30,024 --> 00:12:33,540
+In other words, they were fixed in the concrete
+
+264
+00:12:33,540 --> 00:12:37,053
+mores and attitudes they had inherited.
+
+265
+00:12:37,053 --> 00:12:40,064
+They would not take the hypothetical seriously,
+
+266
+00:12:40,064 --> 00:12:41,548
+and without the hypothetical,
+
+267
+00:12:41,548 --> 00:12:45,567
+it's very difficult to get moral argument off the ground.
+
+268
+00:12:45,567 --> 00:12:48,202
+You have to say, imagine you were
+
+269
+00:12:48,202 --> 00:12:53,787
+in Iran, and imagine that your relatives
+
+270
+00:12:53,787 --> 00:12:56,487
+all suffered from collateral damage
+
+271
+00:12:56,487 --> 00:12:58,433
+even though they had done no wrong.
+
+272
+00:12:58,433 --> 00:13:00,494
+How would you feel about that?
+
+273
+00:13:00,494 --> 00:13:03,214
+And if someone of the older generation says,
+
+274
+00:13:03,214 --> 00:13:05,144
+well, our government takes care of us,
+
+275
+00:13:05,144 --> 00:13:08,087
+and it's up to their government to take care of them,
+
+276
+00:13:08,087 --> 00:13:12,155
+they're just not willing to take the hypothetical seriously.
+
+277
+00:13:12,155 --> 00:13:15,522
+Or take an Islamic father whose daughter has been raped,
+
+278
+00:13:15,522 --> 00:13:18,732
+and he feels he's honor-bound to kill her.
+
+279
+00:13:18,732 --> 00:13:21,092
+Well, he's treating his mores
+
+280
+00:13:21,092 --> 00:13:24,992
+as if they were sticks and stones and rocks that he had inherited,
+
+281
+00:13:24,992 --> 00:13:27,637
+and they're unmovable in any way by logic.
+
+282
+00:13:27,637 --> 00:13:30,213
+They're just inherited mores.
+
+283
+00:13:30,213 --> 00:13:32,414
+Today we would say something like,
+
+284
+00:13:32,414 --> 00:13:35,991
+well, imagine you were knocked unconscious and sodomized.
+
+285
+00:13:35,991 --> 00:13:37,664
+Would you deserve to be killed?
+
+286
+00:13:37,664 --> 00:13:40,559
+And he would say, well that's not in the Koran.
+
+287
+00:13:40,559 --> 00:13:44,581
+That's not one of the principles I've got.
+
+288
+00:13:44,581 --> 00:13:47,422
+Well you, today, universalize your principles.
+
+289
+00:13:47,422 --> 00:13:50,979
+You state them as abstractions and you use logic on them.
+
+290
+00:13:50,979 --> 00:13:53,252
+If you have a principle such as,
+
+291
+00:13:53,252 --> 00:13:56,898
+people shouldn't suffer unless they're guilty of something,
+
+292
+00:13:56,898 --> 00:13:58,994
+then to exclude black people
+
+293
+00:13:58,994 --> 00:14:01,492
+you've got to make exceptions, don't you?
+
+294
+00:14:01,492 --> 00:14:04,480
+You have to say, well, blackness of skin,
+
+295
+00:14:04,480 --> 00:14:07,103
+you couldn't suffer just for that.
+
+296
+00:14:07,103 --> 00:14:10,366
+It must be that blacks are somehow tainted.
+
+297
+00:14:10,366 --> 00:14:13,533
+And then we can bring empirical evidence to bear, can't we,
+
+298
+00:14:13,533 --> 00:14:16,449
+and say, well how can you consider all blacks tainted
+
+299
+00:14:16,449 --> 00:14:20,243
+when St. Augustine was black and Thomas Sowell is black.
+
+300
+00:14:20,243 --> 00:14:23,668
+And you can get moral argument off the ground, then,
+
+301
+00:14:23,668 --> 00:14:28,222
+because you're not treating moral principles as concrete entities.
+
+302
+00:14:28,222 --> 00:14:30,159
+You're treating them as universals,
+
+303
+00:14:30,159 --> 00:14:32,938
+to be rendered consistent by logic.
+
+304
+00:14:32,938 --> 00:14:36,068
+Now how did all of this arise out of I.Q. tests?
+
+305
+00:14:36,068 --> 00:14:40,078
+That's what initially got me going on cognitive history.
+
+306
+00:14:40,078 --> 00:14:41,963
+If you look at the I.Q. test,
+
+307
+00:14:41,963 --> 00:14:45,948
+you find the gains have been greatest in certain areas.
+
+308
+00:14:45,948 --> 00:14:48,551
+The similarities subtest of the Wechsler
+
+309
+00:14:48,551 --> 00:14:50,820
+is about classification,
+
+310
+00:14:50,820 --> 00:14:52,900
+and we have made enormous gains
+
+311
+00:14:52,900 --> 00:14:56,010
+on that classification subtest.
+
+312
+00:14:56,010 --> 00:14:59,291
+There are other parts of the I.Q. test battery
+
+313
+00:14:59,291 --> 00:15:02,387
+that are about using logic on abstractions.
+
+314
+00:15:02,387 --> 00:15:05,861
+Some of you may have taken Raven's Progressive Matrices,
+
+315
+00:15:05,861 --> 00:15:08,399
+and it's all about analogies.
+
+316
+00:15:08,399 --> 00:15:12,255
+And in 1900, people could do simple analogies.
+
+317
+00:15:12,255 --> 00:15:16,600
+That is, if you said to them, cats are like wildcats.
+
+318
+00:15:16,600 --> 00:15:18,176
+What are dogs like?
+
+319
+00:15:18,176 --> 00:15:20,268
+They would say wolves.
+
+320
+00:15:20,268 --> 00:15:23,812
+But by 1960, people could attack Raven's
+
+321
+00:15:23,812 --> 00:15:26,462
+on a much more sophisticated level.
+
+322
+00:15:26,462 --> 00:15:30,969
+If you said, we've got two squares followed by a triangle,
+
+323
+00:15:30,969 --> 00:15:33,205
+what follows two circles?
+
+324
+00:15:33,205 --> 00:15:35,492
+They could say a semicircle.
+
+325
+00:15:35,492 --> 00:15:37,670
+Just as a triangle is half of a square,
+
+326
+00:15:37,670 --> 00:15:40,388
+a semicircle is half of a circle.
+
+327
+00:15:40,388 --> 00:15:43,981
+By 2010, college graduates, if you said
+
+328
+00:15:43,981 --> 00:15:47,216
+two circles followed by a semicircle,
+
+329
+00:15:47,216 --> 00:15:50,006
+two sixteens followed by what,
+
+330
+00:15:50,006 --> 00:15:53,742
+they would say eight, because eight is half of 16.
+
+331
+00:15:53,742 --> 00:15:56,608
+That is, they had moved so far from the concrete world
+
+332
+00:15:56,608 --> 00:15:58,901
+that they could even ignore
+
+333
+00:15:58,901 --> 00:16:03,424
+the appearance of the symbols that were involved in the question.
+
+334
+00:16:03,424 --> 00:16:06,588
+Now, I should say one thing that's very disheartening.
+
+335
+00:16:06,588 --> 00:16:09,460
+We haven't made progress on all fronts.
+
+336
+00:16:09,460 --> 00:16:12,224
+One of the ways in which we would like to deal
+
+337
+00:16:12,224 --> 00:16:14,422
+with the sophistication of the modern world
+
+338
+00:16:14,422 --> 00:16:16,458
+is through politics,
+
+339
+00:16:16,458 --> 00:16:19,793
+and sadly you can have humane moral principles,
+
+340
+00:16:19,793 --> 00:16:24,213
+you can classify, you can use logic on abstractions,
+
+341
+00:16:24,213 --> 00:16:27,143
+and if you're ignorant of history and of other countries,
+
+342
+00:16:27,143 --> 00:16:29,570
+you can't do politics.
+
+343
+00:16:29,570 --> 00:16:32,590
+We've noticed, in a trend among young Americans,
+
+344
+00:16:32,590 --> 00:16:35,465
+that they read less history and less literature
+
+345
+00:16:35,465 --> 00:16:38,075
+and less material about foreign lands,
+
+346
+00:16:38,075 --> 00:16:39,770
+and they're essentially ahistorical.
+
+347
+00:16:39,770 --> 00:16:41,887
+They live in the bubble of the present.
+
+348
+00:16:41,887 --> 00:16:44,743
+They don't know the Korean War from the war in Vietnam.
+
+349
+00:16:44,743 --> 00:16:48,926
+They don't know who was an ally of America in World War II.
+
+350
+00:16:48,926 --> 00:16:51,547
+Think how different America would be
+
+351
+00:16:51,547 --> 00:16:55,143
+if every American knew that this is the fifth time
+
+352
+00:16:55,143 --> 00:16:59,237
+Western armies have gone to Afghanistan to put its house in order,
+
+353
+00:16:59,237 --> 00:17:02,601
+and if they had some idea of exactly what had happened
+
+354
+00:17:02,601 --> 00:17:04,926
+on those four previous occasions.
+
+355
+00:17:04,926 --> 00:17:05,876
+(Laughter)
+
+356
+00:17:05,876 --> 00:17:07,824
+And that is, they had barely left,
+
+357
+00:17:07,824 --> 00:17:10,156
+and there wasn't a trace in the sand.
+
+358
+00:17:10,156 --> 00:17:13,364
+Or imagine how different things would be
+
+359
+00:17:13,364 --> 00:17:16,120
+if most Americans knew that we had been lied
+
+360
+00:17:16,120 --> 00:17:19,045
+into four of our last six wars.
+
+361
+00:17:19,045 --> 00:17:21,979
+You know, the Spanish didn't sink the battleship Maine,
+
+362
+00:17:21,979 --> 00:17:24,237
+the Lusitania was not an innocent vessel
+
+363
+00:17:24,237 --> 00:17:26,870
+but was loaded with munitions,
+
+364
+00:17:26,870 --> 00:17:30,948
+the North Vietnamese did not attack the Seventh Fleet,
+
+365
+00:17:30,948 --> 00:17:34,516
+and, of course, Saddam Hussein hated al Qaeda
+
+366
+00:17:34,516 --> 00:17:36,425
+and had nothing to do with it,
+
+367
+00:17:36,425 --> 00:17:40,228
+and yet the administration convinced 45 percent of the people
+
+368
+00:17:40,228 --> 00:17:41,772
+that they were brothers in arms,
+
+369
+00:17:41,772 --> 00:17:45,651
+when he would hang one from the nearest lamppost.
+
+370
+00:17:45,651 --> 00:17:49,120
+But I don't want to end on a pessimistic note.
+
+371
+00:17:49,120 --> 00:17:53,638
+The 20th century has shown enormous cognitive reserves
+
+372
+00:17:53,638 --> 00:17:57,291
+in ordinary people that we have now realized,
+
+373
+00:17:57,291 --> 00:17:59,355
+and the aristocracy was convinced
+
+374
+00:17:59,355 --> 00:18:01,534
+that the average person couldn't make it,
+
+375
+00:18:01,534 --> 00:18:04,500
+that they could never share their mindset
+
+376
+00:18:04,500 --> 00:18:07,106
+or their cognitive abilities.
+
+377
+00:18:07,106 --> 00:18:08,820
+Lord Curzon once said
+
+378
+00:18:08,820 --> 00:18:11,084
+he saw people bathing in the North Sea,
+
+379
+00:18:11,084 --> 00:18:12,747
+and he said, "Why did no one tell me
+
+380
+00:18:12,747 --> 00:18:15,723
+what white bodies the lower orders have?"
+
+381
+00:18:15,723 --> 00:18:18,074
+As if they were a reptile.
+
+382
+00:18:18,074 --> 00:18:21,124
+Well, Dickens was right and he was wrong. [Correction: Rudyard Kipling]
+
+383
+00:18:21,124 --> 00:18:24,834
+[Kipling] said, "The colonel's lady and Judy O'Grady
+
+384
+00:18:24,834 --> 00:18:28,043
+are sisters underneath the skin."
+
+385
+00:18:28,043 --> 00:18:32,043
+(Applause)
+

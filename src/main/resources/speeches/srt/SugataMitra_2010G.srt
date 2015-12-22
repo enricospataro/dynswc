@@ -1,0 +1,1496 @@
+﻿1
+00:00:13,820 --> 00:00:15,820
+Well, that's kind of an obvious statement up there.
+
+2
+00:00:15,820 --> 00:00:18,820
+I started with that sentence about 12 years ago,
+
+3
+00:00:18,820 --> 00:00:21,820
+and I started in the context
+
+4
+00:00:21,820 --> 00:00:23,820
+of developing countries,
+
+5
+00:00:23,820 --> 00:00:26,820
+but you're sitting here from every corner of the world.
+
+6
+00:00:26,820 --> 00:00:29,820
+So if you think of a map of your country,
+
+7
+00:00:29,820 --> 00:00:31,820
+I think you'll realize
+
+8
+00:00:31,820 --> 00:00:33,820
+that for every country on Earth,
+
+9
+00:00:33,820 --> 00:00:35,820
+you could draw little circles to say,
+
+10
+00:00:35,820 --> 00:00:38,820
+"These are places where good teachers won't go."
+
+11
+00:00:39,820 --> 00:00:41,820
+On top of that,
+
+12
+00:00:41,820 --> 00:00:44,820
+those are the places from where trouble comes.
+
+13
+00:00:44,820 --> 00:00:46,820
+So we have an ironic problem --
+
+14
+00:00:46,820 --> 00:00:48,820
+good teachers don't want to go
+
+15
+00:00:48,820 --> 00:00:51,820
+to just those places where they're needed the most.
+
+16
+00:00:51,820 --> 00:00:54,820
+I started in 1999
+
+17
+00:00:54,820 --> 00:00:57,820
+to try and address this problem with an experiment,
+
+18
+00:00:57,820 --> 00:01:00,820
+which was a very simple experiment in New Delhi.
+
+19
+00:01:02,820 --> 00:01:05,820
+I basically embedded a computer
+
+20
+00:01:05,820 --> 00:01:08,820
+into a wall of a slum in New Delhi.
+
+21
+00:01:09,820 --> 00:01:12,820
+The children barely went to school, they didn't know any English --
+
+22
+00:01:12,820 --> 00:01:14,820
+they'd never seen a computer before,
+
+23
+00:01:14,820 --> 00:01:17,820
+and they didn't know what the internet was.
+
+24
+00:01:17,820 --> 00:01:20,820
+I connected high speed internet to it -- it's about three feet off the ground --
+
+25
+00:01:20,820 --> 00:01:22,820
+turned it on and left it there.
+
+26
+00:01:22,820 --> 00:01:24,820
+After this,
+
+27
+00:01:24,820 --> 00:01:27,820
+we noticed a couple of interesting things, which you'll see.
+
+28
+00:01:27,820 --> 00:01:30,820
+But I repeated this all over India
+
+29
+00:01:30,820 --> 00:01:32,820
+and then through
+
+30
+00:01:32,820 --> 00:01:34,820
+a large part of the world
+
+31
+00:01:34,820 --> 00:01:36,820
+and noticed
+
+32
+00:01:36,820 --> 00:01:38,820
+that children will learn to do
+
+33
+00:01:38,820 --> 00:01:41,820
+what they want to learn to do.
+
+34
+00:01:41,820 --> 00:01:43,820
+This is the first experiment that we did --
+
+35
+00:01:43,820 --> 00:01:45,820
+eight year-old boy on your right
+
+36
+00:01:45,820 --> 00:01:48,820
+teaching his student, a six year-old girl,
+
+37
+00:01:48,820 --> 00:01:51,820
+and he was teaching her how to browse.
+
+38
+00:01:52,820 --> 00:01:55,820
+This boy here in the middle of central India --
+
+39
+00:01:56,820 --> 00:01:58,820
+this is in a Rajasthan village,
+
+40
+00:01:58,820 --> 00:02:01,820
+where the children recorded their own music
+
+41
+00:02:01,820 --> 00:02:04,820
+and then played it back to each other
+
+42
+00:02:04,820 --> 00:02:06,820
+and in the process,
+
+43
+00:02:06,820 --> 00:02:08,820
+they've enjoyed themselves thoroughly.
+
+44
+00:02:08,820 --> 00:02:10,820
+They did all of this in four hours
+
+45
+00:02:10,820 --> 00:02:13,820
+after seeing the computer for the first time.
+
+46
+00:02:13,820 --> 00:02:16,820
+In another South Indian village,
+
+47
+00:02:16,820 --> 00:02:18,820
+these boys here
+
+48
+00:02:18,820 --> 00:02:20,820
+had assembled a video camera
+
+49
+00:02:20,820 --> 00:02:22,820
+and were trying to take the photograph of a bumble bee.
+
+50
+00:02:22,820 --> 00:02:24,820
+They downloaded it from Disney.com,
+
+51
+00:02:24,820 --> 00:02:26,820
+or one of these websites,
+
+52
+00:02:26,820 --> 00:02:29,820
+14 days after putting the computer in their village.
+
+53
+00:02:32,820 --> 00:02:34,820
+So at the end of it,
+
+54
+00:02:34,820 --> 00:02:36,820
+we concluded that groups of children
+
+55
+00:02:36,820 --> 00:02:39,820
+can learn to use computers and the internet on their own,
+
+56
+00:02:39,820 --> 00:02:41,820
+irrespective of who
+
+57
+00:02:41,820 --> 00:02:44,820
+or where they were.
+
+58
+00:02:44,820 --> 00:02:47,820
+At that point, I became a little more ambitious
+
+59
+00:02:47,820 --> 00:02:50,820
+and decided to see
+
+60
+00:02:50,820 --> 00:02:53,820
+what else could children do with a computer.
+
+61
+00:02:53,820 --> 00:02:56,820
+We started off with an experiment in Hyderabad, India,
+
+62
+00:02:56,820 --> 00:02:59,820
+where I gave a group of children --
+
+63
+00:02:59,820 --> 00:03:02,820
+they spoke English with a very strong Telugu accent.
+
+64
+00:03:02,820 --> 00:03:04,820
+I gave them a computer
+
+65
+00:03:04,820 --> 00:03:06,820
+with a speech-to-text interface,
+
+66
+00:03:06,820 --> 00:03:09,820
+which you now get free with Windows,
+
+67
+00:03:09,820 --> 00:03:11,820
+and asked them to speak into it.
+
+68
+00:03:11,820 --> 00:03:13,820
+So when they spoke into it,
+
+69
+00:03:13,820 --> 00:03:15,820
+the computer typed out gibberish,
+
+70
+00:03:15,820 --> 00:03:17,820
+so they said, "Well, it doesn't understand anything of what we are saying."
+
+71
+00:03:17,820 --> 00:03:19,820
+So I said, "Yeah, I'll leave it here for two months.
+
+72
+00:03:19,820 --> 00:03:21,820
+Make yourself understood
+
+73
+00:03:21,820 --> 00:03:23,820
+to the computer."
+
+74
+00:03:23,820 --> 00:03:25,820
+So the children said, "How do we do that."
+
+75
+00:03:25,820 --> 00:03:27,820
+And I said,
+
+76
+00:03:27,820 --> 00:03:29,820
+"I don't know, actually."
+
+77
+00:03:29,820 --> 00:03:31,820
+(Laughter)
+
+78
+00:03:31,820 --> 00:03:33,820
+And I left.
+
+79
+00:03:33,820 --> 00:03:35,820
+(Laughter)
+
+80
+00:03:36,820 --> 00:03:38,820
+Two months later --
+
+81
+00:03:38,820 --> 00:03:40,820
+and this is now documented
+
+82
+00:03:40,820 --> 00:03:42,820
+in the Information Technology
+
+83
+00:03:42,820 --> 00:03:44,820
+for International Development journal --
+
+84
+00:03:44,820 --> 00:03:46,820
+that accents had changed
+
+85
+00:03:46,820 --> 00:03:49,820
+and were remarkably close to the neutral British accent
+
+86
+00:03:49,820 --> 00:03:52,820
+in which I had trained the speech-to-text synthesizer.
+
+87
+00:03:52,820 --> 00:03:55,820
+In other words, they were all speaking like James Tooley.
+
+88
+00:03:55,820 --> 00:03:57,820
+(Laughter)
+
+89
+00:03:57,820 --> 00:03:59,820
+So they could do that on their own.
+
+90
+00:03:59,820 --> 00:04:01,820
+After that, I started to experiment
+
+91
+00:04:01,820 --> 00:04:03,820
+with various other things
+
+92
+00:04:03,820 --> 00:04:05,820
+that they might learn to do on their own.
+
+93
+00:04:05,820 --> 00:04:08,820
+I got an interesting phone call once from Columbo,
+
+94
+00:04:08,820 --> 00:04:10,820
+from the late Arthur C. Clarke,
+
+95
+00:04:10,820 --> 00:04:12,820
+who said, "I want to see what's going on."
+
+96
+00:04:12,820 --> 00:04:15,820
+And he couldn't travel, so I went over there.
+
+97
+00:04:15,820 --> 00:04:17,820
+He said two interesting things,
+
+98
+00:04:17,820 --> 00:04:22,820
+"A teacher that can be replaced by a machine should be."
+
+99
+00:04:22,820 --> 00:04:24,820
+(Laughter)
+
+100
+00:04:24,820 --> 00:04:26,820
+The second thing he said was that,
+
+101
+00:04:26,820 --> 00:04:28,820
+"If children have interest,
+
+102
+00:04:28,820 --> 00:04:31,820
+then education happens."
+
+103
+00:04:31,820 --> 00:04:33,820
+And I was doing that in the field,
+
+104
+00:04:33,820 --> 00:04:35,820
+so every time I would watch it and think of him.
+
+105
+00:04:35,820 --> 00:04:38,820
+(Video) Arthur C. Clarke: And they can definitely
+
+106
+00:04:38,820 --> 00:04:40,820
+help people,
+
+107
+00:04:40,820 --> 00:04:42,820
+because children quickly learn to navigate
+
+108
+00:04:42,820 --> 00:04:45,820
+the web and find things which interest them.
+
+109
+00:04:45,820 --> 00:04:48,820
+And when you've got interest, then you have education.
+
+110
+00:04:48,820 --> 00:04:51,820
+Sugata Mitra: I took the experiment to South Africa.
+
+111
+00:04:51,820 --> 00:04:53,820
+This is a 15 year-old boy.
+
+112
+00:04:53,820 --> 00:04:56,820
+(Video) Boy: ... just mention, I play games
+
+113
+00:04:56,820 --> 00:04:59,820
+like animals,
+
+114
+00:04:59,820 --> 00:05:02,820
+and I listen to music.
+
+115
+00:05:02,820 --> 00:05:04,820
+SM: And I asked him, "Do you send emails?"
+
+116
+00:05:04,820 --> 00:05:07,820
+And he said, "Yes, and they hop across the ocean."
+
+117
+00:05:08,820 --> 00:05:10,820
+This is in Cambodia,
+
+118
+00:05:10,820 --> 00:05:13,820
+rural Cambodia --
+
+119
+00:05:13,820 --> 00:05:16,820
+a fairly silly arithmetic game,
+
+120
+00:05:16,820 --> 00:05:18,820
+which no child would play inside the classroom or at home.
+
+121
+00:05:18,820 --> 00:05:20,820
+They would, you know, throw it back at you.
+
+122
+00:05:20,820 --> 00:05:22,820
+They'd say, "This is very boring."
+
+123
+00:05:22,820 --> 00:05:24,820
+If you leave it on the pavement
+
+124
+00:05:24,820 --> 00:05:26,820
+and if all the adults go away,
+
+125
+00:05:26,820 --> 00:05:28,820
+then they will show off with each other
+
+126
+00:05:28,820 --> 00:05:30,820
+about what they can do.
+
+127
+00:05:30,820 --> 00:05:32,820
+This is what these children are doing.
+
+128
+00:05:32,820 --> 00:05:35,820
+They are trying to multiply, I think.
+
+129
+00:05:35,820 --> 00:05:37,820
+And all over India,
+
+130
+00:05:37,820 --> 00:05:39,820
+at the end of about two years,
+
+131
+00:05:39,820 --> 00:05:42,820
+children were beginning to Google their homework.
+
+132
+00:05:42,820 --> 00:05:44,820
+As a result, the teachers reported
+
+133
+00:05:44,820 --> 00:05:46,820
+tremendous improvements in their English --
+
+134
+00:05:46,820 --> 00:05:50,820
+(Laughter)
+
+135
+00:05:50,820 --> 00:05:52,820
+rapid improvement and all sorts of things.
+
+136
+00:05:52,820 --> 00:05:55,820
+They said, "They have become really deep thinkers and so on and so forth.
+
+137
+00:05:55,820 --> 00:05:58,820
+(Laughter)
+
+138
+00:05:58,820 --> 00:06:00,820
+And indeed they had.
+
+139
+00:06:00,820 --> 00:06:02,820
+I mean, if there's stuff on Google,
+
+140
+00:06:02,820 --> 00:06:05,820
+why would you need to stuff it into your head?
+
+141
+00:06:06,820 --> 00:06:08,820
+So at the end of the next four years,
+
+142
+00:06:08,820 --> 00:06:11,820
+I decided that groups of children can navigate the internet
+
+143
+00:06:11,820 --> 00:06:14,820
+to achieve educational objectives on their own.
+
+144
+00:06:14,820 --> 00:06:16,820
+At that time, a large amount of money
+
+145
+00:06:16,820 --> 00:06:18,820
+had come into Newcastle University
+
+146
+00:06:18,820 --> 00:06:21,820
+to improve schooling in India.
+
+147
+00:06:21,820 --> 00:06:24,820
+So Newcastle gave me a call. I said, "I'll do it from Delhi."
+
+148
+00:06:24,820 --> 00:06:26,820
+They said, "There's no way you're going to handle
+
+149
+00:06:26,820 --> 00:06:29,820
+a million pounds-worth of University money
+
+150
+00:06:29,820 --> 00:06:31,820
+sitting in Delhi."
+
+151
+00:06:31,820 --> 00:06:33,820
+So in 2006,
+
+152
+00:06:33,820 --> 00:06:35,820
+I bought myself a heavy overcoat
+
+153
+00:06:35,820 --> 00:06:37,820
+and moved to Newcastle.
+
+154
+00:06:38,820 --> 00:06:40,820
+I wanted to test the limits
+
+155
+00:06:40,820 --> 00:06:42,820
+of the system.
+
+156
+00:06:42,820 --> 00:06:44,820
+The first experiment I did out of Newcastle
+
+157
+00:06:44,820 --> 00:06:46,820
+was actually done in India.
+
+158
+00:06:46,820 --> 00:06:49,820
+And I set myself and impossible target:
+
+159
+00:06:49,820 --> 00:06:52,820
+can Tamil speaking
+
+160
+00:06:52,820 --> 00:06:54,820
+12-year-old children
+
+161
+00:06:54,820 --> 00:06:57,820
+in a South Indian village
+
+162
+00:06:57,820 --> 00:06:59,820
+teach themselves biotechnology
+
+163
+00:06:59,820 --> 00:07:01,820
+in English on their own?
+
+164
+00:07:01,820 --> 00:07:04,820
+And I thought, I'll test them, they'll get a zero --
+
+165
+00:07:04,820 --> 00:07:06,820
+I'll give the materials, I'll come back and test them --
+
+166
+00:07:06,820 --> 00:07:08,820
+they get another zero,
+
+167
+00:07:08,820 --> 00:07:12,820
+I'll go back and say, "Yes, we need teachers for certain things."
+
+168
+00:07:12,820 --> 00:07:14,820
+I called in 26 children.
+
+169
+00:07:14,820 --> 00:07:16,820
+They all came in there, and I told them
+
+170
+00:07:16,820 --> 00:07:18,820
+that there's some really difficult stuff on this computer.
+
+171
+00:07:18,820 --> 00:07:21,820
+I wouldn't be surprised if you didn't understand anything.
+
+172
+00:07:21,820 --> 00:07:24,820
+It's all in English, and I'm going.
+
+173
+00:07:24,820 --> 00:07:26,820
+(Laughter)
+
+174
+00:07:26,820 --> 00:07:28,820
+So I left them with it.
+
+175
+00:07:28,820 --> 00:07:30,820
+I came back after two months,
+
+176
+00:07:30,820 --> 00:07:32,820
+and the 26 children marched in looking very, very quiet.
+
+177
+00:07:32,820 --> 00:07:35,820
+I said, "Well, did you look at any of the stuff?"
+
+178
+00:07:35,820 --> 00:07:37,820
+They said, "Yes, we did."
+
+179
+00:07:37,820 --> 00:07:40,820
+"Did you understand anything?" "No, nothing."
+
+180
+00:07:40,820 --> 00:07:42,820
+So I said,
+
+181
+00:07:42,820 --> 00:07:44,820
+"Well, how long did you practice on it
+
+182
+00:07:44,820 --> 00:07:46,820
+before you decided you understood nothing?"
+
+183
+00:07:46,820 --> 00:07:49,820
+They said, "We look at it every day."
+
+184
+00:07:49,820 --> 00:07:51,820
+So I said, "For two months, you were looking at stuff you didn't understand?"
+
+185
+00:07:51,820 --> 00:07:53,820
+So a 12 year-old girl raises her hand and says,
+
+186
+00:07:53,820 --> 00:07:55,820
+literally,
+
+187
+00:07:56,820 --> 00:07:59,820
+"Apart from the fact that improper replication of the DNA molecule
+
+188
+00:07:59,820 --> 00:08:01,820
+causes genetic disease,
+
+189
+00:08:01,820 --> 00:08:03,820
+we've understood nothing else."
+
+190
+00:08:03,820 --> 00:08:05,820
+(Laughter)
+
+191
+00:08:05,820 --> 00:08:12,820
+(Applause)
+
+192
+00:08:12,820 --> 00:08:15,820
+(Laughter)
+
+193
+00:08:15,820 --> 00:08:17,820
+It took me three years to publish that.
+
+194
+00:08:17,820 --> 00:08:20,820
+It's just been published in the British Journal of Educational Technology.
+
+195
+00:08:20,820 --> 00:08:23,820
+One of the referees who refereed the paper said,
+
+196
+00:08:23,820 --> 00:08:26,820
+"It's too good to be true,"
+
+197
+00:08:26,820 --> 00:08:28,820
+which was not very nice.
+
+198
+00:08:28,820 --> 00:08:30,820
+Well, one of the girls had taught herself
+
+199
+00:08:30,820 --> 00:08:32,820
+to become the teacher.
+
+200
+00:08:32,820 --> 00:08:34,820
+And then that's her over there.
+
+201
+00:08:42,820 --> 00:08:44,820
+Remember, they don't study English.
+
+202
+00:08:57,820 --> 00:09:00,820
+I edited out the last bit when I asked, "Where is the neuron?"
+
+203
+00:09:00,820 --> 00:09:02,820
+and she says, "The neuron? The neuron,"
+
+204
+00:09:02,820 --> 00:09:05,820
+and then she looked and did this.
+
+205
+00:09:05,820 --> 00:09:08,820
+Whatever the expression, it was not very nice.
+
+206
+00:09:08,820 --> 00:09:11,820
+So their scores had gone up from zero to 30 percent,
+
+207
+00:09:11,820 --> 00:09:14,820
+which is an educational impossibility under the circumstances.
+
+208
+00:09:14,820 --> 00:09:17,820
+But 30 percent is not a pass.
+
+209
+00:09:17,820 --> 00:09:19,820
+So I found that they had a friend,
+
+210
+00:09:19,820 --> 00:09:21,820
+a local accountant, a young girl,
+
+211
+00:09:21,820 --> 00:09:23,820
+and they played football with her.
+
+212
+00:09:23,820 --> 00:09:25,820
+I asked that girl, "Would you teach them
+
+213
+00:09:25,820 --> 00:09:27,820
+enough biotechnology to pass?"
+
+214
+00:09:27,820 --> 00:09:29,820
+And she said, "How would I do that? I don't know the subject."
+
+215
+00:09:29,820 --> 00:09:31,820
+I said, "No, use the method of the grandmother."
+
+216
+00:09:31,820 --> 00:09:33,820
+She said, "What's that?"
+
+217
+00:09:33,820 --> 00:09:35,820
+I said, "Well, what you've got to do
+
+218
+00:09:35,820 --> 00:09:37,820
+is stand behind them
+
+219
+00:09:37,820 --> 00:09:40,820
+and admire them all the time.
+
+220
+00:09:40,820 --> 00:09:42,820
+Just say to them, 'That's cool. That's fantastic.
+
+221
+00:09:42,820 --> 00:09:45,820
+What is that? Can you do that again? Can you show me some more?'"
+
+222
+00:09:45,820 --> 00:09:47,820
+She did that for two months.
+
+223
+00:09:47,820 --> 00:09:49,820
+The scores went up to 50,
+
+224
+00:09:49,820 --> 00:09:51,820
+which is what the posh schools of New Delhi,
+
+225
+00:09:51,820 --> 00:09:54,820
+with a trained biotechnology teacher were getting.
+
+226
+00:09:54,820 --> 00:09:56,820
+So I came back to Newcastle
+
+227
+00:09:56,820 --> 00:09:58,820
+with these results
+
+228
+00:09:58,820 --> 00:10:00,820
+and decided
+
+229
+00:10:00,820 --> 00:10:02,820
+that there was something happening here
+
+230
+00:10:02,820 --> 00:10:05,820
+that definitely was getting very serious.
+
+231
+00:10:06,820 --> 00:10:09,820
+So, having experimented in all sorts of remote places,
+
+232
+00:10:09,820 --> 00:10:12,820
+I came to the most remote place that I could think of.
+
+233
+00:10:12,820 --> 00:10:14,820
+(Laughter)
+
+234
+00:10:15,820 --> 00:10:18,820
+Approximately 5,000 miles from Delhi
+
+235
+00:10:18,820 --> 00:10:20,820
+is the little town of Gateshead.
+
+236
+00:10:20,820 --> 00:10:23,820
+In Gateshead, I took 32 children
+
+237
+00:10:23,820 --> 00:10:26,820
+and I started to fine-tune the method.
+
+238
+00:10:26,820 --> 00:10:29,820
+I made them into groups of four.
+
+239
+00:10:29,820 --> 00:10:31,820
+I said, "You make your own groups of four.
+
+240
+00:10:31,820 --> 00:10:34,820
+Each group of four can use one computer and not four computers."
+
+241
+00:10:34,820 --> 00:10:37,820
+Remember, from the Hole in the Wall.
+
+242
+00:10:37,820 --> 00:10:39,820
+"You can exchange groups.
+
+243
+00:10:39,820 --> 00:10:41,820
+You can walk across to another group,
+
+244
+00:10:41,820 --> 00:10:43,820
+if you don't like your group, etc.
+
+245
+00:10:43,820 --> 00:10:46,820
+You can go to another group, peer over their shoulders, see what they're doing,
+
+246
+00:10:46,820 --> 00:10:49,820
+come back to you own group and claim it as your own work."
+
+247
+00:10:49,820 --> 00:10:51,820
+And I explained to them
+
+248
+00:10:51,820 --> 00:10:54,820
+that, you know, a lot of scientific research is done using that method.
+
+249
+00:10:54,820 --> 00:10:56,820
+(Laughter)
+
+250
+00:10:56,820 --> 00:11:01,820
+(Applause)
+
+251
+00:11:03,820 --> 00:11:05,820
+The children enthusiastically got after me and said,
+
+252
+00:11:05,820 --> 00:11:07,820
+"Now, what do you want us to do?"
+
+253
+00:11:07,820 --> 00:11:10,820
+I gave them six GCSE questions.
+
+254
+00:11:10,820 --> 00:11:12,820
+The first group -- the best one --
+
+255
+00:11:12,820 --> 00:11:14,820
+solved everything in 20 minutes.
+
+256
+00:11:14,820 --> 00:11:17,820
+The worst, in 45.
+
+257
+00:11:17,820 --> 00:11:19,820
+They used everything that they knew --
+
+258
+00:11:19,820 --> 00:11:21,820
+news groups, Google, Wikipedia,
+
+259
+00:11:21,820 --> 00:11:23,820
+Ask Jeeves, etc.
+
+260
+00:11:23,820 --> 00:11:26,820
+The teachers said, "Is this deep learning?"
+
+261
+00:11:26,820 --> 00:11:28,820
+I said, "Well, let's try it.
+
+262
+00:11:28,820 --> 00:11:30,820
+I'll come back after two months.
+
+263
+00:11:30,820 --> 00:11:32,820
+We'll give them a paper test --
+
+264
+00:11:32,820 --> 00:11:34,820
+no computers, no talking to each other, etc."
+
+265
+00:11:34,820 --> 00:11:36,820
+The average score when I'd done it with the computers and the groups
+
+266
+00:11:36,820 --> 00:11:38,820
+was 76 percent.
+
+267
+00:11:38,820 --> 00:11:40,820
+When I did the experiment, when I did the test,
+
+268
+00:11:40,820 --> 00:11:43,820
+after two months, the score
+
+269
+00:11:43,820 --> 00:11:46,820
+was 76 percent.
+
+270
+00:11:46,820 --> 00:11:48,820
+There was photographic recall
+
+271
+00:11:48,820 --> 00:11:50,820
+inside the children,
+
+272
+00:11:50,820 --> 00:11:53,820
+I suspect because they're discussing with each other.
+
+273
+00:11:53,820 --> 00:11:55,820
+A single child in front of a single computer
+
+274
+00:11:55,820 --> 00:11:57,820
+will not do that.
+
+275
+00:11:57,820 --> 00:11:59,820
+I have further results,
+
+276
+00:11:59,820 --> 00:12:01,820
+which are almost unbelievable,
+
+277
+00:12:01,820 --> 00:12:03,820
+of scores which go up with time.
+
+278
+00:12:03,820 --> 00:12:05,820
+Because their teachers say
+
+279
+00:12:05,820 --> 00:12:07,820
+that after the session is over,
+
+280
+00:12:07,820 --> 00:12:10,820
+the children continue to Google further.
+
+281
+00:12:10,820 --> 00:12:12,820
+Here in Britain, I put out a call
+
+282
+00:12:12,820 --> 00:12:14,820
+for British grandmothers,
+
+283
+00:12:14,820 --> 00:12:16,820
+after my Kuppam experiment.
+
+284
+00:12:16,820 --> 00:12:18,820
+Well, you know,
+
+285
+00:12:18,820 --> 00:12:20,820
+they're very vigorous people, British grandmothers.
+
+286
+00:12:20,820 --> 00:12:22,820
+200 of them volunteered immediately.
+
+287
+00:12:22,820 --> 00:12:24,820
+(Laughter)
+
+288
+00:12:24,820 --> 00:12:27,820
+The deal was that they would give me
+
+289
+00:12:27,820 --> 00:12:29,820
+one hour of broadband time,
+
+290
+00:12:29,820 --> 00:12:31,820
+sitting in their homes,
+
+291
+00:12:31,820 --> 00:12:33,820
+one day in a week.
+
+292
+00:12:33,820 --> 00:12:35,820
+So they did that,
+
+293
+00:12:35,820 --> 00:12:37,820
+and over the last two years,
+
+294
+00:12:37,820 --> 00:12:39,820
+over 600 hours of instruction
+
+295
+00:12:39,820 --> 00:12:41,820
+has happened over Skype,
+
+296
+00:12:41,820 --> 00:12:44,820
+using what my students call the granny cloud.
+
+297
+00:12:44,820 --> 00:12:47,820
+The granny cloud sits over there.
+
+298
+00:12:47,820 --> 00:12:50,820
+I can beam them to whichever school I want to.
+
+299
+00:12:56,820 --> 00:12:58,820
+(Video) Teacher: You can't catch me.
+
+300
+00:12:58,820 --> 00:13:01,820
+You say it.
+
+301
+00:13:01,820 --> 00:13:04,820
+You can't catch me.
+
+302
+00:13:04,820 --> 00:13:07,820
+Children: You can't catch me.
+
+303
+00:13:07,820 --> 00:13:10,820
+Teacher: I'm the gingerbread man.
+
+304
+00:13:10,820 --> 00:13:12,820
+Children: I'm the gingerbread man.
+
+305
+00:13:12,820 --> 00:13:14,820
+Teacher: Well done. Very good ...
+
+306
+00:13:20,820 --> 00:13:22,820
+SM: Back at Gateshead,
+
+307
+00:13:22,820 --> 00:13:24,820
+a 10-year-old girl gets into the heart of Hinduism
+
+308
+00:13:24,820 --> 00:13:26,820
+in 15 minutes.
+
+309
+00:13:26,820 --> 00:13:29,820
+You know, stuff which I don't know anything about.
+
+310
+00:13:32,820 --> 00:13:34,820
+Two children watch a TEDTalk.
+
+311
+00:13:34,820 --> 00:13:36,820
+They wanted to be footballers before.
+
+312
+00:13:36,820 --> 00:13:38,820
+After watching eight TEDTalks,
+
+313
+00:13:38,820 --> 00:13:41,820
+he wants to become Leonardo da Vinci.
+
+314
+00:13:41,820 --> 00:13:44,820
+(Laughter)
+
+315
+00:13:44,820 --> 00:13:47,820
+(Applause)
+
+316
+00:13:47,820 --> 00:13:49,820
+It's pretty simple stuff.
+
+317
+00:13:49,820 --> 00:13:51,820
+This is what I'm building now --
+
+318
+00:13:51,820 --> 00:13:54,820
+they're called SOLEs: Self Organized Learning Environments.
+
+319
+00:13:54,820 --> 00:13:56,820
+The furniture is designed
+
+320
+00:13:56,820 --> 00:13:59,820
+so that children can sit in front of big, powerful screens,
+
+321
+00:13:59,820 --> 00:14:02,820
+big broadband connections, but in groups.
+
+322
+00:14:02,820 --> 00:14:05,820
+If they want, they can call the granny cloud.
+
+323
+00:14:05,820 --> 00:14:07,820
+This is a SOLE in Newcastle.
+
+324
+00:14:07,820 --> 00:14:09,820
+The mediator is from Pune, India.
+
+325
+00:14:09,820 --> 00:14:12,820
+So how far can we go? One last little bit and I'll stop.
+
+326
+00:14:12,820 --> 00:14:15,820
+I went to Turin in May.
+
+327
+00:14:16,820 --> 00:14:19,820
+I sent all the teachers away from my group of 10 year-old students.
+
+328
+00:14:20,820 --> 00:14:23,820
+I speak only English, they speak only Italian,
+
+329
+00:14:23,820 --> 00:14:25,820
+so we had no way to communicate.
+
+330
+00:14:25,820 --> 00:14:28,820
+I started writing English questions on the blackboard.
+
+331
+00:14:29,820 --> 00:14:31,820
+The children looked at it and said, "What?"
+
+332
+00:14:31,820 --> 00:14:33,820
+I said, "Well, do it."
+
+333
+00:14:33,820 --> 00:14:36,820
+They typed it into Google, translated it into Italian,
+
+334
+00:14:36,820 --> 00:14:38,820
+went back into Italian Google.
+
+335
+00:14:38,820 --> 00:14:41,820
+Fifteen minutes later --
+
+336
+00:14:48,820 --> 00:14:51,820
+next question: where is Calcutta?
+
+337
+00:14:53,820 --> 00:14:56,820
+This one, they took only 10 minutes.
+
+338
+00:15:00,820 --> 00:15:03,820
+I tried a really hard one then.
+
+339
+00:15:03,820 --> 00:15:06,820
+Who was Pythagoras, and what did he do?
+
+340
+00:15:08,820 --> 00:15:10,820
+There was silence for a while,
+
+341
+00:15:10,820 --> 00:15:12,820
+then they said, "You've spelled it wrong.
+
+342
+00:15:12,820 --> 00:15:15,820
+It's Pitagora."
+
+343
+00:15:19,820 --> 00:15:21,820
+And then,
+
+344
+00:15:21,820 --> 00:15:23,820
+in 20 minutes,
+
+345
+00:15:23,820 --> 00:15:25,820
+the right-angled triangles began to appear on the screens.
+
+346
+00:15:25,820 --> 00:15:28,820
+This sent shivers up my spine.
+
+347
+00:15:28,820 --> 00:15:30,820
+These are 10 year-olds.
+
+348
+00:15:43,820 --> 00:15:46,820
+Text: In another 30 minutes they would reach the Theory of Relativity. And then?
+
+349
+00:15:46,820 --> 00:15:48,820
+(Laughter)
+
+350
+00:15:48,820 --> 00:15:57,820
+(Applause)
+
+351
+00:15:57,820 --> 00:15:59,820
+SM: So you know what's happened?
+
+352
+00:15:59,820 --> 00:16:01,820
+I think we've just stumbled across
+
+353
+00:16:01,820 --> 00:16:03,820
+a self-organizing system.
+
+354
+00:16:03,820 --> 00:16:05,820
+A self-organizing system is one
+
+355
+00:16:05,820 --> 00:16:07,820
+where a structure appears
+
+356
+00:16:07,820 --> 00:16:10,820
+without explicit intervention from the outside.
+
+357
+00:16:10,820 --> 00:16:13,820
+Self-organizing systems also always show emergence,
+
+358
+00:16:13,820 --> 00:16:15,820
+which is that the system starts to do things,
+
+359
+00:16:15,820 --> 00:16:17,820
+which it was never designed for.
+
+360
+00:16:17,820 --> 00:16:19,820
+Which is why you react the way you do,
+
+361
+00:16:19,820 --> 00:16:22,820
+because it looks impossible.
+
+362
+00:16:22,820 --> 00:16:25,820
+I think I can make a guess now --
+
+363
+00:16:25,820 --> 00:16:27,820
+education is self-organizing system,
+
+364
+00:16:27,820 --> 00:16:29,820
+where learning is an emergent phenomenon.
+
+365
+00:16:29,820 --> 00:16:31,820
+It'll take a few years to prove it, experimentally,
+
+366
+00:16:31,820 --> 00:16:33,820
+but I'm going to try.
+
+367
+00:16:33,820 --> 00:16:36,820
+But in the meanwhile, there is a method available.
+
+368
+00:16:36,820 --> 00:16:39,820
+One billion children, we need 100 million mediators --
+
+369
+00:16:39,820 --> 00:16:41,820
+there are many more than that on the planet --
+
+370
+00:16:41,820 --> 00:16:43,820
+10 million SOLEs,
+
+371
+00:16:43,820 --> 00:16:46,820
+180 billion dollars and 10 years.
+
+372
+00:16:47,820 --> 00:16:49,820
+We could change everything.
+
+373
+00:16:49,820 --> 00:16:51,820
+Thanks.
+
+374
+00:16:51,820 --> 00:17:02,820
+(Applause)
+

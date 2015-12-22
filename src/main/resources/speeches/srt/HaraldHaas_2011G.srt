@@ -1,0 +1,1176 @@
+﻿1
+00:00:11,820 --> 00:00:13,820
+Do you know
+
+2
+00:00:13,820 --> 00:00:16,820
+that we have 1.4 million cellular radio masts
+
+3
+00:00:16,820 --> 00:00:18,820
+deployed worldwide?
+
+4
+00:00:18,820 --> 00:00:20,820
+And these are base stations.
+
+5
+00:00:20,820 --> 00:00:22,820
+And we also have
+
+6
+00:00:22,820 --> 00:00:24,820
+more than five billion
+
+7
+00:00:24,820 --> 00:00:26,820
+of these devices here.
+
+8
+00:00:26,820 --> 00:00:29,820
+These are cellular mobile phones.
+
+9
+00:00:29,820 --> 00:00:31,820
+And with these mobile phones,
+
+10
+00:00:31,820 --> 00:00:33,820
+we transmit more than 600 terabytes of data
+
+11
+00:00:33,820 --> 00:00:35,820
+every month.
+
+12
+00:00:35,820 --> 00:00:37,820
+This is a 6 with 14 zeroes --
+
+13
+00:00:37,820 --> 00:00:39,820
+a very large number.
+
+14
+00:00:39,820 --> 00:00:42,820
+And wireless communications
+
+15
+00:00:42,820 --> 00:00:45,820
+has become a utility
+
+16
+00:00:45,820 --> 00:00:47,820
+like electricity and water.
+
+17
+00:00:47,820 --> 00:00:50,820
+We use it everyday. We use it in our everyday lives now --
+
+18
+00:00:50,820 --> 00:00:52,820
+in our private lives, in our business lives.
+
+19
+00:00:52,820 --> 00:00:56,820
+And we even have to be asked sometimes, very kindly,
+
+20
+00:00:56,820 --> 00:00:58,820
+to switch off the mobile phone at events like this
+
+21
+00:00:58,820 --> 00:01:01,820
+for good reasons.
+
+22
+00:01:01,820 --> 00:01:03,820
+And it's this importance
+
+23
+00:01:03,820 --> 00:01:05,820
+why I decided to look into the issues
+
+24
+00:01:05,820 --> 00:01:07,820
+that this technology has,
+
+25
+00:01:07,820 --> 00:01:10,820
+because it's so fundamental to our lives.
+
+26
+00:01:10,820 --> 00:01:12,820
+And one of the issues is capacity.
+
+27
+00:01:12,820 --> 00:01:15,820
+The way we transmit wireless data is by using electromagnetic waves --
+
+28
+00:01:15,820 --> 00:01:18,820
+in particular, radio waves.
+
+29
+00:01:18,820 --> 00:01:20,820
+And radio waves are limited.
+
+30
+00:01:20,820 --> 00:01:22,820
+They are scarce; they are expensive;
+
+31
+00:01:22,820 --> 00:01:25,820
+and we only have a certain range of it.
+
+32
+00:01:26,820 --> 00:01:28,820
+And it's this limitation
+
+33
+00:01:28,820 --> 00:01:30,820
+that doesn't cope
+
+34
+00:01:30,820 --> 00:01:32,820
+with the demand of wireless data transmissions
+
+35
+00:01:32,820 --> 00:01:35,820
+and the number of bytes and data which are transmitted every month.
+
+36
+00:01:35,820 --> 00:01:37,820
+And we are simply running out of spectrum.
+
+37
+00:01:37,820 --> 00:01:39,820
+There's another problem.
+
+38
+00:01:39,820 --> 00:01:41,820
+That is efficiency.
+
+39
+00:01:41,820 --> 00:01:44,820
+These 1.4 million cellular radio masts, or base stations,
+
+40
+00:01:44,820 --> 00:01:46,820
+consume a lot of energy.
+
+41
+00:01:46,820 --> 00:01:48,820
+And mind you, most of the energy
+
+42
+00:01:48,820 --> 00:01:50,820
+is not used to transmit the radio waves,
+
+43
+00:01:50,820 --> 00:01:53,820
+it is used to cool the base stations.
+
+44
+00:01:53,820 --> 00:01:55,820
+Then the efficiency of such a base station
+
+45
+00:01:55,820 --> 00:01:58,820
+is only at about five percent.
+
+46
+00:01:58,820 --> 00:02:01,820
+And that creates a big problem.
+
+47
+00:02:01,820 --> 00:02:04,820
+Then there's another issue that you're all aware of.
+
+48
+00:02:04,820 --> 00:02:06,820
+You have to switch off your mobile phone
+
+49
+00:02:06,820 --> 00:02:08,820
+during flights.
+
+50
+00:02:08,820 --> 00:02:11,820
+In hospitals, they are security issues.
+
+51
+00:02:11,820 --> 00:02:14,820
+And security is another issue.
+
+52
+00:02:14,820 --> 00:02:16,820
+These radio waves penetrate through walls.
+
+53
+00:02:16,820 --> 00:02:18,820
+They can be intercepted,
+
+54
+00:02:18,820 --> 00:02:21,820
+and somebody can make use of your network
+
+55
+00:02:21,820 --> 00:02:23,820
+if he has bad intentions.
+
+56
+00:02:23,820 --> 00:02:25,820
+So these are the main four issues.
+
+57
+00:02:25,820 --> 00:02:27,820
+But on the other hand,
+
+58
+00:02:27,820 --> 00:02:29,820
+we have 14 billion of these:
+
+59
+00:02:29,820 --> 00:02:32,820
+light bulbs, light.
+
+60
+00:02:32,820 --> 00:02:35,820
+And light is part of the electromagnetic spectrum.
+
+61
+00:02:35,820 --> 00:02:37,820
+So let's look at this in the context
+
+62
+00:02:37,820 --> 00:02:40,820
+of the entire electromagnetic spectrum, where we have gamma rays.
+
+63
+00:02:40,820 --> 00:02:42,820
+You don't want to get close to gamma rays, it could be dangerous.
+
+64
+00:02:42,820 --> 00:02:45,820
+X-rays, useful when you go to hospitals.
+
+65
+00:02:45,820 --> 00:02:47,820
+Then there's ultraviolet light.
+
+66
+00:02:47,820 --> 00:02:49,820
+it's good for a nice suntan,
+
+67
+00:02:49,820 --> 00:02:51,820
+but otherwise dangerous for the human body.
+
+68
+00:02:51,820 --> 00:02:53,820
+Infrared --
+
+69
+00:02:53,820 --> 00:02:55,820
+due to eye safety regulations,
+
+70
+00:02:55,820 --> 00:02:57,820
+can be only used with low power.
+
+71
+00:02:57,820 --> 00:03:00,820
+And then we have the radio waves, they have the issues I've just mentioned.
+
+72
+00:03:00,820 --> 00:03:03,820
+And in the middle there, we have this visible light spectrum.
+
+73
+00:03:03,820 --> 00:03:05,820
+It's light,
+
+74
+00:03:05,820 --> 00:03:07,820
+and light has been around for many millions of years.
+
+75
+00:03:07,820 --> 00:03:10,820
+And in fact, it has created us,
+
+76
+00:03:10,820 --> 00:03:12,820
+has created life,
+
+77
+00:03:12,820 --> 00:03:14,820
+has created all the stuff of life.
+
+78
+00:03:14,820 --> 00:03:17,820
+So it's inherently safe to use.
+
+79
+00:03:17,820 --> 00:03:21,820
+And wouldn't it be great to use that for wireless communications?
+
+80
+00:03:21,820 --> 00:03:24,820
+Not only that, I compared [it to] the entire spectrum.
+
+81
+00:03:24,820 --> 00:03:26,820
+I compared the radio waves spectrum --
+
+82
+00:03:26,820 --> 00:03:28,820
+the size of it --
+
+83
+00:03:28,820 --> 00:03:30,820
+with the size of the visible light spectrum.
+
+84
+00:03:30,820 --> 00:03:32,820
+And guess what?
+
+85
+00:03:32,820 --> 00:03:35,820
+We have 10,000 times more of that spectrum,
+
+86
+00:03:35,820 --> 00:03:38,820
+which is there for us to use.
+
+87
+00:03:38,820 --> 00:03:41,820
+So not only do we have this huge amount of spectrum,
+
+88
+00:03:41,820 --> 00:03:43,820
+let's compare that with a number I've just mentioned.
+
+89
+00:03:43,820 --> 00:03:45,820
+We have 1.4 million
+
+90
+00:03:45,820 --> 00:03:47,820
+expensively deployed,
+
+91
+00:03:47,820 --> 00:03:50,820
+inefficient radio cellular base stations.
+
+92
+00:03:50,820 --> 00:03:52,820
+And multiply that by 10,000,
+
+93
+00:03:52,820 --> 00:03:54,820
+then you end up at 14 billion.
+
+94
+00:03:54,820 --> 00:03:57,820
+14 billion is the number of light bulbs installed already.
+
+95
+00:03:57,820 --> 00:03:59,820
+So we have the infrastructure there.
+
+96
+00:03:59,820 --> 00:04:02,820
+Look at the ceiling, you see all these light bulbs.
+
+97
+00:04:02,820 --> 00:04:04,820
+Go to the main floor, you see these light bulbs.
+
+98
+00:04:04,820 --> 00:04:06,820
+Can we use them for communications?
+
+99
+00:04:06,820 --> 00:04:08,820
+Yes.
+
+100
+00:04:08,820 --> 00:04:10,820
+What do we need to do?
+
+101
+00:04:10,820 --> 00:04:12,820
+The one thing we need to do
+
+102
+00:04:12,820 --> 00:04:15,820
+is we have to replace these inefficient incandescent light bulbs,
+
+103
+00:04:15,820 --> 00:04:18,820
+florescent lights,
+
+104
+00:04:18,820 --> 00:04:20,820
+with this new technology of LED,
+
+105
+00:04:20,820 --> 00:04:22,820
+LED light bulbs.
+
+106
+00:04:22,820 --> 00:04:24,820
+An LED is a semiconductor. It's an electronic device.
+
+107
+00:04:24,820 --> 00:04:28,820
+And it has a very nice acute property.
+
+108
+00:04:28,820 --> 00:04:31,820
+Its intensity can be modulated
+
+109
+00:04:31,820 --> 00:04:33,820
+at very high speeds,
+
+110
+00:04:33,820 --> 00:04:36,820
+and it can be switched off at very high speeds.
+
+111
+00:04:36,820 --> 00:04:38,820
+And this is a fundamental basic property
+
+112
+00:04:38,820 --> 00:04:40,820
+that we exploit
+
+113
+00:04:40,820 --> 00:04:43,820
+with our technology.
+
+114
+00:04:43,820 --> 00:04:45,820
+So let's show how we do that.
+
+115
+00:04:45,820 --> 00:04:47,820
+Let's go to the closest neighbor to the visible light spectrum --
+
+116
+00:04:47,820 --> 00:04:49,820
+go to remote controls.
+
+117
+00:04:49,820 --> 00:04:51,820
+You all know remote controls have an infrared LED --
+
+118
+00:04:51,820 --> 00:04:54,820
+basically you switch on the LED, and if it's off, you switch it off.
+
+119
+00:04:54,820 --> 00:04:57,820
+And it creates a simple, low-speed data stream
+
+120
+00:04:57,820 --> 00:04:59,820
+in 10,000 bits per second,
+
+121
+00:04:59,820 --> 00:05:01,820
+20,000 bits per second.
+
+122
+00:05:01,820 --> 00:05:03,820
+Not usable for a YouTube video.
+
+123
+00:05:03,820 --> 00:05:05,820
+What we have done
+
+124
+00:05:05,820 --> 00:05:08,820
+is we have developed a technology
+
+125
+00:05:08,820 --> 00:05:11,820
+with which we can furthermore
+
+126
+00:05:11,820 --> 00:05:13,820
+replace the remote control of our light bulb.
+
+127
+00:05:13,820 --> 00:05:15,820
+We transmit with our technology,
+
+128
+00:05:15,820 --> 00:05:17,820
+not only a single data stream,
+
+129
+00:05:17,820 --> 00:05:19,820
+we transmit thousands of data streams
+
+130
+00:05:19,820 --> 00:05:21,820
+in parallel,
+
+131
+00:05:21,820 --> 00:05:23,820
+at even higher speeds.
+
+132
+00:05:23,820 --> 00:05:25,820
+And the technology we have developed --
+
+133
+00:05:25,820 --> 00:05:27,820
+it's called SIM OFDM.
+
+134
+00:05:27,820 --> 00:05:29,820
+And it's spacial modulation --
+
+135
+00:05:29,820 --> 00:05:32,820
+these are the only technical terms, I'm not going into details --
+
+136
+00:05:32,820 --> 00:05:34,820
+but this is how we enabled
+
+137
+00:05:34,820 --> 00:05:36,820
+that light source
+
+138
+00:05:36,820 --> 00:05:39,820
+to transmit data.
+
+139
+00:05:39,820 --> 00:05:42,820
+You will say, "Okay, this is nice --
+
+140
+00:05:42,820 --> 00:05:44,820
+a slide created in 10 minutes."
+
+141
+00:05:44,820 --> 00:05:46,820
+But not only that.
+
+142
+00:05:46,820 --> 00:05:48,820
+What we've done
+
+143
+00:05:48,820 --> 00:05:51,820
+is we have also developed a demonstrator.
+
+144
+00:05:51,820 --> 00:05:53,820
+And I'm showing for the first time in public
+
+145
+00:05:53,820 --> 00:05:55,820
+this visible light demonstrator.
+
+146
+00:05:55,820 --> 00:05:57,820
+And what we have here
+
+147
+00:05:57,820 --> 00:06:00,820
+is no ordinary desk lamp.
+
+148
+00:06:00,820 --> 00:06:02,820
+We fit in an LED light bulb,
+
+149
+00:06:02,820 --> 00:06:05,820
+worth three U.S. dollars,
+
+150
+00:06:05,820 --> 00:06:07,820
+put in our signal processing technology.
+
+151
+00:06:07,820 --> 00:06:10,820
+And then what we have here is a little hole.
+
+152
+00:06:10,820 --> 00:06:12,820
+And the light goes through that hole.
+
+153
+00:06:12,820 --> 00:06:14,820
+There's a receiver.
+
+154
+00:06:14,820 --> 00:06:17,820
+The receiver will convert these little, subtle changes in the amplitude
+
+155
+00:06:17,820 --> 00:06:19,820
+that we create there
+
+156
+00:06:19,820 --> 00:06:21,820
+into an electrical signal.
+
+157
+00:06:21,820 --> 00:06:23,820
+And that signal is then converted back
+
+158
+00:06:23,820 --> 00:06:25,820
+to a high-speed data stream.
+
+159
+00:06:25,820 --> 00:06:27,820
+In the future we hope
+
+160
+00:06:27,820 --> 00:06:29,820
+that we can integrate this little hole
+
+161
+00:06:29,820 --> 00:06:32,820
+into these smart phones.
+
+162
+00:06:32,820 --> 00:06:35,820
+And not only integrate a photo detector here,
+
+163
+00:06:35,820 --> 00:06:38,820
+but maybe use the camera inside.
+
+164
+00:06:39,820 --> 00:06:41,820
+So what happens
+
+165
+00:06:41,820 --> 00:06:44,820
+when I switch on that light?
+
+166
+00:06:46,820 --> 00:06:48,820
+As you would expect,
+
+167
+00:06:48,820 --> 00:06:50,820
+it's a light, a desk lamp.
+
+168
+00:06:50,820 --> 00:06:53,820
+Put your book beneath it and you can read.
+
+169
+00:06:53,820 --> 00:06:55,820
+It's illuminating the space.
+
+170
+00:06:55,820 --> 00:06:59,820
+But at the same time, you see this video coming up here.
+
+171
+00:06:59,820 --> 00:07:02,820
+And that's a video, a high-definition video
+
+172
+00:07:02,820 --> 00:07:04,820
+that is transmitted through that light beam.
+
+173
+00:07:04,820 --> 00:07:06,820
+You're critical.
+
+174
+00:07:06,820 --> 00:07:08,820
+You think, "Ha, ha, ha.
+
+175
+00:07:08,820 --> 00:07:11,820
+This is a smart academic doing a little bit of tricks here."
+
+176
+00:07:11,820 --> 00:07:14,820
+But let me do this.
+
+177
+00:07:15,820 --> 00:07:20,820
+(Applause)
+
+178
+00:07:20,820 --> 00:07:23,820
+Once again.
+
+179
+00:07:23,820 --> 00:07:26,820
+Still don't believe?
+
+180
+00:07:26,820 --> 00:07:28,820
+It is this light
+
+181
+00:07:28,820 --> 00:07:31,820
+that transmits this high-definition video in a split stream.
+
+182
+00:07:32,820 --> 00:07:35,820
+And if you look at the light,
+
+183
+00:07:35,820 --> 00:07:37,820
+it is illuminating as you would expect.
+
+184
+00:07:37,820 --> 00:07:39,820
+You don't notice with your human eye.
+
+185
+00:07:39,820 --> 00:07:42,820
+You don't notice the subtle changes in the amplitude
+
+186
+00:07:42,820 --> 00:07:45,820
+that we impress onto this light bulb.
+
+187
+00:07:45,820 --> 00:07:47,820
+It's serving the purpose of illumination,
+
+188
+00:07:47,820 --> 00:07:50,820
+but at the same time, we are able to transmit this data.
+
+189
+00:07:50,820 --> 00:07:52,820
+And you see,
+
+190
+00:07:52,820 --> 00:07:55,820
+even light from the ceiling comes down here to the receiver.
+
+191
+00:07:55,820 --> 00:07:58,820
+It can ignore that constant light,
+
+192
+00:07:58,820 --> 00:08:00,820
+because all the receiver's interested in
+
+193
+00:08:00,820 --> 00:08:03,820
+are subtle changes.
+
+194
+00:08:05,820 --> 00:08:07,820
+You also have a critical question now, and
+
+195
+00:08:07,820 --> 00:08:09,820
+you say, "Okay,
+
+196
+00:08:09,820 --> 00:08:11,820
+do I have to have the light on all the time
+
+197
+00:08:11,820 --> 00:08:13,820
+to have this working?"
+
+198
+00:08:13,820 --> 00:08:15,820
+And the answer is yes.
+
+199
+00:08:15,820 --> 00:08:19,820
+But, you can dim down the light
+
+200
+00:08:19,820 --> 00:08:21,820
+to a level that it appears to be off.
+
+201
+00:08:21,820 --> 00:08:24,820
+And you are still able to transmit data -- that's possible.
+
+202
+00:08:24,820 --> 00:08:27,820
+So I've mentioned to you the four challenges.
+
+203
+00:08:27,820 --> 00:08:29,820
+Capacity:
+
+204
+00:08:29,820 --> 00:08:31,820
+We have 10,000 times more spectrum,
+
+205
+00:08:31,820 --> 00:08:33,820
+10,000 times more LEDs
+
+206
+00:08:33,820 --> 00:08:35,820
+installed already in the infrastructure there.
+
+207
+00:08:35,820 --> 00:08:37,820
+You would agree with me, hopefully,
+
+208
+00:08:37,820 --> 00:08:39,820
+there's no issue of capacity anymore.
+
+209
+00:08:39,820 --> 00:08:41,820
+Efficiency:
+
+210
+00:08:41,820 --> 00:08:43,820
+This is data through illumination --
+
+211
+00:08:43,820 --> 00:08:45,820
+it's first of all an illumination device.
+
+212
+00:08:45,820 --> 00:08:48,820
+And if you do the energy budget,
+
+213
+00:08:48,820 --> 00:08:50,820
+the data transmission comes for free --
+
+214
+00:08:50,820 --> 00:08:52,820
+highly energy efficient.
+
+215
+00:08:52,820 --> 00:08:54,820
+I don't mention the high energy efficiency
+
+216
+00:08:54,820 --> 00:08:56,820
+of these LED light bulbs.
+
+217
+00:08:56,820 --> 00:08:58,820
+If the whole world would deploy them,
+
+218
+00:08:58,820 --> 00:09:01,820
+you would save hundreds of power plants.
+
+219
+00:09:01,820 --> 00:09:03,820
+That's aside.
+
+220
+00:09:03,820 --> 00:09:05,820
+And then I've mentioned the availability.
+
+221
+00:09:05,820 --> 00:09:08,820
+You will agree with me that we have lights in the hospital.
+
+222
+00:09:08,820 --> 00:09:10,820
+You need to see what to do.
+
+223
+00:09:10,820 --> 00:09:12,820
+You have lights in an aircraft.
+
+224
+00:09:12,820 --> 00:09:14,820
+So it's everywhere in a day there is light.
+
+225
+00:09:14,820 --> 00:09:17,820
+Look around. Everywhere. Look at your smart phone.
+
+226
+00:09:17,820 --> 00:09:19,820
+It has a flashlight, an LED flashlight.
+
+227
+00:09:19,820 --> 00:09:23,820
+These are potential sources for high-speed data transmission.
+
+228
+00:09:23,820 --> 00:09:26,820
+And then there's security.
+
+229
+00:09:26,820 --> 00:09:28,820
+You would agree with me
+
+230
+00:09:28,820 --> 00:09:31,820
+that light doesn't penetrate through walls.
+
+231
+00:09:31,820 --> 00:09:33,820
+So no one, if I have a light here,
+
+232
+00:09:33,820 --> 00:09:35,820
+if I have secure data,
+
+233
+00:09:35,820 --> 00:09:37,820
+no one on the other side of this room through that wall
+
+234
+00:09:37,820 --> 00:09:39,820
+would be able to read that data.
+
+235
+00:09:39,820 --> 00:09:42,820
+And there's only data where there is light.
+
+236
+00:09:42,820 --> 00:09:46,820
+So if I don't want that receiver to receive the data,
+
+237
+00:09:46,820 --> 00:09:50,820
+then what I could do,
+
+238
+00:09:50,820 --> 00:09:53,820
+turn it away.
+
+239
+00:09:53,820 --> 00:09:55,820
+So the data goes in that direction, not there anymore.
+
+240
+00:09:55,820 --> 00:09:58,820
+Now we can in fact see where the data is going to.
+
+241
+00:10:01,820 --> 00:10:04,820
+So for me,
+
+242
+00:10:04,820 --> 00:10:07,820
+the applications of it,
+
+243
+00:10:07,820 --> 00:10:11,820
+to me, are beyond imagination at the moment.
+
+244
+00:10:11,820 --> 00:10:15,820
+We have had a century of very nice, smart application developers.
+
+245
+00:10:15,820 --> 00:10:18,820
+And you only have to notice, where we have light,
+
+246
+00:10:18,820 --> 00:10:21,820
+there is a potential way to transmit data.
+
+247
+00:10:21,820 --> 00:10:24,820
+But I can give you a few examples.
+
+248
+00:10:24,820 --> 00:10:27,820
+Well you may see the impact already now.
+
+249
+00:10:28,820 --> 00:10:30,820
+This is a remote operated vehicle
+
+250
+00:10:30,820 --> 00:10:32,820
+beneath the ocean.
+
+251
+00:10:32,820 --> 00:10:35,820
+And they use light to illuminate space down there.
+
+252
+00:10:35,820 --> 00:10:37,820
+And this light can be used to transmit wireless data
+
+253
+00:10:37,820 --> 00:10:40,820
+that these things [use] to communicate with each other.
+
+254
+00:10:40,820 --> 00:10:42,820
+Intrinsically safe environments
+
+255
+00:10:42,820 --> 00:10:44,820
+like this petrochemical plant --
+
+256
+00:10:44,820 --> 00:10:47,820
+you can't use RF, it may generate antenna sparks,
+
+257
+00:10:47,820 --> 00:10:50,820
+but you can use light -- you see plenty of light there.
+
+258
+00:10:50,820 --> 00:10:52,820
+In hospitals,
+
+259
+00:10:52,820 --> 00:10:55,820
+for new medical instruments;
+
+260
+00:10:55,820 --> 00:10:58,820
+in streets for traffic control.
+
+261
+00:10:58,820 --> 00:11:01,820
+Cars have LED-based headlights, LED-based back lights,
+
+262
+00:11:01,820 --> 00:11:03,820
+and cars can communicate with each other
+
+263
+00:11:03,820 --> 00:11:06,820
+and prevent accidents
+
+264
+00:11:06,820 --> 00:11:09,820
+in the way that they exchange information.
+
+265
+00:11:09,820 --> 00:11:12,820
+Traffic lights can communicate to the car and so on.
+
+266
+00:11:12,820 --> 00:11:15,820
+And then you have these millions of street lamps
+
+267
+00:11:15,820 --> 00:11:18,820
+deployed around the world.
+
+268
+00:11:18,820 --> 00:11:20,820
+And every street lamp could be a free access point.
+
+269
+00:11:20,820 --> 00:11:22,820
+We call it, in fact, a Li-Fi,
+
+270
+00:11:22,820 --> 00:11:24,820
+light-fidelity.
+
+271
+00:11:24,820 --> 00:11:28,820
+And then we have these aircraft cabins.
+
+272
+00:11:28,820 --> 00:11:32,820
+There are hundreds of lights in an aircraft cabin,
+
+273
+00:11:32,820 --> 00:11:34,820
+and each of these lights
+
+274
+00:11:34,820 --> 00:11:37,820
+could be a potential transmitter of wireless data.
+
+275
+00:11:37,820 --> 00:11:40,820
+So you could enjoy your most favorite TED video
+
+276
+00:11:40,820 --> 00:11:42,820
+on your long flight back home.
+
+277
+00:11:42,820 --> 00:11:45,820
+Online life. So that is a vision, I think, that is possible.
+
+278
+00:11:51,820 --> 00:11:53,820
+So, all we would need to do
+
+279
+00:11:53,820 --> 00:11:55,820
+is to fit a small microchip
+
+280
+00:11:55,820 --> 00:11:58,820
+to every potential illumination device.
+
+281
+00:11:58,820 --> 00:12:01,820
+And this would then combine
+
+282
+00:12:01,820 --> 00:12:03,820
+two basic functionalities:
+
+283
+00:12:03,820 --> 00:12:05,820
+illumination and wireless data transmission.
+
+284
+00:12:05,820 --> 00:12:08,820
+And it's this symbiosis that I personally believe
+
+285
+00:12:08,820 --> 00:12:10,820
+could solve the four essential problems
+
+286
+00:12:10,820 --> 00:12:13,820
+that face us in wireless communication these days.
+
+287
+00:12:13,820 --> 00:12:15,820
+And in the future,
+
+288
+00:12:15,820 --> 00:12:18,820
+you would not only have 14 billion light bulbs,
+
+289
+00:12:18,820 --> 00:12:21,820
+you may have 14 billion Li-Fis
+
+290
+00:12:21,820 --> 00:12:23,820
+deployed worldwide --
+
+291
+00:12:23,820 --> 00:12:25,820
+for a cleaner, a greener,
+
+292
+00:12:25,820 --> 00:12:27,820
+and even a brighter future.
+
+293
+00:12:27,820 --> 00:12:29,820
+Thank you.
+
+294
+00:12:29,820 --> 00:12:41,820
+(Applause)
+

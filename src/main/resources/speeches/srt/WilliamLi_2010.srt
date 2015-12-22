@@ -1,0 +1,1980 @@
+﻿1
+00:00:13,820 --> 00:00:15,820
+Good afternoon.
+
+2
+00:00:15,820 --> 00:00:18,820
+There's a medical revolution happening all around us,
+
+3
+00:00:18,820 --> 00:00:20,820
+and it's one that's going to help us conquer
+
+4
+00:00:20,820 --> 00:00:22,820
+some of society's most dreaded conditions,
+
+5
+00:00:22,820 --> 00:00:24,820
+including cancer.
+
+6
+00:00:24,820 --> 00:00:27,820
+The revolution is called angiogenesis,
+
+7
+00:00:27,820 --> 00:00:29,820
+and it's based on the process
+
+8
+00:00:29,820 --> 00:00:32,820
+that our bodies use to grow blood vessels.
+
+9
+00:00:32,820 --> 00:00:34,820
+So why should we care about blood vessels?
+
+10
+00:00:34,820 --> 00:00:37,820
+Well, the human body is literally packed with them:
+
+11
+00:00:37,820 --> 00:00:40,820
+60,000 miles worth in a typical adult.
+
+12
+00:00:40,820 --> 00:00:42,820
+End to end, that would form a line
+
+13
+00:00:42,820 --> 00:00:45,820
+that would circle the earth twice.
+
+14
+00:00:45,820 --> 00:00:48,820
+The smallest blood vessels are called capillaries;
+
+15
+00:00:48,820 --> 00:00:51,820
+we've got 19 billion of them in our bodies.
+
+16
+00:00:51,820 --> 00:00:54,820
+And these are the vessels of life, and,
+
+17
+00:00:54,820 --> 00:00:56,820
+as I'll show you,
+
+18
+00:00:56,820 --> 00:00:59,820
+they can also be the vessels of death.
+
+19
+00:00:59,820 --> 00:01:01,820
+Now the remarkable thing about blood vessels
+
+20
+00:01:01,820 --> 00:01:03,820
+is that they have this ability
+
+21
+00:01:03,820 --> 00:01:05,820
+to adapt to whatever environment they're growing in.
+
+22
+00:01:05,820 --> 00:01:07,820
+For example, in the liver they form channels
+
+23
+00:01:07,820 --> 00:01:09,820
+to detoxify the blood;
+
+24
+00:01:09,820 --> 00:01:12,820
+in the lung they line air sacs for gas exchange;
+
+25
+00:01:12,820 --> 00:01:14,820
+in muscle they corkscrew so that muscles can contract
+
+26
+00:01:14,820 --> 00:01:17,820
+without cutting off circulation;
+
+27
+00:01:17,820 --> 00:01:19,820
+and in nerves they course along like power lines,
+
+28
+00:01:19,820 --> 00:01:21,820
+keeping those nerves alive.
+
+29
+00:01:21,820 --> 00:01:23,820
+We get most of these blood vessels
+
+30
+00:01:23,820 --> 00:01:25,820
+when we're actually still in the womb,
+
+31
+00:01:25,820 --> 00:01:28,820
+And what that means is that as adults,
+
+32
+00:01:28,820 --> 00:01:30,820
+blood vessels don't normally grow.
+
+33
+00:01:30,820 --> 00:01:33,820
+Except in a few special circumstances:
+
+34
+00:01:34,820 --> 00:01:36,820
+In women, blood vessels grow every month
+
+35
+00:01:36,820 --> 00:01:38,820
+to build the lining of the uterus;
+
+36
+00:01:38,820 --> 00:01:40,820
+during pregnancy, they form the placenta,
+
+37
+00:01:40,820 --> 00:01:43,820
+which connects mom and baby.
+
+38
+00:01:43,820 --> 00:01:45,820
+And after injury, blood vessels
+
+39
+00:01:45,820 --> 00:01:47,820
+actually have to grow under the scab
+
+40
+00:01:47,820 --> 00:01:49,820
+in order to heal a wound.
+
+41
+00:01:49,820 --> 00:01:51,820
+And this is actually what it looks like,
+
+42
+00:01:51,820 --> 00:01:53,820
+hundreds of blood vessels
+
+43
+00:01:53,820 --> 00:01:55,820
+all growing toward the center of the wound.
+
+44
+00:01:55,820 --> 00:01:58,820
+So the body has the ability to regulate
+
+45
+00:01:58,820 --> 00:02:01,820
+the amount of blood vessels that are present at any given time.
+
+46
+00:02:01,820 --> 00:02:03,820
+It does this through an elaborate
+
+47
+00:02:03,820 --> 00:02:05,820
+and elegant system of checks and balances,
+
+48
+00:02:05,820 --> 00:02:08,820
+stimulators and inhibitors of angiogenesis,
+
+49
+00:02:08,820 --> 00:02:11,820
+such that, when we need a brief burst of blood vessels,
+
+50
+00:02:11,820 --> 00:02:14,820
+the body can do this by releasing stimulators,
+
+51
+00:02:14,820 --> 00:02:16,820
+proteins called angiogenic factors
+
+52
+00:02:16,820 --> 00:02:18,820
+that act as natural fertilizer
+
+53
+00:02:18,820 --> 00:02:20,820
+and stimulate new blood vessels to sprout.
+
+54
+00:02:20,820 --> 00:02:22,820
+And when those excess vessels are no longer needed,
+
+55
+00:02:22,820 --> 00:02:25,820
+the body prunes them back to baseline
+
+56
+00:02:25,820 --> 00:02:28,820
+using naturally occurring inhibitors of angiogenesis.
+
+57
+00:02:29,820 --> 00:02:31,820
+Now there are other situations where we start beneath the baseline
+
+58
+00:02:31,820 --> 00:02:34,820
+and we need to grow more blood vessels just to get back to normal levels --
+
+59
+00:02:34,820 --> 00:02:36,820
+for example, after an injury --
+
+60
+00:02:36,820 --> 00:02:38,820
+and a body can do that too,
+
+61
+00:02:38,820 --> 00:02:40,820
+but only to that normal level,
+
+62
+00:02:40,820 --> 00:02:42,820
+that set point.
+
+63
+00:02:42,820 --> 00:02:45,820
+But what we now know is that for a number of diseases,
+
+64
+00:02:45,820 --> 00:02:47,820
+there are defects in the system
+
+65
+00:02:47,820 --> 00:02:50,820
+where the body can't prune back extra blood vessels
+
+66
+00:02:50,820 --> 00:02:52,820
+or can't grow enough new ones
+
+67
+00:02:52,820 --> 00:02:54,820
+in the right place at the right time.
+
+68
+00:02:54,820 --> 00:02:56,820
+And in these situations, angiogenesis
+
+69
+00:02:56,820 --> 00:02:58,820
+is out of balance.
+
+70
+00:02:58,820 --> 00:03:00,820
+And when angiogenesis is out of balance,
+
+71
+00:03:00,820 --> 00:03:02,820
+a myriad of diseases result.
+
+72
+00:03:02,820 --> 00:03:04,820
+For example, insufficient angiogenesis --
+
+73
+00:03:04,820 --> 00:03:06,820
+not enough blood vessels --
+
+74
+00:03:06,820 --> 00:03:09,820
+leads to wounds that don't heal, heart attacks,
+
+75
+00:03:09,820 --> 00:03:11,820
+legs without circulation, death from stroke,
+
+76
+00:03:11,820 --> 00:03:13,820
+nerve damage.
+
+77
+00:03:13,820 --> 00:03:15,820
+And on the other end, excessive angiogenesis --
+
+78
+00:03:15,820 --> 00:03:18,820
+too many blood vessels -- drives disease,
+
+79
+00:03:18,820 --> 00:03:20,820
+and we see this in cancer, blindness,
+
+80
+00:03:20,820 --> 00:03:22,820
+arthritis, obesity,
+
+81
+00:03:22,820 --> 00:03:24,820
+Alzheimer's disease.
+
+82
+00:03:24,820 --> 00:03:27,820
+In total, there are more than 70 major diseases
+
+83
+00:03:27,820 --> 00:03:30,820
+affecting more than a billion people worldwide,
+
+84
+00:03:30,820 --> 00:03:32,820
+that all look on the surface to be different from one another,
+
+85
+00:03:32,820 --> 00:03:34,820
+but all actually share
+
+86
+00:03:34,820 --> 00:03:36,820
+abnormal angiogenesis
+
+87
+00:03:36,820 --> 00:03:38,820
+as their common denominator.
+
+88
+00:03:38,820 --> 00:03:40,820
+And this realization is allowing us
+
+89
+00:03:40,820 --> 00:03:42,820
+to reconceptualize
+
+90
+00:03:42,820 --> 00:03:44,820
+the way that we actually approach these diseases
+
+91
+00:03:44,820 --> 00:03:47,820
+by controlling angiogenesis.
+
+92
+00:03:47,820 --> 00:03:49,820
+Now I'm going to focus on cancer
+
+93
+00:03:49,820 --> 00:03:52,820
+because angiogenesis is a hallmark of cancer,
+
+94
+00:03:52,820 --> 00:03:54,820
+every type of cancer.
+
+95
+00:03:54,820 --> 00:03:56,820
+So here we go.
+
+96
+00:03:56,820 --> 00:03:58,820
+This is a tumor: dark, gray, ominous mass
+
+97
+00:03:58,820 --> 00:04:00,820
+growing inside a brain.
+
+98
+00:04:00,820 --> 00:04:02,820
+And under the microscope, you can see
+
+99
+00:04:02,820 --> 00:04:04,820
+hundreds of these brown staining blood vessels,
+
+100
+00:04:04,820 --> 00:04:06,820
+capillaries that are feeding cancer cells,
+
+101
+00:04:06,820 --> 00:04:09,820
+bringing oxygen and nutrients.
+
+102
+00:04:09,820 --> 00:04:11,820
+But cancers don't start out like this.
+
+103
+00:04:11,820 --> 00:04:13,820
+And, in fact, cancers don't start out
+
+104
+00:04:13,820 --> 00:04:15,820
+with a blood supply.
+
+105
+00:04:15,820 --> 00:04:18,820
+They start out as small, microscopic nests of cells
+
+106
+00:04:18,820 --> 00:04:20,820
+that can only grow to
+
+107
+00:04:20,820 --> 00:04:23,820
+one half a cubic millimeter in size;
+
+108
+00:04:23,820 --> 00:04:25,820
+that's the tip of a ballpoint pen.
+
+109
+00:04:25,820 --> 00:04:27,820
+Then they can't get any larger because they don't have a blood supply,
+
+110
+00:04:27,820 --> 00:04:30,820
+so they don't have enough oxygen or nutrients.
+
+111
+00:04:30,820 --> 00:04:32,820
+In fact, we're probably forming these
+
+112
+00:04:32,820 --> 00:04:35,820
+microscopic cancers all the time in our body.
+
+113
+00:04:36,820 --> 00:04:39,820
+Autopsy studies from people who died in car accidents
+
+114
+00:04:39,820 --> 00:04:42,820
+have shown that about 40 percent of women
+
+115
+00:04:42,820 --> 00:04:44,820
+between the ages of 40 and 50
+
+116
+00:04:44,820 --> 00:04:46,820
+actually have microscopic
+
+117
+00:04:46,820 --> 00:04:48,820
+cancers in their breasts,
+
+118
+00:04:48,820 --> 00:04:50,820
+about 50 percent of men in their 50s and 60s
+
+119
+00:04:50,820 --> 00:04:53,820
+have microscopic prostate cancers,
+
+120
+00:04:53,820 --> 00:04:55,820
+and virtually 100 percent of us,
+
+121
+00:04:55,820 --> 00:04:57,820
+by the time we reach our 70s,
+
+122
+00:04:57,820 --> 00:05:00,820
+will have microscopic cancers growing in our thyroid.
+
+123
+00:05:00,820 --> 00:05:02,820
+Yet, without a blood supply,
+
+124
+00:05:02,820 --> 00:05:04,820
+most of these cancers
+
+125
+00:05:04,820 --> 00:05:06,820
+will never become dangerous.
+
+126
+00:05:06,820 --> 00:05:08,820
+Dr. Judah Folkman, who was my mentor
+
+127
+00:05:08,820 --> 00:05:11,820
+and who was the pioneer of the angiogenesis field,
+
+128
+00:05:11,820 --> 00:05:14,820
+once called this "cancer without disease."
+
+129
+00:05:15,820 --> 00:05:18,820
+So the body's ability to balance angiogenesis,
+
+130
+00:05:18,820 --> 00:05:20,820
+when it's working properly,
+
+131
+00:05:20,820 --> 00:05:22,820
+prevents blood vessels from feeding cancers.
+
+132
+00:05:22,820 --> 00:05:24,820
+And this turns out to be
+
+133
+00:05:24,820 --> 00:05:27,820
+one of our most important defense mechanisms
+
+134
+00:05:27,820 --> 00:05:29,820
+against cancer.
+
+135
+00:05:29,820 --> 00:05:31,820
+In fact, if you actually block angiogenesis
+
+136
+00:05:31,820 --> 00:05:33,820
+and prevent blood vessels from ever reaching cancer cells,
+
+137
+00:05:33,820 --> 00:05:35,820
+tumors simply can't grow up.
+
+138
+00:05:35,820 --> 00:05:37,820
+But once angiogenesis occurs,
+
+139
+00:05:37,820 --> 00:05:40,820
+cancers can grow exponentially.
+
+140
+00:05:40,820 --> 00:05:42,820
+And this is actually how
+
+141
+00:05:42,820 --> 00:05:44,820
+a cancer goes from being
+
+142
+00:05:44,820 --> 00:05:46,820
+harmless to deadly.
+
+143
+00:05:46,820 --> 00:05:48,820
+Cancer cells mutate
+
+144
+00:05:48,820 --> 00:05:50,820
+and they gain the ability to release
+
+145
+00:05:50,820 --> 00:05:52,820
+lots of those angiogenic factors, natural fertilizer,
+
+146
+00:05:52,820 --> 00:05:54,820
+that tip the balance in favor of blood vessels
+
+147
+00:05:54,820 --> 00:05:56,820
+invading the cancer.
+
+148
+00:05:56,820 --> 00:05:58,820
+And once those vessels invade the cancer,
+
+149
+00:05:58,820 --> 00:06:01,820
+it can expand, it can invade local tissues.
+
+150
+00:06:01,820 --> 00:06:03,820
+And the same vessels that are feeding tumors
+
+151
+00:06:03,820 --> 00:06:06,820
+allow cancer cells to exit into the circulation
+
+152
+00:06:06,820 --> 00:06:08,820
+as metastases.
+
+153
+00:06:08,820 --> 00:06:11,820
+And, unfortunately, this late stage of cancer
+
+154
+00:06:11,820 --> 00:06:13,820
+is the one at which it's most likely
+
+155
+00:06:13,820 --> 00:06:15,820
+to be diagnosed,
+
+156
+00:06:15,820 --> 00:06:17,820
+when angiogenesis is already turned on
+
+157
+00:06:17,820 --> 00:06:20,820
+and cancer cells are growing like wild.
+
+158
+00:06:21,820 --> 00:06:23,820
+So, if angiogenesis
+
+159
+00:06:23,820 --> 00:06:25,820
+is a tipping point
+
+160
+00:06:25,820 --> 00:06:28,820
+between a harmless cancer and a harmful one,
+
+161
+00:06:28,820 --> 00:06:31,820
+then one major part of the angiogenesis revolution
+
+162
+00:06:31,820 --> 00:06:33,820
+is a new approach to treating cancer
+
+163
+00:06:33,820 --> 00:06:36,820
+by cutting off the blood supply.
+
+164
+00:06:36,820 --> 00:06:39,820
+We call this antiangiogenic therapy,
+
+165
+00:06:39,820 --> 00:06:41,820
+and it's completely different from chemotherapy
+
+166
+00:06:41,820 --> 00:06:43,820
+because it selectively aims
+
+167
+00:06:43,820 --> 00:06:46,820
+at the blood vessels that are feeding the cancers.
+
+168
+00:06:46,820 --> 00:06:48,820
+And we can do this because
+
+169
+00:06:48,820 --> 00:06:50,820
+tumor blood vessels are unlike normal, healthy vessels
+
+170
+00:06:50,820 --> 00:06:52,820
+we see in other places of the body:
+
+171
+00:06:52,820 --> 00:06:54,820
+They're abnormal;
+
+172
+00:06:54,820 --> 00:06:56,820
+they're very poorly constructed;
+
+173
+00:06:56,820 --> 00:06:58,820
+and, because of that, they're highly vulnerable
+
+174
+00:06:58,820 --> 00:07:00,820
+to treatments that target them.
+
+175
+00:07:01,820 --> 00:07:03,820
+In effect, when we give cancer patients
+
+176
+00:07:03,820 --> 00:07:05,820
+antiangiogenic therapy --
+
+177
+00:07:05,820 --> 00:07:08,820
+here, an experimental drug for a glioma,
+
+178
+00:07:08,820 --> 00:07:10,820
+which is a type of brain tumor --
+
+179
+00:07:10,820 --> 00:07:13,820
+you can see that there are dramatic changes that occur
+
+180
+00:07:13,820 --> 00:07:15,820
+when the tumor is being starved.
+
+181
+00:07:15,820 --> 00:07:17,820
+Here's a woman with a breast cancer
+
+182
+00:07:17,820 --> 00:07:20,820
+being treated with the antiangiogenic drug called Avastin,
+
+183
+00:07:20,820 --> 00:07:22,820
+which is FDA approved.
+
+184
+00:07:22,820 --> 00:07:25,820
+And you can see that the halo of blood flow
+
+185
+00:07:25,820 --> 00:07:28,820
+disappears after treatment.
+
+186
+00:07:28,820 --> 00:07:30,820
+Well, I've just shown you
+
+187
+00:07:30,820 --> 00:07:32,820
+two very different types of cancer
+
+188
+00:07:32,820 --> 00:07:35,820
+that both responded to antiangiogenic therapy.
+
+189
+00:07:35,820 --> 00:07:37,820
+So, a few years ago, I asked myself,
+
+190
+00:07:37,820 --> 00:07:39,820
+"Can we take this one step further
+
+191
+00:07:39,820 --> 00:07:41,820
+and treat other cancers,
+
+192
+00:07:41,820 --> 00:07:44,820
+even in other species?"
+
+193
+00:07:45,820 --> 00:07:47,820
+So here is a nine year-old boxer named Milo
+
+194
+00:07:47,820 --> 00:07:49,820
+who had a very aggressive tumor
+
+195
+00:07:49,820 --> 00:07:52,820
+called a malignant neurofibroma growing on his shoulder.
+
+196
+00:07:52,820 --> 00:07:54,820
+It invaded into his lungs.
+
+197
+00:07:54,820 --> 00:07:56,820
+His veterinarian only gave him three months to live.
+
+198
+00:07:56,820 --> 00:07:59,820
+So we created a cocktail of antiangiogenic drugs
+
+199
+00:07:59,820 --> 00:08:01,820
+that could be mixed into his dog food
+
+200
+00:08:01,820 --> 00:08:03,820
+as well as an antiangiogenic cream
+
+201
+00:08:03,820 --> 00:08:06,820
+that could be applied on the surface of the tumor.
+
+202
+00:08:06,820 --> 00:08:08,820
+And within a few weeks of treatment,
+
+203
+00:08:08,820 --> 00:08:11,820
+we were able to slow down that cancer's growth
+
+204
+00:08:11,820 --> 00:08:14,820
+such that we were ultimately able to extend milo's survival
+
+205
+00:08:14,820 --> 00:08:17,820
+to six times what the veterinarian had initially predicted,
+
+206
+00:08:17,820 --> 00:08:20,820
+all with a very good quality of life.
+
+207
+00:08:20,820 --> 00:08:23,820
+And we subsequently treated more than 600 dogs.
+
+208
+00:08:23,820 --> 00:08:25,820
+We have about a 60 percent response rate
+
+209
+00:08:25,820 --> 00:08:27,820
+and improved survival for these pets
+
+210
+00:08:27,820 --> 00:08:30,820
+that were about to be euthanized.
+
+211
+00:08:30,820 --> 00:08:32,820
+So let me show you a couple of
+
+212
+00:08:32,820 --> 00:08:34,820
+even more interesting examples.
+
+213
+00:08:34,820 --> 00:08:36,820
+This is 20-year-old dolphin living in Florida,
+
+214
+00:08:36,820 --> 00:08:38,820
+and she had these lesions in her mouth
+
+215
+00:08:38,820 --> 00:08:40,820
+that, over the course of three years,
+
+216
+00:08:40,820 --> 00:08:43,820
+developed into invasive squamous cell cancers.
+
+217
+00:08:43,820 --> 00:08:46,820
+So we created an antiangiogenic paste.
+
+218
+00:08:46,820 --> 00:08:48,820
+We had it painted on top of the cancer
+
+219
+00:08:48,820 --> 00:08:50,820
+three times a week.
+
+220
+00:08:50,820 --> 00:08:52,820
+And over the course of seven months,
+
+221
+00:08:52,820 --> 00:08:54,820
+the cancers completely disappeared,
+
+222
+00:08:54,820 --> 00:08:57,820
+and the biopsies came back as normal.
+
+223
+00:08:58,820 --> 00:09:00,820
+Here's a cancer growing on the lip
+
+224
+00:09:00,820 --> 00:09:02,820
+of a Wuarter horse named Guinness.
+
+225
+00:09:02,820 --> 00:09:05,820
+It's a very, very deadly type of cancer called an angiosarcoma.
+
+226
+00:09:05,820 --> 00:09:07,820
+It had already spread to his lymph nodes,
+
+227
+00:09:07,820 --> 00:09:10,820
+so we used an antiangiogenic skin cream for the lip
+
+228
+00:09:10,820 --> 00:09:13,820
+and an oral cocktail, so we could treat from the inside
+
+229
+00:09:13,820 --> 00:09:15,820
+as well as the outside.
+
+230
+00:09:15,820 --> 00:09:17,820
+And over the course of six months,
+
+231
+00:09:17,820 --> 00:09:20,820
+he experienced a complete remission.
+
+232
+00:09:20,820 --> 00:09:23,820
+And here he is six years later,
+
+233
+00:09:23,820 --> 00:09:26,820
+Guinness, with his very happy owner.
+
+234
+00:09:26,820 --> 00:09:29,820
+(Applause)
+
+235
+00:09:29,820 --> 00:09:31,820
+Now, obviously, antiangiogenic therapy
+
+236
+00:09:31,820 --> 00:09:34,820
+could be used for a wide range of cancers.
+
+237
+00:09:34,820 --> 00:09:36,820
+And, in fact, the first pioneering treatments
+
+238
+00:09:36,820 --> 00:09:38,820
+for people, as well as dogs,
+
+239
+00:09:38,820 --> 00:09:40,820
+are already becoming available.
+
+240
+00:09:40,820 --> 00:09:43,820
+There's 12 different drugs, 11 different cancer types.
+
+241
+00:09:43,820 --> 00:09:45,820
+But the real question is:
+
+242
+00:09:45,820 --> 00:09:47,820
+How well do these work in practice?
+
+243
+00:09:47,820 --> 00:09:50,820
+So here's actually the patient survival data
+
+244
+00:09:50,820 --> 00:09:52,820
+from eight different types of cancer.
+
+245
+00:09:52,820 --> 00:09:54,820
+The bars represent survival time
+
+246
+00:09:54,820 --> 00:09:56,820
+taken from the era
+
+247
+00:09:56,820 --> 00:09:58,820
+in which there was only chemotherapy,
+
+248
+00:09:58,820 --> 00:10:01,820
+or surgery, or radiation available.
+
+249
+00:10:01,820 --> 00:10:03,820
+But starting in 2004,
+
+250
+00:10:03,820 --> 00:10:05,820
+when antiangiogenic therapies first became available,
+
+251
+00:10:05,820 --> 00:10:07,820
+well you can see that there has been
+
+252
+00:10:07,820 --> 00:10:09,820
+a 70 to 100 percent
+
+253
+00:10:09,820 --> 00:10:11,820
+improvement in survival
+
+254
+00:10:11,820 --> 00:10:14,820
+for people with kidney cancer, multiple myeloma,
+
+255
+00:10:14,820 --> 00:10:17,820
+colorectal cancer, and gastrointestinal stromal tumors.
+
+256
+00:10:18,820 --> 00:10:20,820
+That's impressive.
+
+257
+00:10:20,820 --> 00:10:23,820
+But for other tumors and cancer types,
+
+258
+00:10:23,820 --> 00:10:26,820
+the improvements have only been modest.
+
+259
+00:10:26,820 --> 00:10:28,820
+So I started asking myself,
+
+260
+00:10:28,820 --> 00:10:31,820
+"Why haven't we been able to do better?"
+
+261
+00:10:31,820 --> 00:10:33,820
+And the answer, to me, is obvious;
+
+262
+00:10:33,820 --> 00:10:35,820
+we're treating cancer too late in the game,
+
+263
+00:10:35,820 --> 00:10:37,820
+when it's already established
+
+264
+00:10:37,820 --> 00:10:40,820
+and, oftentimes, it's already spread or metastasized.
+
+265
+00:10:40,820 --> 00:10:42,820
+And as a doctor, I know
+
+266
+00:10:42,820 --> 00:10:45,820
+that once a disease progresses to an advanced stage,
+
+267
+00:10:45,820 --> 00:10:47,820
+achieving a cure
+
+268
+00:10:47,820 --> 00:10:50,820
+can be difficult, if not impossible.
+
+269
+00:10:50,820 --> 00:10:52,820
+So I went back to the biology
+
+270
+00:10:52,820 --> 00:10:54,820
+of angiogenesis
+
+271
+00:10:54,820 --> 00:10:56,820
+and started thinking:
+
+272
+00:10:56,820 --> 00:10:58,820
+Could the answer to cancer
+
+273
+00:10:58,820 --> 00:11:01,820
+be preventing angiogenesis,
+
+274
+00:11:01,820 --> 00:11:03,820
+beating cancer at its own game
+
+275
+00:11:03,820 --> 00:11:06,820
+so the cancers could never become dangerous?
+
+276
+00:11:07,820 --> 00:11:09,820
+This could help healthy people
+
+277
+00:11:09,820 --> 00:11:11,820
+as well as people who've already beaten cancer
+
+278
+00:11:11,820 --> 00:11:13,820
+once or twice
+
+279
+00:11:13,820 --> 00:11:16,820
+and want to find a way to keep it from coming back.
+
+280
+00:11:16,820 --> 00:11:19,820
+So to look for a way to prevent angiogenesis in cancer,
+
+281
+00:11:19,820 --> 00:11:21,820
+I went back to look at cancer's causes.
+
+282
+00:11:21,820 --> 00:11:23,820
+And what really intrigued me
+
+283
+00:11:23,820 --> 00:11:25,820
+was when I saw that diet
+
+284
+00:11:25,820 --> 00:11:27,820
+accounts for 30 to 35 percent
+
+285
+00:11:27,820 --> 00:11:30,820
+of environmentally caused cancers.
+
+286
+00:11:30,820 --> 00:11:32,820
+Now, the obvious thing is to think about
+
+287
+00:11:32,820 --> 00:11:35,820
+what we could remove from our diet, what to strip out, take away.
+
+288
+00:11:36,820 --> 00:11:39,820
+But I actually took a completely opposite approach
+
+289
+00:11:39,820 --> 00:11:42,820
+and began asking: What could we be adding to our diet
+
+290
+00:11:42,820 --> 00:11:45,820
+that's naturally antiangiogenic,
+
+291
+00:11:45,820 --> 00:11:47,820
+that could boost the body's defense system
+
+292
+00:11:47,820 --> 00:11:50,820
+and beat back those blood vessels that are feeding cancers?
+
+293
+00:11:50,820 --> 00:11:53,820
+In other words, can we eat to starve cancer? (Laughter)
+
+294
+00:11:54,820 --> 00:11:56,820
+Well, the answer's yes,
+
+295
+00:11:56,820 --> 00:11:58,820
+and I'm going to show you how.
+
+296
+00:11:58,820 --> 00:12:00,820
+Our search for this
+
+297
+00:12:00,820 --> 00:12:03,820
+has taken us to the market, the farm and to the spice cabinet,
+
+298
+00:12:03,820 --> 00:12:05,820
+because what we've discovered
+
+299
+00:12:05,820 --> 00:12:07,820
+is that mother nature has laced a large number
+
+300
+00:12:07,820 --> 00:12:09,820
+of foods and beverages and herbs
+
+301
+00:12:09,820 --> 00:12:11,820
+with naturally occurring inhibitors
+
+302
+00:12:11,820 --> 00:12:13,820
+of angiogenesis.
+
+303
+00:12:13,820 --> 00:12:15,820
+So here's a test system we developed.
+
+304
+00:12:15,820 --> 00:12:17,820
+At the center is a ring from which hundreds of blood vessels
+
+305
+00:12:17,820 --> 00:12:19,820
+are growing out in a starburst fashion.
+
+306
+00:12:19,820 --> 00:12:21,820
+And we can use this system
+
+307
+00:12:21,820 --> 00:12:23,820
+to test dietary factors
+
+308
+00:12:23,820 --> 00:12:26,820
+at concentrations that are obtainable by eating.
+
+309
+00:12:26,820 --> 00:12:28,820
+So let me show you what happens when we put in
+
+310
+00:12:28,820 --> 00:12:31,820
+an extract from red grapes.
+
+311
+00:12:31,820 --> 00:12:33,820
+The active ingredient's resveratrol,
+
+312
+00:12:33,820 --> 00:12:35,820
+it's also found in red wine.
+
+313
+00:12:35,820 --> 00:12:38,820
+This inhibits abnormal angiogenesis
+
+314
+00:12:38,820 --> 00:12:40,820
+by 60 percent.
+
+315
+00:12:40,820 --> 00:12:43,820
+Here's what happens when we added an extract from strawberries;
+
+316
+00:12:43,820 --> 00:12:46,820
+it potently inhibits angiogenesis.
+
+317
+00:12:46,820 --> 00:12:49,820
+And extract from soybeans.
+
+318
+00:12:50,820 --> 00:12:52,820
+And here is a growing list of our
+
+319
+00:12:52,820 --> 00:12:54,820
+antiangiogenic foods and beverages
+
+320
+00:12:54,820 --> 00:12:56,820
+that we're interested in studying.
+
+321
+00:12:56,820 --> 00:12:58,820
+For each food type,
+
+322
+00:12:58,820 --> 00:13:00,820
+we believe that there are different potencies
+
+323
+00:13:00,820 --> 00:13:03,820
+within different strains and varietals.
+
+324
+00:13:03,820 --> 00:13:05,820
+And we want to measure this because,
+
+325
+00:13:05,820 --> 00:13:07,820
+well, while you're eating a strawberry
+
+326
+00:13:07,820 --> 00:13:09,820
+or drinking tea,
+
+327
+00:13:09,820 --> 00:13:11,820
+why not select the one that's most potent
+
+328
+00:13:11,820 --> 00:13:13,820
+for preventing cancer.
+
+329
+00:13:13,820 --> 00:13:16,820
+So here are four different teas that we've tested.
+
+330
+00:13:16,820 --> 00:13:18,820
+They're all common ones:
+
+331
+00:13:18,820 --> 00:13:20,820
+Chinese jasmine, Japanese sencha,
+
+332
+00:13:20,820 --> 00:13:22,820
+Earl Grey and a special blend that we prepared.
+
+333
+00:13:22,820 --> 00:13:24,820
+And you can see clearly
+
+334
+00:13:24,820 --> 00:13:26,820
+that the teas vary in their potency
+
+335
+00:13:26,820 --> 00:13:29,820
+from less potent to more potent.
+
+336
+00:13:29,820 --> 00:13:31,820
+But what's very cool
+
+337
+00:13:31,820 --> 00:13:33,820
+is when we actually combined the two
+
+338
+00:13:33,820 --> 00:13:35,820
+less potent teas together,
+
+339
+00:13:35,820 --> 00:13:37,820
+the combination, the blend,
+
+340
+00:13:37,820 --> 00:13:40,820
+is more potent than either one alone.
+
+341
+00:13:40,820 --> 00:13:43,820
+This means there's food synergy.
+
+342
+00:13:45,820 --> 00:13:47,820
+Here's some more data from our testing.
+
+343
+00:13:47,820 --> 00:13:50,820
+Now, in the lab, we can simulate tumor angiogenesis
+
+344
+00:13:50,820 --> 00:13:52,820
+represented here in a black bar.
+
+345
+00:13:52,820 --> 00:13:55,820
+And using this system, we can test the potency of cancer drugs.
+
+346
+00:13:55,820 --> 00:13:57,820
+So the shorter the bar,
+
+347
+00:13:57,820 --> 00:14:00,820
+less angiogenesis, that's good.
+
+348
+00:14:00,820 --> 00:14:02,820
+And here are some common drugs
+
+349
+00:14:02,820 --> 00:14:04,820
+that have been associated with reducing the risk
+
+350
+00:14:04,820 --> 00:14:06,820
+of cancer in people.
+
+351
+00:14:06,820 --> 00:14:08,820
+Statins, nonsteroidal anti-inflammatory drugs
+
+352
+00:14:08,820 --> 00:14:10,820
+and a few others,
+
+353
+00:14:10,820 --> 00:14:13,820
+they inhibit angiogenesis too.
+
+354
+00:14:13,820 --> 00:14:15,820
+And here are the dietary factors
+
+355
+00:14:15,820 --> 00:14:18,820
+going head to head against these drugs.
+
+356
+00:14:18,820 --> 00:14:20,820
+You can see, they clearly hold their own
+
+357
+00:14:20,820 --> 00:14:22,820
+and, in some cases, they're more potent
+
+358
+00:14:22,820 --> 00:14:24,820
+than the actual drugs.
+
+359
+00:14:24,820 --> 00:14:26,820
+Soy, parsley, garlic,
+
+360
+00:14:26,820 --> 00:14:28,820
+grapes, berries;
+
+361
+00:14:28,820 --> 00:14:30,820
+I could go home and cook a tasty meal
+
+362
+00:14:30,820 --> 00:14:32,820
+using these ingredients.
+
+363
+00:14:32,820 --> 00:14:34,820
+So imagine if we could create
+
+364
+00:14:34,820 --> 00:14:36,820
+the world's first rating system
+
+365
+00:14:36,820 --> 00:14:38,820
+in which we could score foods
+
+366
+00:14:38,820 --> 00:14:40,820
+according to their antiangiogenic,
+
+367
+00:14:40,820 --> 00:14:42,820
+cancer-preventative properties.
+
+368
+00:14:42,820 --> 00:14:45,820
+And that's what we're doing right now.
+
+369
+00:14:45,820 --> 00:14:47,820
+Now, I've shown you a bunch of lab data,
+
+370
+00:14:47,820 --> 00:14:49,820
+and so the real question is:
+
+371
+00:14:49,820 --> 00:14:51,820
+What is the evidence in people
+
+372
+00:14:51,820 --> 00:14:53,820
+that eating certain foods can reduce
+
+373
+00:14:53,820 --> 00:14:56,820
+angiogenesis in cancer?
+
+374
+00:14:56,820 --> 00:14:58,820
+Well, the best example I know
+
+375
+00:14:58,820 --> 00:15:00,820
+is a study of 79,000 men
+
+376
+00:15:00,820 --> 00:15:02,820
+followed over 20 years,
+
+377
+00:15:02,820 --> 00:15:04,820
+in which it was found that men who consumed
+
+378
+00:15:04,820 --> 00:15:06,820
+cooked tomatoes two to three times a week
+
+379
+00:15:06,820 --> 00:15:09,820
+had up to a 50 percent reduction
+
+380
+00:15:09,820 --> 00:15:12,820
+in their risk of developing prostate cancer.
+
+381
+00:15:12,820 --> 00:15:15,820
+Now, we know that tomatoes are a good source of lycopene,
+
+382
+00:15:15,820 --> 00:15:18,820
+and lycopene is antiangiogenic.
+
+383
+00:15:18,820 --> 00:15:20,820
+But what's even more interesting from this study
+
+384
+00:15:20,820 --> 00:15:23,820
+is that in those men who did develop prostate cancer,
+
+385
+00:15:23,820 --> 00:15:26,820
+those who ate more servings of tomato sauce
+
+386
+00:15:26,820 --> 00:15:28,820
+actually had fewer blood vessels
+
+387
+00:15:28,820 --> 00:15:30,820
+feeding their cancer.
+
+388
+00:15:30,820 --> 00:15:32,820
+So this human study is a prime example
+
+389
+00:15:32,820 --> 00:15:34,820
+of how antiangiogenic substances
+
+390
+00:15:34,820 --> 00:15:37,820
+present in food and consumed at practical levels
+
+391
+00:15:37,820 --> 00:15:39,820
+can impact on cancer.
+
+392
+00:15:39,820 --> 00:15:41,820
+And we're now studying
+
+393
+00:15:41,820 --> 00:15:43,820
+the role of a healthy diet
+
+394
+00:15:43,820 --> 00:15:46,820
+with Dean Ornish at UCSF and Tufts University
+
+395
+00:15:46,820 --> 00:15:49,820
+on the role of this healthy diet on markers of angiogenesis
+
+396
+00:15:49,820 --> 00:15:52,820
+that we can find in the bloodstream.
+
+397
+00:15:52,820 --> 00:15:55,820
+Now, obviously, what I've shared with you has some far-ranging implications,
+
+398
+00:15:55,820 --> 00:15:57,820
+even beyond cancer research.
+
+399
+00:15:57,820 --> 00:16:00,820
+Because if we're right, it could impact on consumer education,
+
+400
+00:16:00,820 --> 00:16:02,820
+food services, public health
+
+401
+00:16:02,820 --> 00:16:04,820
+and even the insurance industry.
+
+402
+00:16:04,820 --> 00:16:06,820
+And, in fact, some insurance companies
+
+403
+00:16:06,820 --> 00:16:08,820
+are already beginning to think along these lines.
+
+404
+00:16:08,820 --> 00:16:11,820
+Check out this ad from Blue Cross Blue Shield of Minnesota.
+
+405
+00:16:12,820 --> 00:16:14,820
+And for many people around the world,
+
+406
+00:16:14,820 --> 00:16:16,820
+dietary cancer prevention
+
+407
+00:16:16,820 --> 00:16:18,820
+may be the only practical solution
+
+408
+00:16:18,820 --> 00:16:21,820
+because not everybody can afford expensive end-stage cancer treatments,
+
+409
+00:16:21,820 --> 00:16:23,820
+but everybody could benefit from
+
+410
+00:16:23,820 --> 00:16:26,820
+a healthy diet based on local, sustainable,
+
+411
+00:16:26,820 --> 00:16:28,820
+antiangiogenic crops.
+
+412
+00:16:29,820 --> 00:16:31,820
+Now, finally,
+
+413
+00:16:31,820 --> 00:16:33,820
+I've talked to you about food,
+
+414
+00:16:33,820 --> 00:16:35,820
+and I've talked to you about cancer,
+
+415
+00:16:35,820 --> 00:16:38,820
+so there's just one more disease that I have to tell you about
+
+416
+00:16:38,820 --> 00:16:40,820
+and that's obesity.
+
+417
+00:16:40,820 --> 00:16:42,820
+Because it turns out that
+
+418
+00:16:42,820 --> 00:16:44,820
+adipose tissue, fat,
+
+419
+00:16:44,820 --> 00:16:46,820
+is highly angiogenesis dependent.
+
+420
+00:16:46,820 --> 00:16:49,820
+And, like a tumor, fat grows when blood vessels grow.
+
+421
+00:16:49,820 --> 00:16:52,820
+So the question is: Can we shrink fat
+
+422
+00:16:52,820 --> 00:16:54,820
+by cutting off its blood supply?
+
+423
+00:16:54,820 --> 00:16:57,820
+So the top curve shows the body weight
+
+424
+00:16:57,820 --> 00:16:59,820
+of a genetically obese mouse
+
+425
+00:16:59,820 --> 00:17:01,820
+that eats nonstop
+
+426
+00:17:01,820 --> 00:17:04,820
+until it turns fat, like this furry tennis ball.
+
+427
+00:17:05,820 --> 00:17:08,820
+And the bottom curve is the weight of a normal mouse.
+
+428
+00:17:08,820 --> 00:17:10,820
+If you take the obese mouse and give it
+
+429
+00:17:10,820 --> 00:17:12,820
+an angiogenesis inhibitor, it loses weight.
+
+430
+00:17:12,820 --> 00:17:14,820
+Stop the treatment, gains the weight back.
+
+431
+00:17:14,820 --> 00:17:16,820
+Restart the treatment, loses the weight again.
+
+432
+00:17:16,820 --> 00:17:18,820
+Stop the treatment, it gains the weight back.
+
+433
+00:17:18,820 --> 00:17:20,820
+And, in fact, you can cycle the weight up and down
+
+434
+00:17:20,820 --> 00:17:23,820
+simply by inhibiting angiogenesis.
+
+435
+00:17:23,820 --> 00:17:25,820
+So this approach that we're taking for cancer prevention
+
+436
+00:17:25,820 --> 00:17:27,820
+may also have an application
+
+437
+00:17:27,820 --> 00:17:29,820
+for obesity.
+
+438
+00:17:29,820 --> 00:17:31,820
+The really, truly interesting thing about this
+
+439
+00:17:31,820 --> 00:17:33,820
+is that we can't take these obese mice
+
+440
+00:17:33,820 --> 00:17:35,820
+and make them lose more weight
+
+441
+00:17:35,820 --> 00:17:38,820
+than what the normal mouse's weight is supposed to be.
+
+442
+00:17:38,820 --> 00:17:40,820
+In other words, we can't create supermodel mice.
+
+443
+00:17:40,820 --> 00:17:42,820
+(Laughter)
+
+444
+00:17:42,820 --> 00:17:44,820
+And this speaks to the role of angiogenesis
+
+445
+00:17:44,820 --> 00:17:47,820
+in regulating healthy set points.
+
+446
+00:17:47,820 --> 00:17:49,820
+Albert Szent-Gyorgi once said that,
+
+447
+00:17:49,820 --> 00:17:52,820
+"Discovery consists of seeing what everyone has seen,
+
+448
+00:17:52,820 --> 00:17:54,820
+and thinking what no one has thought."
+
+449
+00:17:54,820 --> 00:17:56,820
+I hope I've convinced you
+
+450
+00:17:56,820 --> 00:17:59,820
+that, for diseases like cancer, obesity and other conditions,
+
+451
+00:17:59,820 --> 00:18:01,820
+that there may be a great power
+
+452
+00:18:01,820 --> 00:18:04,820
+in attacking their common denominator: angiogenesis.
+
+453
+00:18:04,820 --> 00:18:07,820
+And that's what I think the world needs now. Thank you.
+
+454
+00:18:07,820 --> 00:18:18,820
+(Applause)
+
+455
+00:18:18,820 --> 00:18:21,820
+June Cohen: I have a quick question for you. So these drugs aren't exactly ...
+
+456
+00:18:21,820 --> 00:18:24,820
+they're not exactly in mainstream cancer treatments right now.
+
+457
+00:18:24,820 --> 00:18:26,820
+For anyone out here who has cancer,
+
+458
+00:18:26,820 --> 00:18:28,820
+what would you recommend?
+
+459
+00:18:28,820 --> 00:18:31,820
+Do you recommend pursuing these treatments now, for most cancer patients?
+
+460
+00:18:31,820 --> 00:18:33,820
+William Li: So there are antiangiogenic treatments
+
+461
+00:18:33,820 --> 00:18:35,820
+that are FDA approved,
+
+462
+00:18:35,820 --> 00:18:37,820
+and if you're a cancer patient
+
+463
+00:18:37,820 --> 00:18:39,820
+or working for one or advocating for one,
+
+464
+00:18:39,820 --> 00:18:41,820
+you should ask about them.
+
+465
+00:18:41,820 --> 00:18:44,820
+And there are many clinical trials.
+
+466
+00:18:44,820 --> 00:18:47,820
+The Angiogenesis Foundation is following almost 300 companies,
+
+467
+00:18:47,820 --> 00:18:49,820
+and there are about 100 more
+
+468
+00:18:49,820 --> 00:18:51,820
+drugs in that pipeline.
+
+469
+00:18:51,820 --> 00:18:53,820
+So consider the approved ones,
+
+470
+00:18:53,820 --> 00:18:55,820
+look for clinical trials,
+
+471
+00:18:55,820 --> 00:18:57,820
+but then between what the doctor can do for you,
+
+472
+00:18:57,820 --> 00:18:59,820
+we need to start asking what can we do for ourselves.
+
+473
+00:18:59,820 --> 00:19:01,820
+And this is one of the themes that I'm talking about
+
+474
+00:19:01,820 --> 00:19:03,820
+is we can empower ourselves to do the things
+
+475
+00:19:03,820 --> 00:19:05,820
+that doctors can't do for us,
+
+476
+00:19:05,820 --> 00:19:07,820
+which is to use knowledge and take action.
+
+477
+00:19:07,820 --> 00:19:10,820
+And if Mother Nature has given us some clues,
+
+478
+00:19:10,820 --> 00:19:12,820
+we think that there might be a new future
+
+479
+00:19:12,820 --> 00:19:14,820
+in the value of how we eat.
+
+480
+00:19:14,820 --> 00:19:17,820
+And what we eat is really our chemotherapy three times a day.
+
+481
+00:19:17,820 --> 00:19:19,820
+JC: Right. And along those lines,
+
+482
+00:19:19,820 --> 00:19:22,820
+for people who might have risk factors for cancer,
+
+483
+00:19:22,820 --> 00:19:25,820
+would you recommend pursuing any treatments sort of prophylactically
+
+484
+00:19:25,820 --> 00:19:27,820
+or simply pursuing the right diet
+
+485
+00:19:27,820 --> 00:19:29,820
+with lots of tomato sauce?
+
+486
+00:19:29,820 --> 00:19:32,820
+WL: Well, you know, there's abundant epidemiological evidence.
+
+487
+00:19:32,820 --> 00:19:34,820
+And I think in the information age,
+
+488
+00:19:34,820 --> 00:19:36,820
+it doesn't take long to go to a credible source
+
+489
+00:19:36,820 --> 00:19:38,820
+like PubMed, the National Library of Medicine,
+
+490
+00:19:38,820 --> 00:19:40,820
+to look for epidemiological studies
+
+491
+00:19:40,820 --> 00:19:42,820
+for cancer risk reduction
+
+492
+00:19:42,820 --> 00:19:45,820
+based on diet and based on common medications.
+
+493
+00:19:45,820 --> 00:19:47,820
+And that's certainly something that anybody can look into.
+
+494
+00:19:47,820 --> 00:19:49,820
+JC: Okay. Well, thank you so much.
+
+495
+00:19:49,820 --> 00:19:51,820
+(Applause)
+

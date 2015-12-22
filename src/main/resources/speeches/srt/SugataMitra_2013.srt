@@ -1,0 +1,1676 @@
+﻿1
+00:00:13,094 --> 00:00:18,510
+What is going to be the future of learning?
+
+2
+00:00:18,510 --> 00:00:20,790
+I do have a plan,
+
+3
+00:00:20,790 --> 00:00:23,870
+but in order for me to tell you what that plan is,
+
+4
+00:00:23,870 --> 00:00:26,840
+I need to tell you a little story,
+
+5
+00:00:26,840 --> 00:00:29,686
+which kind of sets the stage.
+
+6
+00:00:29,686 --> 00:00:31,473
+I tried to look at
+
+7
+00:00:31,473 --> 00:00:34,880
+where did the kind of learning we do in schools,
+
+8
+00:00:34,880 --> 00:00:37,150
+where did it come from?
+
+9
+00:00:37,150 --> 00:00:39,582
+And you can look far back into the past,
+
+10
+00:00:39,582 --> 00:00:43,395
+but if you look at present-day schooling the way it is,
+
+11
+00:00:43,395 --> 00:00:47,097
+it's quite easy to figure out where it came from.
+
+12
+00:00:47,097 --> 00:00:51,045
+It came from about 300 years ago,
+
+13
+00:00:51,045 --> 00:00:53,262
+and it came from the last
+
+14
+00:00:53,262 --> 00:00:56,230
+and the biggest of the empires on this planet. ["The British Empire"]
+
+15
+00:00:56,230 --> 00:00:58,575
+Imagine trying to run the show,
+
+16
+00:00:58,575 --> 00:01:00,983
+trying to run the entire planet,
+
+17
+00:01:00,983 --> 00:01:04,807
+without computers, without telephones,
+
+18
+00:01:04,807 --> 00:01:08,939
+with data handwritten on pieces of paper,
+
+19
+00:01:08,939 --> 00:01:12,489
+and traveling by ships.
+
+20
+00:01:12,489 --> 00:01:14,643
+But the Victorians actually did it.
+
+21
+00:01:14,643 --> 00:01:17,811
+What they did was amazing.
+
+22
+00:01:17,811 --> 00:01:21,123
+They created a global computer
+
+23
+00:01:21,123 --> 00:01:24,179
+made up of people.
+
+24
+00:01:24,179 --> 00:01:25,972
+It's still with us today.
+
+25
+00:01:25,972 --> 00:01:31,951
+It's called the bureaucratic administrative machine.
+
+26
+00:01:31,951 --> 00:01:35,278
+In order to have that machine running,
+
+27
+00:01:35,278 --> 00:01:38,479
+you need lots and lots of people.
+
+28
+00:01:38,479 --> 00:01:42,838
+They made another machine to produce those people:
+
+29
+00:01:42,838 --> 00:01:45,734
+the school.
+
+30
+00:01:45,734 --> 00:01:48,511
+The schools would produce the people
+
+31
+00:01:48,511 --> 00:01:52,360
+who would then become parts of the
+
+32
+00:01:52,360 --> 00:01:55,745
+bureaucratic administrative machine.
+
+33
+00:01:55,745 --> 00:02:00,135
+They must be identical to each other.
+
+34
+00:02:00,135 --> 00:02:02,292
+They must know three things:
+
+35
+00:02:02,292 --> 00:02:05,332
+They must have good handwriting, because the data is handwritten;
+
+36
+00:02:05,332 --> 00:02:07,487
+they must be able to read;
+
+37
+00:02:07,487 --> 00:02:09,766
+and they must be able to do multiplication,
+
+38
+00:02:09,766 --> 00:02:13,429
+division, addition and subtraction in their head.
+
+39
+00:02:13,429 --> 00:02:16,956
+They must be so identical that you could pick one up from New Zealand
+
+40
+00:02:16,956 --> 00:02:19,291
+and ship them to Canada
+
+41
+00:02:19,291 --> 00:02:23,372
+and he would be instantly functional.
+
+42
+00:02:23,372 --> 00:02:26,241
+The Victorians were great engineers.
+
+43
+00:02:26,241 --> 00:02:29,730
+They engineered a system that was so robust
+
+44
+00:02:29,730 --> 00:02:32,185
+that it's still with us today,
+
+45
+00:02:32,185 --> 00:02:36,161
+continuously producing identical people
+
+46
+00:02:36,161 --> 00:02:40,977
+for a machine that no longer exists.
+
+47
+00:02:40,977 --> 00:02:43,905
+The empire is gone,
+
+48
+00:02:43,905 --> 00:02:46,809
+so what are we doing with that design
+
+49
+00:02:46,809 --> 00:02:49,178
+that produces these identical people,
+
+50
+00:02:49,178 --> 00:02:52,081
+and what are we going to do next
+
+51
+00:02:52,081 --> 00:02:56,001
+if we ever are going to do anything else with it?
+
+52
+00:02:56,001 --> 00:02:57,691
+["Schools as we know them are obsolete"]
+
+53
+00:02:57,691 --> 00:02:59,583
+So that's a pretty strong comment there.
+
+54
+00:02:59,583 --> 00:03:03,377
+I said schools as we know them now, they're obsolete.
+
+55
+00:03:03,377 --> 00:03:05,111
+I'm not saying they're broken.
+
+56
+00:03:05,111 --> 00:03:08,108
+It's quite fashionable to say that the education system's broken.
+
+57
+00:03:08,108 --> 00:03:11,759
+It's not broken. It's wonderfully constructed.
+
+58
+00:03:11,759 --> 00:03:17,985
+It's just that we don't need it anymore. It's outdated.
+
+59
+00:03:17,985 --> 00:03:20,392
+What are the kind of jobs that we have today?
+
+60
+00:03:20,392 --> 00:03:22,526
+Well, the clerks are the computers.
+
+61
+00:03:22,526 --> 00:03:25,057
+They're there in thousands in every office.
+
+62
+00:03:25,057 --> 00:03:28,262
+And you have people who guide those computers
+
+63
+00:03:28,262 --> 00:03:30,739
+to do their clerical jobs.
+
+64
+00:03:30,739 --> 00:03:34,003
+Those people don't need to be able to write beautifully by hand.
+
+65
+00:03:34,003 --> 00:03:37,035
+They don't need to be able to multiply numbers in their heads.
+
+66
+00:03:37,035 --> 00:03:39,307
+They do need to be able to read.
+
+67
+00:03:39,307 --> 00:03:43,457
+In fact, they need to be able to read discerningly.
+
+68
+00:03:43,457 --> 00:03:46,564
+Well, that's today, but we don't even know
+
+69
+00:03:46,564 --> 00:03:49,123
+what the jobs of the future are going to look like.
+
+70
+00:03:49,123 --> 00:03:51,767
+We know that people will work from wherever they want,
+
+71
+00:03:51,767 --> 00:03:54,965
+whenever they want, in whatever way they want.
+
+72
+00:03:54,965 --> 00:03:59,153
+How is present-day schooling going to prepare them
+
+73
+00:03:59,153 --> 00:04:01,696
+for that world?
+
+74
+00:04:01,696 --> 00:04:06,744
+Well, I bumped into this whole thing completely by accident.
+
+75
+00:04:06,744 --> 00:04:09,376
+I used to teach people how to write computer programs
+
+76
+00:04:09,376 --> 00:04:11,840
+in New Delhi, 14 years ago.
+
+77
+00:04:11,840 --> 00:04:15,597
+And right next to where I used to work, there was a slum.
+
+78
+00:04:15,597 --> 00:04:18,184
+And I used to think, how on Earth are those kids
+
+79
+00:04:18,184 --> 00:04:20,704
+ever going to learn to write computer programs?
+
+80
+00:04:20,704 --> 00:04:23,784
+Or should they not?
+
+81
+00:04:23,784 --> 00:04:26,401
+At the same time, we also had lots of parents,
+
+82
+00:04:26,401 --> 00:04:28,832
+rich people, who had computers,
+
+83
+00:04:28,832 --> 00:04:31,963
+and who used to tell me, "You know, my son,
+
+84
+00:04:31,963 --> 00:04:34,152
+I think he's gifted,
+
+85
+00:04:34,152 --> 00:04:37,026
+because he does wonderful things with computers.
+
+86
+00:04:37,026 --> 00:04:41,002
+And my daughter -- oh, surely she is extra-intelligent."
+
+87
+00:04:41,002 --> 00:04:43,110
+And so on. So I suddenly figured that,
+
+88
+00:04:43,110 --> 00:04:44,906
+how come all the rich people are having
+
+89
+00:04:44,906 --> 00:04:47,047
+these extraordinarily gifted children?
+
+90
+00:04:47,047 --> 00:04:48,962
+(Laughter)
+
+91
+00:04:48,962 --> 00:04:51,786
+What did the poor do wrong?
+
+92
+00:04:51,786 --> 00:04:54,789
+I made a hole in the boundary wall
+
+93
+00:04:54,789 --> 00:04:56,821
+of the slum next to my office,
+
+94
+00:04:56,821 --> 00:04:59,565
+and stuck a computer inside it just to see what would happen
+
+95
+00:04:59,565 --> 00:05:02,549
+if I gave a computer to children who never would have one,
+
+96
+00:05:02,549 --> 00:05:05,885
+didn't know any English, didn't know what the Internet was.
+
+97
+00:05:05,885 --> 00:05:06,837
+The children came running in.
+
+98
+00:05:06,837 --> 00:05:09,007
+It was three feet off the ground, and they said, "What is this?"
+
+99
+00:05:09,007 --> 00:05:11,991
+And I said, "Yeah, it's, I don't know."
+
+100
+00:05:11,991 --> 00:05:14,207
+(Laughter)
+
+101
+00:05:14,207 --> 00:05:16,763
+They said, "Why have you put it there?"
+
+102
+00:05:16,763 --> 00:05:17,978
+I said, "Just like that."
+
+103
+00:05:17,978 --> 00:05:20,987
+And they said, "Can we touch it?"I said, "If you wish to."
+
+104
+00:05:20,987 --> 00:05:23,364
+And I went away.
+
+105
+00:05:23,364 --> 00:05:25,108
+About eight hours later,
+
+106
+00:05:25,108 --> 00:05:28,063
+we found them browsing and teaching each other how to browse.
+
+107
+00:05:28,063 --> 00:05:30,560
+So I said, "Well that's impossible, because --
+
+108
+00:05:30,560 --> 00:05:34,101
+How is it possible? They don't know anything."
+
+109
+00:05:34,101 --> 00:05:36,965
+My colleagues said, "No, it's a simple solution.
+
+110
+00:05:36,965 --> 00:05:39,788
+One of your students must have been passing by,
+
+111
+00:05:39,788 --> 00:05:41,883
+showed them how to use the mouse."
+
+112
+00:05:41,883 --> 00:05:43,406
+So I said, "Yeah, that's possible."
+
+113
+00:05:43,406 --> 00:05:46,465
+So I repeated the experiment. I went 300 miles out of Delhi
+
+114
+00:05:46,465 --> 00:05:48,456
+into a really remote village
+
+115
+00:05:48,456 --> 00:05:52,248
+where the chances of a passing software development engineer
+
+116
+00:05:52,248 --> 00:05:56,664
+was very little. (Laughter)
+
+117
+00:05:56,664 --> 00:05:59,327
+I repeated the experiment there.
+
+118
+00:05:59,327 --> 00:06:01,614
+There was no place to stay, so I stuck my computer in,
+
+119
+00:06:01,614 --> 00:06:03,814
+I went away, came back after a couple of months,
+
+120
+00:06:03,814 --> 00:06:05,509
+found kids playing games on it.
+
+121
+00:06:05,509 --> 00:06:06,460
+When they saw me, they said,
+
+122
+00:06:06,460 --> 00:06:08,942
+"We want a faster processor and a better mouse."
+
+123
+00:06:08,942 --> 00:06:13,236
+(Laughter)
+
+124
+00:06:13,236 --> 00:06:16,645
+So I said, "How on Earth do you know all this?"
+
+125
+00:06:16,645 --> 00:06:19,100
+And they said something very interesting to me.
+
+126
+00:06:19,100 --> 00:06:20,765
+In an irritated voice, they said,
+
+127
+00:06:20,765 --> 00:06:23,318
+"You've given us a machine that works only in English,
+
+128
+00:06:23,318 --> 00:06:29,403
+so we had to teach ourselves English in order to use it." (Laughter)
+
+129
+00:06:29,403 --> 00:06:31,380
+That's the first time, as a teacher,
+
+130
+00:06:31,380 --> 00:06:36,471
+that I had heard the word "teach ourselves" said so casually.
+
+131
+00:06:36,471 --> 00:06:40,073
+Here's a short glimpse from those years.
+
+132
+00:06:40,073 --> 00:06:42,720
+That's the first day at the Hole in the Wall.
+
+133
+00:06:42,720 --> 00:06:44,958
+On your right is an eight-year-old.
+
+134
+00:06:44,958 --> 00:06:50,678
+To his left is his student. She's six.
+
+135
+00:06:50,678 --> 00:06:54,275
+And he's teaching her how to browse.
+
+136
+00:06:54,275 --> 00:06:57,561
+Then onto other parts of the country,
+
+137
+00:06:57,561 --> 00:06:59,844
+I repeated this over and over again,
+
+138
+00:06:59,844 --> 00:07:03,289
+getting exactly the same results that we were.
+
+139
+00:07:03,289 --> 00:07:07,216
+["Hole in the wall film - 1999"]
+
+140
+00:07:07,216 --> 00:07:11,481
+An eight-year-old telling his elder sister what to do.
+
+141
+00:07:16,280 --> 00:07:21,837
+And finally a girl explaining in Marathi what it is,
+
+142
+00:07:21,837 --> 00:07:26,086
+and said, "There's a processor inside."
+
+143
+00:07:26,086 --> 00:07:28,579
+So I started publishing.
+
+144
+00:07:28,579 --> 00:07:31,134
+I published everywhere. I wrote down and measured everything,
+
+145
+00:07:31,134 --> 00:07:33,336
+and I said, in nine months, a group of children
+
+146
+00:07:33,336 --> 00:07:36,034
+left alone with a computer in any language
+
+147
+00:07:36,034 --> 00:07:40,549
+will reach the same standard as an office secretary in the West.
+
+148
+00:07:40,549 --> 00:07:45,309
+I'd seen it happen over and over and over again.
+
+149
+00:07:45,309 --> 00:07:48,041
+But I was curious to know, what else would they do
+
+150
+00:07:48,041 --> 00:07:50,281
+if they could do this much?
+
+151
+00:07:50,281 --> 00:07:52,809
+I started experimenting with other subjects,
+
+152
+00:07:52,809 --> 00:07:55,777
+among them, for example, pronunciation.
+
+153
+00:07:55,777 --> 00:07:58,225
+There's one community of children in southern India
+
+154
+00:07:58,225 --> 00:08:00,993
+whose English pronunciation is really bad,
+
+155
+00:08:00,993 --> 00:08:04,513
+and they needed good pronunciation because that would improve their jobs.
+
+156
+00:08:04,513 --> 00:08:08,591
+I gave them a speech-to-text engine in a computer,
+
+157
+00:08:08,591 --> 00:08:11,865
+and I said, "Keep talking into it until it types what you say."
+
+158
+00:08:11,865 --> 00:08:16,497
+(Laughter)
+
+159
+00:08:16,497 --> 00:08:21,681
+They did that, and watch a little bit of this.
+
+160
+00:08:21,681 --> 00:08:27,193
+Computer: Nice to meet you.Child: Nice to meet you.
+
+161
+00:08:27,193 --> 00:08:29,464
+Sugata Mitra: The reason I ended with the face
+
+162
+00:08:29,464 --> 00:08:33,281
+of this young lady over there is because I suspect many of you know her.
+
+163
+00:08:33,281 --> 00:08:36,777
+She has now joined a call center in Hyderabad
+
+164
+00:08:36,777 --> 00:08:41,499
+and may have tortured you about your credit card bills
+
+165
+00:08:41,499 --> 00:08:46,272
+in a very clear English accent.
+
+166
+00:08:46,272 --> 00:08:50,649
+So then people said, well, how far will it go?
+
+167
+00:08:50,649 --> 00:08:52,219
+Where does it stop?
+
+168
+00:08:52,219 --> 00:08:55,582
+I decided I would destroy my own argument
+
+169
+00:08:55,582 --> 00:08:58,086
+by creating an absurd proposition.
+
+170
+00:08:58,086 --> 00:09:01,974
+I made a hypothesis, a ridiculous hypothesis.
+
+171
+00:09:01,974 --> 00:09:03,778
+Tamil is a south Indian language, and I said,
+
+172
+00:09:03,778 --> 00:09:06,423
+can Tamil-speaking children in a south Indian village
+
+173
+00:09:06,423 --> 00:09:09,928
+learn the biotechnology of DNA replication in English
+
+174
+00:09:09,928 --> 00:09:12,175
+from a streetside computer?
+
+175
+00:09:12,175 --> 00:09:14,360
+And I said, I'll measure them. They'll get a zero.
+
+176
+00:09:14,360 --> 00:09:17,414
+I'll spend a couple of months, I'll leave it for a couple of months,
+
+177
+00:09:17,414 --> 00:09:19,718
+I'll go back, they'll get another zero.
+
+178
+00:09:19,718 --> 00:09:24,074
+I'll go back to the lab and say, we need teachers.
+
+179
+00:09:24,074 --> 00:09:28,137
+I found a village. It was called Kallikuppam in southern India.
+
+180
+00:09:28,137 --> 00:09:30,814
+I put in Hole in the Wall computers there,
+
+181
+00:09:30,814 --> 00:09:34,501
+downloaded all kinds of stuff from the Internet about DNA replication,
+
+182
+00:09:34,501 --> 00:09:37,806
+most of which I didn't understand.
+
+183
+00:09:37,806 --> 00:09:40,783
+The children came rushing, said, "What's all this?"
+
+184
+00:09:40,783 --> 00:09:45,791
+So I said, "It's very topical, very important. But it's all in English."
+
+185
+00:09:45,791 --> 00:09:49,145
+So they said, "How can we understand such big English words
+
+186
+00:09:49,145 --> 00:09:51,223
+and diagrams and chemistry?"
+
+187
+00:09:51,223 --> 00:09:54,047
+So by now, I had developed a new pedagogical method,
+
+188
+00:09:54,047 --> 00:09:56,931
+so I applied that. I said, "I haven't the foggiest idea."
+
+189
+00:09:56,931 --> 00:10:00,126
+(Laughter)
+
+190
+00:10:00,126 --> 00:10:03,076
+"And anyway, I am going away."
+
+191
+00:10:03,076 --> 00:10:07,444
+(Laughter)
+
+192
+00:10:07,444 --> 00:10:11,033
+So I left them for a couple of months.
+
+193
+00:10:11,033 --> 00:10:13,668
+They'd got a zero. I gave them a test.
+
+194
+00:10:13,668 --> 00:10:14,592
+I came back after two months
+
+195
+00:10:14,592 --> 00:10:18,252
+and the children trooped in and said, "We've understood nothing."
+
+196
+00:10:18,252 --> 00:10:20,327
+So I said, "Well, what did I expect?"
+
+197
+00:10:20,327 --> 00:10:24,412
+So I said, "Okay, but how long did it take you
+
+198
+00:10:24,412 --> 00:10:27,173
+before you decided that you can't understand anything?"
+
+199
+00:10:27,173 --> 00:10:29,121
+So they said, "We haven't given up.
+
+200
+00:10:29,121 --> 00:10:31,097
+We look at it every single day."
+
+201
+00:10:31,097 --> 00:10:33,562
+So I said, "What? You don't understand these screens
+
+202
+00:10:33,562 --> 00:10:36,266
+and you keep staring at it for two months? What for?"
+
+203
+00:10:36,266 --> 00:10:38,779
+So a little girl who you see just now,
+
+204
+00:10:38,779 --> 00:10:41,511
+she raised her hand, and she says to me in broken Tamil and English,
+
+205
+00:10:41,511 --> 00:10:43,708
+she said, "Well, apart from the fact that
+
+206
+00:10:43,708 --> 00:10:46,859
+improper replication of the DNA molecule causes disease,
+
+207
+00:10:46,859 --> 00:10:49,380
+we haven't understood anything else."
+
+208
+00:10:49,380 --> 00:10:55,092
+(Laughter) (Applause)
+
+209
+00:10:55,092 --> 00:10:59,212
+So I tested them.
+
+210
+00:10:59,212 --> 00:11:02,484
+I got an educational impossibility, zero to 30 percent
+
+211
+00:11:02,484 --> 00:11:04,788
+in two months in the tropical heat
+
+212
+00:11:04,788 --> 00:11:08,228
+with a computer under the tree in a language they didn't know
+
+213
+00:11:08,228 --> 00:11:11,300
+doing something that's a decade ahead of their time.
+
+214
+00:11:11,300 --> 00:11:16,677
+Absurd. But I had to follow the Victorian norm.
+
+215
+00:11:16,677 --> 00:11:20,077
+Thirty percent is a fail.
+
+216
+00:11:20,077 --> 00:11:23,013
+How do I get them to pass? I have to get them 20 more marks.
+
+217
+00:11:23,013 --> 00:11:27,850
+I couldn't find a teacher. What I did find was a friend that they had,
+
+218
+00:11:27,850 --> 00:11:30,236
+a 22-year-old girl who was an accountant
+
+219
+00:11:30,236 --> 00:11:32,684
+and she played with them all the time.
+
+220
+00:11:32,684 --> 00:11:34,805
+So I asked this girl, "Can you help them?"
+
+221
+00:11:34,805 --> 00:11:37,076
+So she says, "Absolutely not.
+
+222
+00:11:37,076 --> 00:11:40,153
+I didn't have science in school. I have no idea
+
+223
+00:11:40,153 --> 00:11:44,682
+what they're doing under that tree all day long. I can't help you."
+
+224
+00:11:44,682 --> 00:11:49,213
+I said, "I'll tell you what. Use the method of the grandmother."
+
+225
+00:11:49,213 --> 00:11:50,543
+So she says, "What's that?"
+
+226
+00:11:50,543 --> 00:11:51,930
+I said, "Stand behind them.
+
+227
+00:11:51,930 --> 00:11:53,536
+Whenever they do anything, you just say,
+
+228
+00:11:53,552 --> 00:11:56,333
+'Well, wow, I mean, how did you do that?
+
+229
+00:11:56,349 --> 00:11:59,445
+What's the next page? Gosh, when I was your age, I could have never done that.'
+
+230
+00:11:59,445 --> 00:12:02,367
+You know what grannies do."
+
+231
+00:12:02,367 --> 00:12:04,541
+So she did that for two more months.
+
+232
+00:12:04,541 --> 00:12:07,455
+The scores jumped to 50 percent.
+
+233
+00:12:07,455 --> 00:12:09,109
+Kallikuppam had caught up
+
+234
+00:12:09,109 --> 00:12:10,987
+with my control school in New Delhi,
+
+235
+00:12:10,987 --> 00:12:15,123
+a rich private school with a trained biotechnology teacher.
+
+236
+00:12:15,123 --> 00:12:19,960
+When I saw that graph I knew there is a way to level the playing field.
+
+237
+00:12:19,960 --> 00:12:22,056
+Here's Kallikuppam.
+
+238
+00:12:22,056 --> 00:12:30,251
+(Children speaking) Neurons ... communication.
+
+239
+00:12:30,251 --> 00:12:33,942
+I got the camera angle wrong. That one is just amateur stuff,
+
+240
+00:12:33,942 --> 00:12:36,438
+but what she was saying, as you could make out,
+
+241
+00:12:36,438 --> 00:12:38,845
+was about neurons, with her hands were like that,
+
+242
+00:12:38,845 --> 00:12:42,401
+and she was saying neurons communicate.
+
+243
+00:12:42,401 --> 00:12:45,745
+At 12.
+
+244
+00:12:45,745 --> 00:12:48,955
+So what are jobs going to be like?
+
+245
+00:12:48,955 --> 00:12:51,246
+Well, we know what they're like today.
+
+246
+00:12:51,246 --> 00:12:53,584
+What's learning going to be like? We know what it's like today,
+
+247
+00:12:53,584 --> 00:12:56,637
+children pouring over with their mobile phones on the one hand
+
+248
+00:12:56,637 --> 00:13:00,410
+and then reluctantly going to school to pick up their books with their other hand.
+
+249
+00:13:00,410 --> 00:13:04,369
+What will it be tomorrow?
+
+250
+00:13:04,369 --> 00:13:09,269
+Could it be that we don't need to go to school at all?
+
+251
+00:13:09,269 --> 00:13:12,809
+Could it be that, at the point in time when you need to know something,
+
+252
+00:13:12,809 --> 00:13:16,129
+you can find out in two minutes?
+
+253
+00:13:16,129 --> 00:13:20,234
+Could it be -- a devastating question,
+
+254
+00:13:20,234 --> 00:13:23,026
+a question that was framed for me by Nicholas Negroponte --
+
+255
+00:13:23,026 --> 00:13:26,065
+could it be that we are heading towards or maybe in
+
+256
+00:13:26,065 --> 00:13:29,425
+a future where knowing is obsolete?
+
+257
+00:13:29,425 --> 00:13:31,958
+But that's terrible. We are homo sapiens.
+
+258
+00:13:31,958 --> 00:13:35,875
+Knowing, that's what distinguishes us from the apes.
+
+259
+00:13:35,875 --> 00:13:37,652
+But look at it this way.
+
+260
+00:13:37,652 --> 00:13:40,198
+It took nature 100 million years
+
+261
+00:13:40,198 --> 00:13:42,334
+to make the ape stand up
+
+262
+00:13:42,334 --> 00:13:44,518
+and become Homo sapiens.
+
+263
+00:13:44,518 --> 00:13:48,214
+It took us only 10,000 to make knowing obsolete.
+
+264
+00:13:48,214 --> 00:13:50,396
+What an achievement that is.
+
+265
+00:13:50,396 --> 00:13:54,423
+But we have to integrate that into our own future.
+
+266
+00:13:54,423 --> 00:13:57,382
+Encouragement seems to be the key.
+
+267
+00:13:57,382 --> 00:13:58,592
+If you look at Kuppam,
+
+268
+00:13:58,592 --> 00:14:01,406
+if you look at all of the experiments that I did,
+
+269
+00:14:01,406 --> 00:14:08,541
+it was simply saying, "Wow," saluting learning.
+
+270
+00:14:08,541 --> 00:14:10,935
+There is evidence from neuroscience.
+
+271
+00:14:10,935 --> 00:14:14,137
+The reptilian part of our brain, which sits in the center of our brain,
+
+272
+00:14:14,137 --> 00:14:17,873
+when it's threatened, it shuts down everything else,
+
+273
+00:14:17,873 --> 00:14:21,551
+it shuts down the prefrontal cortex, the parts which learn,
+
+274
+00:14:21,551 --> 00:14:24,295
+it shuts all of that down.
+
+275
+00:14:24,295 --> 00:14:28,443
+Punishment and examinations are seen as threats.
+
+276
+00:14:28,443 --> 00:14:32,068
+We take our children, we make them shut their brains down,
+
+277
+00:14:32,068 --> 00:14:34,764
+and then we say, "Perform."
+
+278
+00:14:34,764 --> 00:14:38,245
+Why did they create a system like that?
+
+279
+00:14:38,245 --> 00:14:39,891
+Because it was needed.
+
+280
+00:14:39,891 --> 00:14:42,476
+There was an age in the Age of Empires
+
+281
+00:14:42,476 --> 00:14:46,746
+when you needed those people who can survive under threat.
+
+282
+00:14:46,746 --> 00:14:49,013
+When you're standing in a trench all alone,
+
+283
+00:14:49,013 --> 00:14:53,044
+if you could have survived, you're okay, you've passed.
+
+284
+00:14:53,044 --> 00:14:56,017
+If you didn't, you failed.
+
+285
+00:14:56,017 --> 00:14:58,673
+But the Age of Empires is gone.
+
+286
+00:14:58,673 --> 00:15:02,311
+What happens to creativity in our age?
+
+287
+00:15:02,311 --> 00:15:05,326
+We need to shift that balance back
+
+288
+00:15:05,326 --> 00:15:08,735
+from threat to pleasure.
+
+289
+00:15:08,735 --> 00:15:12,687
+I came back to England looking for British grandmothers.
+
+290
+00:15:12,687 --> 00:15:15,704
+I put out notices in papers saying,
+
+291
+00:15:15,704 --> 00:15:19,124
+if you are a British grandmother, if you have broadband and a web camera,
+
+292
+00:15:19,124 --> 00:15:22,351
+can you give me one hour of your time per week for free?
+
+293
+00:15:22,351 --> 00:15:24,463
+I got 200 in the first two weeks.
+
+294
+00:15:24,463 --> 00:15:29,371
+I know more British grandmothers than anyone in the universe. (Laughter)
+
+295
+00:15:29,371 --> 00:15:33,186
+They're called the Granny Cloud.
+
+296
+00:15:33,186 --> 00:15:34,916
+The Granny Cloud sits on the Internet.
+
+297
+00:15:34,916 --> 00:15:39,290
+If there's a child in trouble, we beam a Gran.
+
+298
+00:15:39,290 --> 00:15:42,859
+She goes on over Skype and she sorts things out.
+
+299
+00:15:42,859 --> 00:15:46,478
+I've seen them do it from a village called Diggles
+
+300
+00:15:46,478 --> 00:15:48,523
+in northwestern England,
+
+301
+00:15:48,523 --> 00:15:51,827
+deep inside a village in Tamil Nadu, India,
+
+302
+00:15:51,827 --> 00:15:54,067
+6,000 miles away.
+
+303
+00:15:54,067 --> 00:15:57,643
+She does it with only one age-old gesture.
+
+304
+00:15:57,643 --> 00:15:59,358
+"Shhh."
+
+305
+00:15:59,358 --> 00:16:02,083
+Okay?
+
+306
+00:16:02,083 --> 00:16:03,619
+Watch this.
+
+307
+00:16:03,619 --> 00:16:07,875
+Grandmother: You can't catch me. You say it.
+
+308
+00:16:07,875 --> 00:16:11,643
+You can't catch me.
+
+309
+00:16:11,643 --> 00:16:14,611
+Children: You can't catch me.
+
+310
+00:16:14,611 --> 00:16:20,193
+Grandmother: I'm the Gingerbread Man.Children: I'm the Gingerbread Man.
+
+311
+00:16:20,193 --> 00:16:24,783
+Grandmother: Well done! Very good.
+
+312
+00:16:24,783 --> 00:16:27,241
+SM: So what's happening here?
+
+313
+00:16:27,241 --> 00:16:29,085
+I think what we need to look at is
+
+314
+00:16:29,085 --> 00:16:31,466
+we need to look at learning
+
+315
+00:16:31,466 --> 00:16:36,054
+as the product of educational self-organization.
+
+316
+00:16:36,054 --> 00:16:38,899
+If you allow the educational process to self-organize,
+
+317
+00:16:38,899 --> 00:16:41,390
+then learning emerges.
+
+318
+00:16:41,390 --> 00:16:43,783
+It's not about making learning happen.
+
+319
+00:16:43,783 --> 00:16:45,999
+It's about letting it happen.
+
+320
+00:16:45,999 --> 00:16:49,272
+The teacher sets the process in motion
+
+321
+00:16:49,272 --> 00:16:51,991
+and then she stands back in awe
+
+322
+00:16:51,991 --> 00:16:54,359
+and watches as learning happens.
+
+323
+00:16:54,359 --> 00:16:57,312
+I think that's what all this is pointing at.
+
+324
+00:16:57,312 --> 00:17:00,064
+But how will we know? How will we come to know?
+
+325
+00:17:00,064 --> 00:17:01,739
+Well, I intend to build
+
+326
+00:17:01,739 --> 00:17:05,040
+these Self-Organized Learning Environments.
+
+327
+00:17:05,040 --> 00:17:08,725
+They are basically broadband, collaboration
+
+328
+00:17:08,725 --> 00:17:11,118
+and encouragement put together.
+
+329
+00:17:11,118 --> 00:17:12,824
+I've tried this in many, many schools.
+
+330
+00:17:12,824 --> 00:17:15,359
+It's been tried all over the world, and teachers
+
+331
+00:17:15,359 --> 00:17:18,985
+sort of stand back and say, "It just happens by itself?"
+
+332
+00:17:18,985 --> 00:17:22,102
+And I said, "Yeah, it happens by itself.""How did you know that?"
+
+333
+00:17:22,102 --> 00:17:25,595
+I said, "You won't believe the children who told me
+
+334
+00:17:25,595 --> 00:17:28,523
+and where they're from."
+
+335
+00:17:28,523 --> 00:17:31,267
+Here's a SOLE in action.
+
+336
+00:17:31,267 --> 00:17:37,376
+(Children talking)
+
+337
+00:17:37,376 --> 00:17:43,665
+This one is in England.
+
+338
+00:17:43,665 --> 00:17:47,431
+He maintains law and order,
+
+339
+00:17:47,431 --> 00:17:55,946
+because remember, there's no teacher around.
+
+340
+00:17:57,916 --> 00:18:01,819
+Girl: The total number of electrons is not equal to the total number of protons -- SM: Australia
+
+341
+00:18:01,819 --> 00:18:08,554
+Girl: -- giving it a net positive or negative electrical charge.
+
+342
+00:18:08,554 --> 00:18:12,138
+The net charge on an ion is equal to the number of protons
+
+343
+00:18:12,138 --> 00:18:15,431
+in the ion minus the number of electrons.
+
+344
+00:18:15,431 --> 00:18:18,480
+SM: A decade ahead of her time.
+
+345
+00:18:18,480 --> 00:18:22,083
+So SOLEs, I think we need a curriculum of big questions.
+
+346
+00:18:22,083 --> 00:18:24,289
+You already heard about that. You know what that means.
+
+347
+00:18:24,289 --> 00:18:27,690
+There was a time when Stone Age men and women
+
+348
+00:18:27,690 --> 00:18:29,794
+used to sit and look up at the sky and say,
+
+349
+00:18:29,794 --> 00:18:32,273
+"What are those twinkling lights?"
+
+350
+00:18:32,273 --> 00:18:37,067
+They built the first curriculum, but we've lost sight of those wondrous questions.
+
+351
+00:18:37,067 --> 00:18:41,197
+We've brought it down to the tangent of an angle.
+
+352
+00:18:41,197 --> 00:18:44,905
+But that's not sexy enough.
+
+353
+00:18:44,905 --> 00:18:47,866
+The way you would put it to a nine-year-old is to say,
+
+354
+00:18:47,866 --> 00:18:51,019
+"If a meteorite was coming to hit the Earth,
+
+355
+00:18:51,019 --> 00:18:54,417
+how would you figure out if it was going to or not?"
+
+356
+00:18:54,417 --> 00:18:56,977
+And if he says, "Well, what? how?"
+
+357
+00:18:56,977 --> 00:18:59,962
+you say, "There's a magic word. It's called the tangent of an angle,"
+
+358
+00:18:59,962 --> 00:19:02,833
+and leave him alone. He'll figure it out.
+
+359
+00:19:02,833 --> 00:19:07,291
+So here are a couple of images from SOLEs.
+
+360
+00:19:07,291 --> 00:19:12,880
+I've tried incredible, incredible questions --
+
+361
+00:19:12,880 --> 00:19:17,168
+"When did the world begin? How will it end?" —
+
+362
+00:19:17,168 --> 00:19:19,113
+to nine-year-olds.
+
+363
+00:19:19,113 --> 00:19:22,089
+This one is about what happens to the air we breathe.
+
+364
+00:19:22,089 --> 00:19:27,047
+This is done by children without the help of any teacher.
+
+365
+00:19:27,047 --> 00:19:29,431
+The teacher only raises the question,
+
+366
+00:19:29,431 --> 00:19:33,095
+and then stands back and admires the answer.
+
+367
+00:19:33,095 --> 00:19:36,831
+So what's my wish?
+
+368
+00:19:36,831 --> 00:19:39,047
+My wish is
+
+369
+00:19:39,047 --> 00:19:43,361
+that we design the future of learning.
+
+370
+00:19:43,361 --> 00:19:45,327
+We don't want to be spare parts
+
+371
+00:19:45,327 --> 00:19:47,719
+for a great human computer, do we?
+
+372
+00:19:47,719 --> 00:19:51,375
+So we need to design a future for learning.
+
+373
+00:19:51,375 --> 00:19:53,011
+And I've got to -- hang on,
+
+374
+00:19:53,011 --> 00:19:55,711
+I've got to get this wording exactly right,
+
+375
+00:19:55,711 --> 00:19:58,355
+because, you know, it's very important.
+
+376
+00:19:58,355 --> 00:20:00,671
+My wish is to help design a future of learning
+
+377
+00:20:00,671 --> 00:20:02,905
+by supporting children all over the world
+
+378
+00:20:02,905 --> 00:20:05,951
+to tap into their wonder and their ability to work together.
+
+379
+00:20:05,951 --> 00:20:08,183
+Help me build this school.
+
+380
+00:20:08,183 --> 00:20:11,519
+It will be called the School in the Cloud.
+
+381
+00:20:11,519 --> 00:20:16,592
+It will be a school where children go on these intellectual adventures
+
+382
+00:20:16,592 --> 00:20:20,449
+driven by the big questions which their mediators put in.
+
+383
+00:20:20,449 --> 00:20:22,720
+The way I want to do this
+
+384
+00:20:22,720 --> 00:20:27,080
+is to build a facility where I can study this.
+
+385
+00:20:27,080 --> 00:20:29,880
+It's a facility which is practically unmanned.
+
+386
+00:20:29,880 --> 00:20:31,647
+There's only one granny
+
+387
+00:20:31,647 --> 00:20:34,088
+who manages health and safety.
+
+388
+00:20:34,088 --> 00:20:35,521
+The rest of it's from the cloud.
+
+389
+00:20:35,521 --> 00:20:37,436
+The lights are turned on and off by the cloud,
+
+390
+00:20:37,436 --> 00:20:39,464
+etc., etc., everything's done from the cloud.
+
+391
+00:20:39,464 --> 00:20:42,689
+But I want you for another purpose.
+
+392
+00:20:42,689 --> 00:20:45,448
+You can do Self-Organized Learning Environments
+
+393
+00:20:45,448 --> 00:20:50,464
+at home, in the school, outside of school, in clubs.
+
+394
+00:20:50,464 --> 00:20:52,592
+It's very easy to do. There's a great document
+
+395
+00:20:52,592 --> 00:20:54,480
+produced by TED which tells you how to do it.
+
+396
+00:20:54,480 --> 00:20:57,856
+If you would please, please do it
+
+397
+00:20:57,856 --> 00:21:00,221
+across all five continents
+
+398
+00:21:00,221 --> 00:21:02,432
+and send me the data,
+
+399
+00:21:02,432 --> 00:21:05,936
+then I'll put it all together, move it into the School of Clouds,
+
+400
+00:21:05,936 --> 00:21:09,200
+and create the future of learning.
+
+401
+00:21:09,200 --> 00:21:10,992
+That's my wish.
+
+402
+00:21:10,992 --> 00:21:12,415
+And just one last thing.
+
+403
+00:21:12,415 --> 00:21:15,008
+I'll take you to the top of the Himalayas.
+
+404
+00:21:15,008 --> 00:21:18,311
+At 12,000 feet, where the air is thin,
+
+405
+00:21:18,311 --> 00:21:21,296
+I once built two Hole in the Wall computers,
+
+406
+00:21:21,296 --> 00:21:22,751
+and the children flocked there.
+
+407
+00:21:22,751 --> 00:21:25,648
+And there was this little girl who was following me around.
+
+408
+00:21:25,648 --> 00:21:30,364
+And I said to her, "You know, I want to give a computer to everybody, every child.
+
+409
+00:21:30,364 --> 00:21:32,765
+I don't know, what should I do?"
+
+410
+00:21:32,765 --> 00:21:36,796
+And I was trying to take a picture of her quietly.
+
+411
+00:21:36,796 --> 00:21:40,852
+She suddenly raised her hand like this, and said to me,
+
+412
+00:21:40,852 --> 00:21:42,741
+"Get on with it."
+
+413
+00:21:42,741 --> 00:21:54,605
+(Laughter) (Applause)
+
+414
+00:21:54,605 --> 00:21:56,466
+I think it was good advice.
+
+415
+00:21:56,466 --> 00:21:58,534
+I'll follow her advice. I'll stop talking.
+
+416
+00:21:58,534 --> 00:22:02,524
+Thank you. Thank you very much.
+
+417
+00:22:02,524 --> 00:22:06,275
+(Applause)
+
+418
+00:22:06,275 --> 00:22:14,599
+Thank you. Thank you. (Applause)
+
+419
+00:22:14,599 --> 00:22:21,014
+Thank you very much. Wow. (Applause)
+

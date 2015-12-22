@@ -1,0 +1,1722 @@
+﻿1
+00:00:12,174 --> 00:00:15,306
+Chris Anderson: Elon, what kind of crazy dream
+
+2
+00:00:15,306 --> 00:00:17,462
+would persuade you to think of trying
+
+3
+00:00:17,462 --> 00:00:20,820
+to take on the auto industry and build an all-electric car?
+
+4
+00:00:20,820 --> 00:00:24,222
+Elon Musk: Well, it goes back to when I was in university.
+
+5
+00:00:24,222 --> 00:00:26,374
+I thought about, what are the problems that are most likely
+
+6
+00:00:26,374 --> 00:00:29,446
+to affect the future of the world or the future of humanity?
+
+7
+00:00:29,446 --> 00:00:32,938
+I think it's extremely important that we have sustainable transport
+
+8
+00:00:32,938 --> 00:00:35,297
+and sustainable energy production.
+
+9
+00:00:35,297 --> 00:00:37,342
+That sort of overall sustainable energy problem
+
+10
+00:00:37,342 --> 00:00:39,841
+is the biggest problem that we have to solve this century,
+
+11
+00:00:39,841 --> 00:00:42,046
+independent of environmental concerns.
+
+12
+00:00:42,046 --> 00:00:44,963
+In fact, even if producing CO2 was good for the environment,
+
+13
+00:00:44,963 --> 00:00:48,043
+given that we're going to run out of hydrocarbons,
+
+14
+00:00:48,043 --> 00:00:52,098
+we need to find some sustainable means of operating.
+
+15
+00:00:52,098 --> 00:00:56,108
+CA: Most of American electricity comes from
+
+16
+00:00:56,108 --> 00:00:57,770
+burning fossil fuels.
+
+17
+00:00:57,770 --> 00:01:02,385
+How can an electric car that plugs into that electricity help?
+
+18
+00:01:02,385 --> 00:01:05,344
+EM: Right. There's two elements to that answer.
+
+19
+00:01:05,344 --> 00:01:08,304
+One is that, even if you take the same source fuel
+
+20
+00:01:08,304 --> 00:01:10,293
+and produce power at the power plant
+
+21
+00:01:10,293 --> 00:01:13,187
+and use it to charge electric cars, you're still better off.
+
+22
+00:01:13,187 --> 00:01:15,166
+So if you take, say, natural gas,
+
+23
+00:01:15,166 --> 00:01:17,774
+which is the most prevalent hydrocarbon source fuel,
+
+24
+00:01:17,774 --> 00:01:20,772
+if you burn that in a modern
+
+25
+00:01:20,772 --> 00:01:22,967
+General Electric natural gas turbine,
+
+26
+00:01:22,967 --> 00:01:24,805
+you'll get about 60 percent efficiency.
+
+27
+00:01:24,805 --> 00:01:27,516
+If you put that same fuel in an internal combustion engine car,
+
+28
+00:01:27,516 --> 00:01:29,416
+you get about 20 percent efficiency.
+
+29
+00:01:29,416 --> 00:01:30,996
+And the reason is, in the stationary power plant,
+
+30
+00:01:30,996 --> 00:01:33,364
+you can afford to have something that weighs a lot more,
+
+31
+00:01:33,364 --> 00:01:35,079
+is voluminous,
+
+32
+00:01:35,079 --> 00:01:36,533
+and you can take the waste heat
+
+33
+00:01:36,533 --> 00:01:37,902
+and run a steam turbine and generate
+
+34
+00:01:37,902 --> 00:01:39,686
+a secondary power source.
+
+35
+00:01:39,686 --> 00:01:43,472
+So in effect, even after you've taken transmission loss into account and everything,
+
+36
+00:01:43,472 --> 00:01:46,876
+even using the same source fuel, you're at least twice as better off
+
+37
+00:01:46,876 --> 00:01:49,348
+charging an electric car, then burning it at the power plant.
+
+38
+00:01:49,348 --> 00:01:51,459
+CA: That scale delivers efficiency.
+
+39
+00:01:51,459 --> 00:01:53,198
+EM: Yes, it does.
+
+40
+00:01:53,198 --> 00:01:56,216
+And then the other point is, we have to have sustainable means
+
+41
+00:01:56,216 --> 00:01:58,619
+of power generation anyway, electricity generation.
+
+42
+00:01:58,619 --> 00:02:01,688
+So given that we have to solve sustainable electricity generation,
+
+43
+00:02:01,688 --> 00:02:05,153
+then it makes sense for us to have electric cars
+
+44
+00:02:05,153 --> 00:02:07,728
+as the mode of transport.
+
+45
+00:02:07,728 --> 00:02:09,163
+CA: So we've got some video here
+
+46
+00:02:09,163 --> 00:02:11,654
+of the Tesla being assembled,
+
+47
+00:02:11,654 --> 00:02:14,368
+which, if we could play that first video --
+
+48
+00:02:14,368 --> 00:02:19,312
+So what is innovative about this process in this vehicle?
+
+49
+00:02:19,312 --> 00:02:22,888
+EM: Sure. So, in order to accelerate the advent of electric transport,
+
+50
+00:02:22,888 --> 00:02:24,958
+and I should say that I think, actually,
+
+51
+00:02:24,958 --> 00:02:27,416
+all modes of transport will become fully electric
+
+52
+00:02:27,416 --> 00:02:32,483
+with the ironic exception of rockets.
+
+53
+00:02:32,483 --> 00:02:35,240
+There's just no way around Newton's third law.
+
+54
+00:02:35,240 --> 00:02:38,692
+The question is how do you accelerate
+
+55
+00:02:38,692 --> 00:02:40,272
+the advent of electric transport?
+
+56
+00:02:40,272 --> 00:02:42,720
+And in order to do that for cars, you have to come up with
+
+57
+00:02:42,720 --> 00:02:45,047
+a really energy efficient car,
+
+58
+00:02:45,047 --> 00:02:46,904
+so that means making it incredibly light,
+
+59
+00:02:46,904 --> 00:02:47,930
+and so what you're seeing here
+
+60
+00:02:47,930 --> 00:02:50,676
+is the only all-aluminum body and chassis car
+
+61
+00:02:50,676 --> 00:02:52,262
+made in North America.
+
+62
+00:02:52,262 --> 00:02:54,950
+In fact, we applied a lot of rocket design techniques
+
+63
+00:02:54,950 --> 00:02:58,567
+to make the car light despite having a very large battery pack.
+
+64
+00:02:58,567 --> 00:03:00,727
+And then it also has the lowest drag coefficient
+
+65
+00:03:00,727 --> 00:03:02,095
+of any car of its size.
+
+66
+00:03:02,095 --> 00:03:05,760
+So as a result, the energy usage is very low,
+
+67
+00:03:05,760 --> 00:03:07,976
+and it has the most advanced battery pack,
+
+68
+00:03:07,976 --> 00:03:10,560
+and that's what gives it the range that's competitive,
+
+69
+00:03:10,560 --> 00:03:13,499
+so you can actually have on the order of a 250-mile range.
+
+70
+00:03:13,499 --> 00:03:17,088
+CA: I mean, those battery packs are incredibly heavy,
+
+71
+00:03:17,088 --> 00:03:20,359
+but you think the math can still work out intelligently --
+
+72
+00:03:20,359 --> 00:03:22,495
+by combining light body, heavy battery,
+
+73
+00:03:22,495 --> 00:03:24,768
+you can still gain spectacular efficiency.
+
+74
+00:03:24,768 --> 00:03:26,600
+EM: Exactly. The rest of the car has to be very light
+
+75
+00:03:26,600 --> 00:03:28,361
+to offset the mass of the pack,
+
+76
+00:03:28,361 --> 00:03:31,390
+and then you have to have a low drag coefficient so that you have good highway range.
+
+77
+00:03:31,390 --> 00:03:35,115
+And in fact, customers of the Model S
+
+78
+00:03:35,115 --> 00:03:36,194
+are sort of competing with each other
+
+79
+00:03:36,194 --> 00:03:39,213
+to try to get the highest possible range.
+
+80
+00:03:39,213 --> 00:03:42,743
+I think somebody recently got 420 miles out of a single charge.
+
+81
+00:03:42,743 --> 00:03:45,831
+CA: Bruno Bowden, who's here, did that,
+
+82
+00:03:45,831 --> 00:03:48,421
+broke the world record.EM: Congratulations.
+
+83
+00:03:48,421 --> 00:03:50,033
+CA: That was the good news. The bad news was that
+
+84
+00:03:50,033 --> 00:03:52,847
+to do it, he had to drive at 18 miles an hour constant speed
+
+85
+00:03:52,847 --> 00:03:56,759
+and got pulled over by the cops. (Laughter)
+
+86
+00:03:56,759 --> 00:04:00,649
+EM: I mean, you can certainly drive --
+
+87
+00:04:00,649 --> 00:04:03,287
+if you drive it 65 miles an hour,
+
+88
+00:04:03,287 --> 00:04:05,251
+under normal conditions,
+
+89
+00:04:05,251 --> 00:04:07,135
+250 miles is a reasonable number.
+
+90
+00:04:07,135 --> 00:04:08,273
+CA: Let's show that second video
+
+91
+00:04:08,273 --> 00:04:11,119
+showing the Tesla in action on ice.
+
+92
+00:04:11,119 --> 00:04:13,787
+Not at all a dig at The New York Times, this, by the way.
+
+93
+00:04:13,787 --> 00:04:16,202
+What is the most surprising thing about the experience
+
+94
+00:04:16,202 --> 00:04:17,710
+of driving the car?
+
+95
+00:04:17,710 --> 00:04:19,188
+EM: In creating an electric car,
+
+96
+00:04:19,188 --> 00:04:21,586
+the responsiveness of the car is really incredible.
+
+97
+00:04:21,586 --> 00:04:24,273
+So we wanted really to have people feel as though
+
+98
+00:04:24,273 --> 00:04:26,376
+they've almost got to mind meld with the car,
+
+99
+00:04:26,376 --> 00:04:29,550
+so you just feel like you and the car are kind of one,
+
+100
+00:04:29,550 --> 00:04:33,596
+and as you corner and accelerate, it just happens,
+
+101
+00:04:33,596 --> 00:04:35,430
+like the car has ESP.
+
+102
+00:04:35,430 --> 00:04:37,926
+You can do that with an electric car because of its responsiveness.
+
+103
+00:04:37,926 --> 00:04:40,053
+You can't do that with a gasoline car.
+
+104
+00:04:40,053 --> 00:04:42,035
+I think that's really a profound difference,
+
+105
+00:04:42,035 --> 00:04:44,822
+and people only experience that when they have a test drive.
+
+106
+00:04:44,822 --> 00:04:49,116
+CA: I mean, this is a beautiful but expensive car.
+
+107
+00:04:49,116 --> 00:04:52,691
+Is there a road map where this becomes
+
+108
+00:04:52,691 --> 00:04:54,270
+a mass-market vehicle?
+
+109
+00:04:54,270 --> 00:04:56,830
+EM: Yeah. The goal of Tesla has always been
+
+110
+00:04:56,830 --> 00:04:59,102
+to have a sort of three-step process,
+
+111
+00:04:59,102 --> 00:05:02,868
+where version one was an expensive car at low volume,
+
+112
+00:05:02,868 --> 00:05:05,933
+version two is medium priced and medium volume,
+
+113
+00:05:05,933 --> 00:05:08,222
+and then version three would be low price, high volume.
+
+114
+00:05:08,222 --> 00:05:09,905
+So we're at step two at this point.
+
+115
+00:05:09,905 --> 00:05:12,855
+So we had a $100,000 sports car, which was the Roadster.
+
+116
+00:05:12,855 --> 00:05:15,854
+Then we've got the Model S, which starts at around 50,000 dollars.
+
+117
+00:05:15,854 --> 00:05:17,958
+And our third generation car, which should hopefully
+
+118
+00:05:17,958 --> 00:05:19,687
+be out in about three or four years
+
+119
+00:05:19,687 --> 00:05:22,342
+will be a $30,000 car.
+
+120
+00:05:22,342 --> 00:05:24,824
+But whenever you've got really new technology,
+
+121
+00:05:24,824 --> 00:05:26,918
+it generally takes about three major versions
+
+122
+00:05:26,918 --> 00:05:30,138
+in order to make it a compelling mass-market product.
+
+123
+00:05:30,138 --> 00:05:32,862
+And so I think we're making progress in that direction,
+
+124
+00:05:32,862 --> 00:05:35,134
+and I feel confident that we'll get there.
+
+125
+00:05:35,134 --> 00:05:37,043
+CA: I mean, right now, if you've got a short commute,
+
+126
+00:05:37,043 --> 00:05:40,791
+you can drive, you can get back, you can charge it at home.
+
+127
+00:05:40,791 --> 00:05:45,038
+There isn't a huge nationwide network of charging stations now that are fast.
+
+128
+00:05:45,038 --> 00:05:47,878
+Do you see that coming, really, truly,
+
+129
+00:05:47,878 --> 00:05:50,131
+or just on a few key routes?
+
+130
+00:05:50,131 --> 00:05:53,006
+EM: There actually are far more charging stations
+
+131
+00:05:53,006 --> 00:05:55,231
+than people realize,
+
+132
+00:05:55,231 --> 00:05:57,590
+and at Tesla we developed something
+
+133
+00:05:57,590 --> 00:05:59,798
+called a Supercharging technology,
+
+134
+00:05:59,798 --> 00:06:03,110
+and we're offering that if you buy a Model S
+
+135
+00:06:03,110 --> 00:06:04,575
+for free, forever.
+
+136
+00:06:04,575 --> 00:06:07,230
+And so this is something that maybe a lot of people don't realize.
+
+137
+00:06:07,230 --> 00:06:10,060
+We actually have California and Nevada covered,
+
+138
+00:06:10,060 --> 00:06:12,334
+and we've got the Eastern seaboard
+
+139
+00:06:12,334 --> 00:06:14,586
+from Boston to D.C. covered.
+
+140
+00:06:14,586 --> 00:06:15,968
+By the end of this year, you'll be able to drive
+
+141
+00:06:15,968 --> 00:06:18,111
+from L.A. to New York
+
+142
+00:06:18,111 --> 00:06:19,713
+just using the Supercharger network,
+
+143
+00:06:19,713 --> 00:06:23,930
+which charges at five times the rate of anything else.
+
+144
+00:06:23,930 --> 00:06:28,356
+And the key thing is to have a ratio of drive to stop,
+
+145
+00:06:28,356 --> 00:06:31,355
+to stop time, of about six or seven.
+
+146
+00:06:31,355 --> 00:06:33,585
+So if you drive for three hours,
+
+147
+00:06:33,585 --> 00:06:35,223
+you want to stop for 20 or 30 minutes,
+
+148
+00:06:35,223 --> 00:06:37,720
+because that's normally what people will stop for.
+
+149
+00:06:37,720 --> 00:06:39,840
+So if you start a trip at 9 a.m.,
+
+150
+00:06:39,840 --> 00:06:42,378
+by noon you want to stop to have a bite to eat,
+
+151
+00:06:42,378 --> 00:06:44,117
+hit the restroom, coffee, and keep going.
+
+152
+00:06:44,117 --> 00:06:47,474
+CA: So your proposition to consumers is, for the full charge, it could take an hour.
+
+153
+00:06:47,474 --> 00:06:51,450
+So it's common -- don't expect to be out of here in 10 minutes.
+
+154
+00:06:51,450 --> 00:06:53,417
+Wait for an hour, but the good news is,
+
+155
+00:06:53,417 --> 00:06:54,856
+you're helping save the planet,
+
+156
+00:06:54,856 --> 00:06:57,549
+and by the way, the electricity is free. You don't pay anything.
+
+157
+00:06:57,549 --> 00:06:59,413
+EM: Actually, what we're expecting is for people
+
+158
+00:06:59,413 --> 00:07:02,938
+to stop for about 20 to 30 minutes, not for an hour.
+
+159
+00:07:02,938 --> 00:07:10,666
+It's actually better to drive for about maybe 160, 170 miles
+
+160
+00:07:10,666 --> 00:07:12,764
+and then stop for half an hour
+
+161
+00:07:12,764 --> 00:07:14,129
+and then keep going.
+
+162
+00:07:14,129 --> 00:07:17,411
+That's the natural cadence of a trip.
+
+163
+00:07:17,411 --> 00:07:21,792
+CA: All right. So this is only one string to your energy bow.
+
+164
+00:07:21,792 --> 00:07:24,434
+You've been working on this solar company SolarCity.
+
+165
+00:07:24,434 --> 00:07:26,946
+What's unusual about that?
+
+166
+00:07:26,946 --> 00:07:29,306
+EM: Well, as I mentioned earlier,
+
+167
+00:07:29,306 --> 00:07:32,946
+we have to have sustainable electricity production
+
+168
+00:07:32,946 --> 00:07:34,594
+as well as consumption,
+
+169
+00:07:34,594 --> 00:07:38,416
+so I'm quite confident that the primary means
+
+170
+00:07:38,416 --> 00:07:40,897
+of power generation will be solar.
+
+171
+00:07:40,897 --> 00:07:43,232
+I mean, it's really indirect fusion, is what it is.
+
+172
+00:07:43,232 --> 00:07:46,466
+We've got this giant fusion generator in the sky called the sun,
+
+173
+00:07:46,466 --> 00:07:49,358
+and we just need to tap a little bit of that energy
+
+174
+00:07:49,358 --> 00:07:52,234
+for purposes of human civilization.
+
+175
+00:07:52,234 --> 00:07:54,240
+What most people know but don't realize they know
+
+176
+00:07:54,240 --> 00:07:57,594
+is that the world is almost entirely solar-powered already.
+
+177
+00:07:57,594 --> 00:08:00,834
+If the sun wasn't there, we'd be a frozen ice ball
+
+178
+00:08:00,834 --> 00:08:02,996
+at three degrees Kelvin,
+
+179
+00:08:02,996 --> 00:08:06,794
+and the sun powers the entire system of precipitation.
+
+180
+00:08:06,794 --> 00:08:09,450
+The whole ecosystem is solar-powered.
+
+181
+00:08:09,450 --> 00:08:11,801
+CA: But in a gallon of gasoline, you have,
+
+182
+00:08:11,801 --> 00:08:14,065
+effectively, thousands of years of sun power
+
+183
+00:08:14,065 --> 00:08:16,130
+compressed into a small space,
+
+184
+00:08:16,130 --> 00:08:19,109
+so it's hard to make the numbers work right now on solar,
+
+185
+00:08:19,109 --> 00:08:22,198
+and to remotely compete with, for example, natural gas,
+
+186
+00:08:22,198 --> 00:08:25,642
+fracked natural gas. How are you going to build a business here?
+
+187
+00:08:25,642 --> 00:08:28,951
+EM: Well actually, I'm confident that solar
+
+188
+00:08:28,951 --> 00:08:32,867
+will beat everything, hands down, including natural gas.
+
+189
+00:08:32,867 --> 00:08:35,254
+(Applause)CA: How?
+
+190
+00:08:35,254 --> 00:08:38,827
+EM: It must, actually. If it doesn't, we're in deep trouble.
+
+191
+00:08:38,827 --> 00:08:41,861
+CA: But you're not selling solar panels to consumers.
+
+192
+00:08:41,861 --> 00:08:43,012
+What are you doing?
+
+193
+00:08:43,012 --> 00:08:46,260
+EM: No, we actually are. You can buy a solar system
+
+194
+00:08:46,260 --> 00:08:47,802
+or you can lease a solar system.
+
+195
+00:08:47,802 --> 00:08:49,792
+Most people choose to lease.
+
+196
+00:08:49,792 --> 00:08:51,858
+And the thing about solar power is that
+
+197
+00:08:51,858 --> 00:08:54,609
+it doesn't have any feed stock or operational costs,
+
+198
+00:08:54,609 --> 00:08:57,834
+so once it's installed, it's just there.
+
+199
+00:08:57,834 --> 00:09:02,335
+It works for decades. It'll work for probably a century.
+
+200
+00:09:02,335 --> 00:09:05,273
+So therefore, the key thing to do is to get the cost
+
+201
+00:09:05,273 --> 00:09:07,248
+of that initial installation low,
+
+202
+00:09:07,248 --> 00:09:09,883
+and then get the cost of the financing low,
+
+203
+00:09:09,883 --> 00:09:13,507
+because that interest -- those are the two factors that drive the cost of solar.
+
+204
+00:09:13,507 --> 00:09:16,923
+And we've made huge progress in that direction,
+
+205
+00:09:16,923 --> 00:09:20,491
+and that's why I'm confident we'll actually beat natural gas.
+
+206
+00:09:20,491 --> 00:09:23,268
+CA: So your current proposition to consumers is,
+
+207
+00:09:23,268 --> 00:09:25,484
+don't pay so much up front.
+
+208
+00:09:25,484 --> 00:09:28,164
+EM: Zero.CA: Pay zero up front.
+
+209
+00:09:28,164 --> 00:09:30,803
+We will install panels on your roof.
+
+210
+00:09:30,803 --> 00:09:34,404
+You will then pay, how long is a typical lease?
+
+211
+00:09:34,404 --> 00:09:37,648
+EM: Typical leases are 20 years,
+
+212
+00:09:37,648 --> 00:09:42,311
+but the value proposition is, as you're sort of alluding to, quite straightforward.
+
+213
+00:09:42,311 --> 00:09:46,461
+It's no money down, and your utility bill decreases.
+
+214
+00:09:46,461 --> 00:09:48,341
+Pretty good deal.
+
+215
+00:09:48,341 --> 00:09:50,254
+CA: So that seems like a win for the consumer.
+
+216
+00:09:50,254 --> 00:09:52,709
+No risk, you'll pay less than you're paying now.
+
+217
+00:09:52,709 --> 00:09:55,104
+For you, the dream here then is that --
+
+218
+00:09:55,104 --> 00:09:59,879
+I mean, who owns the electricity from those panels for the longer term?
+
+219
+00:09:59,879 --> 00:10:03,061
+I mean, how do you, the company, benefit?
+
+220
+00:10:03,061 --> 00:10:06,603
+EM: Well, essentially,
+
+221
+00:10:06,603 --> 00:10:12,490
+SolarCity raises a chunk of capital
+
+222
+00:10:12,490 --> 00:10:16,160
+from say, a company or a bank.
+
+223
+00:10:16,160 --> 00:10:18,373
+Google is one of our big partners here.
+
+224
+00:10:18,373 --> 00:10:20,797
+And they have an expected return on that capital.
+
+225
+00:10:20,797 --> 00:10:25,183
+With that capital, SolarCity purchases and installs the panel on the roof
+
+226
+00:10:25,183 --> 00:10:28,629
+and then charges the homeowner or business owner
+
+227
+00:10:28,629 --> 00:10:32,339
+a monthly lease payment, which is less than the utility bill.
+
+228
+00:10:32,339 --> 00:10:35,852
+CA: But you yourself get a long-term commercial benefit from that power.
+
+229
+00:10:35,852 --> 00:10:39,616
+You're kind of building a new type of distributed utility.
+
+230
+00:10:39,616 --> 00:10:41,291
+EM: Exactly. What it amounts to
+
+231
+00:10:41,291 --> 00:10:44,632
+is a giant distributed utility.
+
+232
+00:10:44,632 --> 00:10:47,515
+I think it's a good thing, because utilities
+
+233
+00:10:47,515 --> 00:10:50,352
+have been this monopoly, and people haven't had any choice.
+
+234
+00:10:50,352 --> 00:10:52,447
+So effectively it's the first time
+
+235
+00:10:52,447 --> 00:10:55,712
+there's been competition for this monopoly,
+
+236
+00:10:55,712 --> 00:10:58,712
+because the utilities have been the only ones
+
+237
+00:10:58,712 --> 00:11:01,359
+that owned those power distribution lines, but now it's on your roof.
+
+238
+00:11:01,359 --> 00:11:03,250
+So I think it's actually very empowering
+
+239
+00:11:03,250 --> 00:11:05,887
+for homeowners and businesses.
+
+240
+00:11:05,887 --> 00:11:07,245
+CA: And you really picture a future
+
+241
+00:11:07,245 --> 00:11:11,164
+where a majority of power in America,
+
+242
+00:11:11,164 --> 00:11:15,866
+within a decade or two, or within your lifetime, it goes solar?
+
+243
+00:11:15,866 --> 00:11:21,664
+EM: I'm extremely confident that solar will be at least a plurality of power,
+
+244
+00:11:21,664 --> 00:11:23,776
+and most likely a majority,
+
+245
+00:11:23,776 --> 00:11:29,036
+and I predict it will be a plurality in less than 20 years.
+
+246
+00:11:29,036 --> 00:11:32,504
+I made that bet with someone —CA: Definition of plurality is?
+
+247
+00:11:32,504 --> 00:11:34,250
+EM: More from solar than any other source.
+
+248
+00:11:34,250 --> 00:11:38,008
+CA: Ah. Who did you make the bet with?
+
+249
+00:11:38,008 --> 00:11:41,408
+EM: With a friend who will remain nameless.
+
+250
+00:11:41,408 --> 00:11:45,728
+CA: Just between us. (Laughter)
+
+251
+00:11:45,728 --> 00:11:48,520
+EM: I made that bet, I think, two or three years ago,
+
+252
+00:11:48,520 --> 00:11:50,323
+so in roughly 18 years,
+
+253
+00:11:50,323 --> 00:11:53,880
+I think we'll see more power from solar than any other source.
+
+254
+00:11:53,880 --> 00:11:55,649
+CA: All right, so let's go back to another bet that you made
+
+255
+00:11:55,649 --> 00:11:57,865
+with yourself, I guess, a kind of crazy bet.
+
+256
+00:11:57,865 --> 00:12:02,642
+You'd made some money from the sale of PayPal.
+
+257
+00:12:02,642 --> 00:12:05,078
+You decided to build a space company.
+
+258
+00:12:05,078 --> 00:12:07,151
+Why on Earth would someone do that?
+
+259
+00:12:07,151 --> 00:12:09,331
+(Laughter)
+
+260
+00:12:09,331 --> 00:12:12,144
+EM: I got that question a lot, that's true.
+
+261
+00:12:12,144 --> 00:12:14,403
+People would say, "Did you hear the joke about the guy
+
+262
+00:12:14,403 --> 00:12:17,304
+who made a small fortune in the space industry?"
+
+263
+00:12:17,304 --> 00:12:21,552
+Obviously, "He started with a large one," is the punchline.
+
+264
+00:12:21,552 --> 00:12:24,098
+And so I tell people, well, I was trying to figure out
+
+265
+00:12:24,098 --> 00:12:26,385
+the fastest way to turn a large fortune into a small one.
+
+266
+00:12:26,385 --> 00:12:29,426
+And they'd look at me, like, "Is he serious?"
+
+267
+00:12:29,426 --> 00:12:34,488
+CA: And strangely, you were. So what happened?
+
+268
+00:12:34,488 --> 00:12:37,670
+EM: It was a close call. Things almost didn't work out.
+
+269
+00:12:37,670 --> 00:12:39,420
+We came very close to failure,
+
+270
+00:12:39,420 --> 00:12:42,554
+but we managed to get through that point in 2008.
+
+271
+00:12:42,554 --> 00:12:48,704
+The goal of SpaceX is to try to advance rocket technology,
+
+272
+00:12:48,704 --> 00:12:50,658
+and in particular to try to crack a problem
+
+273
+00:12:50,658 --> 00:12:52,242
+that I think is vital
+
+274
+00:12:52,242 --> 00:12:54,269
+for humanity to become a space-faring civilization,
+
+275
+00:12:54,269 --> 00:12:59,153
+which is to have a rapidly and fully reusable rocket.
+
+276
+00:12:59,153 --> 00:13:02,244
+CA: Would humanity become a space-faring civilization?
+
+277
+00:13:02,244 --> 00:13:06,258
+So that was a dream of yours, in a way, from a young age?
+
+278
+00:13:06,258 --> 00:13:09,637
+You've dreamed of Mars and beyond?
+
+279
+00:13:09,637 --> 00:13:11,773
+EM: I did build rockets when I was a kid,
+
+280
+00:13:11,773 --> 00:13:13,169
+but I didn't think I'd be involved in this.
+
+281
+00:13:13,169 --> 00:13:15,154
+It was really more from the standpoint of
+
+282
+00:13:15,154 --> 00:13:19,024
+what are the things that need to happen in order for
+
+283
+00:13:19,024 --> 00:13:21,844
+the future to be an exciting and inspiring one?
+
+284
+00:13:21,844 --> 00:13:25,933
+And I really think there's a fundamental difference,
+
+285
+00:13:25,933 --> 00:13:27,329
+if you sort of look into the future,
+
+286
+00:13:27,329 --> 00:13:30,786
+between a humanity that is a space-faring civilization,
+
+287
+00:13:30,786 --> 00:13:33,901
+that's out there exploring the stars, on multiple planets,
+
+288
+00:13:33,901 --> 00:13:36,113
+and I think that's really exciting,
+
+289
+00:13:36,113 --> 00:13:39,284
+compared with one where we are forever confined to Earth
+
+290
+00:13:39,284 --> 00:13:41,572
+until some eventual extinction event.
+
+291
+00:13:41,572 --> 00:13:43,324
+CA: So you've somehow slashed the cost of building
+
+292
+00:13:43,324 --> 00:13:46,668
+a rocket by 75 percent, depending on how you calculate it.
+
+293
+00:13:46,668 --> 00:13:48,947
+How on Earth have you done that?
+
+294
+00:13:48,947 --> 00:13:52,058
+NASA has been doing this for years. How have you done this?
+
+295
+00:13:52,058 --> 00:13:54,459
+EM: Well, we've made significant advances
+
+296
+00:13:54,459 --> 00:13:57,222
+in the technology of the airframe, the engines,
+
+297
+00:13:57,222 --> 00:14:00,443
+the electronics and the launch operation.
+
+298
+00:14:00,443 --> 00:14:03,164
+There's a long list of innovations
+
+299
+00:14:03,164 --> 00:14:05,332
+that we've come up with there
+
+300
+00:14:05,332 --> 00:14:11,007
+that are a little difficult to communicate in this talk, but --
+
+301
+00:14:11,007 --> 00:14:14,420
+CA: Not least because you could still get copied, right?
+
+302
+00:14:14,420 --> 00:14:17,035
+You haven't patented this stuff. It's really interesting to me.
+
+303
+00:14:17,035 --> 00:14:19,275
+EM: No, we don't patent.CA: You didn't patent because you think it's
+
+304
+00:14:19,275 --> 00:14:22,023
+more dangerous to patent than not to patent.
+
+305
+00:14:22,023 --> 00:14:24,719
+EM: Since our primary competitors are national governments,
+
+306
+00:14:24,719 --> 00:14:29,188
+the enforceability of patents is questionable.(Laughter) (Applause)
+
+307
+00:14:29,188 --> 00:14:32,607
+CA: That's really, really interesting.
+
+308
+00:14:32,607 --> 00:14:35,236
+But the big innovation is still ahead,
+
+309
+00:14:35,236 --> 00:14:37,975
+and you're working on it now. Tell us about this.
+
+310
+00:14:37,975 --> 00:14:39,664
+EM: Right, so the big innovation—
+
+311
+00:14:39,664 --> 00:14:43,901
+CA: In fact, let's roll that video and you can talk us through it, what's happening here.
+
+312
+00:14:43,901 --> 00:14:47,975
+EM: Absolutely. So the thing about rockets is that
+
+313
+00:14:47,975 --> 00:14:49,517
+they're all expendable.
+
+314
+00:14:49,517 --> 00:14:51,779
+All rockets that fly today are fully expendable.
+
+315
+00:14:51,779 --> 00:14:53,913
+The space shuttle was an attempt at a reusable rocket,
+
+316
+00:14:53,913 --> 00:14:56,839
+but even the main tank of the space shuttle was thrown away every time,
+
+317
+00:14:56,839 --> 00:14:58,935
+and the parts that were reusable
+
+318
+00:14:58,935 --> 00:15:03,991
+took a 10,000-person group nine months to refurbish for flight.
+
+319
+00:15:03,991 --> 00:15:07,577
+So the space shuttle ended up costing a billion dollars per flight.
+
+320
+00:15:07,577 --> 00:15:09,759
+Obviously that doesn't work very well for —
+
+321
+00:15:09,759 --> 00:15:12,979
+CA: What just happened there? We just saw something land?
+
+322
+00:15:12,979 --> 00:15:17,310
+EM: That's right. So it's important that the rocket stages
+
+323
+00:15:17,310 --> 00:15:20,675
+be able to come back, to be able to return to the launch site
+
+324
+00:15:20,675 --> 00:15:23,692
+and be ready to launch again within a matter of hours.
+
+325
+00:15:23,692 --> 00:15:28,375
+CA: Wow. Reusable rockets.EM: Yes. (Applause)
+
+326
+00:15:28,375 --> 00:15:31,583
+And so what a lot of people don't realize is,
+
+327
+00:15:31,583 --> 00:15:34,181
+the cost of the fuel, of the propellant, is very small.
+
+328
+00:15:34,181 --> 00:15:35,885
+It's much like on a jet.
+
+329
+00:15:35,885 --> 00:15:39,401
+So the cost of the propellant is about .3 percent
+
+330
+00:15:39,401 --> 00:15:41,303
+of the cost of the rocket.
+
+331
+00:15:41,303 --> 00:15:43,455
+So it's possible to achieve, let's say,
+
+332
+00:15:43,455 --> 00:15:46,295
+roughly 100-fold improvement in the cost of spaceflight
+
+333
+00:15:46,295 --> 00:15:49,375
+if you can effectively reuse the rocket.
+
+334
+00:15:49,375 --> 00:15:50,815
+That's why it's so important.
+
+335
+00:15:50,815 --> 00:15:53,037
+Every mode of transport that we use,
+
+336
+00:15:53,037 --> 00:15:55,967
+whether it's planes, trains, automobiles, bikes, horses,
+
+337
+00:15:55,967 --> 00:15:58,303
+is reusable, but not rockets.
+
+338
+00:15:58,303 --> 00:16:01,591
+So we must solve this problem in order to become a space-faring civilization.
+
+339
+00:16:01,591 --> 00:16:03,058
+CA: You asked me the question earlier
+
+340
+00:16:03,058 --> 00:16:06,853
+of how popular traveling on cruises would be
+
+341
+00:16:06,853 --> 00:16:12,988
+if you had to burn your ships afterward.EM: Certain cruises are apparently highly problematic.
+
+342
+00:16:12,988 --> 00:16:15,183
+CA: Definitely more expensive.
+
+343
+00:16:15,183 --> 00:16:19,154
+So that's potentially absolutely disruptive technology,
+
+344
+00:16:19,154 --> 00:16:23,327
+and, I guess, paves the way for your dream to actually take,
+
+345
+00:16:23,327 --> 00:16:27,124
+at some point, to take humanity to Mars at scale.
+
+346
+00:16:27,124 --> 00:16:29,406
+You'd like to see a colony on Mars.
+
+347
+00:16:29,421 --> 00:16:32,958
+EM: Yeah, exactly. SpaceX, or some combination
+
+348
+00:16:32,958 --> 00:16:35,991
+of companies and governments, needs to make progress
+
+349
+00:16:35,991 --> 00:16:38,950
+in the direction of making life multi-planetary,
+
+350
+00:16:38,950 --> 00:16:42,582
+of establishing a base on another planet,
+
+351
+00:16:42,582 --> 00:16:44,927
+on Mars -- being the only realistic option --
+
+352
+00:16:44,927 --> 00:16:46,309
+and then building that base up
+
+353
+00:16:46,309 --> 00:16:49,258
+until we're a true multi-planet species.
+
+354
+00:16:49,258 --> 00:16:52,231
+CA: So progress on this "let's make it reusable,"
+
+355
+00:16:52,231 --> 00:16:56,050
+how is that going? That was just a simulation video we saw.
+
+356
+00:16:56,050 --> 00:16:57,155
+How's it going?
+
+357
+00:16:57,155 --> 00:17:00,319
+EM: We're actually, we've been making some good progress recently
+
+358
+00:17:00,319 --> 00:17:02,903
+with something we call the Grasshopper Test Project,
+
+359
+00:17:02,903 --> 00:17:07,079
+where we're testing the vertical landing portion of the flight,
+
+360
+00:17:07,079 --> 00:17:09,828
+the sort of terminal portion which is quite tricky.
+
+361
+00:17:09,828 --> 00:17:12,864
+And we've had some good tests.
+
+362
+00:17:12,864 --> 00:17:14,925
+CA: Can we see that?EM: Yeah.
+
+363
+00:17:14,925 --> 00:17:16,568
+So that's just to give a sense of scale.
+
+364
+00:17:16,568 --> 00:17:18,008
+We dressed a cowboy as Johnny Cash
+
+365
+00:17:18,008 --> 00:17:21,863
+and bolted the mannequin to the rocket. (Laughter)
+
+366
+00:17:21,863 --> 00:17:23,815
+CA: All right, let's see that video then,
+
+367
+00:17:23,815 --> 00:17:25,846
+because this is actually amazing when you think about it.
+
+368
+00:17:25,846 --> 00:17:31,553
+You've never seen this before. A rocket blasting off and then --
+
+369
+00:17:31,553 --> 00:17:33,471
+EM: Yeah, so that rocket is about the size
+
+370
+00:17:33,471 --> 00:17:36,097
+of a 12-story building.
+
+371
+00:17:36,097 --> 00:17:42,067
+(Rocket launch)
+
+372
+00:17:46,918 --> 00:17:50,891
+So now it's hovering at about 40 meters,
+
+373
+00:17:50,891 --> 00:17:52,767
+and it's constantly adjusting
+
+374
+00:17:52,767 --> 00:17:55,728
+the angle, the pitch 
+and yaw of the main engine,
+
+375
+00:17:55,728 --> 00:17:59,359
+and maintaining roll 
+with cold gas thrusters.
+
+376
+00:18:05,866 --> 00:18:12,179
+CA: How cool is that? (Applause)
+
+377
+00:18:12,179 --> 00:18:16,853
+Elon, how have you done this?
+
+378
+00:18:16,853 --> 00:18:22,167
+These projects are so -- Paypal, SolarCity,
+
+379
+00:18:22,167 --> 00:18:24,845
+Tesla, SpaceX, they're so spectacularly different,
+
+380
+00:18:24,845 --> 00:18:27,430
+they're such ambitious projects at scale.
+
+381
+00:18:27,430 --> 00:18:29,894
+How on Earth has one person
+
+382
+00:18:29,894 --> 00:18:32,369
+been able to innovate in this way?
+
+383
+00:18:32,369 --> 00:18:34,206
+What is it about you?
+
+384
+00:18:34,206 --> 00:18:39,602
+EM: I don't know, actually.
+
+385
+00:18:39,602 --> 00:18:41,842
+I don't have a good answer for you.
+
+386
+00:18:41,842 --> 00:18:45,477
+I work a lot. I mean, a lot.
+
+387
+00:18:45,477 --> 00:18:47,790
+CA: Well, I have a theory.EM: Okay. All right.
+
+388
+00:18:47,790 --> 00:18:51,354
+CA: My theory is that you
+
+389
+00:18:51,354 --> 00:18:55,510
+have an ability to think at a system level of design
+
+390
+00:18:55,510 --> 00:18:59,153
+that pulls together design, technology and business,
+
+391
+00:18:59,153 --> 00:19:02,629
+so if TED was TBD, design, technology and business,
+
+392
+00:19:02,629 --> 00:19:05,126
+into one package,
+
+393
+00:19:05,126 --> 00:19:07,485
+synthesize it in a way that very few people can and --
+
+394
+00:19:07,485 --> 00:19:11,579
+and this is the critical thing -- feel so damn confident
+
+395
+00:19:11,579 --> 00:19:16,195
+in that clicked-together package that you take crazy risks.
+
+396
+00:19:16,195 --> 00:19:21,074
+You bet your fortune on it, and you seem to have done that multiple times.
+
+397
+00:19:21,074 --> 00:19:23,171
+I mean, almost no one can do that.
+
+398
+00:19:23,171 --> 00:19:26,443
+Is that -- could we have some of that secret sauce?
+
+399
+00:19:26,443 --> 00:19:29,867
+Can we put it into our education system? Can someone learn from you?
+
+400
+00:19:29,867 --> 00:19:31,606
+It is truly amazing what you've done.
+
+401
+00:19:31,606 --> 00:19:33,615
+EM: Well, thanks. Thank you.
+
+402
+00:19:33,615 --> 00:19:38,425
+Well, I do think there's a good framework for thinking.
+
+403
+00:19:38,425 --> 00:19:41,049
+It is physics. You know, the sort of first principles reasoning.
+
+404
+00:19:41,049 --> 00:19:45,787
+Generally I think there are -- what I mean by that is,
+
+405
+00:19:45,803 --> 00:19:49,178
+boil things down to their fundamental truths
+
+406
+00:19:49,178 --> 00:19:50,569
+and reason up from there,
+
+407
+00:19:50,569 --> 00:19:53,155
+as opposed to reasoning by analogy.
+
+408
+00:19:53,155 --> 00:19:55,369
+Through most of our life, we get through life
+
+409
+00:19:55,369 --> 00:19:56,457
+by reasoning by analogy,
+
+410
+00:19:56,457 --> 00:19:59,995
+which essentially means copying what other people do with slight variations.
+
+411
+00:19:59,995 --> 00:20:01,475
+And you have to do that.
+
+412
+00:20:01,475 --> 00:20:06,049
+Otherwise, mentally, you wouldn't be able to get through the day.
+
+413
+00:20:06,049 --> 00:20:08,193
+But when you want to do something new,
+
+414
+00:20:08,193 --> 00:20:11,925
+you have to apply the physics approach.
+
+415
+00:20:11,925 --> 00:20:14,173
+Physics is really figuring out how to discover
+
+416
+00:20:14,173 --> 00:20:16,818
+new things that are counterintuitive, like quantum mechanics.
+
+417
+00:20:16,818 --> 00:20:18,721
+It's really counterintuitive.
+
+418
+00:20:18,721 --> 00:20:21,242
+So I think that's an important thing to do,
+
+419
+00:20:21,242 --> 00:20:25,800
+and then also to really pay attention to negative feedback,
+
+420
+00:20:25,800 --> 00:20:27,921
+and solicit it, particularly from friends.
+
+421
+00:20:27,921 --> 00:20:31,387
+This may sound like simple advice,
+
+422
+00:20:31,387 --> 00:20:33,809
+but hardly anyone does that,
+
+423
+00:20:33,809 --> 00:20:36,161
+and it's incredibly helpful.
+
+424
+00:20:36,161 --> 00:20:39,523
+CA: Boys and girls watching, study physics.
+
+425
+00:20:39,523 --> 00:20:40,807
+Learn from this man.
+
+426
+00:20:40,807 --> 00:20:44,297
+Elon Musk, I wish we had all day, but thank you so much for coming to TED.
+
+427
+00:20:44,297 --> 00:20:47,707
+EM: Thank you. CA: That was awesome. That was really, really cool.
+
+428
+00:20:47,707 --> 00:20:49,968
+Look at that. (Applause)
+
+429
+00:20:49,968 --> 00:20:54,795
+Just take a bow. That was fantastic.
+
+430
+00:20:54,795 --> 00:20:56,256
+Thank you so much.
+

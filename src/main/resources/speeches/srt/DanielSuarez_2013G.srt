@@ -1,0 +1,980 @@
+﻿1
+00:00:12,511 --> 00:00:15,669
+I write fiction sci-fi thrillers,
+
+2
+00:00:15,669 --> 00:00:17,862
+so if I say "killer robots,"
+
+3
+00:00:17,862 --> 00:00:20,223
+you'd probably think something like this.
+
+4
+00:00:20,223 --> 00:00:22,778
+But I'm actually not here to talk about fiction.
+
+5
+00:00:22,778 --> 00:00:25,726
+I'm here to talk about very real killer robots,
+
+6
+00:00:25,726 --> 00:00:28,848
+autonomous combat drones.
+
+7
+00:00:28,848 --> 00:00:32,475
+Now, I'm not referring to Predator and Reaper drones,
+
+8
+00:00:32,475 --> 00:00:35,735
+which have a human making targeting decisions.
+
+9
+00:00:35,735 --> 00:00:38,864
+I'm talking about fully autonomous robotic weapons
+
+10
+00:00:38,864 --> 00:00:41,518
+that make lethal decisions about human beings
+
+11
+00:00:41,518 --> 00:00:43,935
+all on their own.
+
+12
+00:00:43,935 --> 00:00:47,935
+There's actually a technical term for this: lethal autonomy.
+
+13
+00:00:47,935 --> 00:00:50,791
+Now, lethally autonomous killer robots
+
+14
+00:00:50,791 --> 00:00:53,860
+would take many forms -- flying, driving,
+
+15
+00:00:53,860 --> 00:00:56,606
+or just lying in wait.
+
+16
+00:00:56,606 --> 00:00:59,715
+And actually, they're very quickly becoming a reality.
+
+17
+00:00:59,715 --> 00:01:02,199
+These are two automatic sniper stations
+
+18
+00:01:02,199 --> 00:01:06,336
+currently deployed in the DMZ between North and South Korea.
+
+19
+00:01:06,336 --> 00:01:08,507
+Both of these machines are capable of automatically
+
+20
+00:01:08,507 --> 00:01:12,031
+identifying a human target and firing on it,
+
+21
+00:01:12,031 --> 00:01:16,355
+the one on the left at a distance of over a kilometer.
+
+22
+00:01:16,355 --> 00:01:19,944
+Now, in both cases, there's still a human in the loop
+
+23
+00:01:19,944 --> 00:01:22,316
+to make that lethal firing decision,
+
+24
+00:01:22,316 --> 00:01:27,729
+but it's not a technological requirement. It's a choice.
+
+25
+00:01:27,729 --> 00:01:30,822
+And it's that choice that I want to focus on,
+
+26
+00:01:30,822 --> 00:01:33,463
+because as we migrate lethal decision-making
+
+27
+00:01:33,463 --> 00:01:36,572
+from humans to software,
+
+28
+00:01:36,572 --> 00:01:40,048
+we risk not only taking the humanity out of war,
+
+29
+00:01:40,048 --> 00:01:43,574
+but also changing our social landscape entirely,
+
+30
+00:01:43,574 --> 00:01:45,798
+far from the battlefield.
+
+31
+00:01:45,798 --> 00:01:50,307
+That's because the way humans resolve conflict
+
+32
+00:01:50,307 --> 00:01:52,040
+shapes our social landscape.
+
+33
+00:01:52,040 --> 00:01:54,673
+And this has always been the case, throughout history.
+
+34
+00:01:54,673 --> 00:01:57,334
+For example, these were state-of-the-art weapons systems
+
+35
+00:01:57,334 --> 00:01:59,413
+in 1400 A.D.
+
+36
+00:01:59,413 --> 00:02:02,557
+Now they were both very expensive to build and maintain,
+
+37
+00:02:02,557 --> 00:02:05,797
+but with these you could dominate the populace,
+
+38
+00:02:05,797 --> 00:02:09,686
+and the distribution of political power in feudal society reflected that.
+
+39
+00:02:09,686 --> 00:02:12,373
+Power was focused at the very top.
+
+40
+00:02:12,373 --> 00:02:15,901
+And what changed? Technological innovation.
+
+41
+00:02:15,901 --> 00:02:17,772
+Gunpowder, cannon.
+
+42
+00:02:17,772 --> 00:02:21,589
+And pretty soon, armor and castles were obsolete,
+
+43
+00:02:21,589 --> 00:02:24,122
+and it mattered less who you brought to the battlefield
+
+44
+00:02:24,122 --> 00:02:27,901
+versus how many people you brought to the battlefield.
+
+45
+00:02:27,901 --> 00:02:31,539
+And as armies grew in size, the nation-state arose
+
+46
+00:02:31,539 --> 00:02:35,219
+as a political and logistical requirement of defense.
+
+47
+00:02:35,219 --> 00:02:37,595
+And as leaders had to rely on more of their populace,
+
+48
+00:02:37,595 --> 00:02:39,428
+they began to share power.
+
+49
+00:02:39,428 --> 00:02:42,027
+Representative government began to form.
+
+50
+00:02:42,027 --> 00:02:45,315
+So again, the tools we use to resolve conflict
+
+51
+00:02:45,315 --> 00:02:48,619
+shape our social landscape.
+
+52
+00:02:48,619 --> 00:02:52,683
+Autonomous robotic weapons are such a tool,
+
+53
+00:02:52,683 --> 00:02:57,851
+except that, by requiring very few people to go to war,
+
+54
+00:02:57,851 --> 00:03:02,691
+they risk re-centralizing power into very few hands,
+
+55
+00:03:02,691 --> 00:03:09,206
+possibly reversing a five-century trend toward democracy.
+
+56
+00:03:09,206 --> 00:03:10,963
+Now, I think, knowing this,
+
+57
+00:03:10,963 --> 00:03:15,315
+we can take decisive steps to preserve our democratic institutions,
+
+58
+00:03:15,315 --> 00:03:19,294
+to do what humans do best, which is adapt.
+
+59
+00:03:19,294 --> 00:03:21,299
+But time is a factor.
+
+60
+00:03:21,299 --> 00:03:24,150
+Seventy nations are developing remotely-piloted
+
+61
+00:03:24,150 --> 00:03:26,307
+combat drones of their own,
+
+62
+00:03:26,307 --> 00:03:28,900
+and as you'll see, remotely-piloted combat drones
+
+63
+00:03:28,900 --> 00:03:33,372
+are the precursors to autonomous robotic weapons.
+
+64
+00:03:33,372 --> 00:03:36,139
+That's because once you've deployed remotely-piloted drones,
+
+65
+00:03:36,139 --> 00:03:39,523
+there are three powerful factors pushing decision-making
+
+66
+00:03:39,523 --> 00:03:44,123
+away from humans and on to the weapon platform itself.
+
+67
+00:03:44,123 --> 00:03:49,382
+The first of these is the deluge of video that drones produce.
+
+68
+00:03:49,382 --> 00:03:53,235
+For example, in 2004, the U.S. drone fleet produced
+
+69
+00:03:53,235 --> 00:03:58,547
+a grand total of 71 hours of video surveillance for analysis.
+
+70
+00:03:58,547 --> 00:04:03,046
+By 2011, this had gone up to 300,000 hours,
+
+71
+00:04:03,046 --> 00:04:06,195
+outstripping human ability to review it all,
+
+72
+00:04:06,195 --> 00:04:09,859
+but even that number is about to go up drastically.
+
+73
+00:04:09,859 --> 00:04:12,434
+The Pentagon's Gorgon Stare and Argus programs
+
+74
+00:04:12,434 --> 00:04:15,598
+will put up to 65 independently operated camera eyes
+
+75
+00:04:15,598 --> 00:04:17,636
+on each drone platform,
+
+76
+00:04:17,636 --> 00:04:20,939
+and this would vastly outstrip human ability to review it.
+
+77
+00:04:20,939 --> 00:04:23,099
+And that means visual intelligence software will need
+
+78
+00:04:23,099 --> 00:04:27,147
+to scan it for items of interest.
+
+79
+00:04:27,147 --> 00:04:28,495
+And that means very soon
+
+80
+00:04:28,495 --> 00:04:31,242
+drones will tell humans what to look at,
+
+81
+00:04:31,242 --> 00:04:33,739
+not the other way around.
+
+82
+00:04:33,739 --> 00:04:36,212
+But there's a second powerful incentive pushing
+
+83
+00:04:36,212 --> 00:04:39,595
+decision-making away from humans and onto machines,
+
+84
+00:04:39,595 --> 00:04:42,467
+and that's electromagnetic jamming,
+
+85
+00:04:42,467 --> 00:04:44,703
+severing the connection between the drone
+
+86
+00:04:44,703 --> 00:04:47,517
+and its operator.
+
+87
+00:04:47,517 --> 00:04:50,135
+Now we saw an example of this in 2011
+
+88
+00:04:50,135 --> 00:04:53,091
+when an American RQ-170 Sentinel drone
+
+89
+00:04:53,091 --> 00:04:57,398
+got a bit confused over Iran due to a GPS spoofing attack,
+
+90
+00:04:57,398 --> 00:05:02,512
+but any remotely-piloted drone is susceptible to this type of attack,
+
+91
+00:05:02,512 --> 00:05:04,564
+and that means drones
+
+92
+00:05:04,564 --> 00:05:08,184
+will have to shoulder more decision-making.
+
+93
+00:05:08,184 --> 00:05:11,227
+They'll know their mission objective,
+
+94
+00:05:11,227 --> 00:05:16,072
+and they'll react to new circumstances without human guidance.
+
+95
+00:05:16,072 --> 00:05:18,653
+They'll ignore external radio signals
+
+96
+00:05:18,653 --> 00:05:20,983
+and send very few of their own.
+
+97
+00:05:20,983 --> 00:05:22,989
+Which brings us to, really, the third
+
+98
+00:05:22,989 --> 00:05:26,851
+and most powerful incentive pushing decision-making
+
+99
+00:05:26,851 --> 00:05:30,193
+away from humans and onto weapons:
+
+100
+00:05:30,193 --> 00:05:33,486
+plausible deniability.
+
+101
+00:05:33,486 --> 00:05:36,373
+Now we live in a global economy.
+
+102
+00:05:36,373 --> 00:05:40,707
+High-tech manufacturing is occurring on most continents.
+
+103
+00:05:40,707 --> 00:05:43,621
+Cyber espionage is spiriting away advanced designs
+
+104
+00:05:43,621 --> 00:05:45,507
+to parts unknown,
+
+105
+00:05:45,507 --> 00:05:47,521
+and in that environment, it is very likely
+
+106
+00:05:47,521 --> 00:05:52,255
+that a successful drone design will be knocked off in contract factories,
+
+107
+00:05:52,255 --> 00:05:54,425
+proliferate in the gray market.
+
+108
+00:05:54,425 --> 00:05:56,885
+And in that situation, sifting through the wreckage
+
+109
+00:05:56,885 --> 00:05:59,845
+of a suicide drone attack, it will be very difficult to say
+
+110
+00:05:59,845 --> 00:06:04,245
+who sent that weapon.
+
+111
+00:06:04,245 --> 00:06:07,045
+This raises the very real possibility
+
+112
+00:06:07,045 --> 00:06:09,980
+of anonymous war.
+
+113
+00:06:09,980 --> 00:06:12,594
+This could tilt the geopolitical balance on its head,
+
+114
+00:06:12,594 --> 00:06:16,085
+make it very difficult for a nation to turn its firepower
+
+115
+00:06:16,085 --> 00:06:18,933
+against an attacker, and that could shift the balance
+
+116
+00:06:18,933 --> 00:06:22,697
+in the 21st century away from defense and toward offense.
+
+117
+00:06:22,697 --> 00:06:25,821
+It could make military action a viable option
+
+118
+00:06:25,821 --> 00:06:28,109
+not just for small nations,
+
+119
+00:06:28,109 --> 00:06:30,654
+but criminal organizations, private enterprise,
+
+120
+00:06:30,654 --> 00:06:33,133
+even powerful individuals.
+
+121
+00:06:33,133 --> 00:06:36,461
+It could create a landscape of rival warlords
+
+122
+00:06:36,461 --> 00:06:40,141
+undermining rule of law and civil society.
+
+123
+00:06:40,141 --> 00:06:43,757
+Now if responsibility and transparency
+
+124
+00:06:43,757 --> 00:06:46,141
+are two of the cornerstones of representative government,
+
+125
+00:06:46,141 --> 00:06:50,461
+autonomous robotic weapons could undermine both.
+
+126
+00:06:50,461 --> 00:06:52,007
+Now you might be thinking that
+
+127
+00:06:52,007 --> 00:06:54,253
+citizens of high-tech nations
+
+128
+00:06:54,253 --> 00:06:56,956
+would have the advantage in any robotic war,
+
+129
+00:06:56,956 --> 00:07:00,589
+that citizens of those nations would be less vulnerable,
+
+130
+00:07:00,589 --> 00:07:04,877
+particularly against developing nations.
+
+131
+00:07:04,877 --> 00:07:08,401
+But I think the truth is the exact opposite.
+
+132
+00:07:08,401 --> 00:07:10,652
+I think citizens of high-tech societies
+
+133
+00:07:10,652 --> 00:07:14,381
+are more vulnerable to robotic weapons,
+
+134
+00:07:14,381 --> 00:07:18,846
+and the reason can be summed up in one word: data.
+
+135
+00:07:18,846 --> 00:07:22,327
+Data powers high-tech societies.
+
+136
+00:07:22,327 --> 00:07:25,517
+Cell phone geolocation, telecom metadata,
+
+137
+00:07:25,517 --> 00:07:28,989
+social media, email, text, financial transaction data,
+
+138
+00:07:28,989 --> 00:07:32,521
+transportation data, it's a wealth of real-time data
+
+139
+00:07:32,521 --> 00:07:35,894
+on the movements and social interactions of people.
+
+140
+00:07:35,894 --> 00:07:39,669
+In short, we are more visible to machines
+
+141
+00:07:39,669 --> 00:07:41,911
+than any people in history,
+
+142
+00:07:41,911 --> 00:07:47,527
+and this perfectly suits the targeting needs of autonomous weapons.
+
+143
+00:07:47,527 --> 00:07:49,265
+What you're looking at here
+
+144
+00:07:49,265 --> 00:07:52,511
+is a link analysis map of a social group.
+
+145
+00:07:52,511 --> 00:07:56,145
+Lines indicate social connectedness between individuals.
+
+146
+00:07:56,145 --> 00:07:59,025
+And these types of maps can be automatically generated
+
+147
+00:07:59,025 --> 00:08:03,740
+based on the data trail modern people leave behind.
+
+148
+00:08:03,740 --> 00:08:06,217
+Now it's typically used to market goods and services
+
+149
+00:08:06,217 --> 00:08:10,633
+to targeted demographics, but it's a dual-use technology,
+
+150
+00:08:10,633 --> 00:08:13,993
+because targeting is used in another context.
+
+151
+00:08:13,993 --> 00:08:16,553
+Notice that certain individuals are highlighted.
+
+152
+00:08:16,553 --> 00:08:19,833
+These are the hubs of social networks.
+
+153
+00:08:19,833 --> 00:08:23,423
+These are organizers, opinion-makers, leaders,
+
+154
+00:08:23,423 --> 00:08:26,105
+and these people also can be automatically identified
+
+155
+00:08:26,105 --> 00:08:28,487
+from their communication patterns.
+
+156
+00:08:28,487 --> 00:08:30,633
+Now, if you're a marketer, you might then target them
+
+157
+00:08:30,633 --> 00:08:33,176
+with product samples, try to spread your brand
+
+158
+00:08:33,176 --> 00:08:36,005
+through their social group.
+
+159
+00:08:36,005 --> 00:08:37,958
+But if you're a repressive government
+
+160
+00:08:37,958 --> 00:08:42,768
+searching for political enemies, you might instead remove them,
+
+161
+00:08:42,768 --> 00:08:45,528
+eliminate them, disrupt their social group,
+
+162
+00:08:45,528 --> 00:08:48,697
+and those who remain behind lose social cohesion
+
+163
+00:08:48,697 --> 00:08:51,318
+and organization.
+
+164
+00:08:51,318 --> 00:08:54,642
+Now in a world of cheap, proliferating robotic weapons,
+
+165
+00:08:54,642 --> 00:08:57,277
+borders would offer very little protection
+
+166
+00:08:57,277 --> 00:08:59,223
+to critics of distant governments
+
+167
+00:08:59,223 --> 00:09:02,869
+or trans-national criminal organizations.
+
+168
+00:09:02,869 --> 00:09:06,362
+Popular movements agitating for change
+
+169
+00:09:06,362 --> 00:09:09,971
+could be detected early and their leaders eliminated
+
+170
+00:09:09,971 --> 00:09:12,882
+before their ideas achieve critical mass.
+
+171
+00:09:12,882 --> 00:09:15,473
+And ideas achieving critical mass
+
+172
+00:09:15,473 --> 00:09:19,409
+is what political activism in popular government is all about.
+
+173
+00:09:19,409 --> 00:09:23,406
+Anonymous lethal weapons could make lethal action
+
+174
+00:09:23,406 --> 00:09:27,188
+an easy choice for all sorts of competing interests.
+
+175
+00:09:27,188 --> 00:09:30,922
+And this would put a chill on free speech
+
+176
+00:09:30,922 --> 00:09:36,230
+and popular political action, the very heart of democracy.
+
+177
+00:09:36,230 --> 00:09:39,144
+And this is why we need an international treaty
+
+178
+00:09:39,144 --> 00:09:42,684
+on robotic weapons, and in particular a global ban
+
+179
+00:09:42,684 --> 00:09:46,592
+on the development and deployment of killer robots.
+
+180
+00:09:46,592 --> 00:09:49,846
+Now we already have international treaties
+
+181
+00:09:49,846 --> 00:09:53,232
+on nuclear and biological weapons, and, while imperfect,
+
+182
+00:09:53,232 --> 00:09:55,520
+these have largely worked.
+
+183
+00:09:55,520 --> 00:09:59,288
+But robotic weapons might be every bit as dangerous,
+
+184
+00:09:59,288 --> 00:10:02,576
+because they will almost certainly be used,
+
+185
+00:10:02,576 --> 00:10:07,603
+and they would also be corrosive to our democratic institutions.
+
+186
+00:10:07,603 --> 00:10:11,071
+Now in November 2012 the U.S. Department of Defense
+
+187
+00:10:11,071 --> 00:10:13,529
+issued a directive requiring
+
+188
+00:10:13,529 --> 00:10:18,048
+a human being be present in all lethal decisions.
+
+189
+00:10:18,048 --> 00:10:22,824
+This temporarily effectively banned autonomous weapons in the U.S. military,
+
+190
+00:10:22,824 --> 00:10:26,577
+but that directive needs to be made permanent.
+
+191
+00:10:26,577 --> 00:10:30,953
+And it could set the stage for global action.
+
+192
+00:10:30,953 --> 00:10:34,798
+Because we need an international legal framework
+
+193
+00:10:34,798 --> 00:10:36,936
+for robotic weapons.
+
+194
+00:10:36,936 --> 00:10:39,864
+And we need it now, before there's a devastating attack
+
+195
+00:10:39,864 --> 00:10:43,016
+or a terrorist incident that causes nations of the world
+
+196
+00:10:43,016 --> 00:10:44,940
+to rush to adopt these weapons
+
+197
+00:10:44,940 --> 00:10:48,711
+before thinking through the consequences.
+
+198
+00:10:48,711 --> 00:10:51,692
+Autonomous robotic weapons concentrate too much power
+
+199
+00:10:51,692 --> 00:10:57,975
+in too few hands, and they would imperil democracy itself.
+
+200
+00:10:57,975 --> 00:11:00,661
+Now, don't get me wrong, I think there are tons
+
+201
+00:11:00,661 --> 00:11:03,279
+of great uses for unarmed civilian drones:
+
+202
+00:11:03,279 --> 00:11:07,218
+environmental monitoring, search and rescue, logistics.
+
+203
+00:11:07,218 --> 00:11:10,044
+If we have an international treaty on robotic weapons,
+
+204
+00:11:10,044 --> 00:11:13,631
+how do we gain the benefits of autonomous drones
+
+205
+00:11:13,631 --> 00:11:16,279
+and vehicles while still protecting ourselves
+
+206
+00:11:16,279 --> 00:11:20,259
+against illegal robotic weapons?
+
+207
+00:11:20,259 --> 00:11:25,000
+I think the secret will be transparency.
+
+208
+00:11:25,000 --> 00:11:28,013
+No robot should have an expectation of privacy
+
+209
+00:11:28,013 --> 00:11:31,464
+in a public place.
+
+210
+00:11:31,464 --> 00:11:36,512
+(Applause)
+
+211
+00:11:36,512 --> 00:11:38,557
+Each robot and drone should have
+
+212
+00:11:38,557 --> 00:11:41,440
+a cryptographically signed I.D. burned in at the factory
+
+213
+00:11:41,440 --> 00:11:44,363
+that can be used to track its movement through public spaces.
+
+214
+00:11:44,363 --> 00:11:47,744
+We have license plates on cars, tail numbers on aircraft.
+
+215
+00:11:47,744 --> 00:11:49,585
+This is no different.
+
+216
+00:11:49,585 --> 00:11:51,597
+And every citizen should be able to download an app
+
+217
+00:11:51,597 --> 00:11:54,722
+that shows the population of drones and autonomous vehicles
+
+218
+00:11:54,722 --> 00:11:57,151
+moving through public spaces around them,
+
+219
+00:11:57,151 --> 00:11:59,884
+both right now and historically.
+
+220
+00:11:59,884 --> 00:12:03,432
+And civic leaders should deploy sensors and civic drones
+
+221
+00:12:03,432 --> 00:12:05,776
+to detect rogue drones,
+
+222
+00:12:05,776 --> 00:12:08,952
+and instead of sending killer drones of their own up to shoot them down,
+
+223
+00:12:08,952 --> 00:12:11,944
+they should notify humans to their presence.
+
+224
+00:12:11,944 --> 00:12:14,550
+And in certain very high-security areas,
+
+225
+00:12:14,550 --> 00:12:16,459
+perhaps civic drones would snare them
+
+226
+00:12:16,459 --> 00:12:19,300
+and drag them off to a bomb disposal facility.
+
+227
+00:12:19,300 --> 00:12:22,327
+But notice, this is more an immune system
+
+228
+00:12:22,327 --> 00:12:23,648
+than a weapons system.
+
+229
+00:12:23,648 --> 00:12:26,240
+It would allow us to avail ourselves of the use
+
+230
+00:12:26,240 --> 00:12:28,272
+of autonomous vehicles and drones
+
+231
+00:12:28,272 --> 00:12:32,567
+while still preserving our open, civil society.
+
+232
+00:12:32,567 --> 00:12:35,566
+We must ban the deployment and development
+
+233
+00:12:35,566 --> 00:12:37,428
+of killer robots.
+
+234
+00:12:37,428 --> 00:12:42,278
+Let's not succumb to the temptation to automate war.
+
+235
+00:12:42,278 --> 00:12:44,996
+Autocratic governments and criminal organizations
+
+236
+00:12:44,996 --> 00:12:47,952
+undoubtedly will, but let's not join them.
+
+237
+00:12:47,952 --> 00:12:49,843
+Autonomous robotic weapons
+
+238
+00:12:49,843 --> 00:12:51,894
+would concentrate too much power
+
+239
+00:12:51,894 --> 00:12:54,376
+in too few unseen hands,
+
+240
+00:12:54,376 --> 00:12:57,631
+and that would be corrosive to representative government.
+
+241
+00:12:57,631 --> 00:13:00,592
+Let's make sure, for democracies at least,
+
+242
+00:13:00,592 --> 00:13:03,196
+killer robots remain fiction.
+
+243
+00:13:03,196 --> 00:13:04,306
+Thank you.
+
+244
+00:13:04,306 --> 00:13:08,871
+(Applause)
+
+245
+00:13:08,871 --> 00:13:13,487
+Thank you. (Applause)
+

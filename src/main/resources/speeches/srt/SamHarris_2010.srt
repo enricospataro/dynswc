@@ -1,0 +1,1952 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+I'm going to speak today about the relationship
+
+2
+00:00:14,820 --> 00:00:18,820
+between science and human values.
+
+3
+00:00:18,820 --> 00:00:20,820
+Now, it's generally understood that
+
+4
+00:00:20,820 --> 00:00:22,820
+questions of morality --
+
+5
+00:00:22,820 --> 00:00:24,820
+questions of good and evil and right and wrong --
+
+6
+00:00:24,820 --> 00:00:27,820
+are questions about which science officially has no opinion.
+
+7
+00:00:27,820 --> 00:00:30,820
+It's thought that science can help us
+
+8
+00:00:30,820 --> 00:00:32,820
+get what we value,
+
+9
+00:00:32,820 --> 00:00:35,820
+but it can never tell us what we ought to value.
+
+10
+00:00:35,820 --> 00:00:37,820
+And, consequently, most people -- I think most people
+
+11
+00:00:37,820 --> 00:00:40,820
+probably here -- think that science will never answer
+
+12
+00:00:40,820 --> 00:00:43,820
+the most important questions in human life:
+
+13
+00:00:43,820 --> 00:00:45,820
+questions like, "What is worth living for?"
+
+14
+00:00:45,820 --> 00:00:47,820
+"What is worth dying for?"
+
+15
+00:00:47,820 --> 00:00:49,820
+"What constitutes a good life?"
+
+16
+00:00:49,820 --> 00:00:51,820
+So, I'm going to argue
+
+17
+00:00:51,820 --> 00:00:53,820
+that this is an illusion -- that the separation between
+
+18
+00:00:53,820 --> 00:00:55,820
+science and human values is an illusion --
+
+19
+00:00:55,820 --> 00:00:58,820
+and actually quite a dangerous one
+
+20
+00:00:58,820 --> 00:01:00,820
+at this point in human history.
+
+21
+00:01:00,820 --> 00:01:02,820
+Now, it's often said that science
+
+22
+00:01:02,820 --> 00:01:05,820
+cannot give us a foundation for morality and human values,
+
+23
+00:01:05,820 --> 00:01:08,820
+because science deals with facts,
+
+24
+00:01:08,820 --> 00:01:12,820
+and facts and values seem to belong to different spheres.
+
+25
+00:01:12,820 --> 00:01:15,820
+It's often thought that there's no description
+
+26
+00:01:15,820 --> 00:01:17,820
+of the way the world is
+
+27
+00:01:17,820 --> 00:01:21,820
+that can tell us how the world ought to be.
+
+28
+00:01:21,820 --> 00:01:23,820
+But I think this is quite clearly untrue.
+
+29
+00:01:23,820 --> 00:01:27,820
+Values are a certain kind of fact.
+
+30
+00:01:27,820 --> 00:01:31,820
+They are facts about the well-being of conscious creatures.
+
+31
+00:01:31,820 --> 00:01:35,820
+Why is it that we don't have ethical obligations toward rocks?
+
+32
+00:01:35,820 --> 00:01:38,820
+Why don't we feel compassion for rocks?
+
+33
+00:01:38,820 --> 00:01:40,820
+It's because we don't think rocks can suffer. And if we're more
+
+34
+00:01:40,820 --> 00:01:42,820
+concerned about our fellow primates
+
+35
+00:01:42,820 --> 00:01:45,820
+than we are about insects, as indeed we are,
+
+36
+00:01:45,820 --> 00:01:47,820
+it's because we think they're exposed to a greater range
+
+37
+00:01:47,820 --> 00:01:50,820
+of potential happiness and suffering.
+
+38
+00:01:50,820 --> 00:01:53,820
+Now, the crucial thing to notice here
+
+39
+00:01:53,820 --> 00:01:55,820
+is that this is a factual claim:
+
+40
+00:01:55,820 --> 00:01:57,820
+This is something that we could be right or wrong about. And if we
+
+41
+00:01:57,820 --> 00:02:00,820
+have misconstrued the relationship between biological complexity
+
+42
+00:02:00,820 --> 00:02:03,820
+and the possibilities of experience
+
+43
+00:02:03,820 --> 00:02:06,820
+well then we could be wrong about the inner lives of insects.
+
+44
+00:02:06,820 --> 00:02:10,820
+And there's no notion,
+
+45
+00:02:10,820 --> 00:02:12,820
+no version of human morality
+
+46
+00:02:12,820 --> 00:02:15,820
+and human values that I've ever come across
+
+47
+00:02:15,820 --> 00:02:17,820
+that is not at some point reducible
+
+48
+00:02:17,820 --> 00:02:20,820
+to a concern about conscious experience
+
+49
+00:02:20,820 --> 00:02:22,820
+and its possible changes.
+
+50
+00:02:22,820 --> 00:02:25,820
+Even if you get your values from religion,
+
+51
+00:02:25,820 --> 00:02:27,820
+even if you think that good and evil ultimately
+
+52
+00:02:27,820 --> 00:02:29,820
+relate to conditions after death --
+
+53
+00:02:29,820 --> 00:02:32,820
+either to an eternity of happiness with God
+
+54
+00:02:32,820 --> 00:02:34,820
+or an eternity of suffering in hell --
+
+55
+00:02:34,820 --> 00:02:38,820
+you are still concerned about consciousness and its changes.
+
+56
+00:02:38,820 --> 00:02:41,820
+And to say that such changes can persist after death
+
+57
+00:02:41,820 --> 00:02:43,820
+is itself a factual claim,
+
+58
+00:02:43,820 --> 00:02:46,820
+which, of course, may or may not be true.
+
+59
+00:02:46,820 --> 00:02:49,820
+Now, to speak about the conditions of well-being
+
+60
+00:02:49,820 --> 00:02:51,820
+in this life, for human beings,
+
+61
+00:02:51,820 --> 00:02:54,820
+we know that there is a continuum of such facts.
+
+62
+00:02:54,820 --> 00:02:57,820
+We know that it's possible to live in a failed state,
+
+63
+00:02:57,820 --> 00:02:59,820
+where everything that can go wrong does go wrong --
+
+64
+00:02:59,820 --> 00:03:02,820
+where mothers cannot feed their children,
+
+65
+00:03:02,820 --> 00:03:06,820
+where strangers cannot find the basis for peaceful collaboration,
+
+66
+00:03:06,820 --> 00:03:09,820
+where people are murdered indiscriminately.
+
+67
+00:03:09,820 --> 00:03:12,820
+And we know that it's possible to move along this continuum
+
+68
+00:03:12,820 --> 00:03:14,820
+towards something quite a bit more idyllic,
+
+69
+00:03:14,820 --> 00:03:19,820
+to a place where a conference like this is even conceivable.
+
+70
+00:03:19,820 --> 00:03:22,820
+And we know -- we know --
+
+71
+00:03:22,820 --> 00:03:24,820
+that there are right and wrong answers
+
+72
+00:03:24,820 --> 00:03:26,820
+to how to move in this space.
+
+73
+00:03:26,820 --> 00:03:32,820
+Would adding cholera to the water be a good idea?
+
+74
+00:03:32,820 --> 00:03:34,820
+Probably not.
+
+75
+00:03:34,820 --> 00:03:37,820
+Would it be a good idea for everyone to believe in the evil eye,
+
+76
+00:03:37,820 --> 00:03:39,820
+so that when bad things happened to them
+
+77
+00:03:39,820 --> 00:03:43,820
+they immediately blame their neighbors? Probably not.
+
+78
+00:03:43,820 --> 00:03:45,820
+There are truths to be known
+
+79
+00:03:45,820 --> 00:03:48,820
+about how human communities flourish,
+
+80
+00:03:48,820 --> 00:03:50,820
+whether or not we understand these truths.
+
+81
+00:03:50,820 --> 00:03:53,820
+And morality relates to these truths.
+
+82
+00:03:53,820 --> 00:03:57,820
+So, in talking about values we are talking about facts.
+
+83
+00:03:57,820 --> 00:04:00,820
+Now, of course our situation in the world can be understood at many levels --
+
+84
+00:04:00,820 --> 00:04:02,820
+from the level of the genome
+
+85
+00:04:02,820 --> 00:04:04,820
+on up to the level of economic systems
+
+86
+00:04:04,820 --> 00:04:06,820
+and political arrangements.
+
+87
+00:04:06,820 --> 00:04:08,820
+But if we're going to talk about human well-being
+
+88
+00:04:08,820 --> 00:04:11,820
+we are, of necessity, talking about the human brain.
+
+89
+00:04:11,820 --> 00:04:14,820
+Because we know that our experience of the world and of ourselves within it
+
+90
+00:04:14,820 --> 00:04:17,820
+is realized in the brain --
+
+91
+00:04:17,820 --> 00:04:19,820
+whatever happens after death.
+
+92
+00:04:19,820 --> 00:04:24,820
+Even if the suicide bomber does get 72 virgins in the afterlife,
+
+93
+00:04:24,820 --> 00:04:27,820
+in this life, his personality --
+
+94
+00:04:27,820 --> 00:04:29,820
+his rather unfortunate personality --
+
+95
+00:04:29,820 --> 00:04:32,820
+is the product of his brain.
+
+96
+00:04:32,820 --> 00:04:35,820
+So the contributions of culture --
+
+97
+00:04:35,820 --> 00:04:37,820
+if culture changes us, as indeed it does,
+
+98
+00:04:37,820 --> 00:04:39,820
+it changes us by changing our brains.
+
+99
+00:04:39,820 --> 00:04:42,820
+And so therefore whatever cultural variation there is
+
+100
+00:04:42,820 --> 00:04:44,820
+in how human beings flourish
+
+101
+00:04:44,820 --> 00:04:46,820
+can, at least in principle, be understood
+
+102
+00:04:46,820 --> 00:04:49,820
+in the context of a maturing science of the mind --
+
+103
+00:04:49,820 --> 00:04:52,820
+neuroscience, psychology, etc.
+
+104
+00:04:52,820 --> 00:04:54,820
+So, what I'm arguing is that
+
+105
+00:04:54,820 --> 00:04:56,820
+value's reduced to facts --
+
+106
+00:04:56,820 --> 00:04:58,820
+to facts about the conscious experience
+
+107
+00:04:58,820 --> 00:05:01,820
+of conscious beings.
+
+108
+00:05:01,820 --> 00:05:04,820
+And we can therefore visualize a space
+
+109
+00:05:04,820 --> 00:05:07,820
+of possible changes in the experience of these beings.
+
+110
+00:05:07,820 --> 00:05:09,820
+And I think of this as kind of a moral landscape,
+
+111
+00:05:09,820 --> 00:05:11,820
+with peaks and valleys that correspond
+
+112
+00:05:11,820 --> 00:05:14,820
+to differences in the well-being of conscious creatures,
+
+113
+00:05:14,820 --> 00:05:16,820
+both personal and collective.
+
+114
+00:05:16,820 --> 00:05:18,820
+And one thing to notice is that perhaps
+
+115
+00:05:18,820 --> 00:05:20,820
+there are states of human well-being
+
+116
+00:05:20,820 --> 00:05:23,820
+that we rarely access, that few people access.
+
+117
+00:05:23,820 --> 00:05:25,820
+And these await our discovery.
+
+118
+00:05:25,820 --> 00:05:27,820
+Perhaps some of these states can be appropriately called
+
+119
+00:05:27,820 --> 00:05:29,820
+mystical or spiritual.
+
+120
+00:05:29,820 --> 00:05:31,820
+Perhaps there are other states that we can't access
+
+121
+00:05:31,820 --> 00:05:34,820
+because of how our minds are structured
+
+122
+00:05:34,820 --> 00:05:38,820
+but other minds possibly could access them.
+
+123
+00:05:38,820 --> 00:05:40,820
+Now, let me be clear about what I'm not saying. I'm not saying
+
+124
+00:05:40,820 --> 00:05:45,820
+that science is guaranteed to map this space,
+
+125
+00:05:45,820 --> 00:05:47,820
+or that we will have scientific answers to every
+
+126
+00:05:47,820 --> 00:05:49,820
+conceivable moral question.
+
+127
+00:05:49,820 --> 00:05:51,820
+I don't think, for instance, that you will one day consult
+
+128
+00:05:51,820 --> 00:05:55,820
+a supercomputer to learn whether you should have a second child,
+
+129
+00:05:55,820 --> 00:05:59,820
+or whether we should bomb Iran's nuclear facilities,
+
+130
+00:05:59,820 --> 00:06:03,820
+or whether you can deduct the full cost of TED as a business expense.
+
+131
+00:06:03,820 --> 00:06:05,820
+(Laughter)
+
+132
+00:06:05,820 --> 00:06:07,820
+But if questions affect human well-being
+
+133
+00:06:07,820 --> 00:06:10,820
+then they do have answers, whether or not we can find them.
+
+134
+00:06:10,820 --> 00:06:12,820
+And just admitting this --
+
+135
+00:06:12,820 --> 00:06:14,820
+just admitting that there are right and wrong answers
+
+136
+00:06:14,820 --> 00:06:16,820
+to the question of how humans flourish --
+
+137
+00:06:16,820 --> 00:06:18,820
+will change the way we talk about morality,
+
+138
+00:06:18,820 --> 00:06:20,820
+and will change our expectations
+
+139
+00:06:20,820 --> 00:06:24,820
+of human cooperation in the future.
+
+140
+00:06:24,820 --> 00:06:28,820
+For instance, there are 21 states in our country
+
+141
+00:06:28,820 --> 00:06:31,820
+where corporal punishment in the classroom is legal,
+
+142
+00:06:31,820 --> 00:06:37,820
+where it is legal for a teacher to beat a child with a wooden board, hard,
+
+143
+00:06:37,820 --> 00:06:41,820
+and raising large bruises and blisters and even breaking the skin.
+
+144
+00:06:41,820 --> 00:06:43,820
+And hundreds of thousands of children, incidentally,
+
+145
+00:06:43,820 --> 00:06:45,820
+are subjected to this every year.
+
+146
+00:06:45,820 --> 00:06:50,820
+The locations of these enlightened districts, I think, will fail to surprise you.
+
+147
+00:06:50,820 --> 00:06:53,820
+We're not talking about Connecticut.
+
+148
+00:06:53,820 --> 00:06:57,820
+And the rationale for this behavior is explicitly religious.
+
+149
+00:06:57,820 --> 00:06:59,820
+The creator of the universe himself
+
+150
+00:06:59,820 --> 00:07:01,820
+has told us not to spare the rod,
+
+151
+00:07:01,820 --> 00:07:03,820
+lest we spoil the child --
+
+152
+00:07:03,820 --> 00:07:08,820
+this is in Proverbs 13 and 20, and I believe, 23.
+
+153
+00:07:08,820 --> 00:07:10,820
+But we can ask the obvious question:
+
+154
+00:07:10,820 --> 00:07:14,820
+Is it a good idea, generally speaking,
+
+155
+00:07:14,820 --> 00:07:17,820
+to subject children to pain
+
+156
+00:07:17,820 --> 00:07:20,820
+and violence and public humiliation
+
+157
+00:07:20,820 --> 00:07:22,820
+as a way of encouraging healthy emotional development
+
+158
+00:07:22,820 --> 00:07:24,820
+and good behavior?
+
+159
+00:07:24,820 --> 00:07:25,820
+(Laughter)
+
+160
+00:07:25,820 --> 00:07:29,820
+Is there any doubt
+
+161
+00:07:29,820 --> 00:07:31,820
+that this question has an answer,
+
+162
+00:07:31,820 --> 00:07:34,820
+and that it matters?
+
+163
+00:07:34,820 --> 00:07:36,820
+Now, many of you might worry
+
+164
+00:07:36,820 --> 00:07:39,820
+that the notion of well-being is truly undefined,
+
+165
+00:07:39,820 --> 00:07:42,820
+and seemingly perpetually open to be re-construed.
+
+166
+00:07:42,820 --> 00:07:44,820
+And so, how therefore can there be an
+
+167
+00:07:44,820 --> 00:07:47,820
+objective notion of well-being?
+
+168
+00:07:47,820 --> 00:07:50,820
+Well, consider by analogy, the concept of physical health.
+
+169
+00:07:50,820 --> 00:07:53,820
+The concept of physical health is undefined.
+
+170
+00:07:53,820 --> 00:07:56,820
+As we just heard from Michael Specter, it has changed over the years.
+
+171
+00:07:56,820 --> 00:07:58,820
+When this statue was carved
+
+172
+00:07:58,820 --> 00:08:01,820
+the average life expectancy was probably 30.
+
+173
+00:08:01,820 --> 00:08:04,820
+It's now around 80 in the developed world.
+
+174
+00:08:04,820 --> 00:08:07,820
+There may come a time when we meddle with our genomes
+
+175
+00:08:07,820 --> 00:08:10,820
+in such a way that not being able to run a marathon
+
+176
+00:08:10,820 --> 00:08:14,820
+at age 200 will be considered a profound disability.
+
+177
+00:08:14,820 --> 00:08:17,820
+People will send you donations when you're in that condition.
+
+178
+00:08:17,820 --> 00:08:19,820
+(Laughter)
+
+179
+00:08:19,820 --> 00:08:23,820
+Notice that the fact that the concept of health
+
+180
+00:08:23,820 --> 00:08:26,820
+is open, genuinely open for revision,
+
+181
+00:08:26,820 --> 00:08:28,820
+does not make it vacuous.
+
+182
+00:08:28,820 --> 00:08:31,820
+The distinction between a healthy person
+
+183
+00:08:31,820 --> 00:08:33,820
+and a dead one
+
+184
+00:08:33,820 --> 00:08:36,820
+is about as clear and consequential as any we make in science.
+
+185
+00:08:39,820 --> 00:08:42,820
+Another thing to notice is there may be many peaks on the moral landscape:
+
+186
+00:08:42,820 --> 00:08:45,820
+There may be equivalent ways to thrive;
+
+187
+00:08:45,820 --> 00:08:47,820
+there may be equivalent ways to organize a human society
+
+188
+00:08:47,820 --> 00:08:49,820
+so as to maximize human flourishing.
+
+189
+00:08:49,820 --> 00:08:51,820
+Now, why wouldn't this
+
+190
+00:08:51,820 --> 00:08:55,820
+undermine an objective morality?
+
+191
+00:08:55,820 --> 00:08:58,820
+Well think of how we talk about food:
+
+192
+00:08:58,820 --> 00:09:01,820
+I would never be tempted to argue to you
+
+193
+00:09:01,820 --> 00:09:03,820
+that there must be one right food to eat.
+
+194
+00:09:03,820 --> 00:09:05,820
+There is clearly a range of materials
+
+195
+00:09:05,820 --> 00:09:07,820
+that constitute healthy food.
+
+196
+00:09:07,820 --> 00:09:09,820
+But there's nevertheless a clear distinction
+
+197
+00:09:09,820 --> 00:09:11,820
+between food and poison.
+
+198
+00:09:11,820 --> 00:09:14,820
+The fact that there are many right answers
+
+199
+00:09:14,820 --> 00:09:16,820
+to the question, "What is food?"
+
+200
+00:09:16,820 --> 00:09:19,820
+does not tempt us
+
+201
+00:09:19,820 --> 00:09:24,820
+to say that there are no truths to be known about human nutrition.
+
+202
+00:09:24,820 --> 00:09:26,820
+Many people worry
+
+203
+00:09:26,820 --> 00:09:29,820
+that a universal morality would require
+
+204
+00:09:29,820 --> 00:09:32,820
+moral precepts that admit of no exceptions.
+
+205
+00:09:32,820 --> 00:09:34,820
+So, for instance, if it's really wrong to lie,
+
+206
+00:09:34,820 --> 00:09:36,820
+it must always be wrong to lie,
+
+207
+00:09:36,820 --> 00:09:38,820
+and if you can find an exception,
+
+208
+00:09:38,820 --> 00:09:41,820
+well then there's no such thing as moral truth.
+
+209
+00:09:41,820 --> 00:09:43,820
+Why would we think this?
+
+210
+00:09:43,820 --> 00:09:46,820
+Consider, by analogy, the game of chess.
+
+211
+00:09:46,820 --> 00:09:48,820
+Now, if you're going to play good chess,
+
+212
+00:09:48,820 --> 00:09:50,820
+a principle like, "Don't lose your Queen,"
+
+213
+00:09:50,820 --> 00:09:52,820
+is very good to follow.
+
+214
+00:09:52,820 --> 00:09:54,820
+But it clearly admits some exceptions.
+
+215
+00:09:54,820 --> 00:09:57,820
+There are moments when losing your Queen is a brilliant thing to do.
+
+216
+00:09:57,820 --> 00:10:01,820
+There are moments when it is the only good thing you can do.
+
+217
+00:10:01,820 --> 00:10:05,820
+And yet, chess is a domain of perfect objectivity.
+
+218
+00:10:05,820 --> 00:10:07,820
+The fact that there are exceptions here does not
+
+219
+00:10:07,820 --> 00:10:10,820
+change that at all.
+
+220
+00:10:10,820 --> 00:10:13,820
+Now, this brings us to the sorts of moves
+
+221
+00:10:13,820 --> 00:10:16,820
+that people are apt to make in the moral sphere.
+
+222
+00:10:16,820 --> 00:10:21,820
+Consider the great problem of women's bodies:
+
+223
+00:10:21,820 --> 00:10:23,820
+What to do about them?
+
+224
+00:10:23,820 --> 00:10:25,820
+Well this is one thing you can do about them:
+
+225
+00:10:25,820 --> 00:10:27,820
+You can cover them up.
+
+226
+00:10:27,820 --> 00:10:29,820
+Now, it is the position, generally speaking, of our intellectual community
+
+227
+00:10:29,820 --> 00:10:33,820
+that while we may not like this,
+
+228
+00:10:33,820 --> 00:10:35,820
+we might think of this as "wrong"
+
+229
+00:10:35,820 --> 00:10:37,820
+in Boston or Palo Alto,
+
+230
+00:10:37,820 --> 00:10:39,820
+who are we to say
+
+231
+00:10:39,820 --> 00:10:42,820
+that the proud denizens of an ancient culture
+
+232
+00:10:42,820 --> 00:10:45,820
+are wrong to force their wives and daughters
+
+233
+00:10:45,820 --> 00:10:47,820
+to live in cloth bags?
+
+234
+00:10:47,820 --> 00:10:49,820
+And who are we to say, even, that they're wrong
+
+235
+00:10:49,820 --> 00:10:51,820
+to beat them with lengths of steel cable,
+
+236
+00:10:51,820 --> 00:10:53,820
+or throw battery acid in their faces
+
+237
+00:10:53,820 --> 00:10:57,820
+if they decline the privilege of being smothered in this way?
+
+238
+00:10:57,820 --> 00:11:00,820
+Well, who are we not to say this?
+
+239
+00:11:00,820 --> 00:11:02,820
+Who are we to pretend
+
+240
+00:11:02,820 --> 00:11:06,820
+that we know so little about human well-being
+
+241
+00:11:06,820 --> 00:11:10,820
+that we have to be non-judgmental about a practice like this?
+
+242
+00:11:10,820 --> 00:11:14,820
+I'm not talking about voluntary wearing of a veil --
+
+243
+00:11:14,820 --> 00:11:16,820
+women should be able to wear whatever they want, as far as I'm concerned.
+
+244
+00:11:16,820 --> 00:11:19,820
+But what does voluntary mean
+
+245
+00:11:19,820 --> 00:11:21,820
+in a community where,
+
+246
+00:11:21,820 --> 00:11:24,820
+when a girl gets raped,
+
+247
+00:11:24,820 --> 00:11:26,820
+her father's first impulse,
+
+248
+00:11:26,820 --> 00:11:31,820
+rather often, is to murder her out of shame?
+
+249
+00:11:31,820 --> 00:11:38,820
+Just let that fact detonate in your brain for a minute:
+
+250
+00:11:38,820 --> 00:11:40,820
+Your daughter gets raped,
+
+251
+00:11:40,820 --> 00:11:43,820
+and what you want to do is kill her.
+
+252
+00:11:48,820 --> 00:11:50,820
+What are the chances that represents
+
+253
+00:11:50,820 --> 00:11:55,820
+a peak of human flourishing?
+
+254
+00:11:58,820 --> 00:12:00,820
+Now, to say this is not to say that we have got the
+
+255
+00:12:00,820 --> 00:12:04,820
+perfect solution in our own society.
+
+256
+00:12:04,820 --> 00:12:06,820
+For instance,
+
+257
+00:12:06,820 --> 00:12:08,820
+this is what it's like to go to a newsstand almost anywhere
+
+258
+00:12:08,820 --> 00:12:10,820
+in the civilized world.
+
+259
+00:12:10,820 --> 00:12:12,820
+Now, granted, for many men
+
+260
+00:12:12,820 --> 00:12:15,820
+it may require a degree in philosophy to see something wrong with these images.
+
+261
+00:12:15,820 --> 00:12:18,820
+(Laughter)
+
+262
+00:12:18,820 --> 00:12:21,820
+But if we are in a reflective mood,
+
+263
+00:12:21,820 --> 00:12:23,820
+we can ask,
+
+264
+00:12:23,820 --> 00:12:25,820
+"Is this the perfect expression
+
+265
+00:12:25,820 --> 00:12:27,820
+of psychological balance
+
+266
+00:12:27,820 --> 00:12:30,820
+with respect to variables like youth and beauty and women's bodies?"
+
+267
+00:12:30,820 --> 00:12:32,820
+I mean, is this the optimal environment
+
+268
+00:12:32,820 --> 00:12:36,820
+in which to raise our children?
+
+269
+00:12:36,820 --> 00:12:38,820
+Probably not. OK, so perhaps there's some place
+
+270
+00:12:38,820 --> 00:12:40,820
+on the spectrum
+
+271
+00:12:40,820 --> 00:12:42,820
+between these two extremes
+
+272
+00:12:42,820 --> 00:12:45,820
+that represents a place of better balance.
+
+273
+00:12:45,820 --> 00:12:53,820
+(Applause)
+
+274
+00:12:53,820 --> 00:12:55,820
+Perhaps there are many such places --
+
+275
+00:12:55,820 --> 00:12:58,820
+again, given other changes in human culture
+
+276
+00:12:58,820 --> 00:13:00,820
+there may be many peaks on the moral landscape.
+
+277
+00:13:00,820 --> 00:13:02,820
+But the thing to notice is that there will be
+
+278
+00:13:02,820 --> 00:13:07,820
+many more ways not to be on a peak.
+
+279
+00:13:07,820 --> 00:13:09,820
+Now the irony, from my perspective,
+
+280
+00:13:09,820 --> 00:13:12,820
+is that the only people who seem to generally agree with me
+
+281
+00:13:12,820 --> 00:13:15,820
+and who think that there are right and wrong answers to moral questions
+
+282
+00:13:15,820 --> 00:13:18,820
+are religious demagogues of one form or another.
+
+283
+00:13:18,820 --> 00:13:21,820
+And of course they think they have right answers to moral questions
+
+284
+00:13:21,820 --> 00:13:25,820
+because they got these answers from a voice in a whirlwind,
+
+285
+00:13:25,820 --> 00:13:27,820
+not because they made an intelligent analysis of the causes
+
+286
+00:13:27,820 --> 00:13:31,820
+and condition of human and animal well-being.
+
+287
+00:13:31,820 --> 00:13:33,820
+In fact, the endurance of religion
+
+288
+00:13:33,820 --> 00:13:37,820
+as a lens through which most people view moral questions
+
+289
+00:13:37,820 --> 00:13:40,820
+has separated most moral talk
+
+290
+00:13:40,820 --> 00:13:44,820
+from real questions of human and animal suffering.
+
+291
+00:13:44,820 --> 00:13:46,820
+This is why we spend our time
+
+292
+00:13:46,820 --> 00:13:48,820
+talking about things like gay marriage
+
+293
+00:13:48,820 --> 00:13:52,820
+and not about genocide or nuclear proliferation
+
+294
+00:13:52,820 --> 00:13:57,820
+or poverty or any other hugely consequential issue.
+
+295
+00:13:57,820 --> 00:13:59,820
+But the demagogues are right about one thing: We need
+
+296
+00:13:59,820 --> 00:14:03,820
+a universal conception of human values.
+
+297
+00:14:03,820 --> 00:14:05,820
+Now, what stands in the way of this?
+
+298
+00:14:05,820 --> 00:14:07,820
+Well, one thing to notice is that we
+
+299
+00:14:07,820 --> 00:14:09,820
+do something different when talking about morality --
+
+300
+00:14:09,820 --> 00:14:13,820
+especially secular, academic, scientist types.
+
+301
+00:14:13,820 --> 00:14:16,820
+When talking about morality we value differences of opinion
+
+302
+00:14:16,820 --> 00:14:19,820
+in a way that we don't in any other area of our lives.
+
+303
+00:14:19,820 --> 00:14:21,820
+So, for instance the Dalai Lama gets up every morning
+
+304
+00:14:21,820 --> 00:14:23,820
+meditating on compassion,
+
+305
+00:14:23,820 --> 00:14:25,820
+and he thinks that helping other human beings is an integral component
+
+306
+00:14:25,820 --> 00:14:28,820
+of human happiness.
+
+307
+00:14:28,820 --> 00:14:30,820
+On the other hand, we have someone like Ted Bundy;
+
+308
+00:14:30,820 --> 00:14:32,820
+Ted Bundy was very fond of abducting and raping
+
+309
+00:14:32,820 --> 00:14:34,820
+and torturing and killing young women.
+
+310
+00:14:34,820 --> 00:14:36,820
+So, we appear to have a genuine difference of opinion
+
+311
+00:14:36,820 --> 00:14:39,820
+about how to profitably use one's time.
+
+312
+00:14:39,820 --> 00:14:41,820
+(Laughter)
+
+313
+00:14:41,820 --> 00:14:43,820
+Most Western intellectuals
+
+314
+00:14:43,820 --> 00:14:45,820
+look at this situation
+
+315
+00:14:45,820 --> 00:14:47,820
+and say, "Well, there's nothing for the Dalai Lama
+
+316
+00:14:47,820 --> 00:14:50,820
+to be really right about -- really right about --
+
+317
+00:14:50,820 --> 00:14:53,820
+or for Ted Bundy to be really wrong about
+
+318
+00:14:53,820 --> 00:14:57,820
+that admits of a real argument
+
+319
+00:14:57,820 --> 00:15:00,820
+that potentially falls within the purview of science.
+
+320
+00:15:00,820 --> 00:15:03,820
+He likes chocolate, he likes vanilla.
+
+321
+00:15:03,820 --> 00:15:06,820
+There's nothing that one should be able to say to the other
+
+322
+00:15:06,820 --> 00:15:09,820
+that should persuade the other."
+
+323
+00:15:09,820 --> 00:15:12,820
+Notice that we don't do this in science.
+
+324
+00:15:12,820 --> 00:15:14,820
+On the left you have Edward Witten.
+
+325
+00:15:14,820 --> 00:15:17,820
+He's a string theorist.
+
+326
+00:15:17,820 --> 00:15:19,820
+If you ask the smartest physicists around
+
+327
+00:15:19,820 --> 00:15:21,820
+who is the smartest physicist around,
+
+328
+00:15:21,820 --> 00:15:24,820
+in my experience half of them will say Ed Witten.
+
+329
+00:15:24,820 --> 00:15:27,820
+The other half will tell you they don't like the question.
+
+330
+00:15:27,820 --> 00:15:30,820
+(Laughter)
+
+331
+00:15:30,820 --> 00:15:34,820
+So, what would happen if I showed up at a physics conference
+
+332
+00:15:34,820 --> 00:15:36,820
+and said,"String theory is bogus.
+
+333
+00:15:36,820 --> 00:15:38,820
+It doesn't resonate with me. It's not how I chose to
+
+334
+00:15:38,820 --> 00:15:41,820
+view the universe at a small scale.
+
+335
+00:15:41,820 --> 00:15:43,820
+I'm not a fan."
+
+336
+00:15:43,820 --> 00:15:46,820
+(Laughter)
+
+337
+00:15:46,820 --> 00:15:48,820
+Well, nothing would happen because I'm not a physicist;
+
+338
+00:15:48,820 --> 00:15:50,820
+I don't understand string theory.
+
+339
+00:15:50,820 --> 00:15:52,820
+I'm the Ted Bundy of string theory.
+
+340
+00:15:52,820 --> 00:15:55,820
+(Laughter)
+
+341
+00:15:55,820 --> 00:15:58,820
+I wouldn't want to belong to any string theory club that would have me as a member.
+
+342
+00:15:58,820 --> 00:16:00,820
+But this is just the point.
+
+343
+00:16:00,820 --> 00:16:03,820
+Whenever we are talking about facts
+
+344
+00:16:03,820 --> 00:16:05,820
+certain opinions must be excluded.
+
+345
+00:16:05,820 --> 00:16:08,820
+That is what it is to have a domain of expertise.
+
+346
+00:16:08,820 --> 00:16:11,820
+That is what it is for knowledge to count.
+
+347
+00:16:11,820 --> 00:16:14,820
+How have we convinced ourselves
+
+348
+00:16:14,820 --> 00:16:18,820
+that in the moral sphere there is no such thing as moral expertise,
+
+349
+00:16:18,820 --> 00:16:21,820
+or moral talent, or moral genius even?
+
+350
+00:16:21,820 --> 00:16:23,820
+How have we convinced ourselves
+
+351
+00:16:23,820 --> 00:16:25,820
+that every opinion has to count?
+
+352
+00:16:25,820 --> 00:16:27,820
+How have we convinced ourselves
+
+353
+00:16:27,820 --> 00:16:29,820
+that every culture has a point of view
+
+354
+00:16:29,820 --> 00:16:32,820
+on these subjects worth considering?
+
+355
+00:16:32,820 --> 00:16:34,820
+Does the Taliban
+
+356
+00:16:34,820 --> 00:16:36,820
+have a point of view on physics
+
+357
+00:16:36,820 --> 00:16:39,820
+that is worth considering? No.
+
+358
+00:16:39,820 --> 00:16:44,820
+(Laughter)
+
+359
+00:16:44,820 --> 00:16:47,820
+How is their ignorance any less obvious
+
+360
+00:16:47,820 --> 00:16:49,820
+on the subject of human well-being?
+
+361
+00:16:49,820 --> 00:16:55,820
+(Applause)
+
+362
+00:16:55,820 --> 00:16:59,820
+So, this, I think, is what the world needs now.
+
+363
+00:16:59,820 --> 00:17:02,820
+It needs people like ourselves to admit
+
+364
+00:17:02,820 --> 00:17:05,820
+that there are right and wrong answers
+
+365
+00:17:05,820 --> 00:17:07,820
+to questions of human flourishing,
+
+366
+00:17:07,820 --> 00:17:09,820
+and morality relates
+
+367
+00:17:09,820 --> 00:17:11,820
+to that domain of facts.
+
+368
+00:17:11,820 --> 00:17:13,820
+It is possible
+
+369
+00:17:13,820 --> 00:17:17,820
+for individuals, and even for whole cultures,
+
+370
+00:17:17,820 --> 00:17:19,820
+to care about the wrong things,
+
+371
+00:17:19,820 --> 00:17:22,820
+which is to say that it's possible for them
+
+372
+00:17:22,820 --> 00:17:24,820
+to have beliefs and desires that reliably lead
+
+373
+00:17:24,820 --> 00:17:26,820
+to needless human suffering.
+
+374
+00:17:26,820 --> 00:17:31,820
+Just admitting this will transform our discourse about morality.
+
+375
+00:17:31,820 --> 00:17:34,820
+We live in a world in which
+
+376
+00:17:34,820 --> 00:17:37,820
+the boundaries between nations mean less and less,
+
+377
+00:17:37,820 --> 00:17:40,820
+and they will one day mean nothing.
+
+378
+00:17:40,820 --> 00:17:42,820
+We live in a world filled with destructive technology,
+
+379
+00:17:42,820 --> 00:17:44,820
+and this technology cannot be uninvented;
+
+380
+00:17:44,820 --> 00:17:46,820
+it will always be easier
+
+381
+00:17:46,820 --> 00:17:50,820
+to break things than to fix them.
+
+382
+00:17:50,820 --> 00:17:52,820
+It seems to me, therefore, patently obvious
+
+383
+00:17:52,820 --> 00:17:56,820
+that we can no more
+
+384
+00:17:56,820 --> 00:17:58,820
+respect and tolerate
+
+385
+00:17:58,820 --> 00:18:02,820
+vast differences in notions of human well-being
+
+386
+00:18:02,820 --> 00:18:05,820
+than we can respect or tolerate vast differences
+
+387
+00:18:05,820 --> 00:18:08,820
+in the notions about how disease spreads,
+
+388
+00:18:08,820 --> 00:18:11,820
+or in the safety standards of buildings and airplanes.
+
+389
+00:18:11,820 --> 00:18:14,820
+We simply must converge
+
+390
+00:18:14,820 --> 00:18:18,820
+on the answers we give to the most important questions in human life.
+
+391
+00:18:18,820 --> 00:18:23,820
+And to do that, we have to admit that these questions have answers.
+
+392
+00:18:23,820 --> 00:18:25,820
+Thank you very much.
+
+393
+00:18:25,820 --> 00:18:48,820
+(Applause)
+
+394
+00:18:48,820 --> 00:18:52,820
+Chris Anderson: So, some combustible material there.
+
+395
+00:18:52,820 --> 00:18:55,820
+Whether in this audience or people elsewhere in the world,
+
+396
+00:18:55,820 --> 00:18:57,820
+hearing some of this, may well be doing the
+
+397
+00:18:57,820 --> 00:19:02,820
+screaming-with-rage thing, after as well, some of them.
+
+398
+00:19:02,820 --> 00:19:04,820
+Language seems to be really important here.
+
+399
+00:19:04,820 --> 00:19:06,820
+When you're talking about the veil,
+
+400
+00:19:06,820 --> 00:19:09,820
+you're talking about women dressed in cloth bags.
+
+401
+00:19:09,820 --> 00:19:13,820
+I've lived in the Muslim world, spoken with a lot of Muslim women.
+
+402
+00:19:13,820 --> 00:19:15,820
+And some of them would say something else. They would say,
+
+403
+00:19:15,820 --> 00:19:18,820
+"No, you know, this is a celebration
+
+404
+00:19:18,820 --> 00:19:21,820
+of female specialness,
+
+405
+00:19:21,820 --> 00:19:23,820
+it helps build that and it's a result of the fact that" --
+
+406
+00:19:23,820 --> 00:19:27,820
+and this is arguably a sophisticated psychological view --
+
+407
+00:19:27,820 --> 00:19:30,820
+"that male lust is not to be trusted."
+
+408
+00:19:30,820 --> 00:19:33,820
+I mean, can you engage in a conversation
+
+409
+00:19:33,820 --> 00:19:38,820
+with that kind of woman without seeming kind of cultural imperialist?
+
+410
+00:19:38,820 --> 00:19:41,820
+Sam Harris: Yeah, well I think I tried to broach this in a sentence,
+
+411
+00:19:41,820 --> 00:19:43,820
+watching the clock ticking,
+
+412
+00:19:43,820 --> 00:19:45,820
+but the question is:
+
+413
+00:19:45,820 --> 00:19:48,820
+What is voluntary in a context
+
+414
+00:19:48,820 --> 00:19:50,820
+where men have certain expectations,
+
+415
+00:19:50,820 --> 00:19:54,820
+and you're guaranteed to be treated in a certain way
+
+416
+00:19:54,820 --> 00:19:56,820
+if you don't veil yourself?
+
+417
+00:19:56,820 --> 00:19:58,820
+And so, if anyone in this room
+
+418
+00:19:58,820 --> 00:20:00,820
+wanted to wear a veil,
+
+419
+00:20:00,820 --> 00:20:03,820
+or a very funny hat, or tattoo their face --
+
+420
+00:20:03,820 --> 00:20:06,820
+I think we should be free to voluntarily do whatever we want,
+
+421
+00:20:06,820 --> 00:20:09,820
+but we have to be honest about
+
+422
+00:20:09,820 --> 00:20:11,820
+the constraints that these women are placed under.
+
+423
+00:20:11,820 --> 00:20:14,820
+And so I think we shouldn't be so eager
+
+424
+00:20:14,820 --> 00:20:16,820
+to always take their word for it,
+
+425
+00:20:16,820 --> 00:20:18,820
+especially when it's 120 degrees out
+
+426
+00:20:18,820 --> 00:20:21,820
+and you're wearing a full burqa.
+
+427
+00:20:21,820 --> 00:20:23,820
+CA: A lot of people want to believe in this
+
+428
+00:20:23,820 --> 00:20:25,820
+concept of moral progress.
+
+429
+00:20:25,820 --> 00:20:27,820
+But can you reconcile that?
+
+430
+00:20:27,820 --> 00:20:29,820
+I think I understood you to say that you could
+
+431
+00:20:29,820 --> 00:20:31,820
+reconcile that with a world that doesn't become
+
+432
+00:20:31,820 --> 00:20:34,820
+one dimensional, where we all have to think the same.
+
+433
+00:20:34,820 --> 00:20:36,820
+Paint your picture of what
+
+434
+00:20:36,820 --> 00:20:39,820
+rolling the clock 50 years forward,
+
+435
+00:20:39,820 --> 00:20:41,820
+100 years forward, how you would like to think of
+
+436
+00:20:41,820 --> 00:20:44,820
+the world, balancing moral progress
+
+437
+00:20:44,820 --> 00:20:47,820
+with richness.
+
+438
+00:20:47,820 --> 00:20:49,820
+SH: Well, I think once you admit
+
+439
+00:20:49,820 --> 00:20:52,820
+that we are on the path toward understanding our minds
+
+440
+00:20:52,820 --> 00:20:55,820
+at the level of the brain in some important detail,
+
+441
+00:20:55,820 --> 00:20:57,820
+then you have to admit
+
+442
+00:20:57,820 --> 00:21:01,820
+that we are going to understand all of the positive
+
+443
+00:21:01,820 --> 00:21:03,820
+and negative qualities
+
+444
+00:21:03,820 --> 00:21:05,820
+of ourselves in much greater detail.
+
+445
+00:21:05,820 --> 00:21:07,820
+So, we're going to understand positive social emotion
+
+446
+00:21:07,820 --> 00:21:09,820
+like empathy and compassion,
+
+447
+00:21:09,820 --> 00:21:11,820
+and we're going to understand the factors
+
+448
+00:21:11,820 --> 00:21:13,820
+that encourage it -- whether they're genetic,
+
+449
+00:21:13,820 --> 00:21:15,820
+whether they're how people talk to one another,
+
+450
+00:21:15,820 --> 00:21:17,820
+whether they're economic systems,
+
+451
+00:21:17,820 --> 00:21:20,820
+and insofar as we begin to shine light on that
+
+452
+00:21:20,820 --> 00:21:22,820
+we are inevitably going to converge
+
+453
+00:21:22,820 --> 00:21:24,820
+on that fact space.
+
+454
+00:21:24,820 --> 00:21:26,820
+So, everything is not going to be up for grabs.
+
+455
+00:21:26,820 --> 00:21:29,820
+It's not going to be like
+
+456
+00:21:29,820 --> 00:21:31,820
+veiling my daughter from birth
+
+457
+00:21:31,820 --> 00:21:34,820
+is just as good as teaching her
+
+458
+00:21:34,820 --> 00:21:38,820
+to be confident and well-educated
+
+459
+00:21:38,820 --> 00:21:41,820
+in the context of men who do desire women.
+
+460
+00:21:41,820 --> 00:21:45,820
+I mean I don't think we need an NSF grant to know
+
+461
+00:21:45,820 --> 00:21:48,820
+that compulsory veiling is a bad idea --
+
+462
+00:21:48,820 --> 00:21:50,820
+but at a certain point
+
+463
+00:21:50,820 --> 00:21:53,820
+we're going to be able to scan the brains of everyone involved
+
+464
+00:21:53,820 --> 00:21:56,820
+and actually interrogate them.
+
+465
+00:21:56,820 --> 00:21:59,820
+Do people love their daughters
+
+466
+00:21:59,820 --> 00:22:02,820
+just as much in these systems?
+
+467
+00:22:02,820 --> 00:22:04,820
+And I think there are clearly right answers to that.
+
+468
+00:22:04,820 --> 00:22:07,820
+CA: And if the results come out that actually they do,
+
+469
+00:22:07,820 --> 00:22:10,820
+are you prepared to shift your instinctive current judgment
+
+470
+00:22:10,820 --> 00:22:12,820
+on some of these issues?
+
+471
+00:22:12,820 --> 00:22:15,820
+SH: Well yeah, modulo one obvious fact,
+
+472
+00:22:15,820 --> 00:22:17,820
+that you can love someone
+
+473
+00:22:17,820 --> 00:22:20,820
+in the context of a truly delusional belief system.
+
+474
+00:22:20,820 --> 00:22:22,820
+So, you can say like, "Because I knew my gay son
+
+475
+00:22:22,820 --> 00:22:25,820
+was going to go to hell if he found a boyfriend,
+
+476
+00:22:25,820 --> 00:22:28,820
+I chopped his head off. And that was the most compassionate thing I could do."
+
+477
+00:22:28,820 --> 00:22:30,820
+If you get all those parts aligned,
+
+478
+00:22:30,820 --> 00:22:33,820
+yes I think you could probably be feeling the emotion of love.
+
+479
+00:22:33,820 --> 00:22:35,820
+But again, then we have to talk about
+
+480
+00:22:35,820 --> 00:22:37,820
+well-being in a larger context.
+
+481
+00:22:37,820 --> 00:22:39,820
+It's all of us in this together,
+
+482
+00:22:39,820 --> 00:22:43,820
+not one man feeling ecstasy
+
+483
+00:22:43,820 --> 00:22:45,820
+and then blowing himself up on a bus.
+
+484
+00:22:45,820 --> 00:22:47,820
+CA: Sam, this is a conversation I would actually love to
+
+485
+00:22:47,820 --> 00:22:49,820
+continue for hours.
+
+486
+00:22:49,820 --> 00:22:51,820
+We don't have that, but maybe another time. Thank you for coming to TED.
+
+487
+00:22:51,820 --> 00:22:53,820
+SH: Really an honor. Thank you.
+
+488
+00:22:53,820 --> 00:22:56,820
+(Applause)
+

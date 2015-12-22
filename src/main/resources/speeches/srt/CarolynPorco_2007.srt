@@ -1,0 +1,1100 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+In the next 18 minutes, I'm going to take you on a journey.
+
+2
+00:00:14,820 --> 00:00:19,820
+And it's a journey that you and I have been on for many years now,
+
+3
+00:00:19,820 --> 00:00:25,820
+and it began some 50 years ago, when humans first stepped off our planet.
+
+4
+00:00:25,820 --> 00:00:32,820
+And in those 50 years, not only did we literally, physically set foot on the moon,
+
+5
+00:00:32,820 --> 00:00:39,820
+but we have dispatched robotic spacecraft to all the planets -- all eight of them --
+
+6
+00:00:39,820 --> 00:00:43,820
+and we have landed on asteroids, we have rendezvoused with comets,
+
+7
+00:00:43,820 --> 00:00:48,820
+and, at this point in time, we have a spacecraft on its way to Pluto,
+
+8
+00:00:48,820 --> 00:00:51,820
+the body formerly known as a planet.
+
+9
+00:00:51,820 --> 00:00:57,820
+And all of these robotic missions are part of a bigger human journey:
+
+10
+00:00:57,820 --> 00:01:04,820
+a voyage to understand something, to get a sense of our cosmic place,
+
+11
+00:01:04,820 --> 00:01:09,820
+to understand something of our origins, and how Earth, our planet,
+
+12
+00:01:09,820 --> 00:01:11,820
+and we, living on it, came to be.
+
+13
+00:01:11,820 --> 00:01:14,820
+And of all the places in the solar system that we might go to
+
+14
+00:01:14,820 --> 00:01:18,820
+and search for answers to questions like this,
+
+15
+00:01:18,820 --> 00:01:21,820
+there's Saturn. And we have been to Saturn before --
+
+16
+00:01:21,820 --> 00:01:24,820
+we visited Saturn in the early 1980s --
+
+17
+00:01:24,820 --> 00:01:29,820
+but our investigations of Saturn have become far more in-depth in detail
+
+18
+00:01:29,820 --> 00:01:33,820
+since the Cassini spacecraft, traveling across interplanetary space
+
+19
+00:01:33,820 --> 00:01:39,820
+for seven years, glided into orbit around Saturn in the summer of 2004,
+
+20
+00:01:39,820 --> 00:01:42,820
+and became at that point the farthest robotic outpost
+
+21
+00:01:42,820 --> 00:01:45,820
+that humanity had ever established around the Sun.
+
+22
+00:01:45,820 --> 00:01:50,820
+Now, the Saturn system is a rich planetary system.
+
+23
+00:01:50,820 --> 00:01:57,820
+It offers mystery, scientific insight and obviously splendor beyond compare,
+
+24
+00:01:57,820 --> 00:02:01,820
+and the investigation of this system has enormous cosmic reach.
+
+25
+00:02:01,820 --> 00:02:05,820
+In fact, just studying the rings alone, we stand to learn a lot
+
+26
+00:02:05,820 --> 00:02:10,820
+about the discs of stars and gas that we call the spiral galaxies.
+
+27
+00:02:10,820 --> 00:02:12,820
+And here's a beautiful picture of the Andromeda Nebula,
+
+28
+00:02:12,820 --> 00:02:16,820
+which is our closest, largest spiral galaxy to the Milky Way.
+
+29
+00:02:16,820 --> 00:02:19,820
+And then, here's a beautiful composite of the Whirlpool Galaxy,
+
+30
+00:02:19,820 --> 00:02:21,820
+taken by the Hubble Space Telescope.
+
+31
+00:02:21,820 --> 00:02:27,820
+So the journey back to Saturn is really part of and is also a metaphor
+
+32
+00:02:27,820 --> 00:02:29,820
+for a much larger human voyage
+
+33
+00:02:29,820 --> 00:02:33,820
+to understand the interconnectedness of everything around us,
+
+34
+00:02:33,820 --> 00:02:36,820
+and also how humans fit into that picture.
+
+35
+00:02:36,820 --> 00:02:43,820
+And it pains me that I can't tell you all that we have learned with Cassini.
+
+36
+00:02:43,820 --> 00:02:46,820
+I can't show you all the beautiful pictures that we've taken
+
+37
+00:02:46,820 --> 00:02:49,820
+in the last two and a half years, because I simply don't have the time.
+
+38
+00:02:49,820 --> 00:02:53,820
+So I'm going to concentrate on two of the most exciting stories
+
+39
+00:02:53,820 --> 00:02:57,820
+that have emerged out of this major exploratory expedition
+
+40
+00:02:57,820 --> 00:02:59,820
+that we are conducting around Saturn,
+
+41
+00:02:59,820 --> 00:03:02,820
+and have been for the past two and a half years.
+
+42
+00:03:02,820 --> 00:03:06,820
+Saturn is accompanied by a very large and diverse collection of moons.
+
+43
+00:03:06,820 --> 00:03:11,820
+They range in size from a few kilometers across to as big across as the U.S.
+
+44
+00:03:11,820 --> 00:03:14,820
+Most of the beautiful pictures we've taken of Saturn, in fact,
+
+45
+00:03:14,820 --> 00:03:19,820
+show Saturn in accompaniment with some of its moons. Here's Saturn with Dione,
+
+46
+00:03:19,820 --> 00:03:22,820
+and then, here's Saturn showing the rings edge-on,
+
+47
+00:03:22,820 --> 00:03:26,820
+showing you just how vertically thin they are, with the moon Enceladus.
+
+48
+00:03:26,820 --> 00:03:31,820
+Now, two of the 47 moons that Saturn has are standouts.
+
+49
+00:03:31,820 --> 00:03:36,820
+And those are Titan and Enceladus. Titan is Saturn's largest moon,
+
+50
+00:03:36,820 --> 00:03:38,820
+and, until Cassini had arrived there,
+
+51
+00:03:38,820 --> 00:03:42,820
+was the largest single expanse of unexplored terrain
+
+52
+00:03:42,820 --> 00:03:46,820
+that we had remaining in our solar system.
+
+53
+00:03:46,820 --> 00:03:50,820
+And it is a body that has long intrigued people who've watched the planets.
+
+54
+00:03:50,820 --> 00:03:54,820
+It has a very large, thick atmosphere,
+
+55
+00:03:54,820 --> 00:03:58,820
+and in fact, its surface environment was believed to be
+
+56
+00:03:58,820 --> 00:04:02,820
+more like the environment we have here on the Earth,
+
+57
+00:04:02,820 --> 00:04:06,820
+or at least had in the past, than any other body in the solar system.
+
+58
+00:04:06,820 --> 00:04:11,820
+Its atmosphere is largely molecular nitrogen, like you are breathing here in this room,
+
+59
+00:04:11,820 --> 00:04:13,820
+except that its atmosphere is suffused with
+
+60
+00:04:13,820 --> 00:04:17,820
+simple organic materials like methane and propane and ethane.
+
+61
+00:04:17,820 --> 00:04:20,820
+And these molecules high up in the atmosphere of Titan
+
+62
+00:04:20,820 --> 00:04:25,820
+get broken down, and their products join together to make haze particles.
+
+63
+00:04:25,820 --> 00:04:30,820
+This haze is ubiquitous. It's completely global and enveloping Titan.
+
+64
+00:04:30,820 --> 00:04:33,820
+And that's why you cannot see down to the surface
+
+65
+00:04:33,820 --> 00:04:35,820
+with our eyes in the visible region of the spectrum.
+
+66
+00:04:35,820 --> 00:04:38,820
+But these haze particles, it was surmised,
+
+67
+00:04:38,820 --> 00:04:42,820
+before we got there with Cassini, over billions and billions of years,
+
+68
+00:04:42,820 --> 00:04:46,820
+gently drifted down to the surface and coated the surface
+
+69
+00:04:46,820 --> 00:04:47,820
+in a thick organic sludge.
+
+70
+00:04:47,820 --> 00:04:54,820
+So like the equivalent, the Titan equivalent, of tar, or oil, or what -- we didn't know what.
+
+71
+00:04:54,820 --> 00:04:56,820
+But this is what we suspected. And these molecules,
+
+72
+00:04:56,820 --> 00:05:05,820
+especially methane and ethane, can be liquids at the surface temperatures of Titan.
+
+73
+00:05:05,820 --> 00:05:10,820
+And so it turns out that methane is to Titan what water is to the Earth.
+
+74
+00:05:10,820 --> 00:05:12,820
+It's a condensable in the atmosphere,
+
+75
+00:05:12,820 --> 00:05:17,820
+and so recognizing this circumstance brought to the fore
+
+76
+00:05:17,820 --> 00:05:22,820
+a whole world of bizarre possibilities. You can have methane clouds, OK,
+
+77
+00:05:22,820 --> 00:05:25,820
+and above those clouds, you have this hundreds of kilometers of haze,
+
+78
+00:05:25,820 --> 00:05:27,820
+which prevent any sunlight from getting to the surface.
+
+79
+00:05:27,820 --> 00:05:33,820
+The temperature at the surface is some 350 degrees below zero Fahrenheit.
+
+80
+00:05:33,820 --> 00:05:39,820
+But despite that cold, you could have rain falling down on the surface of Titan.
+
+81
+00:05:39,820 --> 00:05:42,820
+And doing on Titan what rain does on the Earth: it carves gullies; it forms rivers
+
+82
+00:05:42,820 --> 00:05:49,820
+and cataracts; it can create canyons; it can pool in large basins and craters.
+
+83
+00:05:49,820 --> 00:05:52,820
+It can wash the sludge off high mountain peaks and hills,
+
+84
+00:05:52,820 --> 00:05:55,820
+down into the lowlands. So stop and think for a minute.
+
+85
+00:05:55,820 --> 00:05:59,820
+Try to imagine what the surface of Titan might look like.
+
+86
+00:05:59,820 --> 00:06:04,820
+It's dark. High noon on Titan is as dark as deep earth twilight on the Earth.
+
+87
+00:06:04,820 --> 00:06:06,820
+It's cold, it's eerie, it's misty,
+
+88
+00:06:06,820 --> 00:06:09,820
+it might be raining, and you might be standing
+
+89
+00:06:09,820 --> 00:06:13,820
+on the shores of Lake Michigan brimming with paint thinner. (Laughter)
+
+90
+00:06:13,820 --> 00:06:18,820
+That is the view that we had of the surface of Titan before we got there with Cassini,
+
+91
+00:06:18,820 --> 00:06:25,820
+and I can tell you that what we have found on Titan, though it is not the same in detail,
+
+92
+00:06:25,820 --> 00:06:28,820
+is every bit as fascinating as that story is.
+
+93
+00:06:28,820 --> 00:06:30,820
+And for us, it has been like -- the Cassini people --
+
+94
+00:06:30,820 --> 00:06:34,820
+it has been like a Jules Verne adventure come true.
+
+95
+00:06:34,820 --> 00:06:36,820
+As I said, it has a thick, extensive atmosphere.
+
+96
+00:06:36,820 --> 00:06:41,820
+This is a picture of Titan, backlit by the Sun, with the rings as a beautiful backdrop.
+
+97
+00:06:41,820 --> 00:06:43,820
+And yet another moon there --
+
+98
+00:06:43,820 --> 00:06:46,820
+I don't even know which one it is. It's a very extensive atmosphere.
+
+99
+00:06:46,820 --> 00:06:49,820
+We have instruments on Cassini which can see down to the surface
+
+100
+00:06:49,820 --> 00:06:53,820
+through this atmosphere, and my camera system is one of them.
+
+101
+00:06:53,820 --> 00:06:55,820
+And we have taken pictures like this.
+
+102
+00:06:55,820 --> 00:07:00,820
+And what you see is bright and dark regions, and that's about as far as it got for us.
+
+103
+00:07:00,820 --> 00:07:04,820
+It was so mystifying: we couldn't make out what we were seeing on Titan.
+
+104
+00:07:04,820 --> 00:07:09,820
+When you look closer at this region, you start to see things
+
+105
+00:07:09,820 --> 00:07:13,820
+like sinuous channels -- we didn't know. You see a few round things.
+
+106
+00:07:13,820 --> 00:07:15,820
+This, we later found out, is, in fact, a crater,
+
+107
+00:07:15,820 --> 00:07:18,820
+but there are very few craters on the surface of Titan,
+
+108
+00:07:18,820 --> 00:07:20,820
+meaning it's a very young surface.
+
+109
+00:07:20,820 --> 00:07:22,820
+And there are features that look tectonic.
+
+110
+00:07:22,820 --> 00:07:24,820
+They look like they've been pulled apart.
+
+111
+00:07:24,820 --> 00:07:26,820
+Whenever you see anything linear on a planet,
+
+112
+00:07:26,820 --> 00:07:30,820
+it means there's been a fracture, like a fault.
+
+113
+00:07:30,820 --> 00:07:32,820
+And so it's been tectonically altered.
+
+114
+00:07:32,820 --> 00:07:34,820
+But we couldn't make sense of our images,
+
+115
+00:07:34,820 --> 00:07:38,820
+until, six months after we got into orbit,
+
+116
+00:07:38,820 --> 00:07:40,820
+an event occurred that many have regarded
+
+117
+00:07:40,820 --> 00:07:43,820
+as the highlight of Cassini's investigation of Titan.
+
+118
+00:07:43,820 --> 00:07:46,820
+And that was the deployment of the Huygens probe,
+
+119
+00:07:46,820 --> 00:07:49,820
+the European-built Huygens probe that Cassini had carried
+
+120
+00:07:49,820 --> 00:07:53,820
+for seven years across the solar system. We deployed it to the atmosphere of Titan,
+
+121
+00:07:53,820 --> 00:07:57,820
+it took two and a half hours to descend, and it landed on the surface.
+
+122
+00:07:57,820 --> 00:08:01,820
+And I just want to emphasize how significant an event this is.
+
+123
+00:08:01,820 --> 00:08:04,820
+This is a device of human making,
+
+124
+00:08:04,820 --> 00:08:08,820
+and it landed in the outer solar system for the first time in human history.
+
+125
+00:08:08,820 --> 00:08:12,820
+It is so significant that, in my mind,
+
+126
+00:08:12,820 --> 00:08:14,820
+this was an event that should have been celebrated
+
+127
+00:08:14,820 --> 00:08:19,820
+with ticker tape parades in every city across the U.S. and Europe,
+
+128
+00:08:19,820 --> 00:08:21,820
+and sadly, that wasn't the case.
+
+129
+00:08:21,820 --> 00:08:23,820
+(Laughter).
+
+130
+00:08:23,820 --> 00:08:26,820
+It was significant for another reason. This is an international mission,
+
+131
+00:08:26,820 --> 00:08:29,820
+and this event was celebrated in Europe, in Germany,
+
+132
+00:08:29,820 --> 00:08:33,820
+and the celebratory presentations were given in English accents,
+
+133
+00:08:33,820 --> 00:08:39,820
+and American accents, and German accents, and French and Italian and Dutch accents.
+
+134
+00:08:39,820 --> 00:08:43,820
+It was a moving demonstration of what the words
+
+135
+00:08:43,820 --> 00:08:45,820
+"united nations" are supposed to mean:
+
+136
+00:08:45,820 --> 00:08:51,820
+a true union of nations joined together in a colossal effort for good.
+
+137
+00:08:51,820 --> 00:08:55,820
+And, in this case, it was a massive undertaking to explore a planet,
+
+138
+00:08:55,820 --> 00:08:58,820
+and to come to understand a planetary system
+
+139
+00:08:58,820 --> 00:09:02,820
+that, for all of human history, had been unreachable,
+
+140
+00:09:02,820 --> 00:09:04,820
+and now humans had actually touched it.
+
+141
+00:09:04,820 --> 00:09:08,820
+So it was -- I mean, I'm getting goose bumps just talking about it.
+
+142
+00:09:08,820 --> 00:09:10,820
+It was a tremendously emotional event,
+
+143
+00:09:10,820 --> 00:09:15,820
+and it's something that I will personally never forget, and you shouldn't either.
+
+144
+00:09:15,820 --> 00:09:21,820
+(Applause).
+
+145
+00:09:21,820 --> 00:09:24,820
+But anyway, the probe took measurements of the atmosphere on the way down,
+
+146
+00:09:24,820 --> 00:09:26,820
+and it also took panoramic pictures.
+
+147
+00:09:26,820 --> 00:09:30,820
+And I can't tell you what it was like to see the first pictures
+
+148
+00:09:30,820 --> 00:09:34,820
+of Titan's surface from the probe. And this is what we saw.
+
+149
+00:09:34,820 --> 00:09:37,820
+And it was a shocker, because it was everything we wanted
+
+150
+00:09:37,820 --> 00:09:39,820
+those other pictures taken from orbit to be.
+
+151
+00:09:39,820 --> 00:09:43,820
+It was an unambiguous pattern, a geological pattern.
+
+152
+00:09:43,820 --> 00:09:48,820
+It's a dendritic drainage pattern that can be formed only by the flow of liquids.
+
+153
+00:09:48,820 --> 00:09:50,820
+And you can follow these channels
+
+154
+00:09:50,820 --> 00:09:51,820
+and you can see how they all converge.
+
+155
+00:09:51,820 --> 00:09:55,820
+And they converge into this channel here, which drains into this region.
+
+156
+00:09:55,820 --> 00:09:57,820
+You are looking at a shoreline.
+
+157
+00:09:57,820 --> 00:10:00,820
+Was this a shoreline of fluids? We didn't know.
+
+158
+00:10:00,820 --> 00:10:02,820
+But this is somewhat of a shoreline.
+
+159
+00:10:02,820 --> 00:10:04,820
+This picture is taken at 16 kilometers.
+
+160
+00:10:04,820 --> 00:10:08,820
+This is the picture taken at eight kilometers, OK? Again, the shoreline.
+
+161
+00:10:08,820 --> 00:10:13,820
+Okay, now, 16 kilometers, eight kilometers -- this is roughly an airline altitude.
+
+162
+00:10:13,820 --> 00:10:16,820
+If you were going to take an airplane trip across the U.S.,
+
+163
+00:10:16,820 --> 00:10:18,820
+you would be flying at these altitudes.
+
+164
+00:10:18,820 --> 00:10:22,820
+So, this is the picture you would have at the window of Titanian Airlines
+
+165
+00:10:22,820 --> 00:10:25,820
+as you fly across the surface of Titan. (Laughter)
+
+166
+00:10:25,820 --> 00:10:29,820
+And then finally, the probe came to rest on the surface,
+
+167
+00:10:29,820 --> 00:10:31,820
+and I'm going to show you, ladies and gentlemen,
+
+168
+00:10:31,820 --> 00:10:35,820
+the first picture ever taken from the surface of a moon in the outer solar system.
+
+169
+00:10:35,820 --> 00:10:39,820
+And here is the horizon, OK?
+
+170
+00:10:39,820 --> 00:10:43,820
+These are probably water ice pebbles, yes?
+
+171
+00:10:43,820 --> 00:10:48,820
+(Applause).
+
+172
+00:10:48,820 --> 00:10:52,820
+And obviously, it landed in one of these flat, dark regions
+
+173
+00:10:52,820 --> 00:10:57,820
+and it didn't sink out of sight. So it wasn't fluid that we landed in.
+
+174
+00:10:57,820 --> 00:11:00,820
+What the probe came down in was basically
+
+175
+00:11:00,820 --> 00:11:03,820
+the Titan equivalent of a mud flat.
+
+176
+00:11:03,820 --> 00:11:08,820
+This is an unconsolidated ground that is suffused with liquid methane.
+
+177
+00:11:08,820 --> 00:11:11,820
+And it's probably the case that this material
+
+178
+00:11:11,820 --> 00:11:15,820
+has washed off the highlands of Titan
+
+179
+00:11:15,820 --> 00:11:16,820
+through these channels that we saw,
+
+180
+00:11:16,820 --> 00:11:20,820
+and has drained over billions of years to fill in low-lying basins.
+
+181
+00:11:20,820 --> 00:11:23,820
+And that is what the Huygens probe landed in.
+
+182
+00:11:23,820 --> 00:11:27,820
+But still, there was no sign in our images,
+
+183
+00:11:27,820 --> 00:11:32,820
+or even in the Huygens' images, of any large, open bodies of fluids.
+
+184
+00:11:32,820 --> 00:11:37,820
+Where were they? It got even more puzzling when we found dunes.
+
+185
+00:11:37,820 --> 00:11:40,820
+OK, so this is our movie of the equatorial region of Titan,
+
+186
+00:11:40,820 --> 00:11:43,820
+showing these dunes. These are dunes that are 100 meters tall,
+
+187
+00:11:43,820 --> 00:11:46,820
+separated by a few kilometers,
+
+188
+00:11:46,820 --> 00:11:49,820
+and they go on for miles and miles and miles.
+
+189
+00:11:49,820 --> 00:11:52,820
+There's hundreds, up to a 1,000 or 1,200 miles of dunes.
+
+190
+00:11:52,820 --> 00:11:55,820
+This is the Saharan desert of Titan.
+
+191
+00:11:55,820 --> 00:12:00,820
+It's obviously a place which is very dry, or you wouldn't get dunes.
+
+192
+00:12:00,820 --> 00:12:05,820
+So again, it got puzzling that there were no bodies of fluid,
+
+193
+00:12:05,820 --> 00:12:09,820
+until finally, we saw lakes in the polar regions.
+
+194
+00:12:09,820 --> 00:12:13,820
+And there is a lake scene in the south polar region of Titan.
+
+195
+00:12:13,820 --> 00:12:15,820
+It's about the size of Lake Ontario.
+
+196
+00:12:15,820 --> 00:12:16,820
+And then, only a week and a half ago,
+
+197
+00:12:16,820 --> 00:12:20,820
+we flew over the north pole of Titan and found, again,
+
+198
+00:12:20,820 --> 00:12:25,820
+we found a feature here the size of the Caspian Sea.
+
+199
+00:12:25,820 --> 00:12:29,820
+So it seems that the liquids, for some reason we don't understand,
+
+200
+00:12:29,820 --> 00:12:34,820
+or during at least this season, are apparently at the poles of Titan.
+
+201
+00:12:34,820 --> 00:12:37,820
+And I think you would agree that we have found Titan
+
+202
+00:12:37,820 --> 00:12:44,820
+is a remarkable, mystical place. It's exotic, it's alien, but yet strangely Earth-like,
+
+203
+00:12:44,820 --> 00:12:47,820
+and having Earth-like geological formations
+
+204
+00:12:47,820 --> 00:12:51,820
+and a tremendous geographical diversity,
+
+205
+00:12:51,820 --> 00:12:55,820
+and is a fascinating world whose only rival in the solar system
+
+206
+00:12:55,820 --> 00:12:58,820
+for complexity and richness is the Earth itself.
+
+207
+00:12:58,820 --> 00:13:03,820
+And so now we go onto Enceladus. Enceladus is a small moon,
+
+208
+00:13:03,820 --> 00:13:07,820
+it's about a tenth the size of Titan. And you can see it here next to England,
+
+209
+00:13:07,820 --> 00:13:10,820
+just to show you the size. This is not meant to be a threat.
+
+210
+00:13:10,820 --> 00:13:12,820
+(Laughter).
+
+211
+00:13:12,820 --> 00:13:16,820
+And Enceladus is very white, it's very bright,
+
+212
+00:13:16,820 --> 00:13:20,820
+and its surface is obviously wrecked with fractures.
+
+213
+00:13:20,820 --> 00:13:22,820
+It is a very geologically active body.
+
+214
+00:13:22,820 --> 00:13:24,820
+But the mother lode of discoveries on Enceladus
+
+215
+00:13:24,820 --> 00:13:27,820
+was found at the south pole -- and we're looking at the south pole here --
+
+216
+00:13:27,820 --> 00:13:30,820
+where we found this system of fractures.
+
+217
+00:13:30,820 --> 00:13:32,820
+And they're a different color because they're a different composition.
+
+218
+00:13:32,820 --> 00:13:37,820
+They are coated. These fractures are coated with organic materials.
+
+219
+00:13:37,820 --> 00:13:41,820
+Moreover, this whole, entire region, the south polar region,
+
+220
+00:13:41,820 --> 00:13:45,820
+has elevated temperatures. It's the hottest place on the planet, on the body.
+
+221
+00:13:45,820 --> 00:13:50,820
+That's as bizarre as finding that the Antarctic on the Earth is hotter than the tropics.
+
+222
+00:13:50,820 --> 00:13:53,820
+And then, when we took additional pictures, we discovered
+
+223
+00:13:53,820 --> 00:13:59,820
+that from these fractures are issuing jets of fine, icy particles
+
+224
+00:13:59,820 --> 00:14:01,820
+extending hundreds of miles into space.
+
+225
+00:14:01,820 --> 00:14:04,820
+And when we color-code this image, to bring out the faint light levels,
+
+226
+00:14:04,820 --> 00:14:08,820
+we see that these jets feed a plume
+
+227
+00:14:08,820 --> 00:14:12,820
+that, in fact, we see, in other images, goes thousands of miles
+
+228
+00:14:12,820 --> 00:14:14,820
+into the space above Enceladus.
+
+229
+00:14:14,820 --> 00:14:17,820
+My team and I have examined images like this,
+
+230
+00:14:17,820 --> 00:14:21,820
+and like this one, and have thought about the other results from Cassini.
+
+231
+00:14:21,820 --> 00:14:25,820
+And we have arrived at the conclusion
+
+232
+00:14:25,820 --> 00:14:28,820
+that these jets may be erupting from pockets
+
+233
+00:14:28,820 --> 00:14:32,820
+of liquid water under the surface of Enceladus.
+
+234
+00:14:32,820 --> 00:14:37,820
+So we have, possibly, liquid water, organic materials and excess heat.
+
+235
+00:14:37,820 --> 00:14:40,820
+In other words, we have possibly stumbled upon
+
+236
+00:14:40,820 --> 00:14:44,820
+the holy grail of modern day planetary exploration,
+
+237
+00:14:44,820 --> 00:14:48,820
+or in other words, an environment that is potentially suitable for living organisms.
+
+238
+00:14:48,820 --> 00:14:51,820
+And I don't think I need to tell you that the discovery of life
+
+239
+00:14:51,820 --> 00:14:53,820
+elsewhere in our solar system,
+
+240
+00:14:53,820 --> 00:14:55,820
+whether it be on Enceladus or elsewhere,
+
+241
+00:14:55,820 --> 00:14:58,820
+would have enormous cultural and scientific implications.
+
+242
+00:14:58,820 --> 00:15:02,820
+Because if we could demonstrate that genesis had occurred
+
+243
+00:15:02,820 --> 00:15:06,820
+not once, but twice, independently, in our solar system,
+
+244
+00:15:06,820 --> 00:15:10,820
+then that means, by inference, it has occurred a staggering number of times
+
+245
+00:15:10,820 --> 00:15:15,820
+throughout the universe and its 13.7 billion year history.
+
+246
+00:15:15,820 --> 00:15:19,820
+Right now, Earth is the only planet still that we know is teeming with life.
+
+247
+00:15:19,820 --> 00:15:22,820
+It is precious, it is unique,
+
+248
+00:15:22,820 --> 00:15:25,820
+it is still, so far, the only home we've ever known.
+
+249
+00:15:25,820 --> 00:15:32,820
+And if any of you were alert and coherent during the 1960s --
+
+250
+00:15:32,820 --> 00:15:34,820
+and we'd forgive you, if you weren't, OK --
+
+251
+00:15:34,820 --> 00:15:36,820
+you would remember this very famous picture
+
+252
+00:15:36,820 --> 00:15:40,820
+taken by the Apollo 8 astronauts in 1968.
+
+253
+00:15:40,820 --> 00:15:43,820
+It was the first time that Earth was imaged from space,
+
+254
+00:15:43,820 --> 00:15:46,820
+and it had an enormous impact on our sense of place in the universe,
+
+255
+00:15:46,820 --> 00:15:51,820
+and our sense of responsibility for the protection of our own planet.
+
+256
+00:15:51,820 --> 00:15:55,820
+Well, we on Cassini have taken an equivalent first,
+
+257
+00:15:55,820 --> 00:15:59,820
+a picture that no human eye has ever seen before.
+
+258
+00:15:59,820 --> 00:16:03,820
+It is a total eclipse of the Sun, seen from the other side of Saturn.
+
+259
+00:16:03,820 --> 00:16:07,820
+And in this impossibly beautiful picture,
+
+260
+00:16:07,820 --> 00:16:09,820
+you see the main rings backlit by the Sun,
+
+261
+00:16:09,820 --> 00:16:12,820
+you see the refracted image of the Sun
+
+262
+00:16:12,820 --> 00:16:14,820
+and you see this ring created, in fact,
+
+263
+00:16:14,820 --> 00:16:17,820
+by the exhalations of Enceladus.
+
+264
+00:16:17,820 --> 00:16:23,820
+But as if that weren't brilliant enough, we can spot, in this beautiful image,
+
+265
+00:16:23,820 --> 00:16:25,820
+sight of our own planet,
+
+266
+00:16:25,820 --> 00:16:29,820
+cradled in the arms of Saturn's rings.
+
+267
+00:16:29,820 --> 00:16:31,820
+Now, there is something deeply moving
+
+268
+00:16:31,820 --> 00:16:33,820
+about seeing ourselves from afar,
+
+269
+00:16:33,820 --> 00:16:36,820
+and capturing the sight of our little, blue-ocean planet
+
+270
+00:16:36,820 --> 00:16:38,820
+in the skies of other worlds.
+
+271
+00:16:38,820 --> 00:16:42,820
+And that, and the perspective of ourselves that we gain from that,
+
+272
+00:16:42,820 --> 00:16:46,820
+may be, in the end, the finest reward that we earn
+
+273
+00:16:46,820 --> 00:16:49,820
+from this journey of discovery that started half a century ago.
+
+274
+00:16:49,820 --> 00:16:51,820
+And thank you very much.
+
+275
+00:16:51,820 --> 00:17:03,820
+(Applause)
+

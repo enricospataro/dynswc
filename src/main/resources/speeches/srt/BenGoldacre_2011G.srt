@@ -1,0 +1,1440 @@
+﻿1
+00:00:11,820 --> 00:00:14,820
+So I'm a doctor, but I kind of slipped sideways into research,
+
+2
+00:00:14,820 --> 00:00:16,820
+and now I'm an epidemiologist.
+
+3
+00:00:16,820 --> 00:00:18,820
+And nobody really knows what epidemiology is.
+
+4
+00:00:18,820 --> 00:00:21,820
+Epidemiology is the science of how we know in the real world
+
+5
+00:00:21,820 --> 00:00:23,820
+if something is good for you or bad for you.
+
+6
+00:00:23,820 --> 00:00:25,820
+And it's best understood through example
+
+7
+00:00:25,820 --> 00:00:30,820
+as the science of those crazy, wacky newspaper headlines.
+
+8
+00:00:30,820 --> 00:00:32,820
+And these are just some of the examples.
+
+9
+00:00:32,820 --> 00:00:35,820
+These are from the Daily Mail. Every country in the world has a newspaper like this.
+
+10
+00:00:35,820 --> 00:00:38,820
+It has this bizarre, ongoing philosophical project
+
+11
+00:00:38,820 --> 00:00:40,820
+of dividing all the inanimate objects in the world
+
+12
+00:00:40,820 --> 00:00:43,820
+into the ones that either cause or prevent cancer.
+
+13
+00:00:43,820 --> 00:00:45,820
+So here are some of the things they said cause cancer recently:
+
+14
+00:00:45,820 --> 00:00:47,820
+divorce, Wi-Fi, toiletries and coffee.
+
+15
+00:00:47,820 --> 00:00:49,820
+Here are some of the things they say prevents cancer:
+
+16
+00:00:49,820 --> 00:00:51,820
+crusts, red pepper, licorice and coffee.
+
+17
+00:00:51,820 --> 00:00:53,820
+So already you can see there are contradictions.
+
+18
+00:00:53,820 --> 00:00:55,820
+Coffee both causes and prevents cancer.
+
+19
+00:00:55,820 --> 00:00:57,820
+And as you start to read on, you can see
+
+20
+00:00:57,820 --> 00:01:00,820
+that maybe there's some kind of political valence behind some of this.
+
+21
+00:01:00,820 --> 00:01:02,820
+So for women, housework prevents breast cancer,
+
+22
+00:01:02,820 --> 00:01:05,820
+but for men, shopping could make you impotent.
+
+23
+00:01:05,820 --> 00:01:08,820
+So we know that we need to start
+
+24
+00:01:08,820 --> 00:01:11,820
+unpicking the science behind this.
+
+25
+00:01:11,820 --> 00:01:13,820
+And what I hope to show
+
+26
+00:01:13,820 --> 00:01:15,820
+is that unpicking dodgy claims,
+
+27
+00:01:15,820 --> 00:01:17,820
+unpicking the evidence behind dodgy claims,
+
+28
+00:01:17,820 --> 00:01:20,820
+isn't a kind of nasty carping activity;
+
+29
+00:01:20,820 --> 00:01:22,820
+it's socially useful,
+
+30
+00:01:22,820 --> 00:01:24,820
+but it's also an extremely valuable
+
+31
+00:01:24,820 --> 00:01:26,820
+explanatory tool.
+
+32
+00:01:26,820 --> 00:01:28,820
+Because real science is all about
+
+33
+00:01:28,820 --> 00:01:30,820
+critically appraising the evidence for somebody else's position.
+
+34
+00:01:30,820 --> 00:01:32,820
+That's what happens in academic journals.
+
+35
+00:01:32,820 --> 00:01:34,820
+That's what happens at academic conferences.
+
+36
+00:01:34,820 --> 00:01:36,820
+The Q&A session after a post-op presents data
+
+37
+00:01:36,820 --> 00:01:38,820
+is often a blood bath.
+
+38
+00:01:38,820 --> 00:01:40,820
+And nobody minds that. We actively welcome it.
+
+39
+00:01:40,820 --> 00:01:43,820
+It's like a consenting intellectual S&M activity.
+
+40
+00:01:43,820 --> 00:01:45,820
+So what I'm going to show you
+
+41
+00:01:45,820 --> 00:01:47,820
+is all of the main things,
+
+42
+00:01:47,820 --> 00:01:49,820
+all of the main features of my discipline --
+
+43
+00:01:49,820 --> 00:01:51,820
+evidence-based medicine.
+
+44
+00:01:51,820 --> 00:01:53,820
+And I will talk you through all of these
+
+45
+00:01:53,820 --> 00:01:55,820
+and demonstrate how they work,
+
+46
+00:01:55,820 --> 00:01:58,820
+exclusively using examples of people getting stuff wrong.
+
+47
+00:01:58,820 --> 00:02:01,820
+So we'll start with the absolute weakest form of evidence known to man,
+
+48
+00:02:01,820 --> 00:02:03,820
+and that is authority.
+
+49
+00:02:03,820 --> 00:02:06,820
+In science, we don't care how many letters you have after your name.
+
+50
+00:02:06,820 --> 00:02:09,820
+In science, we want to know what your reasons are for believing something.
+
+51
+00:02:09,820 --> 00:02:11,820
+How do you know that something is good for us
+
+52
+00:02:11,820 --> 00:02:13,820
+or bad for us?
+
+53
+00:02:13,820 --> 00:02:15,820
+But we're also unimpressed by authority,
+
+54
+00:02:15,820 --> 00:02:17,820
+because it's so easy to contrive.
+
+55
+00:02:17,820 --> 00:02:19,820
+This is somebody called Dr. Gillian McKeith Ph.D,
+
+56
+00:02:19,820 --> 00:02:22,820
+or, to give her full medical title, Gillian McKeith.
+
+57
+00:02:22,820 --> 00:02:25,820
+(Laughter)
+
+58
+00:02:25,820 --> 00:02:27,820
+Again, every country has somebody like this.
+
+59
+00:02:27,820 --> 00:02:29,820
+She is our TV diet guru.
+
+60
+00:02:29,820 --> 00:02:32,820
+She has massive five series of prime-time television,
+
+61
+00:02:32,820 --> 00:02:35,820
+giving out very lavish and exotic health advice.
+
+62
+00:02:35,820 --> 00:02:38,820
+She, it turns out, has a non-accredited correspondence course Ph.D.
+
+63
+00:02:38,820 --> 00:02:40,820
+from somewhere in America.
+
+64
+00:02:40,820 --> 00:02:42,820
+She also boasts that she's a certified professional member
+
+65
+00:02:42,820 --> 00:02:44,820
+of the American Association of Nutritional Consultants,
+
+66
+00:02:44,820 --> 00:02:46,820
+which sounds very glamorous and exciting.
+
+67
+00:02:46,820 --> 00:02:48,820
+You get a certificate and everything.
+
+68
+00:02:48,820 --> 00:02:50,820
+This one belongs to my dead cat Hetti. She was a horrible cat.
+
+69
+00:02:50,820 --> 00:02:52,820
+You just go to the website, fill out the form,
+
+70
+00:02:52,820 --> 00:02:54,820
+give them $60, and it arrives in the post.
+
+71
+00:02:54,820 --> 00:02:56,820
+Now that's not the only reason that we think this person is an idiot.
+
+72
+00:02:56,820 --> 00:02:58,820
+She also goes and says things like,
+
+73
+00:02:58,820 --> 00:03:00,820
+you should eat lots of dark green leaves,
+
+74
+00:03:00,820 --> 00:03:02,820
+because they contain lots of chlorophyll, and that will really oxygenate your blood.
+
+75
+00:03:02,820 --> 00:03:04,820
+And anybody who's done school biology remembers
+
+76
+00:03:04,820 --> 00:03:06,820
+that chlorophyll and chloroplasts
+
+77
+00:03:06,820 --> 00:03:08,820
+only make oxygen in sunlight,
+
+78
+00:03:08,820 --> 00:03:11,820
+and it's quite dark in your bowels after you've eaten spinach.
+
+79
+00:03:11,820 --> 00:03:14,820
+Next, we need proper science, proper evidence.
+
+80
+00:03:14,820 --> 00:03:16,820
+So, "Red wine can help prevent breast cancer."
+
+81
+00:03:16,820 --> 00:03:18,820
+This is a headline from the Daily Telegraph in the U.K.
+
+82
+00:03:18,820 --> 00:03:21,820
+"A glass of red wine a day could help prevent breast cancer."
+
+83
+00:03:21,820 --> 00:03:23,820
+So you go and find this paper, and what you find
+
+84
+00:03:23,820 --> 00:03:25,820
+is it is a real piece of science.
+
+85
+00:03:25,820 --> 00:03:28,820
+It is a description of the changes in one enzyme
+
+86
+00:03:28,820 --> 00:03:31,820
+when you drip a chemical extracted from some red grape skin
+
+87
+00:03:31,820 --> 00:03:33,820
+onto some cancer cells
+
+88
+00:03:33,820 --> 00:03:36,820
+in a dish on a bench in a laboratory somewhere.
+
+89
+00:03:36,820 --> 00:03:38,820
+And that's a really useful thing to describe
+
+90
+00:03:38,820 --> 00:03:40,820
+in a scientific paper,
+
+91
+00:03:40,820 --> 00:03:42,820
+but on the question of your own personal risk
+
+92
+00:03:42,820 --> 00:03:44,820
+of getting breast cancer if you drink red wine,
+
+93
+00:03:44,820 --> 00:03:46,820
+it tells you absolutely bugger all.
+
+94
+00:03:46,820 --> 00:03:48,820
+Actually, it turns out that your risk of breast cancer
+
+95
+00:03:48,820 --> 00:03:50,820
+actually increases slightly
+
+96
+00:03:50,820 --> 00:03:52,820
+with every amount of alcohol that you drink.
+
+97
+00:03:52,820 --> 00:03:56,820
+So what we want is studies in real human people.
+
+98
+00:03:56,820 --> 00:03:58,820
+And here's another example.
+
+99
+00:03:58,820 --> 00:04:01,820
+This is from Britain's leading diet and nutritionist in the Daily Mirror,
+
+100
+00:04:01,820 --> 00:04:03,820
+which is our second biggest selling newspaper.
+
+101
+00:04:03,820 --> 00:04:05,820
+"An Australian study in 2001
+
+102
+00:04:05,820 --> 00:04:07,820
+found that olive oil in combination with fruits, vegetables and pulses
+
+103
+00:04:07,820 --> 00:04:09,820
+offers measurable protection against skin wrinklings."
+
+104
+00:04:09,820 --> 00:04:11,820
+And then they give you advice:
+
+105
+00:04:11,820 --> 00:04:13,820
+"If you eat olive oil and vegetables, you'll have fewer skin wrinkles."
+
+106
+00:04:13,820 --> 00:04:15,820
+And they very helpfully tell you how to go and find the paper.
+
+107
+00:04:15,820 --> 00:04:18,820
+So you go and find the paper, and what you find is an observational study.
+
+108
+00:04:18,820 --> 00:04:20,820
+Obviously nobody has been able
+
+109
+00:04:20,820 --> 00:04:22,820
+to go back to 1930,
+
+110
+00:04:22,820 --> 00:04:25,820
+get all the people born in one maternity unit,
+
+111
+00:04:25,820 --> 00:04:27,820
+and half of them eat lots of fruit and veg and olive oil,
+
+112
+00:04:27,820 --> 00:04:29,820
+and then half of them eat McDonald's,
+
+113
+00:04:29,820 --> 00:04:31,820
+and then we see how many wrinkles you've got later.
+
+114
+00:04:31,820 --> 00:04:33,820
+You have to take a snapshot of how people are now.
+
+115
+00:04:33,820 --> 00:04:35,820
+And what you find is, of course,
+
+116
+00:04:35,820 --> 00:04:38,820
+people who eat veg and olive oil have fewer skin wrinkles.
+
+117
+00:04:38,820 --> 00:04:41,820
+But that's because people who eat fruit and veg and olive oil,
+
+118
+00:04:41,820 --> 00:04:44,820
+they're freaks, they're not normal, they're like you;
+
+119
+00:04:44,820 --> 00:04:46,820
+they come to events like this.
+
+120
+00:04:46,820 --> 00:04:49,820
+They are posh, they're wealthy, they're less likely to have outdoor jobs,
+
+121
+00:04:49,820 --> 00:04:51,820
+they're less likely to do manual labor,
+
+122
+00:04:51,820 --> 00:04:53,820
+they have better social support, they're less likely to smoke --
+
+123
+00:04:53,820 --> 00:04:55,820
+so for a whole host of fascinating, interlocking
+
+124
+00:04:55,820 --> 00:04:57,820
+social, political and cultural reasons,
+
+125
+00:04:57,820 --> 00:04:59,820
+they are less likely to have skin wrinkles.
+
+126
+00:04:59,820 --> 00:05:01,820
+That doesn't mean that it's the vegetables or the olive oil.
+
+127
+00:05:01,820 --> 00:05:03,820
+(Laughter)
+
+128
+00:05:03,820 --> 00:05:06,820
+So ideally what you want to do is a trial.
+
+129
+00:05:06,820 --> 00:05:08,820
+And everybody thinks they're very familiar with the idea of a trial.
+
+130
+00:05:08,820 --> 00:05:11,820
+Trials are very old. The first trial was in the Bible -- Daniel 1:12.
+
+131
+00:05:11,820 --> 00:05:13,820
+It's very straightforward -- you take a bunch of people, you split them in half,
+
+132
+00:05:13,820 --> 00:05:15,820
+you treat one group one way, you treat the other group the other way,
+
+133
+00:05:15,820 --> 00:05:17,820
+and a little while later, you follow them up
+
+134
+00:05:17,820 --> 00:05:19,820
+and see what happened to each of them.
+
+135
+00:05:19,820 --> 00:05:21,820
+So I'm going to tell you about one trial,
+
+136
+00:05:21,820 --> 00:05:23,820
+which is probably the most well-reported trial
+
+137
+00:05:23,820 --> 00:05:25,820
+in the U.K. news media over the past decade.
+
+138
+00:05:25,820 --> 00:05:27,820
+And this is the trial of fish oil pills.
+
+139
+00:05:27,820 --> 00:05:29,820
+And the claim was fish oil pills improve school performance and behavior
+
+140
+00:05:29,820 --> 00:05:31,820
+in mainstream children.
+
+141
+00:05:31,820 --> 00:05:33,820
+And they said, "We've done a trial.
+
+142
+00:05:33,820 --> 00:05:35,820
+All the previous trials were positive, and we know this one's gonna be too."
+
+143
+00:05:35,820 --> 00:05:37,820
+That should always ring alarm bells.
+
+144
+00:05:37,820 --> 00:05:40,820
+Because if you already know the answer to your trial, you shouldn't be doing one.
+
+145
+00:05:40,820 --> 00:05:42,820
+Either you've rigged it by design,
+
+146
+00:05:42,820 --> 00:05:45,820
+or you've got enough data so there's no need to randomize people anymore.
+
+147
+00:05:45,820 --> 00:05:48,820
+So this is what they were going to do in their trial.
+
+148
+00:05:48,820 --> 00:05:50,820
+They were taking 3,000 children,
+
+149
+00:05:50,820 --> 00:05:52,820
+they were going to give them all these huge fish oil pills,
+
+150
+00:05:52,820 --> 00:05:54,820
+six of them a day,
+
+151
+00:05:54,820 --> 00:05:57,820
+and then a year later, they were going to measure their school exam performance
+
+152
+00:05:57,820 --> 00:05:59,820
+and compare their school exam performance
+
+153
+00:05:59,820 --> 00:06:01,820
+against what they predicted their exam performance would have been
+
+154
+00:06:01,820 --> 00:06:04,820
+if they hadn't had the pills.
+
+155
+00:06:04,820 --> 00:06:07,820
+Now can anybody spot a flaw in this design?
+
+156
+00:06:07,820 --> 00:06:10,820
+And no professors of clinical trial methodology
+
+157
+00:06:10,820 --> 00:06:12,820
+are allowed to answer this question.
+
+158
+00:06:12,820 --> 00:06:14,820
+So there's no control; there's no control group.
+
+159
+00:06:14,820 --> 00:06:16,820
+But that sounds really techie.
+
+160
+00:06:16,820 --> 00:06:18,820
+That's a technical term.
+
+161
+00:06:18,820 --> 00:06:20,820
+The kids got the pills, and then their performance improved.
+
+162
+00:06:20,820 --> 00:06:23,820
+What else could it possibly be if it wasn't the pills?
+
+163
+00:06:23,820 --> 00:06:26,820
+They got older. We all develop over time.
+
+164
+00:06:26,820 --> 00:06:28,820
+And of course, also there's the placebo effect.
+
+165
+00:06:28,820 --> 00:06:30,820
+The placebo effect is one of the most fascinating things in the whole of medicine.
+
+166
+00:06:30,820 --> 00:06:33,820
+It's not just about taking a pill, and your performance and your pain getting better.
+
+167
+00:06:33,820 --> 00:06:35,820
+It's about our beliefs and expectations.
+
+168
+00:06:35,820 --> 00:06:37,820
+It's about the cultural meaning of a treatment.
+
+169
+00:06:37,820 --> 00:06:40,820
+And this has been demonstrated in a whole raft of fascinating studies
+
+170
+00:06:40,820 --> 00:06:43,820
+comparing one kind of placebo against another.
+
+171
+00:06:43,820 --> 00:06:45,820
+So we know, for example, that two sugar pills a day
+
+172
+00:06:45,820 --> 00:06:47,820
+are a more effective treatment for getting rid of gastric ulcers
+
+173
+00:06:47,820 --> 00:06:49,820
+than one sugar pill.
+
+174
+00:06:49,820 --> 00:06:51,820
+Two sugar pills a day beats one sugar pill a day.
+
+175
+00:06:51,820 --> 00:06:54,820
+And that's an outrageous and ridiculous finding, but it's true.
+
+176
+00:06:54,820 --> 00:06:56,820
+We know from three different studies on three different types of pain
+
+177
+00:06:56,820 --> 00:06:59,820
+that a saltwater injection is a more effective treatment for pain
+
+178
+00:06:59,820 --> 00:07:03,820
+than taking a sugar pill, taking a dummy pill that has no medicine in it --
+
+179
+00:07:03,820 --> 00:07:06,820
+not because the injection or the pills do anything physically to the body,
+
+180
+00:07:06,820 --> 00:07:09,820
+but because an injection feels like a much more dramatic intervention.
+
+181
+00:07:09,820 --> 00:07:11,820
+So we know that our beliefs and expectations
+
+182
+00:07:11,820 --> 00:07:13,820
+can be manipulated,
+
+183
+00:07:13,820 --> 00:07:15,820
+which is why we do trials
+
+184
+00:07:15,820 --> 00:07:17,820
+where we control against a placebo --
+
+185
+00:07:17,820 --> 00:07:19,820
+where one half of the people get the real treatment
+
+186
+00:07:19,820 --> 00:07:21,820
+and the other half get placebo.
+
+187
+00:07:21,820 --> 00:07:24,820
+But that's not enough.
+
+188
+00:07:24,820 --> 00:07:27,820
+What I've just shown you are examples of the very simple and straightforward ways
+
+189
+00:07:27,820 --> 00:07:29,820
+that journalists and food supplement pill peddlers
+
+190
+00:07:29,820 --> 00:07:31,820
+and naturopaths
+
+191
+00:07:31,820 --> 00:07:34,820
+can distort evidence for their own purposes.
+
+192
+00:07:34,820 --> 00:07:36,820
+What I find really fascinating
+
+193
+00:07:36,820 --> 00:07:38,820
+is that the pharmaceutical industry
+
+194
+00:07:38,820 --> 00:07:40,820
+uses exactly the same kinds of tricks and devices,
+
+195
+00:07:40,820 --> 00:07:43,820
+but slightly more sophisticated versions of them,
+
+196
+00:07:43,820 --> 00:07:46,820
+in order to distort the evidence that they give to doctors and patients,
+
+197
+00:07:46,820 --> 00:07:49,820
+and which we use to make vitally important decisions.
+
+198
+00:07:49,820 --> 00:07:51,820
+So firstly, trials against placebo:
+
+199
+00:07:51,820 --> 00:07:53,820
+everybody thinks they know that a trial should be
+
+200
+00:07:53,820 --> 00:07:55,820
+a comparison of your new drug against placebo.
+
+201
+00:07:55,820 --> 00:07:57,820
+But actually in a lot of situations that's wrong.
+
+202
+00:07:57,820 --> 00:08:00,820
+Because often we already have a very good treatment that is currently available,
+
+203
+00:08:00,820 --> 00:08:02,820
+so we don't want to know that your alternative new treatment
+
+204
+00:08:02,820 --> 00:08:04,820
+is better than nothing.
+
+205
+00:08:04,820 --> 00:08:07,820
+We want to know that it's better than the best currently available treatment that we have.
+
+206
+00:08:07,820 --> 00:08:10,820
+And yet, repeatedly, you consistently see people doing trials
+
+207
+00:08:10,820 --> 00:08:12,820
+still against placebo.
+
+208
+00:08:12,820 --> 00:08:14,820
+And you can get license to bring your drug to market
+
+209
+00:08:14,820 --> 00:08:16,820
+with only data showing that it's better than nothing,
+
+210
+00:08:16,820 --> 00:08:19,820
+which is useless for a doctor like me trying to make a decision.
+
+211
+00:08:19,820 --> 00:08:21,820
+But that's not the only way you can rig your data.
+
+212
+00:08:21,820 --> 00:08:23,820
+You can also rig your data
+
+213
+00:08:23,820 --> 00:08:25,820
+by making the thing you compare your new drug against
+
+214
+00:08:25,820 --> 00:08:27,820
+really rubbish.
+
+215
+00:08:27,820 --> 00:08:29,820
+You can give the competing drug in too low a dose,
+
+216
+00:08:29,820 --> 00:08:31,820
+so that people aren't properly treated.
+
+217
+00:08:31,820 --> 00:08:33,820
+You can give the competing drug in too high a dose,
+
+218
+00:08:33,820 --> 00:08:35,820
+so that people get side effects.
+
+219
+00:08:35,820 --> 00:08:37,820
+And this is exactly what happened
+
+220
+00:08:37,820 --> 00:08:39,820
+which antipsychotic medication for schizophrenia.
+
+221
+00:08:39,820 --> 00:08:42,820
+20 years ago, a new generation of antipsychotic drugs were brought in
+
+222
+00:08:42,820 --> 00:08:45,820
+and the promise was that they would have fewer side effects.
+
+223
+00:08:45,820 --> 00:08:47,820
+So people set about doing trials of these new drugs
+
+224
+00:08:47,820 --> 00:08:49,820
+against the old drugs,
+
+225
+00:08:49,820 --> 00:08:51,820
+but they gave the old drugs in ridiculously high doses --
+
+226
+00:08:51,820 --> 00:08:53,820
+20 milligrams a day of haloperidol.
+
+227
+00:08:53,820 --> 00:08:55,820
+And it's a foregone conclusion,
+
+228
+00:08:55,820 --> 00:08:57,820
+if you give a drug at that high a dose,
+
+229
+00:08:57,820 --> 00:09:00,820
+that it will have more side effects and that your new drug will look better.
+
+230
+00:09:00,820 --> 00:09:02,820
+10 years ago, history repeated itself, interestingly,
+
+231
+00:09:02,820 --> 00:09:05,820
+when risperidone, which was the first of the new-generation antipscyhotic drugs,
+
+232
+00:09:05,820 --> 00:09:08,820
+came off copyright, so anybody could make copies.
+
+233
+00:09:08,820 --> 00:09:10,820
+Everybody wanted to show that their drug was better than risperidone,
+
+234
+00:09:10,820 --> 00:09:13,820
+so you see a bunch of trials comparing new antipsychotic drugs
+
+235
+00:09:13,820 --> 00:09:15,820
+against risperidone at eight milligrams a day.
+
+236
+00:09:15,820 --> 00:09:17,820
+Again, not an insane dose, not an illegal dose,
+
+237
+00:09:17,820 --> 00:09:19,820
+but very much at the high end of normal.
+
+238
+00:09:19,820 --> 00:09:22,820
+And so you're bound to make your new drug look better.
+
+239
+00:09:22,820 --> 00:09:25,820
+And so it's no surprise that overall,
+
+240
+00:09:25,820 --> 00:09:27,820
+industry-funded trials
+
+241
+00:09:27,820 --> 00:09:29,820
+are four times more likely to give a positive result
+
+242
+00:09:29,820 --> 00:09:32,820
+than independently sponsored trials.
+
+243
+00:09:32,820 --> 00:09:35,820
+But -- and it's a big but --
+
+244
+00:09:35,820 --> 00:09:37,820
+(Laughter)
+
+245
+00:09:37,820 --> 00:09:39,820
+it turns out,
+
+246
+00:09:39,820 --> 00:09:42,820
+when you look at the methods used by industry-funded trials,
+
+247
+00:09:42,820 --> 00:09:44,820
+that they're actually better
+
+248
+00:09:44,820 --> 00:09:46,820
+than independently sponsored trials.
+
+249
+00:09:46,820 --> 00:09:49,820
+And yet, they always manage to to get the result that they want.
+
+250
+00:09:49,820 --> 00:09:51,820
+So how does this work?
+
+251
+00:09:51,820 --> 00:09:54,820
+How can we explain this strange phenomenon?
+
+252
+00:09:54,820 --> 00:09:56,820
+Well it turns out that what happens
+
+253
+00:09:56,820 --> 00:09:58,820
+is the negative data goes missing in action;
+
+254
+00:09:58,820 --> 00:10:00,820
+it's withheld from doctors and patients.
+
+255
+00:10:00,820 --> 00:10:02,820
+And this is the most important aspect of the whole story.
+
+256
+00:10:02,820 --> 00:10:04,820
+It's at the top of the pyramid of evidence.
+
+257
+00:10:04,820 --> 00:10:07,820
+We need to have all of the data on a particular treatment
+
+258
+00:10:07,820 --> 00:10:09,820
+to know whether or not it really is effective.
+
+259
+00:10:09,820 --> 00:10:11,820
+And there are two different ways that you can spot
+
+260
+00:10:11,820 --> 00:10:13,820
+whether some data has gone missing in action.
+
+261
+00:10:13,820 --> 00:10:16,820
+You can use statistics, or you can use stories.
+
+262
+00:10:16,820 --> 00:10:18,820
+I personally prefer statistics, so that's what I'm going to do first.
+
+263
+00:10:18,820 --> 00:10:20,820
+This is something called funnel plot.
+
+264
+00:10:20,820 --> 00:10:22,820
+And a funnel plot is a very clever way of spotting
+
+265
+00:10:22,820 --> 00:10:25,820
+if small negative trials have disappeared, have gone missing in action.
+
+266
+00:10:25,820 --> 00:10:27,820
+So this is a graph of all of the trials
+
+267
+00:10:27,820 --> 00:10:29,820
+that have been done on a particular treatment.
+
+268
+00:10:29,820 --> 00:10:31,820
+And as you go up towards the top of the graph,
+
+269
+00:10:31,820 --> 00:10:33,820
+what you see is each dot is a trial.
+
+270
+00:10:33,820 --> 00:10:36,820
+And as you go up, those are the bigger trials, so they've got less error in them.
+
+271
+00:10:36,820 --> 00:10:39,820
+So they're less likely to be randomly false positives, randomly false negatives.
+
+272
+00:10:39,820 --> 00:10:41,820
+So they all cluster together.
+
+273
+00:10:41,820 --> 00:10:43,820
+The big trials are closer to the true answer.
+
+274
+00:10:43,820 --> 00:10:45,820
+Then as you go further down at the bottom,
+
+275
+00:10:45,820 --> 00:10:48,820
+what you can see is, over on this side, the spurious false negatives,
+
+276
+00:10:48,820 --> 00:10:50,820
+and over on this side, the spurious false positives.
+
+277
+00:10:50,820 --> 00:10:52,820
+If there is publication bias,
+
+278
+00:10:52,820 --> 00:10:55,820
+if small negative trials have gone missing in action,
+
+279
+00:10:55,820 --> 00:10:57,820
+you can see it on one of these graphs.
+
+280
+00:10:57,820 --> 00:10:59,820
+So you can see here that the small negative trials
+
+281
+00:10:59,820 --> 00:11:01,820
+that should be on the bottom left have disappeared.
+
+282
+00:11:01,820 --> 00:11:04,820
+This is a graph demonstrating the presence of publication bias
+
+283
+00:11:04,820 --> 00:11:06,820
+in studies of publication bias.
+
+284
+00:11:06,820 --> 00:11:08,820
+And I think that's the funniest epidemiology joke
+
+285
+00:11:08,820 --> 00:11:10,820
+that you will ever hear.
+
+286
+00:11:10,820 --> 00:11:12,820
+That's how you can prove it statistically,
+
+287
+00:11:12,820 --> 00:11:14,820
+but what about stories?
+
+288
+00:11:14,820 --> 00:11:16,820
+Well they're heinous, they really are.
+
+289
+00:11:16,820 --> 00:11:18,820
+This is a drug called reboxetine.
+
+290
+00:11:18,820 --> 00:11:20,820
+This is a drug that I myself have prescribed to patients.
+
+291
+00:11:20,820 --> 00:11:22,820
+And I'm a very nerdy doctor.
+
+292
+00:11:22,820 --> 00:11:25,820
+I hope I try to go out of my way to try and read and understand all the literature.
+
+293
+00:11:25,820 --> 00:11:28,820
+I read the trials on this. They were all positive. They were all well-conducted.
+
+294
+00:11:28,820 --> 00:11:30,820
+I found no flaw.
+
+295
+00:11:30,820 --> 00:11:32,820
+Unfortunately, it turned out,
+
+296
+00:11:32,820 --> 00:11:34,820
+that many of these trials were withheld.
+
+297
+00:11:34,820 --> 00:11:36,820
+In fact, 76 percent
+
+298
+00:11:36,820 --> 00:11:38,820
+of all of the trials that were done on this drug
+
+299
+00:11:38,820 --> 00:11:40,820
+were withheld from doctors and patients.
+
+300
+00:11:40,820 --> 00:11:42,820
+Now if you think about it,
+
+301
+00:11:42,820 --> 00:11:44,820
+if I tossed a coin a hundred times,
+
+302
+00:11:44,820 --> 00:11:46,820
+and I'm allowed to withhold from you
+
+303
+00:11:46,820 --> 00:11:48,820
+the answers half the times,
+
+304
+00:11:48,820 --> 00:11:50,820
+then I can convince you
+
+305
+00:11:50,820 --> 00:11:52,820
+that I have a coin with two heads.
+
+306
+00:11:52,820 --> 00:11:54,820
+If we remove half of the data,
+
+307
+00:11:54,820 --> 00:11:57,820
+we can never know what the true effect size of these medicines is.
+
+308
+00:11:57,820 --> 00:11:59,820
+And this is not an isolated story.
+
+309
+00:11:59,820 --> 00:12:03,820
+Around half of all of the trial data on antidepressants has been withheld,
+
+310
+00:12:03,820 --> 00:12:05,820
+but it goes way beyond that.
+
+311
+00:12:05,820 --> 00:12:07,820
+The Nordic Cochrane Group were trying to get a hold of the data on that
+
+312
+00:12:07,820 --> 00:12:09,820
+to bring it all together.
+
+313
+00:12:09,820 --> 00:12:12,820
+The Cochrane Groups are an international nonprofit collaboration
+
+314
+00:12:12,820 --> 00:12:15,820
+that produce systematic reviews of all of the data that has ever been shown.
+
+315
+00:12:15,820 --> 00:12:18,820
+And they need to have access to all of the trial data.
+
+316
+00:12:18,820 --> 00:12:21,820
+But the companies withheld that data from them,
+
+317
+00:12:21,820 --> 00:12:23,820
+and so did the European Medicines Agency
+
+318
+00:12:23,820 --> 00:12:25,820
+for three years.
+
+319
+00:12:25,820 --> 00:12:28,820
+This is a problem that is currently lacking a solution.
+
+320
+00:12:28,820 --> 00:12:31,820
+And to show how big it goes, this is a drug called Tamiflu,
+
+321
+00:12:31,820 --> 00:12:33,820
+which governments around the world
+
+322
+00:12:33,820 --> 00:12:35,820
+have spent billions and billions of dollars on.
+
+323
+00:12:35,820 --> 00:12:37,820
+And they spend that money on the promise
+
+324
+00:12:37,820 --> 00:12:39,820
+that this is a drug which will reduce the rate
+
+325
+00:12:39,820 --> 00:12:41,820
+of complications with flu.
+
+326
+00:12:41,820 --> 00:12:43,820
+We already have the data
+
+327
+00:12:43,820 --> 00:12:45,820
+showing that it reduces the duration of your flu by a few hours.
+
+328
+00:12:45,820 --> 00:12:47,820
+But I don't really care about that. Governments don't care about that.
+
+329
+00:12:47,820 --> 00:12:50,820
+I'm very sorry if you have the flu, I know it's horrible,
+
+330
+00:12:50,820 --> 00:12:52,820
+but we're not going to spend billions of dollars
+
+331
+00:12:52,820 --> 00:12:54,820
+trying to reduce the duration of your flu symptoms
+
+332
+00:12:54,820 --> 00:12:56,820
+by half a day.
+
+333
+00:12:56,820 --> 00:12:58,820
+We prescribe these drugs, we stockpile them for emergencies
+
+334
+00:12:58,820 --> 00:13:00,820
+on the understanding that they will reduce the number of complications,
+
+335
+00:13:00,820 --> 00:13:03,820
+which means pneumonia and which means death.
+
+336
+00:13:03,820 --> 00:13:06,820
+The infectious diseases Cochrane Group, which are based in Italy,
+
+337
+00:13:06,820 --> 00:13:08,820
+has been trying to get
+
+338
+00:13:08,820 --> 00:13:11,820
+the full data in a usable form out of the drug companies
+
+339
+00:13:11,820 --> 00:13:14,820
+so that they can make a full decision
+
+340
+00:13:14,820 --> 00:13:16,820
+about whether this drug is effective or not,
+
+341
+00:13:16,820 --> 00:13:19,820
+and they've not been able to get that information.
+
+342
+00:13:19,820 --> 00:13:21,820
+This is undoubtedly
+
+343
+00:13:21,820 --> 00:13:24,820
+the single biggest ethical problem
+
+344
+00:13:24,820 --> 00:13:26,820
+facing medicine today.
+
+345
+00:13:26,820 --> 00:13:29,820
+We cannot make decisions
+
+346
+00:13:29,820 --> 00:13:33,820
+in the absence of all of the information.
+
+347
+00:13:33,820 --> 00:13:36,820
+So it's a little bit difficult from there
+
+348
+00:13:36,820 --> 00:13:40,820
+to spin in some kind of positive conclusion.
+
+349
+00:13:40,820 --> 00:13:44,820
+But I would say this:
+
+350
+00:13:44,820 --> 00:13:47,820
+I think that sunlight
+
+351
+00:13:47,820 --> 00:13:49,820
+is the best disinfectant.
+
+352
+00:13:49,820 --> 00:13:52,820
+All of these things are happening in plain sight,
+
+353
+00:13:52,820 --> 00:13:54,820
+and they're all protected
+
+354
+00:13:54,820 --> 00:13:57,820
+by a force field of tediousness.
+
+355
+00:13:57,820 --> 00:13:59,820
+And I think, with all of the problems in science,
+
+356
+00:13:59,820 --> 00:14:01,820
+one of the best things that we can do
+
+357
+00:14:01,820 --> 00:14:03,820
+is to lift up the lid,
+
+358
+00:14:03,820 --> 00:14:05,820
+finger around in the mechanics and peer in.
+
+359
+00:14:05,820 --> 00:14:07,820
+Thank you very much.
+
+360
+00:14:07,820 --> 00:14:10,820
+(Applause)
+

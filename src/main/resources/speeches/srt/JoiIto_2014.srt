@@ -1,0 +1,1335 @@
+﻿1
+00:00:12,363 --> 00:00:15,106
+On March 10, 2011,
+
+2
+00:00:15,106 --> 00:00:18,113
+I was in Cambridge at the MIT Media Lab
+
+3
+00:00:18,113 --> 00:00:21,342
+meeting with faculty, students and staff,
+
+4
+00:00:21,342 --> 00:00:23,131
+and we were trying to figure out whether
+
+5
+00:00:23,131 --> 00:00:25,491
+I should be the next director.
+
+6
+00:00:25,491 --> 00:00:27,860
+That night, at midnight,
+
+7
+00:00:27,860 --> 00:00:29,630
+a magnitude 9 earthquake
+
+8
+00:00:29,630 --> 00:00:32,496
+hit off of the Pacific coast of Japan.
+
+9
+00:00:32,496 --> 00:00:34,781
+My wife and family were in Japan,
+
+10
+00:00:34,781 --> 00:00:38,091
+and as the news started to come in,
+
+11
+00:00:38,091 --> 00:00:39,790
+I was panicking.
+
+12
+00:00:39,790 --> 00:00:41,052
+I was looking at the news streams
+
+13
+00:00:41,052 --> 00:00:43,880
+and listening to the press conferences
+
+14
+00:00:43,880 --> 00:00:46,090
+of the government officials
+
+15
+00:00:46,090 --> 00:00:47,680
+and the Tokyo Power Company,
+
+16
+00:00:47,680 --> 00:00:50,231
+and hearing about this explosion
+
+17
+00:00:50,231 --> 00:00:51,430
+at the nuclear reactors
+
+18
+00:00:51,430 --> 00:00:53,111
+and this cloud of fallout
+
+19
+00:00:53,111 --> 00:00:55,010
+that was headed towards our house
+
+20
+00:00:55,010 --> 00:00:57,909
+which was only about 200 kilometers away.
+
+21
+00:00:57,909 --> 00:01:00,740
+And the people on TV weren't telling us
+
+22
+00:01:00,740 --> 00:01:02,680
+anything that we wanted to hear.
+
+23
+00:01:02,680 --> 00:01:04,640
+I wanted to know what was going on with the reactor,
+
+24
+00:01:04,640 --> 00:01:06,062
+what was going on with the radiation,
+
+25
+00:01:06,062 --> 00:01:08,390
+whether my family was in danger.
+
+26
+00:01:08,390 --> 00:01:11,579
+So I did what instinctively felt like the right thing,
+
+27
+00:01:11,579 --> 00:01:13,250
+which was to go onto the Internet
+
+28
+00:01:13,250 --> 00:01:14,592
+and try to figure out
+
+29
+00:01:14,592 --> 00:01:17,003
+if I could take matters into my own hands.
+
+30
+00:01:17,003 --> 00:01:18,844
+On the Net, I found there were a lot of other people
+
+31
+00:01:18,844 --> 00:01:20,910
+like me trying to figure out what was going on,
+
+32
+00:01:20,910 --> 00:01:23,126
+and together we sort of loosely formed a group
+
+33
+00:01:23,126 --> 00:01:25,597
+and we called it Safecast,
+
+34
+00:01:25,597 --> 00:01:26,769
+and we decided we were going to try
+
+35
+00:01:26,769 --> 00:01:28,515
+to measure the radiation
+
+36
+00:01:28,515 --> 00:01:30,289
+and get the data out to everybody else,
+
+37
+00:01:30,289 --> 00:01:31,961
+because it was clear that the government
+
+38
+00:01:31,961 --> 00:01:34,863
+wasn't going to be doing this for us.
+
+39
+00:01:34,863 --> 00:01:36,280
+Three years later,
+
+40
+00:01:36,280 --> 00:01:39,374
+we have 16 million data points,
+
+41
+00:01:39,374 --> 00:01:42,119
+we have designed our own Geiger counters
+
+42
+00:01:42,119 --> 00:01:43,772
+that you can download the designs
+
+43
+00:01:43,772 --> 00:01:44,646
+and plug it into the network.
+
+44
+00:01:44,646 --> 00:01:46,550
+We have an app that shows you
+
+45
+00:01:46,550 --> 00:01:49,577
+most of the radiation in Japan
+and other parts of the world.
+
+46
+00:01:49,577 --> 00:01:51,782
+We are arguably one of the most successful
+
+47
+00:01:51,782 --> 00:01:53,637
+citizen science projects in the world,
+
+48
+00:01:53,637 --> 00:01:55,989
+and we have created
+
+49
+00:01:55,989 --> 00:01:59,490
+the largest open dataset of radiation measurements.
+
+50
+00:01:59,490 --> 00:02:02,232
+And the interesting thing here
+
+51
+00:02:02,232 --> 00:02:06,880
+is how did — (Applause) — Thank you.
+
+52
+00:02:06,880 --> 00:02:08,971
+How did a bunch of amateurs
+
+53
+00:02:08,971 --> 00:02:11,140
+who really didn't know what we were doing
+
+54
+00:02:11,140 --> 00:02:12,829
+somehow come together
+
+55
+00:02:12,829 --> 00:02:16,013
+and do what NGOs and the government
+
+56
+00:02:16,013 --> 00:02:18,431
+were completely incapable of doing?
+
+57
+00:02:18,431 --> 00:02:21,189
+And I would suggest that this has something to do
+
+58
+00:02:21,189 --> 00:02:22,949
+with the Internet. It's not a fluke.
+
+59
+00:02:22,949 --> 00:02:25,800
+It wasn't luck, and it wasn't because it was us.
+
+60
+00:02:25,800 --> 00:02:27,218
+It helped that it was an event
+
+61
+00:02:27,218 --> 00:02:28,853
+that pulled everybody together,
+
+62
+00:02:28,853 --> 00:02:30,611
+but it was a new way of doing things
+
+63
+00:02:30,611 --> 00:02:32,690
+that was enabled by the Internet
+
+64
+00:02:32,690 --> 00:02:34,282
+and a lot of the other things that were going on,
+
+65
+00:02:34,282 --> 00:02:36,295
+and I want to talk a little bit about
+
+66
+00:02:36,295 --> 00:02:38,964
+what those new principles are.
+
+67
+00:02:38,964 --> 00:02:43,772
+So remember before the Internet? (Laughter)
+
+68
+00:02:43,772 --> 00:02:45,560
+I call this B.I. Okay?
+
+69
+00:02:45,560 --> 00:02:49,171
+So, in B.I., life was simple.
+
+70
+00:02:49,171 --> 00:02:51,917
+Things were Euclidian, Newtonian,
+
+71
+00:02:51,917 --> 00:02:53,376
+somewhat predictable.
+
+72
+00:02:53,376 --> 00:02:55,786
+People actually tried to predict the future,
+
+73
+00:02:55,786 --> 00:02:57,500
+even the economists.
+
+74
+00:02:57,500 --> 00:03:00,714
+And then the Internet happened,
+
+75
+00:03:00,714 --> 00:03:02,785
+and the world became extremely complex,
+
+76
+00:03:02,785 --> 00:03:05,422
+extremely low-cost, extremely fast,
+
+77
+00:03:05,422 --> 00:03:07,540
+and those Newtonian laws
+
+78
+00:03:07,540 --> 00:03:09,339
+that we so dearly cherished
+
+79
+00:03:09,339 --> 00:03:11,536
+turned out to be just local ordinances,
+
+80
+00:03:11,536 --> 00:03:13,287
+and what we found was that in this
+
+81
+00:03:13,287 --> 00:03:15,900
+completely unpredictable world
+
+82
+00:03:15,900 --> 00:03:17,932
+that most of the people who were surviving
+
+83
+00:03:17,932 --> 00:03:21,265
+were working with sort of a different set of principles,
+
+84
+00:03:21,265 --> 00:03:23,896
+and I want to talk a little bit about that.
+
+85
+00:03:23,896 --> 00:03:25,260
+Before the Internet, if you remember,
+
+86
+00:03:25,260 --> 00:03:27,165
+when we tried to create services,
+
+87
+00:03:27,165 --> 00:03:28,191
+what you would do is you'd create
+
+88
+00:03:28,191 --> 00:03:30,503
+the hardware layer and the
+network layer and the software
+
+89
+00:03:30,503 --> 00:03:32,531
+and it would cost millions of dollars
+
+90
+00:03:32,531 --> 00:03:34,838
+to do anything that was substantial.
+
+91
+00:03:34,838 --> 00:03:37,277
+So when it costs millions of dollars
+to do something substantial,
+
+92
+00:03:37,277 --> 00:03:39,349
+what you would do is you'd get an MBA
+
+93
+00:03:39,349 --> 00:03:40,807
+who would write a plan
+
+94
+00:03:40,807 --> 00:03:41,750
+and get the money
+
+95
+00:03:41,750 --> 00:03:43,494
+from V.C.s or big companies,
+
+96
+00:03:43,494 --> 00:03:45,607
+and then you'd hire the designers and the engineers,
+
+97
+00:03:45,607 --> 00:03:46,630
+and they'd build the thing.
+
+98
+00:03:46,630 --> 00:03:51,249
+This is the Before Internet, B.I., innovation model.
+
+99
+00:03:51,249 --> 00:03:53,556
+What happened after the Internet was
+
+100
+00:03:53,556 --> 00:03:55,312
+the cost of innovation went down so much
+
+101
+00:03:55,312 --> 00:03:57,799
+because the cost of collaboration,
+the cost of distribution,
+
+102
+00:03:57,799 --> 00:04:00,442
+the cost of communication, and Moore's Law
+
+103
+00:04:00,442 --> 00:04:03,118
+made it so that the cost of trying a new thing
+
+104
+00:04:03,118 --> 00:04:04,512
+became nearly zero,
+
+105
+00:04:04,512 --> 00:04:06,781
+and so you would have Google, Facebook, Yahoo,
+
+106
+00:04:06,781 --> 00:04:08,552
+students that didn't have permission —
+
+107
+00:04:08,552 --> 00:04:09,925
+permissionless innovation —
+
+108
+00:04:09,925 --> 00:04:11,545
+didn't have permission, didn't have PowerPoints,
+
+109
+00:04:11,545 --> 00:04:13,648
+they just built the thing,
+
+110
+00:04:13,648 --> 00:04:15,092
+then they raised the money,
+
+111
+00:04:15,092 --> 00:04:17,293
+and then they sort of figured out a business plan
+
+112
+00:04:17,293 --> 00:04:19,650
+and maybe later on they hired some MBAs.
+
+113
+00:04:19,650 --> 00:04:21,961
+So the Internet caused innovation,
+
+114
+00:04:21,961 --> 00:04:23,085
+at least in software and services,
+
+115
+00:04:23,085 --> 00:04:25,944
+to go from an MBA-driven innovation model
+
+116
+00:04:25,944 --> 00:04:29,847
+to a designer-engineer-driven innovation model,
+
+117
+00:04:29,847 --> 00:04:31,945
+and it pushed innovation to the edges,
+
+118
+00:04:31,945 --> 00:04:33,491
+to the dorm rooms, to the startups,
+
+119
+00:04:33,491 --> 00:04:35,177
+away from the large institutions,
+
+120
+00:04:35,177 --> 00:04:37,532
+the stodgy old institutions that had the power
+
+121
+00:04:37,532 --> 00:04:39,219
+and the money and the authority.
+
+122
+00:04:39,219 --> 00:04:41,828
+And we all know this. We all know
+this happened on the Internet.
+
+123
+00:04:41,828 --> 00:04:44,593
+It turns out it's happening in other things, too.
+
+124
+00:04:44,593 --> 00:04:47,835
+Let me give you some examples.
+
+125
+00:04:47,835 --> 00:04:50,620
+So at the Media Lab, we don't just do hardware.
+
+126
+00:04:50,620 --> 00:04:51,662
+We do all kinds of things.
+
+127
+00:04:51,662 --> 00:04:53,547
+We do biology, we do hardware,
+
+128
+00:04:53,547 --> 00:04:57,168
+and Nicholas Negroponte
+famously said, "Demo or die,"
+
+129
+00:04:57,168 --> 00:04:58,890
+as opposed to "Publish or perish,"
+
+130
+00:04:58,890 --> 00:05:01,133
+which was the traditional academic way of thinking.
+
+131
+00:05:01,133 --> 00:05:04,695
+And he often said, the demo only has to work once,
+
+132
+00:05:04,695 --> 00:05:07,511
+because the primary mode of us impacting the world
+
+133
+00:05:07,511 --> 00:05:09,289
+was through large companies
+
+134
+00:05:09,289 --> 00:05:10,552
+being inspired by us
+
+135
+00:05:10,552 --> 00:05:14,068
+and creating products like
+the Kindle or Lego Mindstorms.
+
+136
+00:05:14,068 --> 00:05:16,010
+But today, with the ability
+
+137
+00:05:16,010 --> 00:05:18,319
+to deploy things into the real world at such low cost,
+
+138
+00:05:18,319 --> 00:05:20,469
+I'm changing the motto now,
+
+139
+00:05:20,469 --> 00:05:22,282
+and this is the official public statement.
+
+140
+00:05:22,282 --> 00:05:24,779
+I'm officially saying, "Deploy or die."
+
+141
+00:05:24,779 --> 00:05:27,000
+You have to get the stuff into the real world
+
+142
+00:05:27,000 --> 00:05:28,356
+for it to really count,
+
+143
+00:05:28,356 --> 00:05:30,235
+and sometimes it will be large companies,
+
+144
+00:05:30,235 --> 00:05:32,192
+and Nicholas can talk about satellites.
+
+145
+00:05:32,192 --> 00:05:33,478
+(Applause)
+
+146
+00:05:33,478 --> 00:05:34,560
+Thank you.
+
+147
+00:05:34,560 --> 00:05:36,334
+But we should be getting out there ourselves
+
+148
+00:05:36,334 --> 00:05:39,918
+and not depending on large
+institutions to do it for us.
+
+149
+00:05:39,918 --> 00:05:42,620
+So last year, we sent a bunch
+of students to Shenzhen,
+
+150
+00:05:42,620 --> 00:05:44,200
+and they sat on the factory floors
+
+151
+00:05:44,200 --> 00:05:46,505
+with the innovators in Shenzhen, and it was amazing.
+
+152
+00:05:46,505 --> 00:05:47,982
+What was happening there
+
+153
+00:05:47,982 --> 00:05:50,166
+was you would have these manufacturing devices,
+
+154
+00:05:50,166 --> 00:05:52,359
+and they weren't making prototypes or PowerPoints.
+
+155
+00:05:52,359 --> 00:05:54,824
+They were fiddling with the manufacturing equipment
+
+156
+00:05:54,824 --> 00:05:58,034
+and innovating right on the
+manufacturing equipment.
+
+157
+00:05:58,034 --> 00:05:59,920
+The factory was in the designer,
+
+158
+00:05:59,920 --> 00:06:02,194
+and the designer was literally in the factory.
+
+159
+00:06:02,194 --> 00:06:03,820
+And so what you would do is,
+
+160
+00:06:03,820 --> 00:06:05,061
+you'd go down to the stalls
+
+161
+00:06:05,061 --> 00:06:07,617
+and you would see these cell phones.
+
+162
+00:06:07,617 --> 00:06:10,142
+So instead of starting little websites
+
+163
+00:06:10,142 --> 00:06:11,690
+like the kids in Palo Alto do,
+
+164
+00:06:11,690 --> 00:06:14,230
+the kids in Shenzhen make new cell phones.
+
+165
+00:06:14,230 --> 00:06:16,927
+They make new cell phones like kids in Palo Alto
+
+166
+00:06:16,927 --> 00:06:18,185
+make websites,
+
+167
+00:06:18,185 --> 00:06:20,298
+and so there's a rainforest
+
+168
+00:06:20,298 --> 00:06:21,854
+of innovation going on in the cell phone.
+
+169
+00:06:21,854 --> 00:06:23,454
+What they do is, they make a cell phone,
+
+170
+00:06:23,454 --> 00:06:25,678
+go down to the stall, they sell some,
+
+171
+00:06:25,678 --> 00:06:28,003
+they look at the other kids' stuff, go up,
+
+172
+00:06:28,003 --> 00:06:30,594
+make a couple thousand more, go down.
+
+173
+00:06:30,594 --> 00:06:32,585
+Doesn't this sound like a software thing?
+
+174
+00:06:32,585 --> 00:06:34,232
+It sounds like agile software development,
+
+175
+00:06:34,232 --> 00:06:37,160
+A/B testing and iteration,
+
+176
+00:06:37,160 --> 00:06:39,243
+and what we thought you could only do with software
+
+177
+00:06:39,243 --> 00:06:41,513
+kids in Shenzhen are doing this in hardware.
+
+178
+00:06:41,513 --> 00:06:42,980
+My next fellow, I hope, is going to be
+
+179
+00:06:42,980 --> 00:06:44,465
+one of these innovators from Shenzhen.
+
+180
+00:06:44,465 --> 00:06:46,130
+And so what you see is
+
+181
+00:06:46,130 --> 00:06:48,099
+that is pushing innovation to the edges.
+
+182
+00:06:48,099 --> 00:06:50,204
+We talk about 3D printers and stuff like that,
+
+183
+00:06:50,204 --> 00:06:52,195
+and that's great, but this is Limor.
+
+184
+00:06:52,195 --> 00:06:54,454
+She is one of our favorite graduates,
+
+185
+00:06:54,454 --> 00:06:56,530
+and she is standing in front of a Samsung
+
+186
+00:06:56,530 --> 00:06:58,363
+Techwin Pick and Place Machine.
+
+187
+00:06:58,363 --> 00:07:02,287
+This thing can put 23,000 components per hour
+
+188
+00:07:02,287 --> 00:07:04,280
+onto an electronics board.
+
+189
+00:07:04,280 --> 00:07:06,103
+This is a factory in a box.
+
+190
+00:07:06,103 --> 00:07:08,601
+So what used to take a factory full of workers
+
+191
+00:07:08,601 --> 00:07:09,620
+working by hand
+
+192
+00:07:09,620 --> 00:07:11,329
+in this little box in New York,
+
+193
+00:07:11,329 --> 00:07:12,379
+she's able to have effectively —
+
+194
+00:07:12,379 --> 00:07:14,012
+She doesn't actually have to go to Shenzhen
+
+195
+00:07:14,012 --> 00:07:15,256
+to do this manufacturing.
+
+196
+00:07:15,256 --> 00:07:17,517
+She can buy this box and she can manufacture it.
+
+197
+00:07:17,517 --> 00:07:19,760
+So manufacturing, the cost of innovation,
+
+198
+00:07:19,760 --> 00:07:22,450
+the cost of prototyping, distribution,
+manufacturing, hardware,
+
+199
+00:07:22,450 --> 00:07:23,913
+is getting so low
+
+200
+00:07:23,913 --> 00:07:26,230
+that innovation is being pushed to the edges
+
+201
+00:07:26,230 --> 00:07:28,658
+and students and startups are being able to build it.
+
+202
+00:07:28,658 --> 00:07:30,536
+This is a recent thing, but this will happen
+
+203
+00:07:30,536 --> 00:07:32,019
+and this will change
+
+204
+00:07:32,019 --> 00:07:34,444
+just like it did with software.
+
+205
+00:07:34,444 --> 00:07:37,690
+Sorona is a DuPont process
+
+206
+00:07:37,690 --> 00:07:40,710
+that uses a genetically engineered microbe
+
+207
+00:07:40,710 --> 00:07:44,660
+to turn corn sugar into polyester.
+
+208
+00:07:44,660 --> 00:07:47,138
+It's 30 percent more efficient
+than the fossil fuel method,
+
+209
+00:07:47,138 --> 00:07:50,797
+and it's much better for the environment.
+
+210
+00:07:50,797 --> 00:07:52,202
+Genetic engineering and bioengineering
+
+211
+00:07:52,202 --> 00:07:53,733
+are creating a whole bunch
+
+212
+00:07:53,733 --> 00:07:55,491
+of great new opportunities
+
+213
+00:07:55,491 --> 00:07:58,320
+for chemistry, for computation, for memory.
+
+214
+00:07:58,320 --> 00:08:00,370
+We will probably be doing a lot,
+obviously doing health things,
+
+215
+00:08:00,370 --> 00:08:02,574
+but we will probably be growing chairs
+
+216
+00:08:02,574 --> 00:08:03,614
+and buildings soon.
+
+217
+00:08:03,614 --> 00:08:07,524
+The problem is, Sorona costs
+about 400 million dollars
+
+218
+00:08:07,524 --> 00:08:08,905
+and took seven years to build.
+
+219
+00:08:08,905 --> 00:08:11,984
+It kind of reminds you of the old mainframe days.
+
+220
+00:08:11,984 --> 00:08:14,476
+The thing is, the cost of innovation
+
+221
+00:08:14,476 --> 00:08:16,062
+in bioengineering is also going down.
+
+222
+00:08:16,062 --> 00:08:18,031
+This is desktop gene sequencer.
+
+223
+00:08:18,031 --> 00:08:21,585
+It used to cost millions and millions
+of dollars to sequence genes.
+
+224
+00:08:21,585 --> 00:08:23,329
+Now you can do it on a desktop like this,
+
+225
+00:08:23,329 --> 00:08:25,422
+and kids can do this in dorm rooms.
+
+226
+00:08:25,422 --> 00:08:28,110
+This is Gen9 gene assembler,
+
+227
+00:08:28,110 --> 00:08:30,189
+and so right now when you try to print a gene,
+
+228
+00:08:30,189 --> 00:08:31,457
+what you do is somebody in a factory
+
+229
+00:08:31,457 --> 00:08:33,397
+with pipettes puts the thing together by hand,
+
+230
+00:08:33,397 --> 00:08:35,748
+you have one error per 100 base pairs,
+
+231
+00:08:35,748 --> 00:08:38,324
+and it takes a long time and costs a lot of money.
+
+232
+00:08:38,324 --> 00:08:39,710
+This new device
+
+233
+00:08:39,710 --> 00:08:41,384
+assembles genes on a chip,
+
+234
+00:08:41,384 --> 00:08:43,533
+and instead of one error per 100 base pairs,
+
+235
+00:08:43,533 --> 00:08:45,659
+it's one error per 10,000 base pairs.
+
+236
+00:08:45,659 --> 00:08:48,404
+In this lab, we will have the world's capacity
+
+237
+00:08:48,404 --> 00:08:50,507
+of gene printing within a year,
+
+238
+00:08:50,507 --> 00:08:53,119
+200 million base pairs a year.
+
+239
+00:08:53,119 --> 00:08:55,682
+This is kind of like when we went
+
+240
+00:08:55,682 --> 00:08:57,943
+from transistor radios wrapped by hand
+
+241
+00:08:57,943 --> 00:08:59,214
+to the Pentium.
+
+242
+00:08:59,214 --> 00:09:01,610
+This is going to become the
+Pentium of bioengineering,
+
+243
+00:09:01,610 --> 00:09:03,646
+pushing bioengineering into the hands
+
+244
+00:09:03,646 --> 00:09:06,247
+of dorm rooms and startup companies.
+
+245
+00:09:06,247 --> 00:09:09,020
+So it's happening in software and in hardware
+
+246
+00:09:09,020 --> 00:09:09,983
+and bioengineering,
+
+247
+00:09:09,983 --> 00:09:13,264
+and so this is a fundamental new
+way of thinking about innovation.
+
+248
+00:09:13,264 --> 00:09:15,941
+It's a bottom-up innovation, it's democratic,
+
+249
+00:09:15,941 --> 00:09:18,145
+it's chaotic, it's hard to control.
+
+250
+00:09:18,145 --> 00:09:20,452
+It's not bad, but it's very different,
+
+251
+00:09:20,452 --> 00:09:22,419
+and I think that the traditional rules that we have
+
+252
+00:09:22,419 --> 00:09:24,491
+for institutions don't work anymore,
+
+253
+00:09:24,491 --> 00:09:26,170
+and most of us here
+
+254
+00:09:26,170 --> 00:09:29,253
+operate with a different set of principles.
+
+255
+00:09:29,253 --> 00:09:32,089
+One of my favorite principles is the power of pull,
+
+256
+00:09:32,089 --> 00:09:34,380
+which is the idea of pulling resources
+
+257
+00:09:34,380 --> 00:09:36,146
+from the network as you need them
+
+258
+00:09:36,146 --> 00:09:37,991
+rather than stocking them in the center
+
+259
+00:09:37,991 --> 00:09:39,576
+and controlling everything.
+
+260
+00:09:39,576 --> 00:09:42,340
+So in the case of the Safecast story,
+
+261
+00:09:42,340 --> 00:09:44,182
+I didn't know anything when
+the earthquake happened,
+
+262
+00:09:44,182 --> 00:09:45,810
+but I was able to find Sean
+
+263
+00:09:45,810 --> 00:09:48,006
+who was the hackerspace community organizer,
+
+264
+00:09:48,006 --> 00:09:49,792
+and Peter, the analog hardware hacker
+
+265
+00:09:49,792 --> 00:09:51,508
+who made our first Geiger counter,
+
+266
+00:09:51,508 --> 00:09:53,506
+and Dan, who built the Three Mile Island
+
+267
+00:09:53,506 --> 00:09:56,840
+monitoring system after the
+Three Mile Island meltdown.
+
+268
+00:09:56,840 --> 00:09:59,226
+And these people I wouldn't have been able to find
+
+269
+00:09:59,226 --> 00:10:01,660
+beforehand and probably were better
+
+270
+00:10:01,660 --> 00:10:04,787
+that I found them just in time from the network.
+
+271
+00:10:04,787 --> 00:10:06,654
+I'm a three-time college dropout,
+
+272
+00:10:06,654 --> 00:10:08,327
+so learning over education
+
+273
+00:10:08,327 --> 00:10:09,752
+is very near and dear to my heart,
+
+274
+00:10:09,752 --> 00:10:12,276
+but to me, education is what people do to you
+
+275
+00:10:12,276 --> 00:10:15,275
+and learning is what you do to yourself.
+
+276
+00:10:15,275 --> 00:10:19,051
+(Applause)
+
+277
+00:10:19,051 --> 00:10:20,810
+And it feels like, and I'm biased,
+
+278
+00:10:20,810 --> 00:10:23,607
+it feels like they're trying to make you memorize
+
+279
+00:10:23,607 --> 00:10:26,721
+the whole encyclopedia before
+they let you go out and play,
+
+280
+00:10:26,721 --> 00:10:30,818
+and to me, I've got Wikipedia on my cell phone,
+
+281
+00:10:30,818 --> 00:10:32,521
+and it feels like they assume
+
+282
+00:10:32,521 --> 00:10:34,308
+you're going to be on top of some mountain
+
+283
+00:10:34,308 --> 00:10:36,769
+all by yourself with a number 2 pencil
+
+284
+00:10:36,769 --> 00:10:38,152
+trying to figure out what to do
+
+285
+00:10:38,152 --> 00:10:40,268
+when in fact you're always going to be connected,
+
+286
+00:10:40,268 --> 00:10:41,913
+you're always going to have friends,
+
+287
+00:10:41,913 --> 00:10:43,872
+and you can pull Wikipedia
+up whenever you need it,
+
+288
+00:10:43,872 --> 00:10:47,320
+and what you need to learn is how to learn.
+
+289
+00:10:47,320 --> 00:10:49,964
+In the case of Safecast, a bunch of amateurs
+
+290
+00:10:49,964 --> 00:10:51,562
+when we started three years ago,
+
+291
+00:10:51,562 --> 00:10:54,070
+I would argue that we probably as a group
+
+292
+00:10:54,070 --> 00:10:56,486
+know more than any other organization
+
+293
+00:10:56,486 --> 00:10:59,695
+about how to collect data and publish data
+
+294
+00:10:59,695 --> 00:11:02,467
+and do citizen science.
+
+295
+00:11:02,467 --> 00:11:03,587
+Compass over maps.
+
+296
+00:11:03,587 --> 00:11:07,312
+So this one, the idea is that the cost of writing a plan
+
+297
+00:11:07,312 --> 00:11:10,415
+or mapping something is getting so expensive
+
+298
+00:11:10,415 --> 00:11:13,588
+and it's not very accurate or useful.
+
+299
+00:11:13,588 --> 00:11:16,700
+So in the Safecast story, we
+knew we needed to collect data,
+
+300
+00:11:16,700 --> 00:11:19,123
+we knew we wanted to publish the data,
+
+301
+00:11:19,123 --> 00:11:22,012
+and instead of trying to come up with the exact plan,
+
+302
+00:11:22,012 --> 00:11:24,420
+we first said, oh, let's get Geiger counters.
+
+303
+00:11:24,420 --> 00:11:26,186
+Oh, they've run out.
+
+304
+00:11:26,186 --> 00:11:28,189
+Let's build them. There aren't enough sensors.
+
+305
+00:11:28,189 --> 00:11:30,416
+Okay, then we can make a mobile Geiger counter.
+
+306
+00:11:30,416 --> 00:11:32,463
+We can drive around. We can get volunteers.
+
+307
+00:11:32,463 --> 00:11:34,342
+We don't have enough money. Let's Kickstarter it.
+
+308
+00:11:34,342 --> 00:11:36,333
+We could not have planned this whole thing,
+
+309
+00:11:36,333 --> 00:11:38,077
+but by having a very strong compass,
+
+310
+00:11:38,077 --> 00:11:39,512
+we eventually got to where we were going,
+
+311
+00:11:39,512 --> 00:11:41,930
+and to me it's very similar to
+agile software development,
+
+312
+00:11:41,930 --> 00:11:45,288
+but this idea of compasses is very important.
+
+313
+00:11:45,288 --> 00:11:47,229
+So I think the good news is
+
+314
+00:11:47,229 --> 00:11:50,730
+that even though the world is extremely complex,
+
+315
+00:11:50,740 --> 00:11:53,122
+what you need to do is very simple.
+
+316
+00:11:53,122 --> 00:11:55,820
+I think it's about stopping this notion
+
+317
+00:11:55,820 --> 00:11:57,392
+that you need to plan everything,
+
+318
+00:11:57,392 --> 00:11:58,484
+you need to stock everything,
+
+319
+00:11:58,484 --> 00:11:59,954
+and you need to be so prepared,
+
+320
+00:11:59,954 --> 00:12:02,948
+and focus on being connected,
+
+321
+00:12:02,948 --> 00:12:04,799
+always learning,
+
+322
+00:12:04,799 --> 00:12:06,660
+fully aware,
+
+323
+00:12:06,660 --> 00:12:08,440
+and super present.
+
+324
+00:12:08,440 --> 00:12:11,386
+So I don't like the word "futurist."
+
+325
+00:12:11,386 --> 00:12:17,001
+I think we should be now-ists,
+
+326
+00:12:17,001 --> 00:12:19,047
+like we are right now.
+
+327
+00:12:19,047 --> 00:12:20,890
+Thank you.
+
+328
+00:12:20,890 --> 00:12:24,869
+(Applause)
+

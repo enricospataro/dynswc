@@ -1,0 +1,1008 @@
+﻿1
+00:00:12,240 --> 00:00:14,556
+"When the crisis came,
+
+2
+00:00:14,556 --> 00:00:17,676
+the serious limitations of existing economic
+
+3
+00:00:17,676 --> 00:00:22,728
+and financial models immediately became apparent."
+
+4
+00:00:22,728 --> 00:00:27,710
+"There is also a strong belief, which I share,
+
+5
+00:00:27,710 --> 00:00:32,709
+that bad or oversimplistic and overconfident economics
+
+6
+00:00:32,709 --> 00:00:35,110
+helped create the crisis."
+
+7
+00:00:35,110 --> 00:00:37,377
+Now, you've probably all heard of similar criticism
+
+8
+00:00:37,377 --> 00:00:40,719
+coming from people who are skeptical of capitalism.
+
+9
+00:00:40,719 --> 00:00:42,396
+But this is different.
+
+10
+00:00:42,396 --> 00:00:46,264
+This is coming from the heart of finance.
+
+11
+00:00:46,264 --> 00:00:49,125
+The first quote is from Jean-Claude Trichet
+
+12
+00:00:49,125 --> 00:00:53,000
+when he was governor of the European Central Bank.
+
+13
+00:00:53,000 --> 00:00:55,239
+The second quote is from the head
+
+14
+00:00:55,239 --> 00:00:58,604
+of the U.K. Financial Services Authority.
+
+15
+00:00:58,604 --> 00:01:00,134
+Are these people implying
+
+16
+00:01:00,134 --> 00:01:02,929
+that we don't understand the economic systems
+
+17
+00:01:02,929 --> 00:01:06,069
+that drive our modern societies?
+
+18
+00:01:06,069 --> 00:01:07,991
+It gets worse.
+
+19
+00:01:07,991 --> 00:01:10,146
+"We spend billions of dollars
+
+20
+00:01:10,146 --> 00:01:13,370
+trying to understand the origins of the universe
+
+21
+00:01:13,370 --> 00:01:17,232
+while we still don't understand the conditions
+
+22
+00:01:17,232 --> 00:01:25,958
+for a stable society, a functioning economy, or peace."
+
+23
+00:01:25,958 --> 00:01:28,793
+What's happening here? How can this be possible?
+
+24
+00:01:28,793 --> 00:01:31,749
+Do we really understand more about the fabric of reality
+
+25
+00:01:31,749 --> 00:01:33,412
+than we do about the fabric
+
+26
+00:01:33,412 --> 00:01:36,550
+which emerges from our human interactions?
+
+27
+00:01:36,550 --> 00:01:39,077
+Unfortunately, the answer is yes.
+
+28
+00:01:39,077 --> 00:01:42,486
+But there's an intriguing solution which is coming
+
+29
+00:01:42,486 --> 00:01:46,974
+from what is known as the science of complexity.
+
+30
+00:01:46,974 --> 00:01:49,817
+To explain what this means and what this thing is,
+
+31
+00:01:49,817 --> 00:01:53,396
+please let me quickly take a couple of steps back.
+
+32
+00:01:53,396 --> 00:01:55,786
+I ended up in physics by accident.
+
+33
+00:01:55,786 --> 00:01:58,877
+It was a random encounter when I was young,
+
+34
+00:01:58,877 --> 00:02:00,982
+and since then, I've often wondered
+
+35
+00:02:00,982 --> 00:02:03,061
+about the amazing success of physics
+
+36
+00:02:03,061 --> 00:02:07,428
+in describing the reality we wake up in every day.
+
+37
+00:02:07,428 --> 00:02:10,724
+In a nutshell, you can think of physics as follows.
+
+38
+00:02:10,724 --> 00:02:13,757
+So you take a chunk of reality you want to understand
+
+39
+00:02:13,757 --> 00:02:17,526
+and you translate it into mathematics.
+
+40
+00:02:17,526 --> 00:02:20,962
+You encode it into equations.
+
+41
+00:02:20,962 --> 00:02:24,789
+Then predictions can be made and tested.
+
+42
+00:02:24,789 --> 00:02:27,353
+We're actually really lucky that this works,
+
+43
+00:02:27,353 --> 00:02:30,368
+because no one really knows why the thoughts in our heads
+
+44
+00:02:30,368 --> 00:02:35,945
+should actually relate to the fundamental workings of the universe.
+
+45
+00:02:35,945 --> 00:02:39,507
+Despite the success, physics has its limits.
+
+46
+00:02:39,507 --> 00:02:42,229
+As Dirk Helbing pointed out in the last quote,
+
+47
+00:02:42,229 --> 00:02:44,723
+we don't really understand the complexity
+
+48
+00:02:44,723 --> 00:02:47,901
+that relates to us, that surrounds us.
+
+49
+00:02:47,901 --> 00:02:52,549
+This paradox is what got me interested in complex systems.
+
+50
+00:02:52,549 --> 00:02:54,453
+So these are systems which are made up
+
+51
+00:02:54,453 --> 00:02:57,933
+of many interconnected or interacting parts:
+
+52
+00:02:57,933 --> 00:03:01,747
+swarms of birds or fish, ant colonies,
+
+53
+00:03:01,747 --> 00:03:05,181
+ecosystems, brains, financial markets.
+
+54
+00:03:05,181 --> 00:03:09,507
+These are just a few examples.
+
+55
+00:03:09,507 --> 00:03:14,750
+Interestingly, complex systems are very hard to map
+
+56
+00:03:14,750 --> 00:03:16,610
+into mathematical equations,
+
+57
+00:03:16,610 --> 00:03:21,103
+so the usual physics approach doesn't really work here.
+
+58
+00:03:21,103 --> 00:03:23,296
+So what do we know about complex systems?
+
+59
+00:03:23,296 --> 00:03:27,238
+Well, it turns out that what looks like complex behavior
+
+60
+00:03:27,238 --> 00:03:30,257
+from the outside is actually the result
+
+61
+00:03:30,257 --> 00:03:34,454
+of a few simple rules of interaction.
+
+62
+00:03:34,454 --> 00:03:38,679
+This means you can forget about the equations
+
+63
+00:03:38,679 --> 00:03:40,542
+and just start to understand the system
+
+64
+00:03:40,542 --> 00:03:43,246
+by looking at the interactions,
+
+65
+00:03:43,246 --> 00:03:45,566
+so you can actually forget about the equations
+
+66
+00:03:45,566 --> 00:03:48,039
+and you just start to look at the interactions.
+
+67
+00:03:48,039 --> 00:03:51,276
+And it gets even better, because most complex systems
+
+68
+00:03:51,276 --> 00:03:54,344
+have this amazing property called emergence.
+
+69
+00:03:54,344 --> 00:03:56,750
+So this means that the system as a whole
+
+70
+00:03:56,750 --> 00:03:58,485
+suddenly starts to show a behavior
+
+71
+00:03:58,485 --> 00:04:01,629
+which cannot be understood or predicted
+
+72
+00:04:01,629 --> 00:04:04,206
+by looking at the components of the system.
+
+73
+00:04:04,206 --> 00:04:08,125
+So the whole is literally more than the sum of its parts.
+
+74
+00:04:08,125 --> 00:04:10,471
+And all of this also means that you can forget about
+
+75
+00:04:10,471 --> 00:04:15,820
+the individual parts of the system, how complex they are.
+
+76
+00:04:15,820 --> 00:04:20,733
+So if it's a cell or a termite or a bird,
+
+77
+00:04:20,733 --> 00:04:25,082
+you just focus on the rules of interaction.
+
+78
+00:04:25,082 --> 00:04:29,528
+As a result, networks are ideal representations
+
+79
+00:04:29,528 --> 00:04:32,182
+of complex systems.
+
+80
+00:04:32,182 --> 00:04:34,953
+The nodes in the network
+
+81
+00:04:34,953 --> 00:04:37,712
+are the system's components
+
+82
+00:04:37,712 --> 00:04:41,912
+and the links are given by the interactions.
+
+83
+00:04:41,912 --> 00:04:44,737
+So what equations are for physics,
+
+84
+00:04:44,737 --> 00:04:49,352
+complex networks are for the study of complex systems.
+
+85
+00:04:49,352 --> 00:04:52,576
+This approach has been very successfully applied
+
+86
+00:04:52,576 --> 00:04:55,839
+to many complex systems in physics, biology,
+
+87
+00:04:55,839 --> 00:04:59,080
+computer science, the social sciences,
+
+88
+00:04:59,080 --> 00:05:01,377
+but what about economics?
+
+89
+00:05:01,377 --> 00:05:03,795
+Where are economic networks?
+
+90
+00:05:03,795 --> 00:05:08,392
+This is a surprising and prominent gap in the literature.
+
+91
+00:05:08,392 --> 00:05:10,946
+The study we published last year called
+
+92
+00:05:10,946 --> 00:05:14,272
+"The Network of Global Corporate Control"
+
+93
+00:05:14,272 --> 00:05:20,202
+was the first extensive analysis of economic networks.
+
+94
+00:05:20,202 --> 00:05:22,896
+The study went viral on the Internet
+
+95
+00:05:22,896 --> 00:05:27,968
+and it attracted a lot of attention from the international media.
+
+96
+00:05:27,968 --> 00:05:30,679
+This is quite remarkable, because, again,
+
+97
+00:05:30,679 --> 00:05:32,100
+why did no one look at this before?
+
+98
+00:05:32,100 --> 00:05:35,392
+Similar data has been around for quite some time.
+
+99
+00:05:35,392 --> 00:05:39,032
+What we looked at in detail was ownership networks.
+
+100
+00:05:39,032 --> 00:05:44,472
+So here the nodes are companies, people, governments,
+
+101
+00:05:44,472 --> 00:05:48,024
+foundations, etc.
+
+102
+00:05:48,024 --> 00:05:50,852
+And the links represent the shareholding relations,
+
+103
+00:05:50,852 --> 00:05:56,040
+so Shareholder A has x percent of the shares in Company B.
+
+104
+00:05:56,040 --> 00:05:58,312
+And we also assign a value to the company
+
+105
+00:05:58,312 --> 00:06:01,349
+given by the operating revenue.
+
+106
+00:06:01,349 --> 00:06:04,448
+So ownership networks reveal the patterns
+
+107
+00:06:04,448 --> 00:06:06,969
+of shareholding relations.
+
+108
+00:06:06,969 --> 00:06:09,152
+In this little example, you can see
+
+109
+00:06:09,152 --> 00:06:11,272
+a few financial institutions
+
+110
+00:06:11,272 --> 00:06:15,665
+with some of the many links highlighted.
+
+111
+00:06:15,665 --> 00:06:18,345
+Now you may think that no one's looked at this before
+
+112
+00:06:18,345 --> 00:06:20,681
+because ownership networks are
+
+113
+00:06:20,681 --> 00:06:23,808
+really, really boring to study.
+
+114
+00:06:23,808 --> 00:06:27,672
+Well, as ownership is related to control,
+
+115
+00:06:27,672 --> 00:06:29,268
+as I shall explain later,
+
+116
+00:06:29,268 --> 00:06:30,626
+looking at ownership networks
+
+117
+00:06:30,626 --> 00:06:33,184
+actually can give you answers to questions like,
+
+118
+00:06:33,184 --> 00:06:35,024
+who are the key players?
+
+119
+00:06:35,024 --> 00:06:37,216
+How are they organized? Are they isolated?
+
+120
+00:06:37,216 --> 00:06:38,704
+Are they interconnected?
+
+121
+00:06:38,704 --> 00:06:42,579
+And what is the overall distribution of control?
+
+122
+00:06:42,579 --> 00:06:46,055
+In other words, who controls the world?
+
+123
+00:06:46,055 --> 00:06:48,424
+I think this is an interesting question.
+
+124
+00:06:48,424 --> 00:06:52,512
+And it has implications for systemic risk.
+
+125
+00:06:52,512 --> 00:06:57,522
+This is a measure of how vulnerable a system is overall.
+
+126
+00:06:57,522 --> 00:07:00,385
+A high degree of interconnectivity
+
+127
+00:07:00,385 --> 00:07:03,252
+can be bad for stability,
+
+128
+00:07:03,252 --> 00:07:06,696
+because then the stress can spread through the system
+
+129
+00:07:06,696 --> 00:07:09,648
+like an epidemic.
+
+130
+00:07:09,648 --> 00:07:12,464
+Scientists have sometimes criticized economists
+
+131
+00:07:12,464 --> 00:07:14,792
+who believe ideas and concepts
+
+132
+00:07:14,792 --> 00:07:17,803
+are more important than empirical data,
+
+133
+00:07:17,803 --> 00:07:20,952
+because a foundational guideline in science is:
+
+134
+00:07:20,952 --> 00:07:24,288
+Let the data speak. Okay. Let's do that.
+
+135
+00:07:24,288 --> 00:07:26,882
+So we started with a database containing
+
+136
+00:07:26,882 --> 00:07:31,025
+13 million ownership relations from 2007.
+
+137
+00:07:31,025 --> 00:07:33,882
+This is a lot of data, and because we wanted to find out
+
+138
+00:07:33,882 --> 00:07:36,440
+who rules the world,
+
+139
+00:07:36,440 --> 00:07:40,272
+we decided to focus on transnational corporations,
+
+140
+00:07:40,272 --> 00:07:41,620
+or TNCs for short.
+
+141
+00:07:41,620 --> 00:07:45,216
+These are companies that operate in more than one country,
+
+142
+00:07:45,216 --> 00:07:47,824
+and we found 43,000.
+
+143
+00:07:47,824 --> 00:07:51,776
+In the next step, we built the network around these companies,
+
+144
+00:07:51,776 --> 00:07:54,224
+so we took all the TNCs' shareholders,
+
+145
+00:07:54,224 --> 00:07:56,316
+and the shareholders' shareholders, etc.,
+
+146
+00:07:56,316 --> 00:07:59,192
+all the way upstream, and we did the same downstream,
+
+147
+00:07:59,192 --> 00:08:03,233
+and ended up with a network containing 600,000 nodes
+
+148
+00:08:03,233 --> 00:08:04,662
+and one million links.
+
+149
+00:08:04,662 --> 00:08:08,512
+This is the TNC network which we analyzed.
+
+150
+00:08:08,512 --> 00:08:11,040
+And it turns out to be structured as follows.
+
+151
+00:08:11,040 --> 00:08:13,755
+So you have a periphery and a center
+
+152
+00:08:13,755 --> 00:08:18,232
+which contains about 75 percent of all the players,
+
+153
+00:08:18,232 --> 00:08:21,760
+and in the center there's this tiny but dominant core
+
+154
+00:08:21,760 --> 00:08:26,584
+which is made up of highly interconnected companies.
+
+155
+00:08:26,584 --> 00:08:29,019
+To give you a better picture,
+
+156
+00:08:29,019 --> 00:08:30,630
+think about a metropolitan area.
+
+157
+00:08:30,630 --> 00:08:32,921
+So you have the suburbs and the periphery,
+
+158
+00:08:32,921 --> 00:08:35,618
+you have a center like a financial district,
+
+159
+00:08:35,618 --> 00:08:37,361
+then the core will be something like
+
+160
+00:08:37,361 --> 00:08:40,800
+the tallest high rise building in the center.
+
+161
+00:08:40,800 --> 00:08:45,675
+And we already see signs of organization going on here.
+
+162
+00:08:45,675 --> 00:08:51,408
+Thirty-six percent of the TNCs are in the core only,
+
+163
+00:08:51,408 --> 00:08:55,779
+but they make up 95 percent of the total operating revenue
+
+164
+00:08:55,779 --> 00:08:58,360
+of all TNCs.
+
+165
+00:08:58,360 --> 00:09:01,200
+Okay, so now we analyzed the structure,
+
+166
+00:09:01,200 --> 00:09:04,762
+so how does this relate to the control?
+
+167
+00:09:04,762 --> 00:09:08,689
+Well, ownership gives voting rights to shareholders.
+
+168
+00:09:08,689 --> 00:09:11,408
+This is the normal notion of control.
+
+169
+00:09:11,408 --> 00:09:14,615
+And there are different models which allow you to compute
+
+170
+00:09:14,615 --> 00:09:17,396
+the control you get from ownership.
+
+171
+00:09:17,396 --> 00:09:20,176
+If you have more than 50 percent of the shares in a company,
+
+172
+00:09:20,176 --> 00:09:21,800
+you get control,
+
+173
+00:09:21,800 --> 00:09:26,976
+but usually it depends on the relative distribution of shares.
+
+174
+00:09:26,976 --> 00:09:29,865
+And the network really matters.
+
+175
+00:09:29,865 --> 00:09:32,496
+About 10 years ago, Mr. Tronchetti Provera
+
+176
+00:09:32,496 --> 00:09:35,900
+had ownership and control in a small company,
+
+177
+00:09:35,900 --> 00:09:39,352
+which had ownership and control in a bigger company.
+
+178
+00:09:39,352 --> 00:09:40,831
+You get the idea.
+
+179
+00:09:40,831 --> 00:09:44,094
+This ended up giving him control in Telecom Italia
+
+180
+00:09:44,094 --> 00:09:47,727
+with a leverage of 26.
+
+181
+00:09:47,727 --> 00:09:51,670
+So this means that, with each euro he invested,
+
+182
+00:09:51,670 --> 00:09:55,355
+he was able to move 26 euros of market value
+
+183
+00:09:55,355 --> 00:09:58,731
+through the chain of ownership relations.
+
+184
+00:09:58,731 --> 00:10:01,811
+Now what we actually computed in our study
+
+185
+00:10:01,811 --> 00:10:05,510
+was the control over the TNCs' value.
+
+186
+00:10:05,510 --> 00:10:08,362
+This allowed us to assign a degree of influence
+
+187
+00:10:08,362 --> 00:10:10,669
+to each shareholder.
+
+188
+00:10:10,669 --> 00:10:13,251
+This is very much in the sense of
+
+189
+00:10:13,251 --> 00:10:16,363
+Max Weber's idea of potential power,
+
+190
+00:10:16,363 --> 00:10:20,175
+which is the probability of imposing one's own will
+
+191
+00:10:20,175 --> 00:10:24,170
+despite the opposition of others.
+
+192
+00:10:24,170 --> 00:10:28,813
+If you want to compute the flow in an ownership network,
+
+193
+00:10:28,813 --> 00:10:30,061
+this is what you have to do.
+
+194
+00:10:30,061 --> 00:10:32,606
+It's actually not that hard to understand.
+
+195
+00:10:32,606 --> 00:10:35,374
+Let me explain by giving you this analogy.
+
+196
+00:10:35,374 --> 00:10:38,229
+So think about water flowing in pipes
+
+197
+00:10:38,229 --> 00:10:41,411
+where the pipes have different thickness.
+
+198
+00:10:41,411 --> 00:10:46,155
+So similarly, the control is flowing in the ownership networks
+
+199
+00:10:46,155 --> 00:10:50,574
+and is accumulating at the nodes.
+
+200
+00:10:50,574 --> 00:10:54,522
+So what did we find after computing all this network control?
+
+201
+00:10:54,522 --> 00:10:59,909
+Well, it turns out that the 737 top shareholders
+
+202
+00:10:59,909 --> 00:11:02,701
+have the potential to collectively control
+
+203
+00:11:02,701 --> 00:11:06,961
+80 percent of the TNCs' value.
+
+204
+00:11:06,961 --> 00:11:10,277
+Now remember, we started out with 600,000 nodes,
+
+205
+00:11:10,277 --> 00:11:14,054
+so these 737 top players
+
+206
+00:11:14,054 --> 00:11:17,877
+make up a bit more than 0.1 percent.
+
+207
+00:11:17,877 --> 00:11:22,833
+They're mostly financial institutions in the U.S. and the U.K.
+
+208
+00:11:22,833 --> 00:11:25,381
+And it gets even more extreme.
+
+209
+00:11:25,381 --> 00:11:29,678
+There are 146 top players in the core,
+
+210
+00:11:29,678 --> 00:11:33,898
+and they together have the potential to collectively control
+
+211
+00:11:33,898 --> 00:11:39,253
+40 percent of the TNCs' value.
+
+212
+00:11:39,253 --> 00:11:42,049
+What should you take home from all of this?
+
+213
+00:11:42,049 --> 00:11:45,637
+Well, the high degree of control you saw
+
+214
+00:11:45,637 --> 00:11:50,527
+is very extreme by any standard.
+
+215
+00:11:50,527 --> 00:11:53,077
+The high degree of interconnectivity
+
+216
+00:11:53,077 --> 00:11:55,389
+of the top players in the core
+
+217
+00:11:55,389 --> 00:12:00,566
+could pose a significant systemic risk to the global economy
+
+218
+00:12:00,566 --> 00:12:04,286
+and we could easily reproduce the TNC network
+
+219
+00:12:04,286 --> 00:12:06,237
+with a few simple rules.
+
+220
+00:12:06,237 --> 00:12:08,717
+This means that its structure is probably the result
+
+221
+00:12:08,717 --> 00:12:10,357
+of self-organization.
+
+222
+00:12:10,357 --> 00:12:13,673
+It's an emergent property which depends
+
+223
+00:12:13,673 --> 00:12:16,517
+on the rules of interaction in the system,
+
+224
+00:12:16,517 --> 00:12:19,963
+so it's probably not the result of a top-down approach
+
+225
+00:12:19,963 --> 00:12:23,389
+like a global conspiracy.
+
+226
+00:12:23,389 --> 00:12:26,322
+Our study "is an impression of the moon's surface.
+
+227
+00:12:26,322 --> 00:12:27,651
+It's not a street map."
+
+228
+00:12:27,651 --> 00:12:30,290
+So you should take the exact numbers in our study
+
+229
+00:12:30,290 --> 00:12:31,730
+with a grain of salt,
+
+230
+00:12:31,730 --> 00:12:35,122
+yet it "gave us a tantalizing glimpse
+
+231
+00:12:35,122 --> 00:12:39,466
+of a brave new world of finance."
+
+232
+00:12:39,466 --> 00:12:43,906
+We hope to have opened the door for more such research in this direction,
+
+233
+00:12:43,906 --> 00:12:48,643
+so the remaining unknown terrain will be charted in the future.
+
+234
+00:12:48,643 --> 00:12:50,088
+And this is slowly starting.
+
+235
+00:12:50,088 --> 00:12:53,080
+We're seeing the emergence of long-term
+
+236
+00:12:53,080 --> 00:12:56,650
+and highly-funded programs which aim at understanding
+
+237
+00:12:56,650 --> 00:13:01,340
+our networked world from a complexity point of view.
+
+238
+00:13:01,340 --> 00:13:03,378
+But this journey has only just begun,
+
+239
+00:13:03,378 --> 00:13:08,816
+so we will have to wait before we see the first results.
+
+240
+00:13:08,816 --> 00:13:12,434
+Now there is still a big problem, in my opinion.
+
+241
+00:13:12,434 --> 00:13:17,586
+Ideas relating to finance, economics, politics,
+
+242
+00:13:17,586 --> 00:13:20,866
+society, are very often tainted
+
+243
+00:13:20,866 --> 00:13:24,682
+by people's personal ideologies.
+
+244
+00:13:24,682 --> 00:13:28,820
+I really hope that this complexity perspective
+
+245
+00:13:28,820 --> 00:13:33,963
+allows for some common ground to be found.
+
+246
+00:13:33,963 --> 00:13:36,882
+It would be really great if it has the power
+
+247
+00:13:36,882 --> 00:13:41,945
+to help end the gridlock created by conflicting ideas,
+
+248
+00:13:41,945 --> 00:13:47,075
+which appears to be paralyzing our globalized world.
+
+249
+00:13:47,075 --> 00:13:51,741
+Reality is so complex, we need to move away from dogma.
+
+250
+00:13:51,741 --> 00:13:54,627
+But this is just my own personal ideology.
+
+251
+00:13:54,627 --> 00:13:56,662
+Thank you.
+
+252
+00:13:56,662 --> 00:14:01,339
+(Applause)
+

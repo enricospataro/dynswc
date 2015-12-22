@@ -1,0 +1,1432 @@
+﻿1
+00:00:12,820 --> 00:00:15,820
+This is the Large Hadron Collider.
+
+2
+00:00:15,820 --> 00:00:17,820
+It's 27 kilometers in circumference.
+
+3
+00:00:17,820 --> 00:00:20,820
+It's the biggest scientific experiment ever attempted.
+
+4
+00:00:20,820 --> 00:00:23,820
+Over 10,000 physicists and engineers
+
+5
+00:00:23,820 --> 00:00:25,820
+from 85 countries around the world
+
+6
+00:00:25,820 --> 00:00:27,820
+have come together over several decades
+
+7
+00:00:27,820 --> 00:00:29,820
+to build this machine.
+
+8
+00:00:29,820 --> 00:00:31,820
+What we do is we accelerate protons --
+
+9
+00:00:31,820 --> 00:00:33,820
+so, hydrogen nuclei --
+
+10
+00:00:33,820 --> 00:00:37,820
+around 99.999999
+
+11
+00:00:37,820 --> 00:00:39,820
+percent the speed of light.
+
+12
+00:00:39,820 --> 00:00:41,820
+Right? At that speed, they go around
+
+13
+00:00:41,820 --> 00:00:45,820
+that 27 kilometers 11,000 times a second.
+
+14
+00:00:45,820 --> 00:00:47,820
+And we collide them with another beam of protons
+
+15
+00:00:47,820 --> 00:00:50,820
+going in the opposite direction.
+
+16
+00:00:50,820 --> 00:00:52,820
+We collide them inside giant detectors.
+
+17
+00:00:52,820 --> 00:00:54,820
+They're essentially digital cameras.
+
+18
+00:00:54,820 --> 00:00:56,820
+And this is the one that I work on, ATLAS.
+
+19
+00:00:56,820 --> 00:00:58,820
+You get some sense of the size --
+
+20
+00:00:58,820 --> 00:01:00,820
+you can just see these EU standard-size
+
+21
+00:01:00,820 --> 00:01:02,820
+people underneath.
+
+22
+00:01:02,820 --> 00:01:04,820
+(Laughter)
+
+23
+00:01:04,820 --> 00:01:07,820
+You get some sense of the size: 44 meters wide,
+
+24
+00:01:07,820 --> 00:01:10,820
+22 meters in diameter, 7,000 tons.
+
+25
+00:01:10,820 --> 00:01:13,820
+And we re-create the conditions that were present
+
+26
+00:01:13,820 --> 00:01:16,820
+less than a billionth of a second after the universe began
+
+27
+00:01:16,820 --> 00:01:18,820
+up to 600 million times a second
+
+28
+00:01:18,820 --> 00:01:21,820
+inside that detector -- immense numbers.
+
+29
+00:01:22,820 --> 00:01:24,820
+And if you see those metal bits there --
+
+30
+00:01:24,820 --> 00:01:26,820
+those are huge magnets that bend
+
+31
+00:01:26,820 --> 00:01:28,820
+electrically charged particles,
+
+32
+00:01:28,820 --> 00:01:30,820
+so it can measure how fast they're traveling.
+
+33
+00:01:30,820 --> 00:01:32,820
+This is a picture about a year ago.
+
+34
+00:01:32,820 --> 00:01:34,820
+Those magnets are in there.
+
+35
+00:01:34,820 --> 00:01:36,820
+And, again, a EU standard-size, real person,
+
+36
+00:01:36,820 --> 00:01:39,820
+so you get some sense of the scale.
+
+37
+00:01:39,820 --> 00:01:41,820
+And it's in there that those mini-Big Bangs will be created,
+
+38
+00:01:41,820 --> 00:01:43,820
+sometime in the summer this year.
+
+39
+00:01:43,820 --> 00:01:45,820
+And actually, this morning, I got an email
+
+40
+00:01:45,820 --> 00:01:47,820
+saying that we've just finished, today,
+
+41
+00:01:47,820 --> 00:01:49,820
+building the last piece of ATLAS.
+
+42
+00:01:49,820 --> 00:01:51,820
+So as of today, it's finished. I'd like to say
+
+43
+00:01:51,820 --> 00:01:53,820
+that I planned that for TED,
+
+44
+00:01:53,820 --> 00:01:56,820
+but I didn't. So it's been completed as of today.
+
+45
+00:01:56,820 --> 00:02:00,820
+(Applause)
+
+46
+00:02:00,820 --> 00:02:02,820
+Yeah, it's a wonderful achievement.
+
+47
+00:02:02,820 --> 00:02:04,820
+So, you might be asking, "Why?
+
+48
+00:02:04,820 --> 00:02:06,820
+Why create the conditions that were present
+
+49
+00:02:06,820 --> 00:02:09,820
+less than a billionth of a second after the universe began?"
+
+50
+00:02:09,820 --> 00:02:12,820
+Well, particle physicists are nothing if not ambitious.
+
+51
+00:02:12,820 --> 00:02:15,820
+And the aim of particle physics is to understand
+
+52
+00:02:15,820 --> 00:02:18,820
+what everything's made of, and how everything sticks together.
+
+53
+00:02:18,820 --> 00:02:20,820
+And by everything I mean, of course,
+
+54
+00:02:20,820 --> 00:02:23,820
+me and you, the Earth, the Sun,
+
+55
+00:02:23,820 --> 00:02:26,820
+the 100 billion suns in our galaxy
+
+56
+00:02:26,820 --> 00:02:28,820
+and the 100 billion galaxies
+
+57
+00:02:28,820 --> 00:02:30,820
+in the observable universe.
+
+58
+00:02:30,820 --> 00:02:32,820
+Absolutely everything.
+
+59
+00:02:32,820 --> 00:02:34,820
+Now you might say, "Well, OK, but why not just look at it?
+
+60
+00:02:34,820 --> 00:02:37,820
+You know? If you want to know what I'm made of, let's look at me."
+
+61
+00:02:37,820 --> 00:02:40,820
+Well, we found that as you look back in time,
+
+62
+00:02:40,820 --> 00:02:43,820
+the universe gets hotter and hotter,
+
+63
+00:02:43,820 --> 00:02:46,820
+denser and denser, and simpler and simpler.
+
+64
+00:02:46,820 --> 00:02:48,820
+Now, there's no real reason I'm aware of for that,
+
+65
+00:02:48,820 --> 00:02:51,820
+but that seems to be the case.
+
+66
+00:02:51,820 --> 00:02:53,820
+So, way back in the early times of the universe,
+
+67
+00:02:53,820 --> 00:02:56,820
+we believe it was very simple and understandable.
+
+68
+00:02:56,820 --> 00:02:59,820
+All this complexity, all the way to these wonderful things --
+
+69
+00:02:59,820 --> 00:03:01,820
+human brains -- are a property of an old
+
+70
+00:03:01,820 --> 00:03:04,820
+and cold and complicated universe.
+
+71
+00:03:04,820 --> 00:03:07,820
+Back at the start, in the first billionth of a second,
+
+72
+00:03:07,820 --> 00:03:09,820
+we believe, or we've observed, it was very simple.
+
+73
+00:03:09,820 --> 00:03:11,820
+It's almost like ...
+
+74
+00:03:11,820 --> 00:03:13,820
+imagine a snowflake in your hand,
+
+75
+00:03:13,820 --> 00:03:16,820
+and you look at it, and it's an incredibly complicated,
+
+76
+00:03:16,820 --> 00:03:19,820
+beautiful object. But as you heat it up,
+
+77
+00:03:19,820 --> 00:03:22,820
+it'll melt into a pool of water,
+
+78
+00:03:22,820 --> 00:03:24,820
+and you would be able to see that, actually, it was just made
+
+79
+00:03:24,820 --> 00:03:27,820
+of H20, water.
+
+80
+00:03:27,820 --> 00:03:29,820
+So it's in that same sense that we look back in time
+
+81
+00:03:29,820 --> 00:03:32,820
+to understand what the universe is made of.
+
+82
+00:03:32,820 --> 00:03:35,820
+And, as of today, it's made of these things.
+
+83
+00:03:35,820 --> 00:03:37,820
+Just 12 particles of matter,
+
+84
+00:03:37,820 --> 00:03:40,820
+stuck together by four forces of nature.
+
+85
+00:03:41,820 --> 00:03:44,820
+The quarks, these pink things, are the things that make up protons and neutrons
+
+86
+00:03:44,820 --> 00:03:47,820
+that make up the atomic nuclei in your body.
+
+87
+00:03:47,820 --> 00:03:49,820
+The electron -- the thing that goes around
+
+88
+00:03:49,820 --> 00:03:51,820
+the atomic nucleus --
+
+89
+00:03:51,820 --> 00:03:54,820
+held around in orbit, by the way, by the electromagnetic force
+
+90
+00:03:54,820 --> 00:03:56,820
+that's carried by this thing, the photon.
+
+91
+00:03:56,820 --> 00:03:59,820
+The quarks are stuck together by other things called gluons.
+
+92
+00:03:59,820 --> 00:04:01,820
+And these guys, here, they're the weak nuclear force,
+
+93
+00:04:01,820 --> 00:04:03,820
+probably the least familiar.
+
+94
+00:04:03,820 --> 00:04:05,820
+But, without it, the sun wouldn't shine.
+
+95
+00:04:05,820 --> 00:04:07,820
+And when the sun shines, you get copious quantities
+
+96
+00:04:07,820 --> 00:04:10,820
+of these things, called neutrinos, pouring out.
+
+97
+00:04:10,820 --> 00:04:13,820
+Actually, if you just look at your thumbnail --
+
+98
+00:04:13,820 --> 00:04:16,820
+about a square centimeter --
+
+99
+00:04:16,820 --> 00:04:19,820
+there are something like 60 billion neutrinos per second
+
+100
+00:04:19,820 --> 00:04:21,820
+from the sun, passing
+
+101
+00:04:21,820 --> 00:04:23,820
+through every square centimeter of your body.
+
+102
+00:04:23,820 --> 00:04:25,820
+But you don't feel them, because the weak force
+
+103
+00:04:25,820 --> 00:04:27,820
+is correctly named --
+
+104
+00:04:27,820 --> 00:04:29,820
+very short range and very weak,
+
+105
+00:04:29,820 --> 00:04:31,820
+so they just fly through you.
+
+106
+00:04:31,820 --> 00:04:33,820
+And these particles have been discovered
+
+107
+00:04:33,820 --> 00:04:35,820
+over the last century, pretty much.
+
+108
+00:04:35,820 --> 00:04:37,820
+The first one, the electron, was discovered in 1897,
+
+109
+00:04:37,820 --> 00:04:40,820
+and the last one, this thing called the tau neutrino,
+
+110
+00:04:40,820 --> 00:04:42,820
+in the year 2000. Actually just --
+
+111
+00:04:42,820 --> 00:04:45,820
+I was going to say, just up the road in Chicago. I know it's a big country,
+
+112
+00:04:45,820 --> 00:04:47,820
+America, isn't it?
+
+113
+00:04:48,820 --> 00:04:50,820
+Just up the road.
+
+114
+00:04:51,820 --> 00:04:54,820
+Relative to the universe, it's just up the road.
+
+115
+00:04:54,820 --> 00:04:56,820
+(Laughter)
+
+116
+00:04:56,820 --> 00:04:58,820
+So, this thing was discovered in the year 2000,
+
+117
+00:04:58,820 --> 00:05:01,820
+so it's a relatively recent picture.
+
+118
+00:05:01,820 --> 00:05:03,820
+One of the wonderful things, actually, I find,
+
+119
+00:05:03,820 --> 00:05:06,820
+is that we've discovered any of them, when you realize how tiny they are.
+
+120
+00:05:06,820 --> 00:05:08,820
+You know, they're a step in size
+
+121
+00:05:08,820 --> 00:05:10,820
+from the entire observable universe.
+
+122
+00:05:10,820 --> 00:05:12,820
+So, 100 billion galaxies,
+
+123
+00:05:12,820 --> 00:05:15,820
+13.7 billion light years away --
+
+124
+00:05:15,820 --> 00:05:18,820
+a step in size from that to Monterey, actually,
+
+125
+00:05:18,820 --> 00:05:21,820
+is about the same as from Monterey to these things.
+
+126
+00:05:21,820 --> 00:05:24,820
+Absolutely, exquisitely minute,
+
+127
+00:05:24,820 --> 00:05:27,820
+and yet we've discovered pretty much the full set.
+
+128
+00:05:28,820 --> 00:05:31,820
+So, one of my most illustrious forebears
+
+129
+00:05:31,820 --> 00:05:33,820
+at Manchester University, Ernest Rutherford,
+
+130
+00:05:33,820 --> 00:05:35,820
+discoverer of the atomic nucleus,
+
+131
+00:05:35,820 --> 00:05:37,820
+once said, "All science is either physics
+
+132
+00:05:37,820 --> 00:05:39,820
+or stamp collecting."
+
+133
+00:05:39,820 --> 00:05:42,820
+Now, I don't think he meant to insult
+
+134
+00:05:42,820 --> 00:05:44,820
+the rest of science,
+
+135
+00:05:44,820 --> 00:05:47,820
+although he was from New Zealand, so it's possible.
+
+136
+00:05:47,820 --> 00:05:49,820
+(Laughter)
+
+137
+00:05:49,820 --> 00:05:51,820
+But what he meant was that what we've done, really,
+
+138
+00:05:51,820 --> 00:05:53,820
+is stamp collect there.
+
+139
+00:05:53,820 --> 00:05:55,820
+OK, we've discovered the particles,
+
+140
+00:05:55,820 --> 00:05:57,820
+but unless you understand the underlying
+
+141
+00:05:57,820 --> 00:06:00,820
+reason for that pattern -- you know, why it's built the way it is --
+
+142
+00:06:00,820 --> 00:06:03,820
+really you've done stamp collecting. You haven't done science.
+
+143
+00:06:03,820 --> 00:06:05,820
+Fortunately, we have
+
+144
+00:06:05,820 --> 00:06:08,820
+probably one of the greatest scientific achievements of the twentieth century
+
+145
+00:06:08,820 --> 00:06:10,820
+that underpins that pattern.
+
+146
+00:06:10,820 --> 00:06:12,820
+It's the Newton's laws, if you want,
+
+147
+00:06:12,820 --> 00:06:14,820
+of particle physics.
+
+148
+00:06:14,820 --> 00:06:17,820
+It's called the standard model -- beautifully simple mathematical equation.
+
+149
+00:06:17,820 --> 00:06:19,820
+You could stick it on the front of a T-shirt,
+
+150
+00:06:19,820 --> 00:06:22,820
+which is always the sign of elegance.
+
+151
+00:06:22,820 --> 00:06:24,820
+This is it.
+
+152
+00:06:24,820 --> 00:06:26,820
+(Laughter)
+
+153
+00:06:26,820 --> 00:06:28,820
+I've been a little disingenuous, because I've expanded it out
+
+154
+00:06:28,820 --> 00:06:30,820
+in all its gory detail.
+
+155
+00:06:30,820 --> 00:06:32,820
+This equation, though, allows you to calculate everything --
+
+156
+00:06:32,820 --> 00:06:35,820
+other than gravity -- that happens in the universe.
+
+157
+00:06:35,820 --> 00:06:38,820
+So, you want to know why the sky is blue, why atomic nuclei stick together --
+
+158
+00:06:38,820 --> 00:06:40,820
+in principle, you've got a big enough computer --
+
+159
+00:06:40,820 --> 00:06:42,820
+why DNA is the shape it is.
+
+160
+00:06:42,820 --> 00:06:45,820
+In principle, you should be able to calculate it from that equation.
+
+161
+00:06:45,820 --> 00:06:47,820
+But there's a problem.
+
+162
+00:06:48,820 --> 00:06:51,820
+Can anyone see what it is?
+
+163
+00:06:52,820 --> 00:06:55,820
+A bottle of champagne for anyone that tells me.
+
+164
+00:06:55,820 --> 00:06:57,820
+I'll make it easier, actually, by blowing one of the lines up.
+
+165
+00:06:58,820 --> 00:07:00,820
+Basically, each of these terms
+
+166
+00:07:00,820 --> 00:07:02,820
+refers to some of the particles.
+
+167
+00:07:02,820 --> 00:07:05,820
+So those Ws there refer to the Ws, and how they stick together.
+
+168
+00:07:05,820 --> 00:07:08,820
+These carriers of the weak force, the Zs, the same.
+
+169
+00:07:08,820 --> 00:07:10,820
+But there's an extra symbol in this equation: H.
+
+170
+00:07:10,820 --> 00:07:12,820
+Right, H.
+
+171
+00:07:12,820 --> 00:07:14,820
+H stands for Higgs particle.
+
+172
+00:07:14,820 --> 00:07:17,820
+Higgs particles have not been discovered.
+
+173
+00:07:17,820 --> 00:07:19,820
+But they're necessary: they're necessary
+
+174
+00:07:19,820 --> 00:07:21,820
+to make that mathematics work.
+
+175
+00:07:21,820 --> 00:07:23,820
+So all the exquisitely detailed calculations we can do
+
+176
+00:07:23,820 --> 00:07:25,820
+with that wonderful equation
+
+177
+00:07:25,820 --> 00:07:27,820
+wouldn't be possible without an extra bit.
+
+178
+00:07:27,820 --> 00:07:29,820
+So it's a prediction:
+
+179
+00:07:29,820 --> 00:07:31,820
+a prediction of a new particle.
+
+180
+00:07:31,820 --> 00:07:33,820
+What does it do?
+
+181
+00:07:33,820 --> 00:07:35,820
+Well, we had a long time to come up with good analogies.
+
+182
+00:07:35,820 --> 00:07:38,820
+And back in the 1980s, when we wanted the money
+
+183
+00:07:38,820 --> 00:07:40,820
+for the LHC from the U.K. government,
+
+184
+00:07:40,820 --> 00:07:42,820
+Margaret Thatcher, at the time, said,
+
+185
+00:07:42,820 --> 00:07:44,820
+"If you guys can explain, in language
+
+186
+00:07:44,820 --> 00:07:46,820
+a politician can understand,
+
+187
+00:07:46,820 --> 00:07:49,820
+what the hell it is that you're doing, you can have the money.
+
+188
+00:07:49,820 --> 00:07:51,820
+I want to know what this Higgs particle does."
+
+189
+00:07:51,820 --> 00:07:53,820
+And we came up with this analogy, and it seemed to work.
+
+190
+00:07:53,820 --> 00:07:56,820
+Well, what the Higgs does is, it gives mass to the fundamental particles.
+
+191
+00:07:56,820 --> 00:07:58,820
+And the picture is that the whole universe --
+
+192
+00:07:58,820 --> 00:08:01,820
+and that doesn't mean just space, it means me as well, and inside you --
+
+193
+00:08:01,820 --> 00:08:04,820
+the whole universe is full of something called a Higgs field.
+
+194
+00:08:04,820 --> 00:08:06,820
+Higgs particles, if you will.
+
+195
+00:08:06,820 --> 00:08:08,820
+The analogy is that these people in a room
+
+196
+00:08:08,820 --> 00:08:10,820
+are the Higgs particles.
+
+197
+00:08:10,820 --> 00:08:12,820
+Now when a particle moves through the universe,
+
+198
+00:08:12,820 --> 00:08:15,820
+it can interact with these Higgs particles.
+
+199
+00:08:15,820 --> 00:08:18,820
+But imagine someone who's not very popular moves through the room.
+
+200
+00:08:18,820 --> 00:08:21,820
+Then everyone ignores them. They can just pass through the room very quickly,
+
+201
+00:08:21,820 --> 00:08:24,820
+essentially at the speed of light. They're massless.
+
+202
+00:08:24,820 --> 00:08:26,820
+And imagine someone incredibly important
+
+203
+00:08:26,820 --> 00:08:28,820
+and popular and intelligent
+
+204
+00:08:28,820 --> 00:08:31,820
+walks into the room.
+
+205
+00:08:31,820 --> 00:08:34,820
+They're surrounded by people, and their passage through the room is impeded.
+
+206
+00:08:34,820 --> 00:08:37,820
+It's almost like they get heavy. They get massive.
+
+207
+00:08:37,820 --> 00:08:40,820
+And that's exactly the way the Higgs mechanism works.
+
+208
+00:08:40,820 --> 00:08:42,820
+The picture is that the electrons and the quarks
+
+209
+00:08:42,820 --> 00:08:45,820
+in your body and in the universe that we see around us
+
+210
+00:08:45,820 --> 00:08:47,820
+are heavy, in a sense, and massive,
+
+211
+00:08:47,820 --> 00:08:49,820
+because they're surrounded by Higgs particles.
+
+212
+00:08:49,820 --> 00:08:52,820
+They're interacting with the Higgs field.
+
+213
+00:08:52,820 --> 00:08:54,820
+If that picture's true,
+
+214
+00:08:54,820 --> 00:08:57,820
+then we have to discover those Higgs particles at the LHC.
+
+215
+00:08:58,820 --> 00:09:00,820
+If it's not true -- because it's quite a convoluted mechanism,
+
+216
+00:09:00,820 --> 00:09:03,820
+although it's the simplest we've been able to think of --
+
+217
+00:09:03,820 --> 00:09:05,820
+then whatever does the job of the Higgs particles
+
+218
+00:09:05,820 --> 00:09:07,820
+we know have to turn up
+
+219
+00:09:07,820 --> 00:09:09,820
+at the LHC.
+
+220
+00:09:09,820 --> 00:09:12,820
+So, that's one of the prime reasons we built this giant machine.
+
+221
+00:09:12,820 --> 00:09:14,820
+I'm glad you recognize Margaret Thatcher.
+
+222
+00:09:14,820 --> 00:09:17,820
+Actually, I thought about making it more culturally relevant, but --
+
+223
+00:09:17,820 --> 00:09:20,820
+(Laughter)
+
+224
+00:09:20,820 --> 00:09:22,820
+anyway.
+
+225
+00:09:22,820 --> 00:09:24,820
+So that's one thing.
+
+226
+00:09:24,820 --> 00:09:27,820
+That's essentially a guarantee of what the LHC will find.
+
+227
+00:09:27,820 --> 00:09:29,820
+There are many other things. You've heard
+
+228
+00:09:29,820 --> 00:09:31,820
+many of the big problems in particle physics.
+
+229
+00:09:31,820 --> 00:09:34,820
+One of them you heard about: dark matter, dark energy.
+
+230
+00:09:34,820 --> 00:09:36,820
+There's another issue,
+
+231
+00:09:36,820 --> 00:09:38,820
+which is that the forces in nature -- it's quite beautiful, actually --
+
+232
+00:09:38,820 --> 00:09:40,820
+seem, as you go back in time,
+
+233
+00:09:40,820 --> 00:09:42,820
+they seem to change in strength.
+
+234
+00:09:42,820 --> 00:09:44,820
+Well, they do change in strength.
+
+235
+00:09:44,820 --> 00:09:47,820
+So, the electromagnetic force, the force that holds us together,
+
+236
+00:09:47,820 --> 00:09:50,820
+gets stronger as you go to higher temperatures.
+
+237
+00:09:50,820 --> 00:09:53,820
+The strong force, the strong nuclear force, which sticks nuclei together,
+
+238
+00:09:53,820 --> 00:09:56,820
+gets weaker. And what you see is the standard model --
+
+239
+00:09:56,820 --> 00:09:58,820
+you can calculate how these change -- is the forces,
+
+240
+00:09:58,820 --> 00:10:00,820
+the three forces, other than gravity,
+
+241
+00:10:00,820 --> 00:10:02,820
+almost seem to come together at one point.
+
+242
+00:10:02,820 --> 00:10:04,820
+It's almost as if there was one beautiful
+
+243
+00:10:04,820 --> 00:10:07,820
+kind of super-force, back at the beginning of time.
+
+244
+00:10:07,820 --> 00:10:09,820
+But they just miss.
+
+245
+00:10:09,820 --> 00:10:11,820
+Now there's a theory called super-symmetry,
+
+246
+00:10:11,820 --> 00:10:14,820
+which doubles the number of particles in the standard model,
+
+247
+00:10:14,820 --> 00:10:16,820
+which, at first sight, doesn't sound like a simplification.
+
+248
+00:10:16,820 --> 00:10:18,820
+But actually, with this theory,
+
+249
+00:10:18,820 --> 00:10:20,820
+we find that the forces of nature
+
+250
+00:10:20,820 --> 00:10:23,820
+do seem to unify together, back at the Big Bang --
+
+251
+00:10:23,820 --> 00:10:26,820
+absolutely beautiful prophecy. The model wasn't built to do that,
+
+252
+00:10:26,820 --> 00:10:28,820
+but it seems to do it.
+
+253
+00:10:28,820 --> 00:10:30,820
+Also, those super-symmetric particles
+
+254
+00:10:30,820 --> 00:10:32,820
+are very strong candidates for the dark matter.
+
+255
+00:10:32,820 --> 00:10:34,820
+So a very compelling theory
+
+256
+00:10:34,820 --> 00:10:36,820
+that's really mainstream physics.
+
+257
+00:10:36,820 --> 00:10:38,820
+And if I was to put money on it, I would put money on --
+
+258
+00:10:38,820 --> 00:10:40,820
+in a very unscientific way -- that
+
+259
+00:10:40,820 --> 00:10:42,820
+that these things would also crop up at the LHC.
+
+260
+00:10:43,820 --> 00:10:46,820
+Many other things that the LHC could discover.
+
+261
+00:10:46,820 --> 00:10:49,820
+But in the last few minutes, I just want to give you
+
+262
+00:10:49,820 --> 00:10:51,820
+a different perspective
+
+263
+00:10:51,820 --> 00:10:53,820
+of what I think -- what particle physics
+
+264
+00:10:53,820 --> 00:10:56,820
+really means to me -- particle physics and cosmology.
+
+265
+00:10:56,820 --> 00:10:59,820
+And that's that I think it's given us a wonderful
+
+266
+00:10:59,820 --> 00:11:02,820
+narrative -- almost a creation story,
+
+267
+00:11:02,820 --> 00:11:04,820
+if you'd like -- about the universe,
+
+268
+00:11:04,820 --> 00:11:07,820
+from modern science over the last few decades.
+
+269
+00:11:07,820 --> 00:11:09,820
+And I'd say that it deserves,
+
+270
+00:11:09,820 --> 00:11:11,820
+in the spirit of Wade Davis' talk,
+
+271
+00:11:11,820 --> 00:11:14,820
+to be at least put up there with these wonderful creation stories
+
+272
+00:11:14,820 --> 00:11:18,820
+of the peoples of the high Andes and the frozen north.
+
+273
+00:11:18,820 --> 00:11:21,820
+This is a creation story, I think, equally as wonderful.
+
+274
+00:11:22,820 --> 00:11:24,820
+The story goes like this: we know that
+
+275
+00:11:24,820 --> 00:11:27,820
+the universe began 13.7 billion years ago,
+
+276
+00:11:27,820 --> 00:11:30,820
+in an immensely hot, dense state,
+
+277
+00:11:30,820 --> 00:11:32,820
+much smaller than a single atom.
+
+278
+00:11:32,820 --> 00:11:34,820
+It began to expand about
+
+279
+00:11:34,820 --> 00:11:37,820
+a million, billion, billion, billion billionth
+
+280
+00:11:37,820 --> 00:11:41,820
+of a second -- I think I got that right -- after the Big Bang.
+
+281
+00:11:41,820 --> 00:11:43,820
+Gravity separated away from the other forces.
+
+282
+00:11:43,820 --> 00:11:45,820
+The universe then underwent
+
+283
+00:11:45,820 --> 00:11:48,820
+an exponential expansion called inflation.
+
+284
+00:11:48,820 --> 00:11:50,820
+In about the first billionth of a second or so,
+
+285
+00:11:50,820 --> 00:11:52,820
+the Higgs field kicked in, and the quarks
+
+286
+00:11:52,820 --> 00:11:55,820
+and the gluons and the electrons
+
+287
+00:11:55,820 --> 00:11:57,820
+that make us up got mass.
+
+288
+00:11:57,820 --> 00:12:00,820
+The universe continued to expand and cool.
+
+289
+00:12:00,820 --> 00:12:02,820
+After about a few minutes,
+
+290
+00:12:02,820 --> 00:12:05,820
+there was hydrogen and helium in the universe. That's all.
+
+291
+00:12:05,820 --> 00:12:08,820
+The universe was about 75 percent hydrogen,
+
+292
+00:12:08,820 --> 00:12:11,820
+25 percent helium. It still is today.
+
+293
+00:12:11,820 --> 00:12:13,820
+It continued to expand
+
+294
+00:12:13,820 --> 00:12:15,820
+about 300 million years.
+
+295
+00:12:15,820 --> 00:12:17,820
+Then light began to travel through the universe.
+
+296
+00:12:17,820 --> 00:12:19,820
+It was big enough to be transparent to light,
+
+297
+00:12:19,820 --> 00:12:21,820
+and that's what we see in the cosmic microwave background
+
+298
+00:12:21,820 --> 00:12:23,820
+that George Smoot described
+
+299
+00:12:23,820 --> 00:12:25,820
+as looking at the face of God.
+
+300
+00:12:25,820 --> 00:12:28,820
+After about 400 million years, the first stars formed,
+
+301
+00:12:28,820 --> 00:12:30,820
+and that hydrogen, that helium, then began to cook
+
+302
+00:12:30,820 --> 00:12:32,820
+into the heavier elements.
+
+303
+00:12:32,820 --> 00:12:34,820
+So the elements of life --
+
+304
+00:12:34,820 --> 00:12:36,820
+carbon, and oxygen and iron,
+
+305
+00:12:36,820 --> 00:12:38,820
+all the elements that we need to make us up --
+
+306
+00:12:38,820 --> 00:12:41,820
+were cooked in those first generations of stars,
+
+307
+00:12:41,820 --> 00:12:43,820
+which then ran out of fuel, exploded,
+
+308
+00:12:43,820 --> 00:12:46,820
+threw those elements back into the universe.
+
+309
+00:12:46,820 --> 00:12:48,820
+They then re-collapsed into another generation
+
+310
+00:12:48,820 --> 00:12:51,820
+of stars and planets.
+
+311
+00:12:51,820 --> 00:12:54,820
+And on some of those planets, the oxygen, which had been created
+
+312
+00:12:54,820 --> 00:12:57,820
+in that first generation of stars, could fuse with hydrogen
+
+313
+00:12:57,820 --> 00:13:00,820
+to form water, liquid water on the surface.
+
+314
+00:13:00,820 --> 00:13:03,820
+On at least one, and maybe only one of those planets,
+
+315
+00:13:03,820 --> 00:13:05,820
+primitive life evolved,
+
+316
+00:13:06,820 --> 00:13:08,820
+which evolved over millions of years into
+
+317
+00:13:08,820 --> 00:13:10,820
+things that walked upright and left footprints
+
+318
+00:13:10,820 --> 00:13:13,820
+about three and a half million years ago in the mud flats of Tanzania,
+
+319
+00:13:13,820 --> 00:13:15,820
+and eventually
+
+320
+00:13:15,820 --> 00:13:17,820
+left a footprint on another world.
+
+321
+00:13:17,820 --> 00:13:19,820
+And built this civilization,
+
+322
+00:13:19,820 --> 00:13:21,820
+this wonderful picture,
+
+323
+00:13:21,820 --> 00:13:24,820
+that turned the darkness into light,
+
+324
+00:13:24,820 --> 00:13:26,820
+and you can see the civilization from space.
+
+325
+00:13:26,820 --> 00:13:29,820
+As one of my great heroes, Carl Sagan, said,
+
+326
+00:13:29,820 --> 00:13:31,820
+these are the things -- and actually, not only these,
+
+327
+00:13:31,820 --> 00:13:33,820
+but I was looking around -- these are the things,
+
+328
+00:13:33,820 --> 00:13:36,820
+like Saturn V rockets, and Sputnik,
+
+329
+00:13:36,820 --> 00:13:38,820
+and DNA, and literature and science --
+
+330
+00:13:38,820 --> 00:13:40,820
+these are the things that hydrogen atoms do
+
+331
+00:13:40,820 --> 00:13:44,820
+when given 13.7 billion years.
+
+332
+00:13:44,820 --> 00:13:46,820
+Absolutely remarkable.
+
+333
+00:13:46,820 --> 00:13:48,820
+And, the laws of physics. Right?
+
+334
+00:13:48,820 --> 00:13:50,820
+So, the right laws of physics --
+
+335
+00:13:50,820 --> 00:13:52,820
+they're beautifully balanced.
+
+336
+00:13:52,820 --> 00:13:54,820
+If the weak force had been a little bit different,
+
+337
+00:13:54,820 --> 00:13:56,820
+then carbon and oxygen wouldn't be stable
+
+338
+00:13:56,820 --> 00:13:58,820
+inside the hearts of stars,
+
+339
+00:13:58,820 --> 00:14:01,820
+and there would be none of that in the universe.
+
+340
+00:14:01,820 --> 00:14:03,820
+And I think that's
+
+341
+00:14:03,820 --> 00:14:05,820
+a wonderful and significant story.
+
+342
+00:14:05,820 --> 00:14:07,820
+50 years ago, I couldn't have told that story,
+
+343
+00:14:07,820 --> 00:14:09,820
+because we didn't know it.
+
+344
+00:14:09,820 --> 00:14:11,820
+It makes me really feel that
+
+345
+00:14:11,820 --> 00:14:13,820
+that civilization --
+
+346
+00:14:13,820 --> 00:14:15,820
+which, as I say, if you believe
+
+347
+00:14:15,820 --> 00:14:17,820
+the scientific creation story,
+
+348
+00:14:17,820 --> 00:14:20,820
+has emerged purely as a result of the laws of physics,
+
+349
+00:14:20,820 --> 00:14:22,820
+and a few hydrogen atoms --
+
+350
+00:14:22,820 --> 00:14:24,820
+then I think, to me anyway,
+
+351
+00:14:25,820 --> 00:14:27,820
+it makes me feel incredibly valuable.
+
+352
+00:14:27,820 --> 00:14:29,820
+So that's the LHC.
+
+353
+00:14:29,820 --> 00:14:32,820
+The LHC is certainly, when it turns on in summer,
+
+354
+00:14:32,820 --> 00:14:35,820
+going to write the next chapter of that book.
+
+355
+00:14:35,820 --> 00:14:37,820
+And I'm certainly looking forward with
+
+356
+00:14:37,820 --> 00:14:39,820
+immense excitement to it being turned on.
+
+357
+00:14:39,820 --> 00:14:41,820
+Thanks.
+
+358
+00:14:41,820 --> 00:14:46,820
+(Applause)
+

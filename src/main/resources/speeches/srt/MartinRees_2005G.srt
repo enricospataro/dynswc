@@ -1,0 +1,1232 @@
+﻿1
+00:00:11,820 --> 00:00:17,820
+If you take 10,000 people at random, 9,999 have something in common:
+
+2
+00:00:17,820 --> 00:00:22,820
+their interests in business lie on or near the Earth's surface.
+
+3
+00:00:22,820 --> 00:00:26,820
+The odd one out is an astronomer, and I am one of that strange breed.
+
+4
+00:00:26,820 --> 00:00:27,820
+(Laughter)
+
+5
+00:00:27,820 --> 00:00:32,820
+My talk will be in two parts. I'll talk first as an astronomer,
+
+6
+00:00:32,820 --> 00:00:36,820
+and then as a worried member of the human race.
+
+7
+00:00:36,820 --> 00:00:41,820
+But let's start off by remembering that Darwin showed
+
+8
+00:00:41,820 --> 00:00:45,820
+how we're the outcome of four billion years of evolution.
+
+9
+00:00:45,820 --> 00:00:48,820
+And what we try to do in astronomy and cosmology
+
+10
+00:00:48,820 --> 00:00:51,820
+is to go back before Darwin's simple beginning,
+
+11
+00:00:51,820 --> 00:00:55,820
+to set our Earth in a cosmic context.
+
+12
+00:00:55,820 --> 00:00:58,820
+And let me just run through a few slides.
+
+13
+00:00:58,820 --> 00:01:02,820
+This was the impact that happened last week on a comet.
+
+14
+00:01:03,820 --> 00:01:05,820
+If they'd sent a nuke, it would have been rather more spectacular
+
+15
+00:01:05,820 --> 00:01:07,820
+than what actually happened last Monday.
+
+16
+00:01:08,820 --> 00:01:10,820
+So that's another project for NASA.
+
+17
+00:01:10,820 --> 00:01:15,820
+That's Mars from the European Mars Express, and at New Year.
+
+18
+00:01:15,820 --> 00:01:20,820
+This artist's impression turned into reality
+
+19
+00:01:20,820 --> 00:01:24,820
+when a parachute landed on Titan, Saturn's giant moon.
+
+20
+00:01:24,820 --> 00:01:28,820
+It landed on the surface. This is pictures taken on the way down.
+
+21
+00:01:28,820 --> 00:01:29,820
+That looks like a coastline.
+
+22
+00:01:29,820 --> 00:01:32,820
+It is indeed, but the ocean is liquid methane --
+
+23
+00:01:32,820 --> 00:01:37,820
+the temperature minus 170 degrees centigrade.
+
+24
+00:01:37,820 --> 00:01:39,820
+If we go beyond our solar system,
+
+25
+00:01:39,820 --> 00:01:43,820
+we've learned that the stars aren't twinkly points of light.
+
+26
+00:01:43,820 --> 00:01:47,820
+Each one is like a sun with a retinue of planets orbiting around it.
+
+27
+00:01:48,820 --> 00:01:51,820
+And we can see places where stars are forming,
+
+28
+00:01:51,820 --> 00:01:54,820
+like the Eagle Nebula. We see stars dying.
+
+29
+00:01:54,820 --> 00:01:57,820
+In six billion years, the sun will look like that.
+
+30
+00:01:57,820 --> 00:02:01,820
+And some stars die spectacularly in a supernova explosion,
+
+31
+00:02:01,820 --> 00:02:03,820
+leaving remnants like that.
+
+32
+00:02:03,820 --> 00:02:07,820
+On a still bigger scale, we see entire galaxies of stars.
+
+33
+00:02:07,820 --> 00:02:10,820
+We see entire ecosystems where gas is being recycled.
+
+34
+00:02:10,820 --> 00:02:12,820
+And to the cosmologist,
+
+35
+00:02:12,820 --> 00:02:18,820
+these galaxies are just the atoms, as it were, of the large-scale universe.
+
+36
+00:02:18,820 --> 00:02:21,820
+This picture shows a patch of sky
+
+37
+00:02:21,820 --> 00:02:24,820
+so small that it would take about 100 patches like it
+
+38
+00:02:24,820 --> 00:02:26,820
+to cover the full moon in the sky.
+
+39
+00:02:27,820 --> 00:02:29,820
+Through a small telescope, this would look quite blank,
+
+40
+00:02:29,820 --> 00:02:33,820
+but you see here hundreds of little, faint smudges.
+
+41
+00:02:33,820 --> 00:02:37,820
+Each is a galaxy, fully like ours or Andromeda,
+
+42
+00:02:37,820 --> 00:02:39,820
+which looks so small and faint because its light
+
+43
+00:02:39,820 --> 00:02:42,820
+has taken 10 billion light-years to get to us.
+
+44
+00:02:43,820 --> 00:02:47,820
+The stars in those galaxies probably don't have planets around them.
+
+45
+00:02:48,820 --> 00:02:51,820
+There's scant chance of life there -- that's because there's been no time
+
+46
+00:02:51,820 --> 00:02:57,820
+for the nuclear fusion in stars to make silicon and carbon and iron,
+
+47
+00:02:57,820 --> 00:03:00,820
+the building blocks of planets and of life.
+
+48
+00:03:01,820 --> 00:03:06,820
+We believe that all of this emerged from a Big Bang --
+
+49
+00:03:07,820 --> 00:03:11,820
+a hot, dense state. So how did that amorphous Big Bang
+
+50
+00:03:11,820 --> 00:03:13,820
+turn into our complex cosmos?
+
+51
+00:03:13,820 --> 00:03:16,820
+I'm going to show you a movie simulation
+
+52
+00:03:16,820 --> 00:03:18,820
+16 powers of 10 faster than real time,
+
+53
+00:03:18,820 --> 00:03:22,820
+which shows a patch of the universe where the expansions have subtracted out.
+
+54
+00:03:22,820 --> 00:03:26,820
+But you see, as time goes on in gigayears at the bottom,
+
+55
+00:03:26,820 --> 00:03:29,820
+you will see structures evolve as gravity feeds
+
+56
+00:03:29,820 --> 00:03:33,820
+on small, dense irregularities, and structures develop.
+
+57
+00:03:33,820 --> 00:03:35,820
+And we'll end up after 13 billion years
+
+58
+00:03:35,820 --> 00:03:39,820
+with something looking rather like our own universe.
+
+59
+00:03:42,820 --> 00:03:45,820
+And we compare simulated universes like that --
+
+60
+00:03:45,820 --> 00:03:47,820
+I'll show you a better simulation at the end of my talk --
+
+61
+00:03:47,820 --> 00:03:51,820
+with what we actually see in the sky.
+
+62
+00:03:51,820 --> 00:03:57,820
+Well, we can trace things back to the earlier stages of the Big Bang,
+
+63
+00:03:57,820 --> 00:04:01,820
+but we still don't know what banged and why it banged.
+
+64
+00:04:01,820 --> 00:04:04,820
+That's a challenge for 21st-century science.
+
+65
+00:04:06,820 --> 00:04:09,820
+If my research group had a logo, it would be this picture here:
+
+66
+00:04:09,820 --> 00:04:13,820
+an ouroboros, where you see the micro-world on the left --
+
+67
+00:04:14,820 --> 00:04:17,820
+the world of the quantum -- and on the right
+
+68
+00:04:17,820 --> 00:04:22,820
+the large-scale universe of planets, stars and galaxies.
+
+69
+00:04:22,820 --> 00:04:24,820
+We know our universes are united though --
+
+70
+00:04:24,820 --> 00:04:26,820
+links between left and right.
+
+71
+00:04:26,820 --> 00:04:28,820
+The everyday world is determined by atoms,
+
+72
+00:04:28,820 --> 00:04:30,820
+how they stick together to make molecules.
+
+73
+00:04:30,820 --> 00:04:36,820
+Stars are fueled by how the nuclei in those atoms react together.
+
+74
+00:04:36,820 --> 00:04:39,820
+And, as we've learned in the last few years, galaxies are held together
+
+75
+00:04:39,820 --> 00:04:42,820
+by the gravitational pull of so-called dark matter:
+
+76
+00:04:42,820 --> 00:04:47,820
+particles in huge swarms, far smaller even than atomic nuclei.
+
+77
+00:04:48,820 --> 00:04:54,820
+But we'd like to know the synthesis symbolized at the very top.
+
+78
+00:04:54,820 --> 00:04:57,820
+The micro-world of the quantum is understood.
+
+79
+00:04:57,820 --> 00:05:01,820
+On the right hand side, gravity holds sway. Einstein explained that.
+
+80
+00:05:02,820 --> 00:05:05,820
+But the unfinished business for 21st-century science
+
+81
+00:05:05,820 --> 00:05:07,820
+is to link together cosmos and micro-world
+
+82
+00:05:07,820 --> 00:05:11,820
+with a unified theory -- symbolized, as it were, gastronomically
+
+83
+00:05:11,820 --> 00:05:13,820
+at the top of that picture. (Laughter)
+
+84
+00:05:13,820 --> 00:05:15,820
+And until we have that synthesis,
+
+85
+00:05:15,820 --> 00:05:18,820
+we won't be able to understand the very beginning of our universe
+
+86
+00:05:18,820 --> 00:05:21,820
+because when our universe was itself the size of an atom,
+
+87
+00:05:21,820 --> 00:05:23,820
+quantum effects could shake everything.
+
+88
+00:05:24,820 --> 00:05:28,820
+And so we need a theory that unifies the very large and the very small,
+
+89
+00:05:28,820 --> 00:05:30,820
+which we don't yet have.
+
+90
+00:05:31,820 --> 00:05:33,820
+One idea, incidentally --
+
+91
+00:05:33,820 --> 00:05:37,820
+and I had this hazard sign to say I'm going to speculate from now on --
+
+92
+00:05:38,820 --> 00:05:40,820
+is that our Big Bang was not the only one.
+
+93
+00:05:40,820 --> 00:05:44,820
+One idea is that our three-dimensional universe
+
+94
+00:05:44,820 --> 00:05:46,820
+may be embedded in a high-dimensional space,
+
+95
+00:05:46,820 --> 00:05:49,820
+just as you can imagine on these sheets of paper.
+
+96
+00:05:49,820 --> 00:05:51,820
+You can imagine ants on one of them
+
+97
+00:05:51,820 --> 00:05:53,820
+thinking it's a two-dimensional universe,
+
+98
+00:05:53,820 --> 00:05:55,820
+not being aware of another population of ants on the other.
+
+99
+00:05:55,820 --> 00:05:59,820
+So there could be another universe just a millimeter away from ours,
+
+100
+00:05:59,820 --> 00:06:02,820
+but we're not aware of it because that millimeter
+
+101
+00:06:02,820 --> 00:06:04,820
+is measured in some fourth spatial dimension,
+
+102
+00:06:04,820 --> 00:06:06,820
+and we're imprisoned in our three.
+
+103
+00:06:06,820 --> 00:06:11,820
+And so we believe that there may be a lot more to physical reality
+
+104
+00:06:11,820 --> 00:06:13,820
+than what we've normally called our universe --
+
+105
+00:06:13,820 --> 00:06:16,820
+the aftermath of our Big Bang. And here's another picture.
+
+106
+00:06:16,820 --> 00:06:18,820
+Bottom right depicts our universe,
+
+107
+00:06:18,820 --> 00:06:20,820
+which on the horizon is not beyond that,
+
+108
+00:06:20,820 --> 00:06:25,820
+but even that is just one bubble, as it were, in some vaster reality.
+
+109
+00:06:25,820 --> 00:06:28,820
+Many people suspect that just as we've gone from believing
+
+110
+00:06:28,820 --> 00:06:32,820
+in one solar system to zillions of solar systems,
+
+111
+00:06:32,820 --> 00:06:34,820
+one galaxy to many galaxies,
+
+112
+00:06:34,820 --> 00:06:38,820
+we have to go to many Big Bangs from one Big Bang,
+
+113
+00:06:38,820 --> 00:06:40,820
+perhaps these many Big Bangs displaying
+
+114
+00:06:40,820 --> 00:06:42,820
+an immense variety of properties.
+
+115
+00:06:42,820 --> 00:06:44,820
+Well, let's go back to this picture.
+
+116
+00:06:44,820 --> 00:06:46,820
+There's one challenge symbolized at the top,
+
+117
+00:06:47,820 --> 00:06:51,820
+but there's another challenge to science symbolized at the bottom.
+
+118
+00:06:51,820 --> 00:06:54,820
+You want to not only synthesize the very large and the very small,
+
+119
+00:06:54,820 --> 00:06:56,820
+but we want to understand the very complex.
+
+120
+00:06:57,820 --> 00:06:59,820
+And the most complex things are ourselves,
+
+121
+00:06:59,820 --> 00:07:01,820
+midway between atoms and stars.
+
+122
+00:07:01,820 --> 00:07:03,820
+We depend on stars to make the atoms we're made of.
+
+123
+00:07:03,820 --> 00:07:08,820
+We depend on chemistry to determine our complex structure.
+
+124
+00:07:09,820 --> 00:07:11,820
+We clearly have to be large, compared to atoms,
+
+125
+00:07:12,820 --> 00:07:14,820
+to have layer upon layer of complex structure.
+
+126
+00:07:14,820 --> 00:07:17,820
+We clearly have to be small, compared to stars and planets --
+
+127
+00:07:17,820 --> 00:07:21,820
+otherwise we'd be crushed by gravity. And in fact, we are midway.
+
+128
+00:07:21,820 --> 00:07:23,820
+It would take as many human bodies to make up the sun
+
+129
+00:07:23,820 --> 00:07:25,820
+as there are atoms in each of us.
+
+130
+00:07:25,820 --> 00:07:27,820
+The geometric mean of the mass of a proton
+
+131
+00:07:27,820 --> 00:07:30,820
+and the mass of the sun is 50 kilograms,
+
+132
+00:07:30,820 --> 00:07:33,820
+within a factor of two of the mass of each person here.
+
+133
+00:07:33,820 --> 00:07:34,820
+Well, most of you anyway.
+
+134
+00:07:34,820 --> 00:07:39,820
+The science of complexity is probably the greatest challenge of all,
+
+135
+00:07:39,820 --> 00:07:41,820
+greater than that of the very small on the left
+
+136
+00:07:41,820 --> 00:07:43,820
+and the very large on the right.
+
+137
+00:07:44,820 --> 00:07:46,820
+And it's this science,
+
+138
+00:07:46,820 --> 00:07:50,820
+which is not only enlightening our understanding of the biological world,
+
+139
+00:07:50,820 --> 00:07:53,820
+but also transforming our world faster than ever.
+
+140
+00:07:54,820 --> 00:07:57,820
+And more than that, it's engendering new kinds of change.
+
+141
+00:07:58,820 --> 00:08:02,820
+And I now move on to the second part of my talk,
+
+142
+00:08:03,820 --> 00:08:07,820
+and the book "Our Final Century" was mentioned.
+
+143
+00:08:07,820 --> 00:08:11,820
+If I was not a self-effacing Brit, I would mention the book myself,
+
+144
+00:08:11,820 --> 00:08:14,820
+and I would add that it's available in paperback.
+
+145
+00:08:14,820 --> 00:08:16,820
+(Laughter)
+
+146
+00:08:17,820 --> 00:08:20,820
+And in America it was called "Our Final Hour"
+
+147
+00:08:20,820 --> 00:08:22,820
+because Americans like instant gratification.
+
+148
+00:08:22,820 --> 00:08:24,820
+(Laughter)
+
+149
+00:08:24,820 --> 00:08:27,820
+But my theme is that in this century,
+
+150
+00:08:27,820 --> 00:08:30,820
+not only has science changed the world faster than ever,
+
+151
+00:08:30,820 --> 00:08:32,820
+but in new and different ways.
+
+152
+00:08:33,820 --> 00:08:37,820
+Targeted drugs, genetic modification, artificial intelligence,
+
+153
+00:08:37,820 --> 00:08:39,820
+perhaps even implants into our brains,
+
+154
+00:08:39,820 --> 00:08:42,820
+may change human beings themselves. And human beings,
+
+155
+00:08:42,820 --> 00:08:46,820
+their physique and character, has not changed for thousands of years.
+
+156
+00:08:46,820 --> 00:08:48,820
+It may change this century.
+
+157
+00:08:48,820 --> 00:08:50,820
+It's new in our history.
+
+158
+00:08:50,820 --> 00:08:53,820
+And the human impact on the global environment -- greenhouse warming,
+
+159
+00:08:53,820 --> 00:08:56,820
+mass extinctions and so forth -- is unprecedented, too.
+
+160
+00:08:57,820 --> 00:09:00,820
+And so, this makes this coming century a challenge.
+
+161
+00:09:02,820 --> 00:09:05,820
+Bio- and cybertechnologies are environmentally benign
+
+162
+00:09:05,820 --> 00:09:07,820
+in that they offer marvelous prospects,
+
+163
+00:09:07,820 --> 00:09:10,820
+while, nonetheless, reducing pressure on energy and resources.
+
+164
+00:09:11,820 --> 00:09:13,820
+But they will have a dark side.
+
+165
+00:09:14,820 --> 00:09:18,820
+In our interconnected world, novel technology could empower
+
+166
+00:09:18,820 --> 00:09:20,820
+just one fanatic,
+
+167
+00:09:20,820 --> 00:09:24,820
+or some weirdo with a mindset of those who now design computer viruses,
+
+168
+00:09:24,820 --> 00:09:26,820
+to trigger some kind on disaster.
+
+169
+00:09:26,820 --> 00:09:30,820
+Indeed, catastrophe could arise simply from technical misadventure --
+
+170
+00:09:30,820 --> 00:09:32,820
+error rather than terror.
+
+171
+00:09:32,820 --> 00:09:37,820
+And even a tiny probability of catastrophe is unacceptable
+
+172
+00:09:37,820 --> 00:09:40,820
+when the downside could be of global consequence.
+
+173
+00:09:42,820 --> 00:09:46,820
+In fact, some years ago, Bill Joy wrote an article
+
+174
+00:09:46,820 --> 00:09:50,820
+expressing tremendous concern about robots taking us over, etc.
+
+175
+00:09:50,820 --> 00:09:51,820
+I don't go along with all that,
+
+176
+00:09:51,820 --> 00:09:53,820
+but it's interesting that he had a simple solution.
+
+177
+00:09:53,820 --> 00:09:56,820
+It was what he called "fine-grained relinquishment."
+
+178
+00:09:56,820 --> 00:09:59,820
+He wanted to give up the dangerous kind of science
+
+179
+00:09:59,820 --> 00:10:03,820
+and keep the good bits. Now, that's absurdly naive for two reasons.
+
+180
+00:10:03,820 --> 00:10:07,820
+First, any scientific discovery has benign consequences
+
+181
+00:10:07,820 --> 00:10:09,820
+as well as dangerous ones.
+
+182
+00:10:09,820 --> 00:10:12,820
+And also, when a scientist makes a discovery,
+
+183
+00:10:12,820 --> 00:10:16,820
+he or she normally has no clue what the applications are going to be.
+
+184
+00:10:16,820 --> 00:10:21,820
+And so what this means is that we have to accept the risks
+
+185
+00:10:21,820 --> 00:10:25,820
+if we are going to enjoy the benefits of science.
+
+186
+00:10:25,820 --> 00:10:27,820
+We have to accept that there will be hazards.
+
+187
+00:10:28,820 --> 00:10:34,820
+And I think we have to go back to what happened in the post-War era,
+
+188
+00:10:34,820 --> 00:10:37,820
+post-World War II, when the nuclear scientists
+
+189
+00:10:37,820 --> 00:10:39,820
+who'd been involved in making the atomic bomb,
+
+190
+00:10:39,820 --> 00:10:43,820
+in many cases were concerned that they should do all they could
+
+191
+00:10:43,820 --> 00:10:45,820
+to alert the world to the dangers.
+
+192
+00:10:45,820 --> 00:10:49,820
+And they were inspired not by the young Einstein,
+
+193
+00:10:49,820 --> 00:10:54,820
+who did the great work in relativity, but by the old Einstein,
+
+194
+00:10:54,820 --> 00:10:57,820
+the icon of poster and t-shirt,
+
+195
+00:10:57,820 --> 00:11:01,820
+who failed in his scientific efforts to unify the physical laws.
+
+196
+00:11:01,820 --> 00:11:04,820
+He was premature. But he was a moral compass --
+
+197
+00:11:04,820 --> 00:11:09,820
+an inspiration to scientists who were concerned with arms control.
+
+198
+00:11:09,820 --> 00:11:11,820
+And perhaps the greatest living person
+
+199
+00:11:11,820 --> 00:11:14,820
+is someone I'm privileged to know, Joe Rothblatt.
+
+200
+00:11:14,820 --> 00:11:17,820
+Equally untidy office there, as you can see.
+
+201
+00:11:17,820 --> 00:11:21,820
+He's 96 years old, and he founded the Pugwash movement.
+
+202
+00:11:21,820 --> 00:11:23,820
+He persuaded Einstein, as his last act,
+
+203
+00:11:23,820 --> 00:11:26,820
+to sign the famous memorandum of Bertrand Russell.
+
+204
+00:11:26,820 --> 00:11:30,820
+And he sets an example of the concerned scientist.
+
+205
+00:11:31,820 --> 00:11:34,820
+And I think to harness science optimally,
+
+206
+00:11:34,820 --> 00:11:37,820
+to choose which doors to open and which to leave closed,
+
+207
+00:11:37,820 --> 00:11:42,820
+we need latter-day counterparts of people like Joseph Rothblatt.
+
+208
+00:11:42,820 --> 00:11:44,820
+We need not just campaigning physicists,
+
+209
+00:11:44,820 --> 00:11:46,820
+but we need biologists, computer experts
+
+210
+00:11:46,820 --> 00:11:48,820
+and environmentalists as well.
+
+211
+00:11:49,820 --> 00:11:52,820
+And I think academics and independent entrepreneurs
+
+212
+00:11:52,820 --> 00:11:54,820
+have a special obligation because they have more freedom
+
+213
+00:11:54,820 --> 00:11:56,820
+than those in government service,
+
+214
+00:11:56,820 --> 00:11:59,820
+or company employees subject to commercial pressure.
+
+215
+00:11:59,820 --> 00:12:04,820
+I wrote my book, "Our Final Century," as a scientist,
+
+216
+00:12:04,820 --> 00:12:07,820
+just a general scientist. But there's one respect, I think,
+
+217
+00:12:07,820 --> 00:12:11,820
+in which being a cosmologist offered a special perspective,
+
+218
+00:12:11,820 --> 00:12:15,820
+and that's that it offers an awareness of the immense future.
+
+219
+00:12:15,820 --> 00:12:18,820
+The stupendous time spans of the evolutionary past
+
+220
+00:12:18,820 --> 00:12:21,820
+are now part of common culture --
+
+221
+00:12:21,820 --> 00:12:24,820
+outside the American Bible Belt, anyway --
+
+222
+00:12:24,820 --> 00:12:25,820
+(Laughter)
+
+223
+00:12:25,820 --> 00:12:29,820
+but most people, even those who are familiar with evolution,
+
+224
+00:12:29,820 --> 00:12:32,820
+aren't mindful that even more time lies ahead.
+
+225
+00:12:33,820 --> 00:12:36,820
+The sun has been shining for four and a half billion years,
+
+226
+00:12:36,820 --> 00:12:40,820
+but it'll be another six billion years before its fuel runs out.
+
+227
+00:12:40,820 --> 00:12:45,820
+On that schematic picture, a sort of time-lapse picture, we're halfway.
+
+228
+00:12:46,820 --> 00:12:51,820
+And it'll be another six billion before that happens,
+
+229
+00:12:51,820 --> 00:12:55,820
+and any remaining life on Earth is vaporized.
+
+230
+00:12:56,820 --> 00:12:59,820
+There's an unthinking tendency to imagine that humans will be there,
+
+231
+00:12:59,820 --> 00:13:01,820
+experiencing the sun's demise,
+
+232
+00:13:01,820 --> 00:13:04,820
+but any life and intelligence that exists then
+
+233
+00:13:04,820 --> 00:13:08,820
+will be as different from us as we are from bacteria.
+
+234
+00:13:08,820 --> 00:13:10,820
+The unfolding of intelligence and complexity
+
+235
+00:13:10,820 --> 00:13:15,820
+still has immensely far to go, here on Earth and probably far beyond.
+
+236
+00:13:16,820 --> 00:13:19,820
+So we are still at the beginning of the emergence of complexity
+
+237
+00:13:19,820 --> 00:13:21,820
+in our Earth and beyond.
+
+238
+00:13:22,820 --> 00:13:26,820
+If you represent the Earth's lifetime by a single year,
+
+239
+00:13:26,820 --> 00:13:29,820
+say from January when it was made to December,
+
+240
+00:13:29,820 --> 00:13:34,820
+the 21st-century would be a quarter of a second in June --
+
+241
+00:13:35,820 --> 00:13:37,820
+a tiny fraction of the year.
+
+242
+00:13:38,820 --> 00:13:42,820
+But even in this concertinaed cosmic perspective,
+
+243
+00:13:42,820 --> 00:13:44,820
+our century is very, very special,
+
+244
+00:13:45,820 --> 00:13:49,820
+the first when humans can change themselves and their home planet.
+
+245
+00:13:50,820 --> 00:13:53,820
+As I should have shown this earlier,
+
+246
+00:13:53,820 --> 00:13:56,820
+it will not be humans who witness the end point of the sun;
+
+247
+00:13:56,820 --> 00:13:59,820
+it will be creatures as different from us as we are from bacteria.
+
+248
+00:14:01,820 --> 00:14:04,820
+When Einstein died in 1955,
+
+249
+00:14:04,820 --> 00:14:07,820
+one striking tribute to his global status was this cartoon
+
+250
+00:14:07,820 --> 00:14:09,820
+by Herblock in the Washington Post.
+
+251
+00:14:09,820 --> 00:14:12,820
+The plaque reads, "Albert Einstein lived here."
+
+252
+00:14:13,820 --> 00:14:17,820
+And I'd like to end with a vignette, as it were, inspired by this image.
+
+253
+00:14:17,820 --> 00:14:23,820
+We've been familiar for 40 years with this image:
+
+254
+00:14:23,820 --> 00:14:26,820
+the fragile beauty of land, ocean and clouds,
+
+255
+00:14:26,820 --> 00:14:28,820
+contrasted with the sterile moonscape
+
+256
+00:14:28,820 --> 00:14:31,820
+on which the astronauts left their footprints.
+
+257
+00:14:32,820 --> 00:14:36,820
+But let's suppose some aliens had been watching our pale blue dot
+
+258
+00:14:36,820 --> 00:14:40,820
+in the cosmos from afar, not just for 40 years,
+
+259
+00:14:40,820 --> 00:14:44,820
+but for the entire 4.5 billion-year history of our Earth.
+
+260
+00:14:45,820 --> 00:14:47,820
+What would they have seen?
+
+261
+00:14:47,820 --> 00:14:49,820
+Over nearly all that immense time,
+
+262
+00:14:49,820 --> 00:14:52,820
+Earth's appearance would have changed very gradually.
+
+263
+00:14:52,820 --> 00:14:54,820
+The only abrupt worldwide change
+
+264
+00:14:54,820 --> 00:15:00,820
+would have been major asteroid impacts or volcanic super-eruptions.
+
+265
+00:15:00,820 --> 00:15:04,820
+Apart from those brief traumas, nothing happens suddenly.
+
+266
+00:15:04,820 --> 00:15:07,820
+The continental landmasses drifted around.
+
+267
+00:15:07,820 --> 00:15:09,820
+Ice cover waxed and waned.
+
+268
+00:15:09,820 --> 00:15:12,820
+Successions of new species emerged, evolved and became extinct.
+
+269
+00:15:13,820 --> 00:15:17,820
+But in just a tiny sliver of the Earth's history,
+
+270
+00:15:17,820 --> 00:15:20,820
+the last one-millionth part, a few thousand years,
+
+271
+00:15:21,820 --> 00:15:24,820
+the patterns of vegetation altered much faster than before.
+
+272
+00:15:24,820 --> 00:15:27,820
+This signaled the start of agriculture.
+
+273
+00:15:27,820 --> 00:15:31,820
+Change has accelerated as human populations rose.
+
+274
+00:15:31,820 --> 00:15:33,820
+Then other things happened even more abruptly.
+
+275
+00:15:33,820 --> 00:15:35,820
+Within just 50 years --
+
+276
+00:15:35,820 --> 00:15:39,820
+that's one hundredth of one millionth of the Earth's age --
+
+277
+00:15:39,820 --> 00:15:43,820
+the amount of carbon dioxide in the atmosphere started to rise,
+
+278
+00:15:43,820 --> 00:15:45,820
+and ominously fast.
+
+279
+00:15:45,820 --> 00:15:47,820
+The planet became an intense emitter of radio waves --
+
+280
+00:15:47,820 --> 00:15:51,820
+the total output from all TV and cell phones
+
+281
+00:15:51,820 --> 00:15:54,820
+and radar transmissions. And something else happened.
+
+282
+00:15:54,820 --> 00:15:59,820
+Metallic objects -- albeit very small ones, a few tons at most --
+
+283
+00:15:59,820 --> 00:16:02,820
+escaped into orbit around the Earth.
+
+284
+00:16:02,820 --> 00:16:04,820
+Some journeyed to the moons and planets.
+
+285
+00:16:04,820 --> 00:16:06,820
+A race of advanced extraterrestrials
+
+286
+00:16:06,820 --> 00:16:09,820
+watching our solar system from afar
+
+287
+00:16:09,820 --> 00:16:14,820
+could confidently predict Earth's final doom in another six billion years.
+
+288
+00:16:14,820 --> 00:16:18,820
+But could they have predicted this unprecedented spike
+
+289
+00:16:18,820 --> 00:16:21,820
+less than halfway through the Earth's life?
+
+290
+00:16:21,820 --> 00:16:23,820
+These human-induced alterations
+
+291
+00:16:23,820 --> 00:16:27,820
+occupying overall less than a millionth of the elapsed lifetime
+
+292
+00:16:27,820 --> 00:16:30,820
+and seemingly occurring with runaway speed?
+
+293
+00:16:30,820 --> 00:16:32,820
+If they continued their vigil,
+
+294
+00:16:32,820 --> 00:16:34,820
+what might these hypothetical aliens witness
+
+295
+00:16:34,820 --> 00:16:36,820
+in the next hundred years?
+
+296
+00:16:37,820 --> 00:16:40,820
+Will some spasm foreclose Earth's future?
+
+297
+00:16:40,820 --> 00:16:42,820
+Or will the biosphere stabilize?
+
+298
+00:16:43,820 --> 00:16:46,820
+Or will some of the metallic objects launched from the Earth
+
+299
+00:16:46,820 --> 00:16:50,820
+spawn new oases, a post-human life elsewhere?
+
+300
+00:16:50,820 --> 00:16:53,820
+The science done by the young Einstein will continue
+
+301
+00:16:53,820 --> 00:16:58,820
+as long as our civilization, but for civilization to survive,
+
+302
+00:16:58,820 --> 00:17:00,820
+we'll need the wisdom of the old Einstein --
+
+303
+00:17:00,820 --> 00:17:02,820
+humane, global and farseeing.
+
+304
+00:17:02,820 --> 00:17:07,820
+And whatever happens in this uniquely crucial century
+
+305
+00:17:07,820 --> 00:17:13,820
+will resonate into the remote future and perhaps far beyond the Earth,
+
+306
+00:17:13,820 --> 00:17:15,820
+far beyond the Earth as depicted here.
+
+307
+00:17:15,820 --> 00:17:17,820
+Thank you very much.
+
+308
+00:17:17,820 --> 00:17:20,820
+(Applause)
+

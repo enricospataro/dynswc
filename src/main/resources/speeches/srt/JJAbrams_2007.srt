@@ -1,0 +1,1216 @@
+﻿1
+00:00:11,820 --> 00:00:17,820
+I wanna start today -- here's my thing. Hold on. There I go.
+
+2
+00:00:17,820 --> 00:00:23,820
+Hey. I wanna start today -- talk about the structure of a polypeptide. (Laughter)
+
+3
+00:00:23,820 --> 00:00:27,820
+I get a lot of people asking me, in terms of "Lost," you know,
+
+4
+00:00:27,820 --> 00:00:29,820
+"What the hell's that island?" You know,
+
+5
+00:00:29,820 --> 00:00:31,820
+it's usually followed by,
+
+6
+00:00:31,820 --> 00:00:33,820
+"No, seriously, what the hell is that island?"
+
+7
+00:00:33,820 --> 00:00:34,820
+(Laughter)
+
+8
+00:00:34,820 --> 00:00:38,820
+Why so many mysteries? What is it about mystery that I seem to be drawn to?
+
+9
+00:00:38,820 --> 00:00:41,820
+And I was thinking about this, what to talk about at TED.
+
+10
+00:00:41,820 --> 00:00:45,820
+When I talked to the kind rep from TED, and I said,
+
+11
+00:00:45,820 --> 00:00:47,820
+"Listen, you know, what should I talk about?"
+
+12
+00:00:47,820 --> 00:00:49,820
+He said, "Don't worry about it. Just be profound."
+
+13
+00:00:49,820 --> 00:00:53,820
+(Laughter) And I took enormous comfort in that.
+
+14
+00:00:53,820 --> 00:00:55,820
+So thank you, if you're here.
+
+15
+00:00:55,820 --> 00:00:57,820
+I was trying to think, what do I talk about? It's a good question.
+
+16
+00:00:57,820 --> 00:01:01,820
+Why do I do so much stuff that involves mystery? And I started trying to figure it out.
+
+17
+00:01:01,820 --> 00:01:03,820
+And I started thinking about why do I do any of what I do,
+
+18
+00:01:03,820 --> 00:01:05,820
+and I started thinking about my grandfather.
+
+19
+00:01:05,820 --> 00:01:11,820
+I loved my grandfather. Harry Kelvin was his name,
+
+20
+00:01:11,820 --> 00:01:14,820
+my mother's father. He died in 1986. He was an amazing guy.
+
+21
+00:01:14,820 --> 00:01:16,820
+And one of the reasons he was amazing:
+
+22
+00:01:16,820 --> 00:01:18,820
+After World War II he began an electronics company.
+
+23
+00:01:18,820 --> 00:01:23,820
+He started selling surplus parts, kits, to schools and stuff.
+
+24
+00:01:23,820 --> 00:01:26,820
+So he had this incredible curiosity. As a kid I saw him
+
+25
+00:01:26,820 --> 00:01:29,820
+come over to me with radios and telephones and all sorts of things.
+
+26
+00:01:29,820 --> 00:01:32,820
+And he'd open them up, he'd unscrew them, and reveal the inner workings --
+
+27
+00:01:32,820 --> 00:01:35,820
+which many of us, I'm sure, take for granted.
+
+28
+00:01:35,820 --> 00:01:37,820
+But it's an amazing gift to give a kid.
+
+29
+00:01:37,820 --> 00:01:42,820
+To open up this thing and show how it works and why it works and what it is.
+
+30
+00:01:42,820 --> 00:01:46,820
+He was the ultimate deconstructer, in many ways.
+
+31
+00:01:46,820 --> 00:01:51,820
+And my grandfather was a kind of guy who would not only take things apart,
+
+32
+00:01:51,820 --> 00:01:54,820
+but he got me interested in all sorts of different odd crafts,
+
+33
+00:01:54,820 --> 00:01:59,820
+like, you know, printing, like the letter press. I'm obsessed with printing.
+
+34
+00:01:59,820 --> 00:02:02,820
+I'm obsessed with silk screening and bookbinding and box making.
+
+35
+00:02:02,820 --> 00:02:06,820
+When I was a kid, I was always, like, taking apart boxes and stuff.
+
+36
+00:02:06,820 --> 00:02:09,820
+And last night in the hotel, I took apart the Kleenex box.
+
+37
+00:02:09,820 --> 00:02:14,820
+I was just looking at it. And I'm telling you ... (Laughter) It's a beautiful thing.
+
+38
+00:02:14,820 --> 00:02:17,820
+I swear to God. I mean, when you look at the box, and you sort of see how it works.
+
+39
+00:02:17,820 --> 00:02:22,820
+Rives is here, and I met him years ago at a book fair; he does pop-up books.
+
+40
+00:02:22,820 --> 00:02:24,820
+And I'm obsessed with, like, engineering of paper.
+
+41
+00:02:24,820 --> 00:02:27,820
+But like, the scoring of it, the printing of it, where the thing gets glued,
+
+42
+00:02:27,820 --> 00:02:30,820
+you know, the registration marks for the ink. I just love boxes.
+
+43
+00:02:30,820 --> 00:02:32,820
+My grandfather was sort of the guy who, you know,
+
+44
+00:02:32,820 --> 00:02:34,820
+kind of got me into all sorts of these things.
+
+45
+00:02:34,820 --> 00:02:36,820
+He would also supply me with tools.
+
+46
+00:02:36,820 --> 00:02:41,820
+He was this amazing encourager -- this patron, sort of, to make stuff.
+
+47
+00:02:41,820 --> 00:02:45,820
+And he got me a Super 8 camera when I was 10 years old.
+
+48
+00:02:45,820 --> 00:02:48,820
+And in 1976, that was sort of an anomaly,
+
+49
+00:02:48,820 --> 00:02:51,820
+to be a 10-year-old kid that had access to a camera.
+
+50
+00:02:51,820 --> 00:02:54,820
+And you know, he was so generous; I couldn't believe it.
+
+51
+00:02:54,820 --> 00:02:57,820
+He wasn't doing it entirely without some manipulation.
+
+52
+00:02:57,820 --> 00:02:59,820
+I mean, I would call him, and I'd be like,
+
+53
+00:02:59,820 --> 00:03:02,820
+"Listen, Grandpa, I really need this camera.
+
+54
+00:03:02,820 --> 00:03:05,820
+You don't understand. This is, like, you know, I want to make movies.
+
+55
+00:03:05,820 --> 00:03:09,820
+I'll get invited to TED one day. This is like -- " (Laughter)
+
+56
+00:03:09,820 --> 00:03:11,820
+And you know, and my grandmother was the greatest.
+
+57
+00:03:11,820 --> 00:03:13,820
+Because she'd be like, you know -- she'd get on the phone.
+
+58
+00:03:13,820 --> 00:03:17,820
+She'd be like, "Harry, it's better than the drugs. He should be doing -- "
+
+59
+00:03:17,820 --> 00:03:19,820
+She was fantastic. (Laughter)
+
+60
+00:03:19,820 --> 00:03:22,820
+So I found myself getting this stuff,
+
+61
+00:03:22,820 --> 00:03:24,820
+thanks to her assist, and suddenly, you know,
+
+62
+00:03:24,820 --> 00:03:28,820
+I had a synthesizer when I was 14 years old -- this kind of stuff.
+
+63
+00:03:28,820 --> 00:03:32,820
+And it let me make things, which, to me, was sort of the dream.
+
+64
+00:03:32,820 --> 00:03:36,820
+He sort of humored my obsession to other things too, like magic.
+
+65
+00:03:36,820 --> 00:03:40,820
+The thing is, we'd go to this magic store in New York City called Lou Tannen's Magic.
+
+66
+00:03:40,820 --> 00:03:43,820
+It was this great magic store. It was a crappy little building in Midtown,
+
+67
+00:03:43,820 --> 00:03:45,820
+but you'd be in the elevator, the elevator would open --
+
+68
+00:03:45,820 --> 00:03:48,820
+there'd be this little, small magic store. You'd be in the magic store.
+
+69
+00:03:48,820 --> 00:03:50,820
+And it was just, it was a magical place.
+
+70
+00:03:50,820 --> 00:03:52,820
+So I got all these sort of magic tricks. Oh, here. I'll show you.
+
+71
+00:03:52,820 --> 00:03:56,820
+This is the kind of thing. So it would be like, you know. Right?
+
+72
+00:03:56,820 --> 00:03:58,820
+Which is good, but now I can't move.
+
+73
+00:03:58,820 --> 00:04:00,820
+Now, I have to do this, the rest of the thing, like this.
+
+74
+00:04:00,820 --> 00:04:03,820
+I'm like, "Oh, wow. Look at my computer over there!" (Laughter)
+
+75
+00:04:03,820 --> 00:04:09,820
+Anyway, so one of the things that I bought at the magic store was this:
+
+76
+00:04:09,820 --> 00:04:11,820
+Tannen's Mystery Magic Box.
+
+77
+00:04:11,820 --> 00:04:13,820
+The premise behind the mystery magic box was the following:
+
+78
+00:04:13,820 --> 00:04:18,820
+15 dollars buys you 50 dollars worth of magic.
+
+79
+00:04:18,820 --> 00:04:21,820
+Which is a savings. (Laughter)
+
+80
+00:04:21,820 --> 00:04:23,820
+Now, I bought this decades ago and I'm not kidding.
+
+81
+00:04:23,820 --> 00:04:26,820
+If you look at this, you'll see it's never been opened.
+
+82
+00:04:26,820 --> 00:04:29,820
+But I've had this forever.
+
+83
+00:04:29,820 --> 00:04:31,820
+Now, I was looking at this, it was in my office, as it always is, on the shelf,
+
+84
+00:04:31,820 --> 00:04:36,820
+and I was thinking, why have I not opened this?
+
+85
+00:04:36,820 --> 00:04:40,820
+And why have I kept it? Because I'm not a pack rat. I don't keep everything
+
+86
+00:04:40,820 --> 00:04:42,820
+but for some reason I haven't opened this box.
+
+87
+00:04:42,820 --> 00:04:44,820
+And I felt like there was a key to this, somehow,
+
+88
+00:04:44,820 --> 00:04:48,820
+in talking about something at TED that I haven't discussed before,
+
+89
+00:04:48,820 --> 00:04:50,820
+and bored people elsewhere.
+
+90
+00:04:50,820 --> 00:04:52,820
+So I thought, maybe there's something with this. I started thinking about it.
+
+91
+00:04:52,820 --> 00:04:55,820
+And there was this giant question mark. I love the design, for what it's worth,
+
+92
+00:04:55,820 --> 00:04:58,820
+of this thing. And I started thinking, why haven't I opened it?
+
+93
+00:04:58,820 --> 00:05:02,820
+And I realized that I haven't opened it because it represents something important
+
+94
+00:05:02,820 --> 00:05:06,820
+-- to me. It represents my grandfather.
+
+95
+00:05:06,820 --> 00:05:16,820
+Am I allowed to cry at TED? Because -- no, I'm not going to cry. But -- (Laughter)
+
+96
+00:05:16,820 --> 00:05:20,820
+-- the thing is, that it represents infinite possibility.
+
+97
+00:05:20,820 --> 00:05:22,820
+It represents hope. It represents potential.
+
+98
+00:05:22,820 --> 00:05:25,820
+And what I love about this box,
+
+99
+00:05:25,820 --> 00:05:29,820
+and what I realize I sort of do in whatever it is that I do,
+
+100
+00:05:29,820 --> 00:05:35,820
+is I find myself drawn to infinite possibility, that sense of potential.
+
+101
+00:05:35,820 --> 00:05:38,820
+And I realize that mystery is the catalyst for imagination.
+
+102
+00:05:38,820 --> 00:05:41,820
+Now, it's not the most ground-breaking idea,
+
+103
+00:05:41,820 --> 00:05:43,820
+but when I started to think that maybe there are times when mystery
+
+104
+00:05:43,820 --> 00:05:47,820
+is more important than knowledge, I started getting interested in this.
+
+105
+00:05:47,820 --> 00:05:49,820
+And so I started thinking about "Lost," and the stuff that we do,
+
+106
+00:05:49,820 --> 00:05:53,820
+and I realized, oh my God, mystery boxes are everywhere in what I do!
+
+107
+00:05:53,820 --> 00:05:56,820
+In how -- in the creation of "Lost," Damon Lindelof and I,
+
+108
+00:05:56,820 --> 00:06:01,820
+who created the show with me, we were basically tasked with creating this series
+
+109
+00:06:01,820 --> 00:06:04,820
+that we had very little time to do. We had 11 and a half weeks
+
+110
+00:06:04,820 --> 00:06:09,820
+to write it, cast it, crew it, shoot it, cut it, post it, turn in a two-hour pilot.
+
+111
+00:06:09,820 --> 00:06:13,820
+So it was not a lot of time. And that sense of possibility -- what could this thing be?
+
+112
+00:06:13,820 --> 00:06:14,820
+There was no time to develop it.
+
+113
+00:06:14,820 --> 00:06:16,820
+I'm sure you're all familiar with those people
+
+114
+00:06:16,820 --> 00:06:18,820
+who tell you what you can't do and what you should change.
+
+115
+00:06:18,820 --> 00:06:21,820
+And there was no time for that, which is kind of amazing.
+
+116
+00:06:21,820 --> 00:06:24,820
+And so we did this show, and for those of you who, you know, who haven't seen it,
+
+117
+00:06:24,820 --> 00:06:28,820
+or don't know it, I can show you this one little clip from the pilot,
+
+118
+00:06:28,820 --> 00:06:31,820
+just to show you some stuff that we did.
+
+119
+00:06:39,820 --> 00:06:47,820
+Claire: Help! Please help me! Help me! Help me!
+
+120
+00:06:47,820 --> 00:06:51,820
+Jack: Get him out of here! Get him away from the engine! Get him out of here!
+
+121
+00:06:58,820 --> 00:07:01,820
+C: I'm having contractions!
+
+122
+00:07:01,820 --> 00:07:02,820
+J: How many months pregnant are you?
+
+123
+00:07:02,820 --> 00:07:04,820
+C: I'm only eight months.
+
+124
+00:07:04,820 --> 00:07:05,820
+J: And how far apart are they coming?
+
+125
+00:07:05,820 --> 00:07:08,820
+C: I don't know. I think it just happened.
+
+126
+00:07:09,820 --> 00:07:12,820
+Man: Hey! Hey! Hey, get away from --
+
+127
+00:07:22,820 --> 00:07:26,820
+JJA: Now, 10 years ago, if we wanted to do that, we'd have to kill a stuntman.
+
+128
+00:07:26,820 --> 00:07:31,820
+We'd actually -- (Laughter)
+
+129
+00:07:31,820 --> 00:07:35,820
+it would be harder. It would take -- Take 2 would be a bitch.
+
+130
+00:07:35,820 --> 00:07:39,820
+So the amazing thing was, we were able to do this thing.
+
+131
+00:07:39,820 --> 00:07:42,820
+And part of that was the amazing availability of technology,
+
+132
+00:07:42,820 --> 00:07:45,820
+knowing we could do anything. I mean, we could never have done that.
+
+133
+00:07:45,820 --> 00:07:47,820
+We might have been able to write it; we wouldn't have been able to depict it
+
+134
+00:07:47,820 --> 00:07:51,820
+like we did. And so part of the amazing thing for me is in the creative process,
+
+135
+00:07:51,820 --> 00:07:54,820
+technology is, like, mind-blowingly inspiring to me.
+
+136
+00:07:54,820 --> 00:07:58,820
+I realize that that blank page is a magic box, you know?
+
+137
+00:07:58,820 --> 00:08:00,820
+It needs to be filled with something fantastic.
+
+138
+00:08:00,820 --> 00:08:02,820
+I used to have the "Ordinary People" script that I'd flip through.
+
+139
+00:08:02,820 --> 00:08:05,820
+The romance of the script was amazing to me; it would inspire me.
+
+140
+00:08:05,820 --> 00:08:08,820
+I wanted to try and fill pages with the same kind of
+
+141
+00:08:08,820 --> 00:08:12,820
+spirit and thought and emotion that that script did.
+
+142
+00:08:12,820 --> 00:08:15,820
+You know, I love Apple computers. I'm obsessed.
+
+143
+00:08:15,820 --> 00:08:18,820
+So the Apple computer -- like those -- the PowerBook -- this computer, right,
+
+144
+00:08:18,820 --> 00:08:20,820
+it challenges me. It basically says,
+
+145
+00:08:20,820 --> 00:08:23,820
+what are you going to write worthy of me? (Laughter)
+
+146
+00:08:23,820 --> 00:08:26,820
+I guess I feel this -- I'm compelled.
+
+147
+00:08:26,820 --> 00:08:30,820
+And I often am like, you know, dude, today I'm out. I got nothing. You know? (Laughter)
+
+148
+00:08:30,820 --> 00:08:32,820
+So there's that. In terms of the content of it, you look at stories, you think,
+
+149
+00:08:32,820 --> 00:08:35,820
+well, what are stories but mystery boxes?
+
+150
+00:08:35,820 --> 00:08:38,820
+There's a fundamental question -- in TV, the first act is called the teaser.
+
+151
+00:08:38,820 --> 00:08:40,820
+It's literally the teaser. It's the big question.
+
+152
+00:08:40,820 --> 00:08:42,820
+So you're drawn into it. Then of course,
+
+153
+00:08:42,820 --> 00:08:44,820
+there's another question. And it goes on and on.
+
+154
+00:08:44,820 --> 00:08:46,820
+Look at "Star Wars." You got the droids; they meet the mysterious woman.
+
+155
+00:08:46,820 --> 00:08:48,820
+Who's that? We don't know. Mystery box! You know?
+
+156
+00:08:48,820 --> 00:08:51,820
+Then you meet Luke Skywalker. He gets the Droid, you see the holographic image.
+
+157
+00:08:51,820 --> 00:08:53,820
+You learn, oh, it's a message, you know.
+
+158
+00:08:53,820 --> 00:08:56,820
+She wants to, you know, find Obi Wan Kenobi. He's her only hope.
+
+159
+00:08:56,820 --> 00:08:57,820
+But who the hell's Obi Wan Kenobi? Mystery box!
+
+160
+00:08:57,820 --> 00:09:00,820
+So then you go and he meets Ben Kenobi. Ben Kenobi is Obi Wan Kenobi.
+
+161
+00:09:00,820 --> 00:09:02,820
+Holy shit! You know -- so it keeps us --
+
+162
+00:09:02,820 --> 00:09:05,820
+(Laughter) -- have you guys not seen that?
+
+163
+00:09:05,820 --> 00:09:07,820
+(Laughter) It's huge! Anyway --
+
+164
+00:09:07,820 --> 00:09:13,820
+So there's this thing with mystery boxes that I started feeling compelled.
+
+165
+00:09:13,820 --> 00:09:17,820
+Then there's the thing of mystery in terms of imagination --
+
+166
+00:09:17,820 --> 00:09:19,820
+the withholding of information. You know,
+
+167
+00:09:19,820 --> 00:09:23,820
+doing that intentionally is much more engaging.
+
+168
+00:09:23,820 --> 00:09:25,820
+Whether it's like the shark in "Jaws"
+
+169
+00:09:25,820 --> 00:09:27,820
+-- if Spielberg's mechanical shark, Bruce, had worked,
+
+170
+00:09:27,820 --> 00:09:30,820
+it would not be remotely as scary; you would have seen it too much.
+
+171
+00:09:30,820 --> 00:09:33,820
+In "Alien", they never really showed the alien: terrifying!
+
+172
+00:09:33,820 --> 00:09:36,820
+Even in a movie, like a romantic comedy, "The Graduate,"
+
+173
+00:09:36,820 --> 00:09:38,820
+they're having that date, remember?
+
+174
+00:09:38,820 --> 00:09:41,820
+And they're in the car, and it's loud, and so they put the top up.
+
+175
+00:09:41,820 --> 00:09:44,820
+They're in there -- you don't hear anything they're saying! You can't hear a word!
+
+176
+00:09:44,820 --> 00:09:48,820
+But it's the most romantic date ever. And you love it because you don't hear it.
+
+177
+00:09:48,820 --> 00:09:50,820
+So to me, there's that.
+
+178
+00:09:50,820 --> 00:09:54,820
+And then, finally, there's this idea -- stretching the sort of paradigm a little bit --
+
+179
+00:09:54,820 --> 00:09:56,820
+but the idea of the mystery box.
+
+180
+00:09:56,820 --> 00:09:59,820
+Meaning, what you think you're getting, then what you're really getting.
+
+181
+00:09:59,820 --> 00:10:02,820
+And it's true in so many movies and stories.
+
+182
+00:10:02,820 --> 00:10:04,820
+And when you look at "E.T.," for example -- "E.T." is this, you know,
+
+183
+00:10:04,820 --> 00:10:07,820
+unbelievable movie about what? It's about an alien who meets a kid, right?
+
+184
+00:10:07,820 --> 00:10:10,820
+Well, it's not. "E.T." is about divorce. "E.T." is about a heartbroken,
+
+185
+00:10:10,820 --> 00:10:14,820
+divorce-crippled family, and ultimately, this kid who can't find his way.
+
+186
+00:10:14,820 --> 00:10:18,820
+"Die Hard," right? Crazy, great, fun, action-adventure movie in a building.
+
+187
+00:10:18,820 --> 00:10:20,820
+It's about a guy who's on the verge of divorce.
+
+188
+00:10:20,820 --> 00:10:22,820
+He's showing up to L.A., tail between his legs.
+
+189
+00:10:22,820 --> 00:10:25,820
+There are great scenes -- maybe not the most amazing dramatic
+
+190
+00:10:25,820 --> 00:10:28,820
+scenes in the history of time, but pretty great scenes.
+
+191
+00:10:28,820 --> 00:10:31,820
+There's a half an hour of investment in character before you get to the stuff
+
+192
+00:10:31,820 --> 00:10:33,820
+that you're, you know, expecting.
+
+193
+00:10:33,820 --> 00:10:34,820
+When you look at a movie like "Jaws,"
+
+194
+00:10:34,820 --> 00:10:37,820
+the scene that you expect -- we have the screen?
+
+195
+00:10:37,820 --> 00:10:41,820
+These are the kind of, you know, scenes that you remember and expect from "Jaws."
+
+196
+00:10:41,820 --> 00:10:46,820
+And she's being eaten; there's a shark.
+
+197
+00:10:46,820 --> 00:10:48,820
+The thing about "Jaws" is, it's really about a guy
+
+198
+00:10:48,820 --> 00:10:51,820
+who is sort of dealing with his place in the world -- with his masculinity,
+
+199
+00:10:51,820 --> 00:10:55,820
+with his family, how he's going to, you know, make it work in this new town.
+
+200
+00:10:55,820 --> 00:10:57,820
+This is one of my favorite scenes ever,
+
+201
+00:10:57,820 --> 00:11:00,820
+and this is a scene that you wouldn't necessarily think of when you think of "Jaws."
+
+202
+00:11:00,820 --> 00:11:02,820
+But it's an amazing scene.
+
+203
+00:11:57,820 --> 00:12:03,820
+Father: C'mere. Give us a kiss.
+
+204
+00:12:04,820 --> 00:12:06,820
+Son: Why?
+
+205
+00:12:08,820 --> 00:12:10,820
+Father: 'Cause I need it.
+
+206
+00:12:10,820 --> 00:12:13,820
+JJA: C'mon. "Why? 'Cause I need it?" Best scene ever, right?
+
+207
+00:12:13,820 --> 00:12:16,820
+Come on! So you think of "Jaws" --
+
+208
+00:12:16,820 --> 00:12:20,820
+so that's the kind of stuff that, like, you know, the investment of character,
+
+209
+00:12:20,820 --> 00:12:23,820
+which is the stuff that really is inside the box, you know?
+
+210
+00:12:23,820 --> 00:12:26,820
+It's why when people do sequels, or rip off movies, you know, of a genre,
+
+211
+00:12:26,820 --> 00:12:28,820
+they're ripping off the wrong thing.
+
+212
+00:12:28,820 --> 00:12:30,820
+You're not supposed to rip off the shark or the monster.
+
+213
+00:12:30,820 --> 00:12:34,820
+You gotta rip off -- you know, if you rip something off -- rip off the character.
+
+214
+00:12:34,820 --> 00:12:37,820
+Rip off the stuff that matters. I mean, look inside yourself and figure out what is inside you.
+
+215
+00:12:37,820 --> 00:12:42,820
+Because ultimately, you know, the mystery box is all of us. So there's that.
+
+216
+00:12:42,820 --> 00:12:45,820
+Then the distribution. What's a bigger mystery box than a movie theater?
+
+217
+00:12:45,820 --> 00:12:47,820
+You know? You go to the theater, you're just so excited to see anything.
+
+218
+00:12:47,820 --> 00:12:50,820
+The moment the lights go down is often the best part, you know?
+
+219
+00:12:50,820 --> 00:12:53,820
+And you're full of that amazing --
+
+220
+00:12:53,820 --> 00:12:56,820
+that feeling of excited anticipation.
+
+221
+00:12:56,820 --> 00:12:58,820
+And often, the movie's, like, there and it's going, and then something happens
+
+222
+00:12:58,820 --> 00:13:00,820
+and you go, "Oh--" and then something else, and you're, "Mmm ..."
+
+223
+00:13:00,820 --> 00:13:02,820
+Now, when it's a great movie, you're along for the ride
+
+224
+00:13:02,820 --> 00:13:04,820
+'cause you're willing to give yourself to it.
+
+225
+00:13:04,820 --> 00:13:09,820
+So to me, whether it's that, whether it's a TV, an iPod, computer, cell phone --
+
+226
+00:13:09,820 --> 00:13:13,820
+it's funny, I'm an -- as I said, Apple fanatic -- and one day, about a year or so ago,
+
+227
+00:13:13,820 --> 00:13:17,820
+I was signing on online in the morning to watch Steve Jobs' keynote,
+
+228
+00:13:17,820 --> 00:13:22,820
+'cause I always do. And he came on, he was presenting the video iPod,
+
+229
+00:13:22,820 --> 00:13:24,820
+and what was on the enormous iPod behind him?
+
+230
+00:13:24,820 --> 00:13:29,820
+"Lost"! I had no idea! And I realized, holy shit, it'd come full circle.
+
+231
+00:13:29,820 --> 00:13:31,820
+Like, the inspiration I get from the technology is now using the stuff that I do,
+
+232
+00:13:31,820 --> 00:13:35,820
+inspired by it, to sell technology. I mean, it's nuts! (Laughter)
+
+233
+00:13:35,820 --> 00:13:37,820
+I was gonna show you a couple of other things I'm gonna skip through.
+
+234
+00:13:37,820 --> 00:13:40,820
+I just want to show you one other thing that has nothing to do with anything.
+
+235
+00:13:40,820 --> 00:13:42,820
+This is something online; I don't know if you've seen it before.
+
+236
+00:13:42,820 --> 00:13:46,820
+Six years ago they did this. This is an online thing done by guys
+
+237
+00:13:46,820 --> 00:13:48,820
+who had some visual effects experience. But the point was,
+
+238
+00:13:48,820 --> 00:13:52,820
+that they were doing things that were using these mystery boxes that they had --
+
+239
+00:13:52,820 --> 00:13:53,820
+everyone has now.
+
+240
+00:13:53,820 --> 00:13:57,820
+What I've realized is what my grandfather did for me when I was a kid,
+
+241
+00:13:57,820 --> 00:13:59,820
+everyone has access to now.
+
+242
+00:13:59,820 --> 00:14:01,820
+You don't need to have my grandfather, though you wished you had.
+
+243
+00:14:01,820 --> 00:14:05,820
+But I have to tell you -- this is a guy doing stuff on a Quadra 950 computer
+
+244
+00:14:05,820 --> 00:14:06,820
+-- the resolution's a little bit low --
+
+245
+00:14:06,820 --> 00:14:09,820
+using Infinity software they stopped making 15 years ago.
+
+246
+00:14:09,820 --> 00:14:15,820
+He's doing stuff that looks as amazing as stuff I've seen released from Hollywood.
+
+247
+00:14:15,820 --> 00:14:21,820
+The most incredible sort of mystery, I think, is now the question of what comes next.
+
+248
+00:14:21,820 --> 00:14:25,820
+Because it is now democratized. So now, the creation of media is -- it's everywhere.
+
+249
+00:14:25,820 --> 00:14:30,820
+The stuff that I was lucky and begging for to get when I was a kid is now ubiquitous.
+
+250
+00:14:30,820 --> 00:14:33,820
+And so, there's an amazing sense of opportunity out there.
+
+251
+00:14:33,820 --> 00:14:38,820
+And when I think of the filmmakers who exist out there now who would have
+
+252
+00:14:38,820 --> 00:14:41,820
+been silenced, you know -- who have been silenced in the past --
+
+253
+00:14:41,820 --> 00:14:42,820
+it's a very exciting thing.
+
+254
+00:14:42,820 --> 00:14:45,820
+I used to say in classes and lectures and stuff,
+
+255
+00:14:45,820 --> 00:14:48,820
+to someone who wants to write, "Go! Write! Do your thing." It's free,
+
+256
+00:14:48,820 --> 00:14:50,820
+you know, you don't need permission to go write. But now I can say,
+
+257
+00:14:50,820 --> 00:14:52,820
+"Go make your movie!" There's nothing stopping you
+
+258
+00:14:52,820 --> 00:14:54,820
+from going out there and getting the technology.
+
+259
+00:14:54,820 --> 00:14:57,820
+You can lease, rent, buy stuff off the shelf
+
+260
+00:14:57,820 --> 00:15:03,820
+that is either as good, or just as good, as the stuff that's being used by the, you know,
+
+261
+00:15:03,820 --> 00:15:05,820
+quote unquote "legit people."
+
+262
+00:15:05,820 --> 00:15:09,820
+No community is best served when only the elite have control.
+
+263
+00:15:09,820 --> 00:15:12,820
+And I feel like this is an amazing opportunity to see what else is out there.
+
+264
+00:15:12,820 --> 00:15:15,820
+When I did "Mission: Impossible III," we had amazing visual effects stuff.
+
+265
+00:15:15,820 --> 00:15:17,820
+ILM did the effects; it was incredible.
+
+266
+00:15:17,820 --> 00:15:19,820
+And sort of like my dream to be involved.
+
+267
+00:15:19,820 --> 00:15:22,820
+And there are a couple of sequences in the movie,
+
+268
+00:15:22,820 --> 00:15:24,820
+like these couple of moments I'll show you.
+
+269
+00:15:30,820 --> 00:15:31,820
+There's that.
+
+270
+00:15:51,820 --> 00:15:54,820
+Okay, obviously I have an obsession with big crazy explosions.
+
+271
+00:15:54,820 --> 00:15:58,820
+So my favorite visual effect in the movie is the one I'm about to show you.
+
+272
+00:15:58,820 --> 00:16:00,820
+And it's a scene in which Tom's character wakes up. He's drowsy. He's crazy
+
+273
+00:16:00,820 --> 00:16:02,820
+-- out of it. And the guy wakes up,
+
+274
+00:16:02,820 --> 00:16:05,820
+and he shoves this gun in his nose and shoots this little capsule into his brain
+
+275
+00:16:05,820 --> 00:16:07,820
+that he's going to use later to kill him, as bad guys do.
+
+276
+00:16:15,820 --> 00:16:17,820
+Bad Guy: Good morning.
+
+277
+00:16:19,820 --> 00:16:21,820
+JJA: OK, now. When we shot that scene, we were there doing it,
+
+278
+00:16:21,820 --> 00:16:25,820
+the actor who had the gun, an English actor, Eddie Marsan -- sweetheart, great guy
+
+279
+00:16:25,820 --> 00:16:30,820
+-- he kept taking the gun and putting it into Tom's nose, and it was hurting Tom's nose.
+
+280
+00:16:30,820 --> 00:16:35,820
+And I learned this very early on in my career: Don't hurt Tom's nose. (Laughter)
+
+281
+00:16:35,820 --> 00:16:38,820
+There are three things you don't want to do. Number two is: Don't hurt Tom's nose.
+
+282
+00:16:38,820 --> 00:16:40,820
+So Eddie has this gun -- and he's the greatest guy -- he's
+
+283
+00:16:40,820 --> 00:16:43,820
+this really sweet English guy. He's like, "Sorry, I don't want to hurt you."
+
+284
+00:16:43,820 --> 00:16:45,820
+I'm like -- you gotta -- we have to make this look good.
+
+285
+00:16:45,820 --> 00:16:48,820
+And I realized that we had to do something 'cause it wasn't working just as it was.
+
+286
+00:16:48,820 --> 00:16:52,820
+And I literally, like, thought back to what I would have done using
+
+287
+00:16:52,820 --> 00:16:54,820
+the Super 8 camera that my grandfather got me sitting in that room,
+
+288
+00:16:54,820 --> 00:16:59,820
+and I realized that hand didn't have to be Eddie Marsan's. It could be Tom's.
+
+289
+00:16:59,820 --> 00:17:02,820
+And Tom would know just how hard to push the gun. He wouldn't hurt himself.
+
+290
+00:17:02,820 --> 00:17:05,820
+So we took his hand and we painted it to look a little bit more like Eddie's.
+
+291
+00:17:05,820 --> 00:17:08,820
+We put it in Eddie's sleeve,
+
+292
+00:17:08,820 --> 00:17:10,820
+and so the hand that you see -- I'll show you again,
+
+293
+00:17:10,820 --> 00:17:11,820
+that's not Eddie's hand, that's Tom's.
+
+294
+00:17:11,820 --> 00:17:14,820
+So Tom is playing two roles. (Laughter)
+
+295
+00:17:14,820 --> 00:17:16,820
+And he didn't ask for any more money.
+
+296
+00:17:16,820 --> 00:17:19,820
+So here, here. Watch it again.
+
+297
+00:17:19,820 --> 00:17:23,820
+There he is. He's waking up. He's drowsy, been through a lot.
+
+298
+00:17:28,820 --> 00:17:31,820
+Tom's hand. Tom's hand. Tom's hand. (Laughter) Anyway.
+
+299
+00:17:31,820 --> 00:17:33,820
+So.
+
+300
+00:17:33,820 --> 00:17:36,820
+(Applause)
+
+301
+00:17:36,820 --> 00:17:39,820
+Thanks.
+
+302
+00:17:39,820 --> 00:17:44,820
+So you don't need the greatest technology to do things that can work in movies.
+
+303
+00:17:44,820 --> 00:17:47,820
+And the mystery box, in honor of my grandfather, stays closed.
+
+304
+00:17:47,820 --> 00:17:56,820
+Thank you. (Applause)
+

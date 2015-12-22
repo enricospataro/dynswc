@@ -1,0 +1,1440 @@
+﻿1
+00:00:11,820 --> 00:00:17,820
+My title: "Queerer than we can suppose: The strangeness of science."
+
+2
+00:00:17,820 --> 00:00:20,820
+"Queerer than we can suppose" comes from J.B.S. Haldane,
+
+3
+00:00:20,820 --> 00:00:23,820
+the famous biologist, who said, "Now, my own suspicion is
+
+4
+00:00:24,820 --> 00:00:28,820
+that the universe is not only queerer than we suppose,
+
+5
+00:00:28,820 --> 00:00:30,820
+but queerer than we can suppose.
+
+6
+00:00:30,820 --> 00:00:33,820
+I suspect that there are more things in heaven and earth
+
+7
+00:00:33,820 --> 00:00:38,820
+than are dreamed of, or can be dreamed of, in any philosophy."
+
+8
+00:00:39,820 --> 00:00:44,820
+Richard Feynman compared the accuracy of quantum theories --
+
+9
+00:00:44,820 --> 00:00:49,820
+experimental predictions -- to specifying the width of North America
+
+10
+00:00:49,820 --> 00:00:53,820
+to within one hair's breadth of accuracy.
+
+11
+00:00:53,820 --> 00:00:58,820
+This means that quantum theory has got to be in some sense true.
+
+12
+00:00:58,820 --> 00:01:00,820
+Yet the assumptions that quantum theory needs to make
+
+13
+00:01:00,820 --> 00:01:03,820
+in order to deliver those predictions are so mysterious
+
+14
+00:01:04,820 --> 00:01:07,820
+that even Feynman himself was moved to remark,
+
+15
+00:01:07,820 --> 00:01:10,820
+"If you think you understand quantum theory,
+
+16
+00:01:10,820 --> 00:01:13,820
+you don't understand quantum theory."
+
+17
+00:01:13,820 --> 00:01:18,820
+It's so queer that physicists resort to one or another
+
+18
+00:01:18,820 --> 00:01:20,820
+paradoxical interpretation of it.
+
+19
+00:01:20,820 --> 00:01:25,820
+David Deutsch, who's talking here, in "The Fabric of Reality,"
+
+20
+00:01:25,820 --> 00:01:31,820
+embraces the "many worlds" interpretation of quantum theory,
+
+21
+00:01:31,820 --> 00:01:33,820
+because the worst that you can say about it is
+
+22
+00:01:33,820 --> 00:01:35,820
+that it's preposterously wasteful.
+
+23
+00:01:35,820 --> 00:01:39,820
+It postulates a vast and rapidly growing number of universes
+
+24
+00:01:40,820 --> 00:01:44,820
+existing in parallel -- mutually undetectable except through
+
+25
+00:01:44,820 --> 00:01:50,820
+the narrow porthole of quantum mechanical experiments.
+
+26
+00:01:50,820 --> 00:01:53,820
+And that's Richard Feynman.
+
+27
+00:01:53,820 --> 00:01:56,820
+The biologist Lewis Wolpert
+
+28
+00:01:56,820 --> 00:01:58,820
+believes that the queerness of modern physics
+
+29
+00:01:58,820 --> 00:02:02,820
+is just an extreme example. Science, as opposed to technology,
+
+30
+00:02:02,820 --> 00:02:05,820
+does violence to common sense.
+
+31
+00:02:05,820 --> 00:02:08,820
+Every time you drink a glass of water, he points out,
+
+32
+00:02:09,820 --> 00:02:12,820
+the odds are that you will imbibe at least one molecule
+
+33
+00:02:12,820 --> 00:02:17,820
+that passed through the bladder of Oliver Cromwell. (Laughter)
+
+34
+00:02:17,820 --> 00:02:20,820
+It's just elementary probability theory.
+
+35
+00:02:20,820 --> 00:02:23,820
+The number of molecules per glassful is hugely greater
+
+36
+00:02:24,820 --> 00:02:27,820
+than the number of glassfuls, or bladdersful, in the world --
+
+37
+00:02:27,820 --> 00:02:30,820
+and, of course, there's nothing special about Cromwell
+
+38
+00:02:30,820 --> 00:02:33,820
+or bladders. You have just breathed in a nitrogen atom
+
+39
+00:02:33,820 --> 00:02:36,820
+that passed through the right lung of the third iguanodon
+
+40
+00:02:37,820 --> 00:02:39,820
+to the left of the tall cycad tree.
+
+41
+00:02:42,820 --> 00:02:44,820
+"Queerer than we can suppose."
+
+42
+00:02:46,820 --> 00:02:49,820
+What is it that makes us capable of supposing anything,
+
+43
+00:02:49,820 --> 00:02:52,820
+and does this tell us anything about what we can suppose?
+
+44
+00:02:53,820 --> 00:02:56,820
+Are there things about the universe that will be
+
+45
+00:02:56,820 --> 00:03:00,820
+forever beyond our grasp, but not beyond the grasp of some
+
+46
+00:03:00,820 --> 00:03:03,820
+superior intelligence? Are there things about the universe
+
+47
+00:03:04,820 --> 00:03:08,820
+that are, in principle, ungraspable by any mind,
+
+48
+00:03:08,820 --> 00:03:10,820
+however superior?
+
+49
+00:03:11,820 --> 00:03:14,820
+The history of science has been one long series
+
+50
+00:03:14,820 --> 00:03:17,820
+of violent brainstorms, as successive generations
+
+51
+00:03:18,820 --> 00:03:21,820
+have come to terms with increasing levels of queerness
+
+52
+00:03:21,820 --> 00:03:22,820
+in the universe.
+
+53
+00:03:23,820 --> 00:03:25,820
+We're now so used to the idea that the Earth spins --
+
+54
+00:03:26,820 --> 00:03:29,820
+rather than the Sun moves across the sky -- it's hard for us to realize
+
+55
+00:03:29,820 --> 00:03:32,820
+what a shattering mental revolution that must have been.
+
+56
+00:03:33,820 --> 00:03:36,820
+After all, it seems obvious that the Earth is large and motionless,
+
+57
+00:03:37,820 --> 00:03:41,820
+the Sun small and mobile. But it's worth recalling
+
+58
+00:03:41,820 --> 00:03:42,820
+Wittgenstein's remark on the subject.
+
+59
+00:03:43,820 --> 00:03:48,820
+"Tell me," he asked a friend, "why do people always say, it was natural
+
+60
+00:03:48,820 --> 00:03:51,820
+for man to assume that the sun went round the earth
+
+61
+00:03:51,820 --> 00:03:53,820
+rather than that the earth was rotating?"
+
+62
+00:03:55,820 --> 00:03:58,820
+His friend replied, "Well, obviously because it just looks as though
+
+63
+00:03:58,820 --> 00:04:00,820
+the Sun is going round the Earth."
+
+64
+00:04:01,820 --> 00:04:04,820
+Wittgenstein replied, "Well, what would it have looked like
+
+65
+00:04:04,820 --> 00:04:12,820
+if it had looked as though the Earth was rotating?" (Laughter)
+
+66
+00:04:13,820 --> 00:04:15,820
+Science has taught us, against all intuition,
+
+67
+00:04:16,820 --> 00:04:19,820
+that apparently solid things, like crystals and rocks,
+
+68
+00:04:19,820 --> 00:04:23,820
+are really almost entirely composed of empty space.
+
+69
+00:04:23,820 --> 00:04:28,820
+And the familiar illustration is the nucleus of an atom is a fly
+
+70
+00:04:29,820 --> 00:04:31,820
+in the middle of a sports stadium and the next atom
+
+71
+00:04:32,820 --> 00:04:33,820
+is in the next sports stadium.
+
+72
+00:04:35,820 --> 00:04:37,820
+So it would seem the hardest, solidest, densest rock
+
+73
+00:04:38,820 --> 00:04:43,820
+is really almost entirely empty space, broken only by tiny particles
+
+74
+00:04:44,820 --> 00:04:46,820
+so widely spaced they shouldn't count.
+
+75
+00:04:47,820 --> 00:04:50,820
+Why, then, do rocks look and feel solid and hard and impenetrable?
+
+76
+00:04:52,820 --> 00:04:56,820
+As an evolutionary biologist, I'd say this: our brains have evolved
+
+77
+00:04:57,820 --> 00:05:02,820
+to help us survive within the orders of magnitude of size and speed
+
+78
+00:05:03,820 --> 00:05:06,820
+which our bodies operate at. We never evolved to navigate
+
+79
+00:05:07,820 --> 00:05:08,820
+in the world of atoms.
+
+80
+00:05:08,820 --> 00:05:11,820
+If we had, our brains probably would perceive rocks
+
+81
+00:05:11,820 --> 00:05:15,820
+as full of empty space. Rocks feel hard and impenetrable
+
+82
+00:05:15,820 --> 00:05:19,820
+to our hands precisely because objects like rocks and hands
+
+83
+00:05:20,820 --> 00:05:24,820
+cannot penetrate each other. It's therefore useful
+
+84
+00:05:24,820 --> 00:05:30,820
+for our brains to construct notions like "solidity" and "impenetrability,"
+
+85
+00:05:30,820 --> 00:05:34,820
+because such notions help us to navigate our bodies through
+
+86
+00:05:34,820 --> 00:05:38,820
+the middle-sized world in which we have to navigate.
+
+87
+00:05:38,820 --> 00:05:41,820
+Moving to the other end of the scale, our ancestors never had to
+
+88
+00:05:42,820 --> 00:05:45,820
+navigate through the cosmos at speeds close to
+
+89
+00:05:45,820 --> 00:05:48,820
+the speed of light. If they had, our brains would be much better
+
+90
+00:05:49,820 --> 00:05:54,820
+at understanding Einstein. I want to give the name "Middle World"
+
+91
+00:05:54,820 --> 00:05:57,820
+to the medium-scaled environment in which we've evolved
+
+92
+00:05:57,820 --> 00:05:59,820
+the ability to take act -- nothing to do with Middle Earth.
+
+93
+00:05:59,820 --> 00:06:02,820
+Middle World. (Laughter)
+
+94
+00:06:03,820 --> 00:06:07,820
+We are evolved denizens of Middle World, and that limits
+
+95
+00:06:07,820 --> 00:06:10,820
+what we are capable of imagining. We find it intuitively easy
+
+96
+00:06:11,820 --> 00:06:13,820
+to grasp ideas like, when a rabbit moves at the sort of
+
+97
+00:06:14,820 --> 00:06:17,820
+medium velocity at which rabbits and other Middle World objects move,
+
+98
+00:06:18,820 --> 00:06:21,820
+and hits another Middle World object, like a rock, it knocks itself out.
+
+99
+00:06:24,820 --> 00:06:29,820
+May I introduce Major General Albert Stubblebine III,
+
+100
+00:06:30,820 --> 00:06:33,820
+commander of military intelligence in 1983.
+
+101
+00:06:35,820 --> 00:06:39,820
+He stared at his wall in Arlington, Virginia, and decided to do it.
+
+102
+00:06:40,820 --> 00:06:44,820
+As frightening as the prospect was, he was going into the next office.
+
+103
+00:06:46,820 --> 00:06:49,820
+He stood up, and moved out from behind his desk.
+
+104
+00:06:51,820 --> 00:06:54,820
+What is the atom mostly made of? he thought. Space.
+
+105
+00:06:55,820 --> 00:07:00,820
+He started walking. What am I mostly made of? Atoms.
+
+106
+00:07:01,820 --> 00:07:03,820
+He quickened his pace, almost to a jog now.
+
+107
+00:07:04,820 --> 00:07:08,820
+What is the wall mostly made of? Atoms.
+
+108
+00:07:09,820 --> 00:07:12,820
+All I have to do is merge the spaces.
+
+109
+00:07:13,820 --> 00:07:18,820
+Then, General Stubblebine banged his nose hard on the wall
+
+110
+00:07:18,820 --> 00:07:23,820
+of his office. Stubblebine, who commanded 16,000 soldiers,
+
+111
+00:07:24,820 --> 00:07:27,820
+was confounded by his continual failure to walk through the wall.
+
+112
+00:07:28,820 --> 00:07:31,820
+He has no doubt that this ability will, one day, be a common tool
+
+113
+00:07:31,820 --> 00:07:34,820
+in the military arsenal. Who would screw around with an army
+
+114
+00:07:34,820 --> 00:07:38,820
+that could do that? That's from an article in Playboy,
+
+115
+00:07:39,820 --> 00:07:42,820
+which I was reading the other day. (Laughter)
+
+116
+00:07:42,820 --> 00:07:44,820
+I have every reason to think it's true; I was reading Playboy
+
+117
+00:07:45,820 --> 00:07:53,820
+because I, myself, had an article in it. (Laughter)
+
+118
+00:07:53,820 --> 00:07:57,820
+Unaided human intuition schooled in Middle World
+
+119
+00:07:58,820 --> 00:08:01,820
+finds it hard to believe Galileo when he tells us
+
+120
+00:08:01,820 --> 00:08:04,820
+a heavy object and a light object, air friction aside,
+
+121
+00:08:05,820 --> 00:08:06,820
+would hit the ground at the same instant.
+
+122
+00:08:06,820 --> 00:08:10,820
+And that's because in Middle World, air friction is always there.
+
+123
+00:08:10,820 --> 00:08:12,820
+If we'd evolved in a vacuum, we would expect them
+
+124
+00:08:13,820 --> 00:08:16,820
+to hit the ground simultaneously. If we were bacteria,
+
+125
+00:08:16,820 --> 00:08:19,820
+constantly buffeted by thermal movements of molecules,
+
+126
+00:08:19,820 --> 00:08:20,820
+it would be different,
+
+127
+00:08:21,820 --> 00:08:24,820
+but we Middle Worlders are too big to notice Brownian motion.
+
+128
+00:08:25,820 --> 00:08:28,820
+In the same way, our lives are dominated by gravity
+
+129
+00:08:28,820 --> 00:08:31,820
+but are almost oblivious to the force of surface tension.
+
+130
+00:08:32,820 --> 00:08:34,820
+A small insect would reverse these priorities.
+
+131
+00:08:36,820 --> 00:08:38,820
+Steve Grand -- he's the one on the left,
+
+132
+00:08:38,820 --> 00:08:41,820
+Douglas Adams is on the right -- Steve Grand, in his book,
+
+133
+00:08:41,820 --> 00:08:45,820
+"Creation: Life and How to Make It," is positively scathing
+
+134
+00:08:45,820 --> 00:08:48,820
+about our preoccupation with matter itself.
+
+135
+00:08:49,820 --> 00:08:53,820
+We have this tendency to think that only solid, material things
+
+136
+00:08:53,820 --> 00:08:58,820
+are really things at all. Waves of electromagnetic fluctuation
+
+137
+00:08:58,820 --> 00:09:00,820
+in a vacuum seem unreal.
+
+138
+00:09:01,820 --> 00:09:05,820
+Victorians thought the waves had to be waves in some material medium:
+
+139
+00:09:06,820 --> 00:09:10,820
+the ether. But we find real matter comforting only because
+
+140
+00:09:10,820 --> 00:09:13,820
+we've evolved to survive in Middle World,
+
+141
+00:09:14,820 --> 00:09:16,820
+where matter is a useful fiction.
+
+142
+00:09:17,820 --> 00:09:20,820
+A whirlpool, for Steve Grand, is a thing with just as much reality
+
+143
+00:09:21,820 --> 00:09:22,820
+as a rock.
+
+144
+00:09:24,820 --> 00:09:28,820
+In a desert plain in Tanzania, in the shadow of the volcano
+
+145
+00:09:28,820 --> 00:09:31,820
+Ol Donyo Lengai, there's a dune made of volcanic ash.
+
+146
+00:09:32,820 --> 00:09:35,820
+The beautiful thing is that it moves bodily.
+
+147
+00:09:36,820 --> 00:09:39,820
+It's what's technically known as a "barchan," and the entire dune
+
+148
+00:09:39,820 --> 00:09:42,820
+walks across the desert in a westerly direction
+
+149
+00:09:42,820 --> 00:09:45,820
+at a speed of about 17 meters per year.
+
+150
+00:09:46,820 --> 00:09:50,820
+It retains its crescent shape and moves in the direction of the horns.
+
+151
+00:09:50,820 --> 00:09:52,820
+What happens is that the wind blows the sand
+
+152
+00:09:53,820 --> 00:09:55,820
+up the shallow slope on the other side, and then,
+
+153
+00:09:56,820 --> 00:09:57,820
+as each sand grain hits the top of the ridge,
+
+154
+00:09:57,820 --> 00:09:59,820
+it cascades down on the inside of the crescent,
+
+155
+00:10:00,820 --> 00:10:03,820
+and so the whole horn-shaped dune moves.
+
+156
+00:10:06,820 --> 00:10:08,820
+Steve Grand points out that you and I are, ourselves,
+
+157
+00:10:09,820 --> 00:10:11,820
+more like a wave than a permanent thing.
+
+158
+00:10:13,820 --> 00:10:16,820
+He invites us, the reader, to "think of an experience
+
+159
+00:10:16,820 --> 00:10:18,820
+from your childhood -- something you remember clearly,
+
+160
+00:10:19,820 --> 00:10:21,820
+something you can see, feel, maybe even smell,
+
+161
+00:10:22,820 --> 00:10:23,820
+as if you were really there.
+
+162
+00:10:23,820 --> 00:10:27,820
+After all, you really were there at the time, weren't you?
+
+163
+00:10:27,820 --> 00:10:28,820
+How else would you remember it?
+
+164
+00:10:29,820 --> 00:10:31,820
+But here is the bombshell: You weren't there.
+
+165
+00:10:32,820 --> 00:10:35,820
+Not a single atom that is in your body today was there
+
+166
+00:10:35,820 --> 00:10:39,820
+when that event took place. Matter flows from place to place
+
+167
+00:10:39,820 --> 00:10:41,820
+and momentarily comes together to be you.
+
+168
+00:10:42,820 --> 00:10:44,820
+Whatever you are, therefore, you are not the stuff
+
+169
+00:10:45,820 --> 00:10:46,820
+of which you are made.
+
+170
+00:10:48,820 --> 00:10:50,820
+If that doesn't make the hair stand up on the back of your neck,
+
+171
+00:10:50,820 --> 00:10:53,820
+read it again until it does, because it is important."
+
+172
+00:10:55,820 --> 00:10:59,820
+So "really" isn't a word that we should use with simple confidence.
+
+173
+00:11:00,820 --> 00:11:02,820
+If a neutrino had a brain,
+
+174
+00:11:02,820 --> 00:11:04,820
+which it evolved in neutrino-sized ancestors,
+
+175
+00:11:05,820 --> 00:11:08,820
+it would say that rocks really do consist of empty space.
+
+176
+00:11:10,820 --> 00:11:12,820
+We have brains that evolved in medium-sized ancestors
+
+177
+00:11:12,820 --> 00:11:14,820
+which couldn't walk through rocks.
+
+178
+00:11:15,820 --> 00:11:19,820
+"Really," for an animal, is whatever its brain needs it to be
+
+179
+00:11:19,820 --> 00:11:21,820
+in order to assist its survival,
+
+180
+00:11:22,820 --> 00:11:24,820
+and because different species live in different worlds,
+
+181
+00:11:25,820 --> 00:11:28,820
+there will be a discomforting variety of "really"s.
+
+182
+00:11:31,820 --> 00:11:35,820
+What we see of the real world is not the unvarnished world
+
+183
+00:11:35,820 --> 00:11:39,820
+but a model of the world, regulated and adjusted by sense data,
+
+184
+00:11:40,820 --> 00:11:43,820
+but constructed so it's useful for dealing with the real world.
+
+185
+00:11:44,820 --> 00:11:47,820
+The nature of the model depends on the kind of animal we are.
+
+186
+00:11:48,820 --> 00:11:50,820
+A flying animal needs a different kind of model
+
+187
+00:11:51,820 --> 00:11:54,820
+from a walking, climbing or swimming animal.
+
+188
+00:11:54,820 --> 00:11:58,820
+A monkey's brain must have software capable of simulating
+
+189
+00:11:59,820 --> 00:12:01,820
+a three-dimensional world of branches and trunks.
+
+190
+00:12:02,820 --> 00:12:05,820
+A mole's software for constructing models of its world
+
+191
+00:12:05,820 --> 00:12:08,820
+will be customized for underground use.
+
+192
+00:12:08,820 --> 00:12:12,820
+A water strider's brain doesn't need 3D software at all,
+
+193
+00:12:12,820 --> 00:12:14,820
+since it lives on the surface of the pond
+
+194
+00:12:14,820 --> 00:12:16,820
+in an Edwin Abbott flatland.
+
+195
+00:12:18,820 --> 00:12:22,820
+I've speculated that bats may see color with their ears.
+
+196
+00:12:23,820 --> 00:12:26,820
+The world model that a bat needs in order to navigate
+
+197
+00:12:26,820 --> 00:12:28,820
+through three dimensions catching insects
+
+198
+00:12:28,820 --> 00:12:31,820
+must be pretty similar to the world model that any flying bird,
+
+199
+00:12:31,820 --> 00:12:34,820
+a day-flying bird like a swallow, needs to perform
+
+200
+00:12:34,820 --> 00:12:35,820
+the same kind of tasks.
+
+201
+00:12:36,820 --> 00:12:38,820
+The fact that the bat uses echoes in pitch darkness
+
+202
+00:12:39,820 --> 00:12:41,820
+to input the current variables to its model,
+
+203
+00:12:42,820 --> 00:12:44,820
+while the swallow uses light, is incidental.
+
+204
+00:12:45,820 --> 00:12:50,820
+Bats, I've even suggested, use perceived hues, such as red and blue,
+
+205
+00:12:50,820 --> 00:12:56,820
+as labels, internal labels, for some useful aspect of echoes --
+
+206
+00:12:57,820 --> 00:13:01,820
+perhaps the acoustic texture of surfaces, furry or smooth and so on,
+
+207
+00:13:01,820 --> 00:13:05,820
+in the same way as swallows or, indeed, we, use those
+
+208
+00:13:05,820 --> 00:13:07,820
+perceived hues -- redness and blueness etc. --
+
+209
+00:13:08,820 --> 00:13:10,820
+to label long and short wavelengths of light.
+
+210
+00:13:10,820 --> 00:13:13,820
+There's nothing inherent about red that makes it long wavelength.
+
+211
+00:13:15,820 --> 00:13:17,820
+And the point is that the nature of the model is governed by
+
+212
+00:13:17,820 --> 00:13:22,820
+how it is to be used, rather than by the sensory modality involved.
+
+213
+00:13:24,820 --> 00:13:26,820
+J. B .S. Haldane himself had something to say about animals
+
+214
+00:13:27,820 --> 00:13:29,820
+whose world is dominated by smell.
+
+215
+00:13:30,820 --> 00:13:35,820
+Dogs can distinguish two very similar fatty acids, extremely diluted:
+
+216
+00:13:35,820 --> 00:13:38,820
+caprylic acid and caproic acid.
+
+217
+00:13:38,820 --> 00:13:41,820
+The only difference, you see, is that one has an extra pair of
+
+218
+00:13:41,820 --> 00:13:42,820
+carbon atoms in the chain.
+
+219
+00:13:43,820 --> 00:13:47,820
+Haldane guesses that a dog would probably be able to place the acids
+
+220
+00:13:47,820 --> 00:13:50,820
+in the order of their molecular weights by their smells,
+
+221
+00:13:51,820 --> 00:13:53,820
+just as a man could place a number of piano wires
+
+222
+00:13:54,820 --> 00:13:56,820
+in the order of their lengths by means of their notes.
+
+223
+00:13:58,820 --> 00:14:01,820
+Now, there's another fatty acid, capric acid,
+
+224
+00:14:02,820 --> 00:14:03,820
+which is just like the other two,
+
+225
+00:14:03,820 --> 00:14:05,820
+except that it has two more carbon atoms.
+
+226
+00:14:06,820 --> 00:14:09,820
+A dog that had never met capric acid would, perhaps,
+
+227
+00:14:09,820 --> 00:14:13,820
+have no more trouble imagining its smell than we would have trouble
+
+228
+00:14:14,820 --> 00:14:17,820
+imagining a trumpet, say, playing one note higher
+
+229
+00:14:17,820 --> 00:14:19,820
+than we've heard a trumpet play before.
+
+230
+00:14:22,820 --> 00:14:26,820
+Perhaps dogs and rhinos and other smell-oriented animals
+
+231
+00:14:27,820 --> 00:14:30,820
+smell in color. And the argument would be
+
+232
+00:14:30,820 --> 00:14:31,820
+exactly the same as for the bats.
+
+233
+00:14:34,820 --> 00:14:37,820
+Middle World -- the range of sizes and speeds
+
+234
+00:14:38,820 --> 00:14:41,820
+which we have evolved to feel intuitively comfortable with --
+
+235
+00:14:41,820 --> 00:14:45,820
+is a bit like the narrow range of the electromagnetic spectrum
+
+236
+00:14:45,820 --> 00:14:48,820
+that we see as light of various colors.
+
+237
+00:14:48,820 --> 00:14:50,820
+We're blind to all frequencies outside that,
+
+238
+00:14:50,820 --> 00:14:53,820
+unless we use instruments to help us.
+
+239
+00:14:55,820 --> 00:14:58,820
+Middle World is the narrow range of reality
+
+240
+00:14:58,820 --> 00:15:01,820
+which we judge to be normal, as opposed to the queerness
+
+241
+00:15:01,820 --> 00:15:04,820
+of the very small, the very large and the very fast.
+
+242
+00:15:06,820 --> 00:15:08,820
+We could make a similar scale of improbabilities;
+
+243
+00:15:09,820 --> 00:15:11,820
+nothing is totally impossible.
+
+244
+00:15:11,820 --> 00:15:14,820
+Miracles are just events that are extremely improbable.
+
+245
+00:15:15,820 --> 00:15:19,820
+A marble statue could wave its hand at us; the atoms that make up
+
+246
+00:15:19,820 --> 00:15:22,820
+its crystalline structure are all vibrating back and forth anyway.
+
+247
+00:15:23,820 --> 00:15:24,820
+Because there are so many of them,
+
+248
+00:15:25,820 --> 00:15:26,820
+and because there's no agreement among them
+
+249
+00:15:27,820 --> 00:15:29,820
+in their preferred direction of movement, the marble,
+
+250
+00:15:30,820 --> 00:15:33,820
+as we see it in Middle World, stays rock steady.
+
+251
+00:15:33,820 --> 00:15:35,820
+But the atoms in the hand could all just happen to move
+
+252
+00:15:35,820 --> 00:15:38,820
+the same way at the same time, and again and again.
+
+253
+00:15:38,820 --> 00:15:42,820
+In this case, the hand would move and we'd see it waving at us
+
+254
+00:15:42,820 --> 00:15:46,820
+in Middle World. The odds against it, of course, are so great
+
+255
+00:15:46,820 --> 00:15:49,820
+that if you set out writing zeros at the time of
+
+256
+00:15:49,820 --> 00:15:52,820
+the origin of the universe, you still would not have
+
+257
+00:15:52,820 --> 00:15:53,820
+written enough zeros to this day.
+
+258
+00:15:58,820 --> 00:15:59,820
+Evolution in Middle World has not equipped us to handle
+
+259
+00:15:59,820 --> 00:16:01,820
+very improbable events; we don't live long enough.
+
+260
+00:16:02,820 --> 00:16:06,820
+In the vastness of astronomical space and geological time,
+
+261
+00:16:07,820 --> 00:16:09,820
+that which seems impossible in Middle World
+
+262
+00:16:10,820 --> 00:16:12,820
+might turn out to be inevitable.
+
+263
+00:16:14,820 --> 00:16:17,820
+One way to think about that is by counting planets.
+
+264
+00:16:18,820 --> 00:16:19,820
+We don't know how many planets there are in the universe,
+
+265
+00:16:20,820 --> 00:16:23,820
+but a good estimate is about 10 to the 20, or 100 billion billion.
+
+266
+00:16:24,820 --> 00:16:26,820
+And that gives us a nice way to express our estimate
+
+267
+00:16:27,820 --> 00:16:29,820
+of life's improbability.
+
+268
+00:16:30,820 --> 00:16:32,820
+Could make some sort of landmark points
+
+269
+00:16:32,820 --> 00:16:35,820
+along a spectrum of improbability, which might look like
+
+270
+00:16:35,820 --> 00:16:38,820
+the electromagnetic spectrum we just looked at.
+
+271
+00:16:40,820 --> 00:16:42,820
+If life has arisen only once on any --
+
+272
+00:16:44,820 --> 00:16:47,820
+if -- if life could -- I mean, life could originate once per planet,
+
+273
+00:16:47,820 --> 00:16:51,820
+could be extremely common, or it could originate once per star,
+
+274
+00:16:52,820 --> 00:16:56,820
+or once per galaxy or maybe only once in the entire universe,
+
+275
+00:16:57,820 --> 00:17:00,820
+in which case it would have to be here. And somewhere up there
+
+276
+00:17:00,820 --> 00:17:02,820
+would be the chance that a frog would turn into a prince
+
+277
+00:17:02,820 --> 00:17:05,820
+and similar magical things like that.
+
+278
+00:17:06,820 --> 00:17:09,820
+If life has arisen on only one planet in the entire universe,
+
+279
+00:17:10,820 --> 00:17:14,820
+that planet has to be our planet, because here we are talking about it.
+
+280
+00:17:14,820 --> 00:17:16,820
+And that means that if we want to avail ourselves of it,
+
+281
+00:17:17,820 --> 00:17:20,820
+we're allowed to postulate chemical events in the origin of life
+
+282
+00:17:21,820 --> 00:17:24,820
+which have a probability as low as one in 100 billion billion.
+
+283
+00:17:25,820 --> 00:17:27,820
+I don't think we shall have to avail ourselves of that,
+
+284
+00:17:28,820 --> 00:17:30,820
+because I suspect that life is quite common in the universe.
+
+285
+00:17:31,820 --> 00:17:33,820
+And when I say quite common, it could still be so rare
+
+286
+00:17:34,820 --> 00:17:37,820
+that no one island of life ever encounters another,
+
+287
+00:17:38,820 --> 00:17:39,820
+which is a sad thought.
+
+288
+00:17:41,820 --> 00:17:43,820
+How shall we interpret "queerer than we can suppose?"
+
+289
+00:17:44,820 --> 00:17:46,820
+Queerer than can in principle be supposed,
+
+290
+00:17:47,820 --> 00:17:49,820
+or just queerer than we can suppose, given the limitations
+
+291
+00:17:50,820 --> 00:17:54,820
+of our brain's evolutionary apprenticeship in Middle World?
+
+292
+00:17:55,820 --> 00:17:58,820
+Could we, by training and practice, emancipate ourselves
+
+293
+00:17:58,820 --> 00:18:00,820
+from Middle World and achieve some sort of intuitive,
+
+294
+00:18:01,820 --> 00:18:04,820
+as well as mathematical, understanding of the very small
+
+295
+00:18:04,820 --> 00:18:07,820
+and the very large? I genuinely don't know the answer.
+
+296
+00:18:08,820 --> 00:18:10,820
+I wonder whether we might help ourselves to understand, say,
+
+297
+00:18:11,820 --> 00:18:14,820
+quantum theory, if we brought up children to play computer games,
+
+298
+00:18:15,820 --> 00:18:17,820
+beginning in early childhood, which had a sort of
+
+299
+00:18:18,820 --> 00:18:20,820
+make-believe world of balls going through two slits on a screen,
+
+300
+00:18:20,820 --> 00:18:23,820
+a world in which the strange goings on of quantum mechanics
+
+301
+00:18:23,820 --> 00:18:26,820
+were enlarged by the computer's make-believe,
+
+302
+00:18:26,820 --> 00:18:29,820
+so that they became familiar on the Middle-World scale of the stream.
+
+303
+00:18:30,820 --> 00:18:33,820
+And, similarly, a relativistic computer game in which
+
+304
+00:18:33,820 --> 00:18:37,820
+objects on the screen manifest the Lorenz Contraction, and so on,
+
+305
+00:18:38,820 --> 00:18:40,820
+to try to get ourselves into the way of thinking --
+
+306
+00:18:40,820 --> 00:18:42,820
+get children into the way of thinking about it.
+
+307
+00:18:43,820 --> 00:18:46,820
+I want to end by applying the idea of Middle World
+
+308
+00:18:47,820 --> 00:18:49,820
+to our perceptions of each other.
+
+309
+00:18:50,820 --> 00:18:53,820
+Most scientists today subscribe to a mechanistic view of the mind:
+
+310
+00:18:54,820 --> 00:18:57,820
+we're the way we are because our brains are wired up as they are;
+
+311
+00:18:58,820 --> 00:18:59,820
+our hormones are the way they are.
+
+312
+00:18:59,820 --> 00:19:01,820
+We'd be different, our characters would be different,
+
+313
+00:19:01,820 --> 00:19:05,820
+if our neuro-anatomy and our physiological chemistry were different.
+
+314
+00:19:06,820 --> 00:19:09,820
+But we scientists are inconsistent. If we were consistent,
+
+315
+00:19:10,820 --> 00:19:13,820
+our response to a misbehaving person, like a child-murderer,
+
+316
+00:19:13,820 --> 00:19:16,820
+should be something like, this unit has a faulty component;
+
+317
+00:19:16,820 --> 00:19:19,820
+it needs repairing. That's not what we say.
+
+318
+00:19:19,820 --> 00:19:23,820
+What we say -- and I include the most austerely mechanistic among us,
+
+319
+00:19:23,820 --> 00:19:24,820
+which is probably me --
+
+320
+00:19:24,820 --> 00:19:28,820
+what we say is, "Vile monster, prison is too good for you."
+
+321
+00:19:28,820 --> 00:19:32,820
+Or worse, we seek revenge, in all probability thereby triggering
+
+322
+00:19:32,820 --> 00:19:35,820
+the next phase in an escalating cycle of counter-revenge,
+
+323
+00:19:35,820 --> 00:19:37,820
+which we see, of course, all over the world today.
+
+324
+00:19:38,820 --> 00:19:40,820
+In short, when we're thinking like academics,
+
+325
+00:19:41,820 --> 00:19:44,820
+we regard people as elaborate and complicated machines,
+
+326
+00:19:44,820 --> 00:19:48,820
+like computers or cars, but when we revert to being human
+
+327
+00:19:49,820 --> 00:19:52,820
+we behave more like Basil Fawlty, who, we remember,
+
+328
+00:19:52,820 --> 00:19:55,820
+thrashed his car to teach it a lesson when it wouldn't start
+
+329
+00:19:55,820 --> 00:19:58,820
+on gourmet night. (Laughter)
+
+330
+00:19:59,820 --> 00:20:02,820
+The reason we personify things like cars and computers
+
+331
+00:20:02,820 --> 00:20:05,820
+is that just as monkeys live in an arboreal world
+
+332
+00:20:05,820 --> 00:20:08,820
+and moles live in an underground world
+
+333
+00:20:08,820 --> 00:20:11,820
+and water striders live in a surface tension-dominated flatland,
+
+334
+00:20:12,820 --> 00:20:16,820
+we live in a social world. We swim through a sea of people --
+
+335
+00:20:16,820 --> 00:20:18,820
+a social version of Middle World.
+
+336
+00:20:20,820 --> 00:20:22,820
+We are evolved to second-guess the behavior of others
+
+337
+00:20:23,820 --> 00:20:26,820
+by becoming brilliant, intuitive psychologists.
+
+338
+00:20:27,820 --> 00:20:29,820
+Treating people as machines
+
+339
+00:20:29,820 --> 00:20:32,820
+may be scientifically and philosophically accurate,
+
+340
+00:20:33,820 --> 00:20:34,820
+but it's a cumbersome waste of time
+
+341
+00:20:34,820 --> 00:20:37,820
+if you want to guess what this person is going to do next.
+
+342
+00:20:38,820 --> 00:20:40,820
+The economically useful way to model a person
+
+343
+00:20:41,820 --> 00:20:44,820
+is to treat him as a purposeful, goal-seeking agent
+
+344
+00:20:44,820 --> 00:20:46,820
+with pleasures and pains, desires and intentions,
+
+345
+00:20:47,820 --> 00:20:48,820
+guilt, blame-worthiness.
+
+346
+00:20:49,820 --> 00:20:53,820
+Personification and the imputing of intentional purpose
+
+347
+00:20:54,820 --> 00:20:56,820
+is such a brilliantly successful way to model humans,
+
+348
+00:20:57,820 --> 00:21:00,820
+it's hardly surprising the same modeling software
+
+349
+00:21:00,820 --> 00:21:04,820
+often seizes control when we're trying to think about entities
+
+350
+00:21:04,820 --> 00:21:07,820
+for which it's not appropriate, like Basil Fawlty with his car
+
+351
+00:21:07,820 --> 00:21:15,820
+or like millions of deluded people with the universe as a whole. (Laughter)
+
+352
+00:21:15,820 --> 00:21:17,820
+If the universe is queerer than we can suppose,
+
+353
+00:21:18,820 --> 00:21:21,820
+is it just because we've been naturally selected to suppose
+
+354
+00:21:21,820 --> 00:21:24,820
+only what we needed to suppose in order to survive
+
+355
+00:21:24,820 --> 00:21:26,820
+in the Pleistocene of Africa?
+
+356
+00:21:27,820 --> 00:21:31,820
+Or are our brains so versatile and expandable that we can
+
+357
+00:21:31,820 --> 00:21:35,820
+train ourselves to break out of the box of our evolution?
+
+358
+00:21:36,820 --> 00:21:40,820
+Or, finally, are there some things in the universe so queer
+
+359
+00:21:40,820 --> 00:21:46,820
+that no philosophy of beings, however godlike, could dream them?
+
+360
+00:21:47,820 --> 00:21:48,820
+Thank you very much.
+

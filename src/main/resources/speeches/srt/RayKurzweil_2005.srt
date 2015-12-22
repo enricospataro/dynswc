@@ -1,0 +1,1940 @@
+﻿1
+00:00:11,820 --> 00:00:12,820
+Well, it's great to be here.
+
+2
+00:00:12,820 --> 00:00:17,820
+We've heard a lot about the promise of technology, and the peril.
+
+3
+00:00:17,820 --> 00:00:19,820
+I've been quite interested in both.
+
+4
+00:00:19,820 --> 00:00:23,820
+If we could convert 0.03 percent
+
+5
+00:00:23,820 --> 00:00:25,820
+of the sunlight that falls on the earth into energy,
+
+6
+00:00:25,820 --> 00:00:30,820
+we could meet all of our projected needs for 2030.
+
+7
+00:00:30,820 --> 00:00:33,820
+We can't do that today because solar panels are heavy,
+
+8
+00:00:33,820 --> 00:00:35,820
+expensive and very inefficient.
+
+9
+00:00:35,820 --> 00:00:38,820
+There are nano-engineered designs,
+
+10
+00:00:38,820 --> 00:00:40,820
+which at least have been analyzed theoretically,
+
+11
+00:00:40,820 --> 00:00:42,820
+that show the potential to be very lightweight,
+
+12
+00:00:42,820 --> 00:00:44,820
+very inexpensive, very efficient,
+
+13
+00:00:44,820 --> 00:00:48,820
+and we'd be able to actually provide all of our energy needs in this renewable way.
+
+14
+00:00:48,820 --> 00:00:50,820
+Nano-engineered fuel cells
+
+15
+00:00:50,820 --> 00:00:53,820
+could provide the energy where it's needed.
+
+16
+00:00:53,820 --> 00:00:55,820
+That's a key trend, which is decentralization,
+
+17
+00:00:55,820 --> 00:00:58,820
+moving from centralized nuclear power plants and
+
+18
+00:00:58,820 --> 00:01:00,820
+liquid natural gas tankers
+
+19
+00:01:00,820 --> 00:01:04,820
+to decentralized resources that are environmentally more friendly,
+
+20
+00:01:04,820 --> 00:01:07,820
+a lot more efficient
+
+21
+00:01:07,820 --> 00:01:11,820
+and capable and safe from disruption.
+
+22
+00:01:11,820 --> 00:01:13,820
+Bono spoke very eloquently,
+
+23
+00:01:13,820 --> 00:01:17,820
+that we have the tools, for the first time,
+
+24
+00:01:17,820 --> 00:01:21,820
+to address age-old problems of disease and poverty.
+
+25
+00:01:21,820 --> 00:01:25,820
+Most regions of the world are moving in that direction.
+
+26
+00:01:25,820 --> 00:01:29,820
+In 1990, in East Asia and the Pacific region,
+
+27
+00:01:29,820 --> 00:01:31,820
+there were 500 million people living in poverty --
+
+28
+00:01:31,820 --> 00:01:34,820
+that number now is under 200 million.
+
+29
+00:01:34,820 --> 00:01:37,820
+The World Bank projects by 2011, it will be under 20 million,
+
+30
+00:01:37,820 --> 00:01:40,820
+which is a reduction of 95 percent.
+
+31
+00:01:40,820 --> 00:01:43,820
+I did enjoy Bono's comment
+
+32
+00:01:43,820 --> 00:01:47,820
+linking Haight-Ashbury to Silicon Valley.
+
+33
+00:01:47,820 --> 00:01:50,820
+Being from the Massachusetts high-tech community myself,
+
+34
+00:01:50,820 --> 00:01:54,820
+I'd point out that we were hippies also in the 1960s,
+
+35
+00:01:55,820 --> 00:01:58,820
+although we hung around Harvard Square.
+
+36
+00:01:58,820 --> 00:02:03,820
+But we do have the potential to overcome disease and poverty,
+
+37
+00:02:03,820 --> 00:02:06,820
+and I'm going to talk about those issues, if we have the will.
+
+38
+00:02:06,820 --> 00:02:09,820
+Kevin Kelly talked about the acceleration of technology.
+
+39
+00:02:09,820 --> 00:02:12,820
+That's been a strong interest of mine,
+
+40
+00:02:12,820 --> 00:02:15,820
+and a theme that I've developed for some 30 years.
+
+41
+00:02:15,820 --> 00:02:20,820
+I realized that my technologies had to make sense when I finished a project.
+
+42
+00:02:20,820 --> 00:02:23,820
+That invariably, the world was a different place
+
+43
+00:02:23,820 --> 00:02:25,820
+when I would introduce a technology.
+
+44
+00:02:25,820 --> 00:02:27,820
+And, I noticed that most inventions fail,
+
+45
+00:02:27,820 --> 00:02:30,820
+not because the R&D department can't get it to work --
+
+46
+00:02:30,820 --> 00:02:33,820
+if you look at most business plans, they will actually succeed
+
+47
+00:02:33,820 --> 00:02:37,820
+if given the opportunity to build what they say they're going to build --
+
+48
+00:02:37,820 --> 00:02:40,820
+and 90 percent of those projects or more will fail, because the timing is wrong --
+
+49
+00:02:40,820 --> 00:02:43,820
+not all the enabling factors will be in place when they're needed.
+
+50
+00:02:43,820 --> 00:02:47,820
+So I began to be an ardent student of technology trends,
+
+51
+00:02:47,820 --> 00:02:50,820
+and track where technology would be at different points in time,
+
+52
+00:02:50,820 --> 00:02:53,820
+and began to build the mathematical models of that.
+
+53
+00:02:53,820 --> 00:02:55,820
+It's kind of taken on a life of its own.
+
+54
+00:02:55,820 --> 00:02:58,820
+I've got a group of 10 people that work with me to gather data
+
+55
+00:02:58,820 --> 00:03:03,820
+on key measures of technology in many different areas, and we build models.
+
+56
+00:03:03,820 --> 00:03:06,820
+And you'll hear people say, well, we can't predict the future.
+
+57
+00:03:06,820 --> 00:03:08,820
+And if you ask me,
+
+58
+00:03:08,820 --> 00:03:11,820
+will the price of Google be higher or lower than it is today three years from now,
+
+59
+00:03:11,820 --> 00:03:13,820
+that's very hard to say.
+
+60
+00:03:13,820 --> 00:03:16,820
+Will WiMax CDMA G3
+
+61
+00:03:16,820 --> 00:03:18,820
+be the wireless standard three years from now? That's hard to say.
+
+62
+00:03:18,820 --> 00:03:20,820
+But if you ask me, what will it cost
+
+63
+00:03:20,820 --> 00:03:23,820
+for one MIPS of computing in 2010,
+
+64
+00:03:23,820 --> 00:03:26,820
+or the cost to sequence a base pair of DNA in 2012,
+
+65
+00:03:26,820 --> 00:03:30,820
+or the cost of sending a megabyte of data wirelessly in 2014,
+
+66
+00:03:30,820 --> 00:03:33,820
+it turns out that those are very predictable.
+
+67
+00:03:33,820 --> 00:03:35,820
+There are remarkably smooth exponential curves
+
+68
+00:03:35,820 --> 00:03:38,820
+that govern price performance, capacity, bandwidth.
+
+69
+00:03:38,820 --> 00:03:40,820
+And I'm going to show you a small sample of this,
+
+70
+00:03:40,820 --> 00:03:42,820
+but there's really a theoretical reason
+
+71
+00:03:42,820 --> 00:03:47,820
+why technology develops in an exponential fashion.
+
+72
+00:03:47,820 --> 00:03:49,820
+And a lot of people, when they think about the future, think about it linearly.
+
+73
+00:03:49,820 --> 00:03:51,820
+They think they're going to continue
+
+74
+00:03:51,820 --> 00:03:53,820
+to develop a problem
+
+75
+00:03:53,820 --> 00:03:56,820
+or address a problem using today's tools,
+
+76
+00:03:56,820 --> 00:03:58,820
+at today's pace of progress,
+
+77
+00:03:58,820 --> 00:04:02,820
+and fail to take into consideration this exponential growth.
+
+78
+00:04:02,820 --> 00:04:05,820
+The Genome Project was a controversial project in 1990.
+
+79
+00:04:05,820 --> 00:04:07,820
+We had our best Ph.D. students,
+
+80
+00:04:07,820 --> 00:04:09,820
+our most advanced equipment around the world,
+
+81
+00:04:09,820 --> 00:04:11,820
+we got 1/10,000th of the project done,
+
+82
+00:04:11,820 --> 00:04:13,820
+so how're we going to get this done in 15 years?
+
+83
+00:04:13,820 --> 00:04:16,820
+And 10 years into the project,
+
+84
+00:04:17,820 --> 00:04:19,820
+the skeptics were still going strong -- says, "You're two-thirds through this project,
+
+85
+00:04:19,820 --> 00:04:21,820
+and you've managed to only sequence
+
+86
+00:04:21,820 --> 00:04:24,820
+a very tiny percentage of the whole genome."
+
+87
+00:04:24,820 --> 00:04:26,820
+But it's the nature of exponential growth
+
+88
+00:04:26,820 --> 00:04:28,820
+that once it reaches the knee of the curve, it explodes.
+
+89
+00:04:28,820 --> 00:04:30,820
+Most of the project was done in the last
+
+90
+00:04:30,820 --> 00:04:32,820
+few years of the project.
+
+91
+00:04:32,820 --> 00:04:34,820
+It took us 15 years to sequence HIV --
+
+92
+00:04:34,820 --> 00:04:36,820
+we sequenced SARS in 31 days.
+
+93
+00:04:36,820 --> 00:04:40,820
+So we are gaining the potential to overcome these problems.
+
+94
+00:04:40,820 --> 00:04:42,820
+I'm going to show you just a few examples
+
+95
+00:04:42,820 --> 00:04:45,820
+of how pervasive this phenomena is.
+
+96
+00:04:45,820 --> 00:04:49,820
+The actual paradigm-shift rate, the rate of adopting new ideas,
+
+97
+00:04:49,820 --> 00:04:52,820
+is doubling every decade, according to our models.
+
+98
+00:04:52,820 --> 00:04:55,820
+These are all logarithmic graphs,
+
+99
+00:04:55,820 --> 00:04:58,820
+so as you go up the levels it represents, generally multiplying by factor of 10 or 100.
+
+100
+00:04:58,820 --> 00:05:01,820
+It took us half a century to adopt the telephone,
+
+101
+00:05:01,820 --> 00:05:04,820
+the first virtual-reality technology.
+
+102
+00:05:04,820 --> 00:05:06,820
+Cell phones were adopted in about eight years.
+
+103
+00:05:06,820 --> 00:05:09,820
+If you put different communication technologies
+
+104
+00:05:09,820 --> 00:05:11,820
+on this logarithmic graph,
+
+105
+00:05:11,820 --> 00:05:13,820
+television, radio, telephone
+
+106
+00:05:13,820 --> 00:05:15,820
+were adopted in decades.
+
+107
+00:05:15,820 --> 00:05:18,820
+Recent technologies -- like the PC, the web, cell phones --
+
+108
+00:05:18,820 --> 00:05:20,820
+were under a decade.
+
+109
+00:05:20,820 --> 00:05:22,820
+Now this is an interesting chart,
+
+110
+00:05:22,820 --> 00:05:24,820
+and this really gets at the fundamental reason why
+
+111
+00:05:24,820 --> 00:05:28,820
+an evolutionary process -- and both biology and technology are evolutionary processes --
+
+112
+00:05:28,820 --> 00:05:30,820
+accelerate.
+
+113
+00:05:30,820 --> 00:05:33,820
+They work through interaction -- they create a capability,
+
+114
+00:05:33,820 --> 00:05:36,820
+and then it uses that capability to bring on the next stage.
+
+115
+00:05:36,820 --> 00:05:39,820
+So the first step in biological evolution,
+
+116
+00:05:39,820 --> 00:05:41,820
+the evolution of DNA -- actually it was RNA came first --
+
+117
+00:05:41,820 --> 00:05:43,820
+took billions of years,
+
+118
+00:05:43,820 --> 00:05:46,820
+but then evolution used that information-processing backbone
+
+119
+00:05:46,820 --> 00:05:48,820
+to bring on the next stage.
+
+120
+00:05:48,820 --> 00:05:51,820
+So the Cambrian Explosion, when all the body plans of the animals were evolved,
+
+121
+00:05:51,820 --> 00:05:55,820
+took only 10 million years. It was 200 times faster.
+
+122
+00:05:55,820 --> 00:05:57,820
+And then evolution used those body plans
+
+123
+00:05:57,820 --> 00:05:59,820
+to evolve higher cognitive functions,
+
+124
+00:05:59,820 --> 00:06:01,820
+and biological evolution kept accelerating.
+
+125
+00:06:01,820 --> 00:06:04,820
+It's an inherent nature of an evolutionary process.
+
+126
+00:06:04,820 --> 00:06:07,820
+So Homo sapiens, the first technology-creating species,
+
+127
+00:06:07,820 --> 00:06:09,820
+the species that combined a cognitive function
+
+128
+00:06:09,820 --> 00:06:11,820
+with an opposable appendage --
+
+129
+00:06:11,820 --> 00:06:15,820
+and by the way, chimpanzees don't really have a very good opposable thumb --
+
+130
+00:06:15,820 --> 00:06:17,820
+so we could actually manipulate our environment with a power grip
+
+131
+00:06:17,820 --> 00:06:19,820
+and fine motor coordination,
+
+132
+00:06:19,820 --> 00:06:21,820
+and use our mental models to actually change the world
+
+133
+00:06:21,820 --> 00:06:23,820
+and bring on technology.
+
+134
+00:06:23,820 --> 00:06:26,820
+But anyway, the evolution of our species took hundreds of thousands of years,
+
+135
+00:06:26,820 --> 00:06:28,820
+and then working through interaction,
+
+136
+00:06:28,820 --> 00:06:30,820
+evolution used, essentially,
+
+137
+00:06:30,820 --> 00:06:33,820
+the technology-creating species to bring on the next stage,
+
+138
+00:06:33,820 --> 00:06:36,820
+which were the first steps in technological evolution.
+
+139
+00:06:36,820 --> 00:06:39,820
+And the first step took tens of thousands of years --
+
+140
+00:06:39,820 --> 00:06:42,820
+stone tools, fire, the wheel -- kept accelerating.
+
+141
+00:06:42,820 --> 00:06:44,820
+We always used then the latest generation of technology
+
+142
+00:06:44,820 --> 00:06:46,820
+to create the next generation.
+
+143
+00:06:46,820 --> 00:06:48,820
+Printing press took a century to be adopted;
+
+144
+00:06:48,820 --> 00:06:52,820
+the first computers were designed pen-on-paper -- now we use computers.
+
+145
+00:06:52,820 --> 00:06:55,820
+And we've had a continual acceleration of this process.
+
+146
+00:06:55,820 --> 00:06:58,820
+Now by the way, if you look at this on a linear graph, it looks like everything has just happened,
+
+147
+00:06:58,820 --> 00:07:04,820
+but some observer says, "Well, Kurzweil just put points on this graph
+
+148
+00:07:04,820 --> 00:07:06,820
+that fall on that straight line."
+
+149
+00:07:06,820 --> 00:07:09,820
+So, I took 15 different lists from key thinkers,
+
+150
+00:07:09,820 --> 00:07:13,820
+like the Encyclopedia Britannica, the Museum of Natural History, Carl Sagan's Cosmic Calendar
+
+151
+00:07:13,820 --> 00:07:16,820
+on the same -- and these people were not trying to make my point;
+
+152
+00:07:16,820 --> 00:07:18,820
+these were just lists in reference works,
+
+153
+00:07:18,820 --> 00:07:21,820
+and I think that's what they thought the key events were
+
+154
+00:07:21,820 --> 00:07:24,820
+in biological evolution and technological evolution.
+
+155
+00:07:24,820 --> 00:07:27,820
+And again, it forms the same straight line. You have a little bit of thickening in the line
+
+156
+00:07:27,820 --> 00:07:30,820
+because people do have disagreements, what the key points are,
+
+157
+00:07:30,820 --> 00:07:32,820
+there's differences of opinion when agriculture started,
+
+158
+00:07:32,820 --> 00:07:35,820
+or how long the Cambrian Explosion took.
+
+159
+00:07:35,820 --> 00:07:37,820
+But you see a very clear trend.
+
+160
+00:07:37,820 --> 00:07:42,820
+There's a basic, profound acceleration of this evolutionary process.
+
+161
+00:07:42,820 --> 00:07:47,820
+Information technologies double their capacity, price performance, bandwidth,
+
+162
+00:07:47,820 --> 00:07:49,820
+every year.
+
+163
+00:07:49,820 --> 00:07:53,820
+And that's a very profound explosion of exponential growth.
+
+164
+00:07:53,820 --> 00:07:55,820
+A personal experience, when I was at MIT --
+
+165
+00:07:55,820 --> 00:07:57,820
+computer taking up about the size of this room,
+
+166
+00:07:57,820 --> 00:08:02,820
+less powerful than the computer in your cell phone.
+
+167
+00:08:02,820 --> 00:08:06,820
+But Moore's Law, which is very often identified with this exponential growth,
+
+168
+00:08:06,820 --> 00:08:08,820
+is just one example of many, because it's basically
+
+169
+00:08:08,820 --> 00:08:13,820
+a property of the evolutionary process of technology.
+
+170
+00:08:13,820 --> 00:08:16,820
+I put 49 famous computers on this logarithmic graph --
+
+171
+00:08:16,820 --> 00:08:20,820
+by the way, a straight line on a logarithmic graph is exponential growth --
+
+172
+00:08:20,820 --> 00:08:22,820
+that's another exponential.
+
+173
+00:08:22,820 --> 00:08:25,820
+It took us three years to double our price performance of computing in 1900,
+
+174
+00:08:25,820 --> 00:08:28,820
+two years in the middle; we're now doubling it every one year.
+
+175
+00:08:29,820 --> 00:08:32,820
+And that's exponential growth through five different paradigms.
+
+176
+00:08:32,820 --> 00:08:34,820
+Moore's Law was just the last part of that,
+
+177
+00:08:34,820 --> 00:08:37,820
+where we were shrinking transistors on an integrated circuit,
+
+178
+00:08:37,820 --> 00:08:40,820
+but we had electro-mechanical calculators,
+
+179
+00:08:40,820 --> 00:08:42,820
+relay-based computers that cracked the German Enigma Code,
+
+180
+00:08:42,820 --> 00:08:46,820
+vacuum tubes in the 1950s predicted the election of Eisenhower,
+
+181
+00:08:46,820 --> 00:08:49,820
+discreet transistors used in the first space flights
+
+182
+00:08:49,820 --> 00:08:51,820
+and then Moore's Law.
+
+183
+00:08:51,820 --> 00:08:53,820
+Every time one paradigm ran out of steam,
+
+184
+00:08:53,820 --> 00:08:56,820
+another paradigm came out of left field to continue the exponential growth.
+
+185
+00:08:56,820 --> 00:08:59,820
+They were shrinking vacuum tubes, making them smaller and smaller.
+
+186
+00:08:59,820 --> 00:09:02,820
+That hit a wall. They couldn't shrink them and keep the vacuum.
+
+187
+00:09:02,820 --> 00:09:04,820
+Whole different paradigm -- transistors came out of the woodwork.
+
+188
+00:09:04,820 --> 00:09:07,820
+In fact, when we see the end of the line for a particular paradigm,
+
+189
+00:09:07,820 --> 00:09:11,820
+it creates research pressure to create the next paradigm.
+
+190
+00:09:11,820 --> 00:09:14,820
+And because we've been predicting the end of Moore's Law
+
+191
+00:09:14,820 --> 00:09:17,820
+for quite a long time -- the first prediction said 2002, until now it says 2022.
+
+192
+00:09:17,820 --> 00:09:20,820
+But by the teen years,
+
+193
+00:09:20,820 --> 00:09:23,820
+the features of transistors will be a few atoms in width,
+
+194
+00:09:23,820 --> 00:09:25,820
+and we won't be able to shrink them any more.
+
+195
+00:09:25,820 --> 00:09:28,820
+That'll be the end of Moore's Law, but it won't be the end of
+
+196
+00:09:28,820 --> 00:09:30,820
+the exponential growth of computing, because chips are flat.
+
+197
+00:09:30,820 --> 00:09:33,820
+We live in a three-dimensional world; we might as well use the third dimension.
+
+198
+00:09:33,820 --> 00:09:35,820
+We will go into the third dimension
+
+199
+00:09:35,820 --> 00:09:38,820
+and there's been tremendous progress, just in the last few years,
+
+200
+00:09:38,820 --> 00:09:42,820
+of getting three-dimensional, self-organizing molecular circuits to work.
+
+201
+00:09:42,820 --> 00:09:49,820
+We'll have those ready well before Moore's Law runs out of steam.
+
+202
+00:09:49,820 --> 00:09:51,820
+Supercomputers -- same thing.
+
+203
+00:09:52,820 --> 00:09:55,820
+Processor performance on Intel chips,
+
+204
+00:09:55,820 --> 00:09:58,820
+the average price of a transistor --
+
+205
+00:09:58,820 --> 00:10:01,820
+1968, you could buy one transistor for a dollar.
+
+206
+00:10:01,820 --> 00:10:04,820
+You could buy 10 million in 2002.
+
+207
+00:10:04,820 --> 00:10:07,820
+It's pretty remarkable how smooth
+
+208
+00:10:07,820 --> 00:10:09,820
+an exponential process that is.
+
+209
+00:10:09,820 --> 00:10:12,820
+I mean, you'd think this is the result of some tabletop experiment,
+
+210
+00:10:13,820 --> 00:10:16,820
+but this is the result of worldwide chaotic behavior --
+
+211
+00:10:16,820 --> 00:10:18,820
+countries accusing each other of dumping products,
+
+212
+00:10:18,820 --> 00:10:20,820
+IPOs, bankruptcies, marketing programs.
+
+213
+00:10:20,820 --> 00:10:23,820
+You would think it would be a very erratic process,
+
+214
+00:10:23,820 --> 00:10:25,820
+and you have a very smooth
+
+215
+00:10:25,820 --> 00:10:27,820
+outcome of this chaotic process.
+
+216
+00:10:27,820 --> 00:10:29,820
+Just as we can't predict
+
+217
+00:10:29,820 --> 00:10:31,820
+what one molecule in a gas will do --
+
+218
+00:10:31,820 --> 00:10:34,820
+it's hopeless to predict a single molecule --
+
+219
+00:10:34,820 --> 00:10:36,820
+yet we can predict the properties of the whole gas,
+
+220
+00:10:36,820 --> 00:10:39,820
+using thermodynamics, very accurately.
+
+221
+00:10:39,820 --> 00:10:42,820
+It's the same thing here. We can't predict any particular project,
+
+222
+00:10:42,820 --> 00:10:44,820
+but the result of this whole worldwide,
+
+223
+00:10:44,820 --> 00:10:49,820
+chaotic, unpredictable activity of competition
+
+224
+00:10:49,820 --> 00:10:52,820
+and the evolutionary process of technology is very predictable.
+
+225
+00:10:52,820 --> 00:10:55,820
+And we can predict these trends far into the future.
+
+226
+00:10:57,820 --> 00:10:59,820
+Unlike Gertrude Stein's roses,
+
+227
+00:10:59,820 --> 00:11:01,820
+it's not the case that a transistor is a transistor.
+
+228
+00:11:01,820 --> 00:11:03,820
+As we make them smaller and less expensive,
+
+229
+00:11:03,820 --> 00:11:05,820
+the electrons have less distance to travel.
+
+230
+00:11:05,820 --> 00:11:09,820
+They're faster, so you've got exponential growth in the speed of transistors,
+
+231
+00:11:09,820 --> 00:11:13,820
+so the cost of a cycle of one transistor
+
+232
+00:11:13,820 --> 00:11:16,820
+has been coming down with a halving rate of 1.1 years.
+
+233
+00:11:16,820 --> 00:11:19,820
+You add other forms of innovation and processor design,
+
+234
+00:11:19,820 --> 00:11:23,820
+you get a doubling of price performance of computing every one year.
+
+235
+00:11:23,820 --> 00:11:26,820
+And that's basically deflation --
+
+236
+00:11:26,820 --> 00:11:28,820
+50 percent deflation.
+
+237
+00:11:28,820 --> 00:11:31,820
+And it's not just computers. I mean, it's true of DNA sequencing;
+
+238
+00:11:31,820 --> 00:11:33,820
+it's true of brain scanning;
+
+239
+00:11:33,820 --> 00:11:35,820
+it's true of the World Wide Web. I mean, anything that we can quantify,
+
+240
+00:11:35,820 --> 00:11:38,820
+we have hundreds of different measurements
+
+241
+00:11:38,820 --> 00:11:41,820
+of different, information-related measurements --
+
+242
+00:11:41,820 --> 00:11:43,820
+capacity, adoption rates --
+
+243
+00:11:43,820 --> 00:11:46,820
+and they basically double every 12, 13, 15 months,
+
+244
+00:11:46,820 --> 00:11:48,820
+depending on what you're looking at.
+
+245
+00:11:48,820 --> 00:11:52,820
+In terms of price performance, that's a 40 to 50 percent deflation rate.
+
+246
+00:11:53,820 --> 00:11:55,820
+And economists have actually started worrying about that.
+
+247
+00:11:55,820 --> 00:11:57,820
+We had deflation during the Depression,
+
+248
+00:11:57,820 --> 00:11:59,820
+but that was collapse of the money supply,
+
+249
+00:11:59,820 --> 00:12:02,820
+collapse of consumer confidence, a completely different phenomena.
+
+250
+00:12:02,820 --> 00:12:04,820
+This is due to greater productivity,
+
+251
+00:12:05,820 --> 00:12:07,820
+but the economist says, "But there's no way you're going to be able to keep up with that.
+
+252
+00:12:07,820 --> 00:12:10,820
+If you have 50 percent deflation, people may increase their volume
+
+253
+00:12:10,820 --> 00:12:12,820
+30, 40 percent, but they won't keep up with it."
+
+254
+00:12:12,820 --> 00:12:14,820
+But what we're actually seeing is that
+
+255
+00:12:14,820 --> 00:12:16,820
+we actually more than keep up with it.
+
+256
+00:12:16,820 --> 00:12:19,820
+We've had 28 percent per year compounded growth in dollars
+
+257
+00:12:19,820 --> 00:12:22,820
+in information technology over the last 50 years.
+
+258
+00:12:22,820 --> 00:12:26,820
+I mean, people didn't build iPods for 10,000 dollars 10 years ago.
+
+259
+00:12:26,820 --> 00:12:29,820
+As the price performance makes new applications feasible,
+
+260
+00:12:29,820 --> 00:12:31,820
+new applications come to the market.
+
+261
+00:12:31,820 --> 00:12:34,820
+And this is a very widespread phenomena.
+
+262
+00:12:34,820 --> 00:12:36,820
+Magnetic data storage --
+
+263
+00:12:36,820 --> 00:12:39,820
+that's not Moore's Law, it's shrinking magnetic spots,
+
+264
+00:12:39,820 --> 00:12:43,820
+different engineers, different companies, same exponential process.
+
+265
+00:12:43,820 --> 00:12:47,820
+A key revolution is that we're understanding our own biology
+
+266
+00:12:47,820 --> 00:12:49,820
+in these information terms.
+
+267
+00:12:49,820 --> 00:12:51,820
+We're understanding the software programs
+
+268
+00:12:51,820 --> 00:12:53,820
+that make our body run.
+
+269
+00:12:53,820 --> 00:12:55,820
+These were evolved in very different times --
+
+270
+00:12:55,820 --> 00:12:57,820
+we'd like to actually change those programs.
+
+271
+00:12:57,820 --> 00:12:59,820
+One little software program, called the fat insulin receptor gene,
+
+272
+00:12:59,820 --> 00:13:01,820
+basically says, "Hold onto every calorie,
+
+273
+00:13:01,820 --> 00:13:05,820
+because the next hunting season may not work out so well."
+
+274
+00:13:05,820 --> 00:13:08,820
+That was in the interests of the species tens of thousands of years ago.
+
+275
+00:13:08,820 --> 00:13:11,820
+We'd like to actually turn that program off.
+
+276
+00:13:11,820 --> 00:13:14,820
+They tried that in animals, and these mice ate ravenously
+
+277
+00:13:14,820 --> 00:13:16,820
+and remained slim and got the health benefits of being slim.
+
+278
+00:13:16,820 --> 00:13:19,820
+They didn't get diabetes; they didn't get heart disease;
+
+279
+00:13:19,820 --> 00:13:22,820
+they lived 20 percent longer; they got the health benefits of caloric restriction
+
+280
+00:13:22,820 --> 00:13:24,820
+without the restriction.
+
+281
+00:13:24,820 --> 00:13:27,820
+Four or five pharmaceutical companies have noticed this,
+
+282
+00:13:27,820 --> 00:13:30,820
+felt that would be
+
+283
+00:13:30,820 --> 00:13:33,820
+interesting drug for the human market,
+
+284
+00:13:33,820 --> 00:13:35,820
+and that's just one of the 30,000 genes
+
+285
+00:13:35,820 --> 00:13:38,820
+that affect our biochemistry.
+
+286
+00:13:38,820 --> 00:13:41,820
+We were evolved in an era where it wasn't in the interests of people
+
+287
+00:13:41,820 --> 00:13:44,820
+at the age of most people at this conference, like myself,
+
+288
+00:13:44,820 --> 00:13:48,820
+to live much longer, because we were using up the precious resources
+
+289
+00:13:48,820 --> 00:13:49,820
+which were better deployed towards the children
+
+290
+00:13:49,820 --> 00:13:51,820
+and those caring for them.
+
+291
+00:13:51,820 --> 00:13:53,820
+So, life -- long lifespans --
+
+292
+00:13:53,820 --> 00:13:55,820
+like, that is to say, much more than 30 --
+
+293
+00:13:55,820 --> 00:13:58,820
+weren't selected for,
+
+294
+00:13:58,820 --> 00:14:01,820
+but we are learning to actually manipulate
+
+295
+00:14:01,820 --> 00:14:03,820
+and change these software programs
+
+296
+00:14:03,820 --> 00:14:05,820
+through the biotechnology revolution.
+
+297
+00:14:05,820 --> 00:14:09,820
+For example, we can inhibit genes now with RNA interference.
+
+298
+00:14:09,820 --> 00:14:11,820
+There are exciting new forms of gene therapy
+
+299
+00:14:11,820 --> 00:14:13,820
+that overcome the problem of placing the genetic material
+
+300
+00:14:13,820 --> 00:14:15,820
+in the right place on the chromosome.
+
+301
+00:14:15,820 --> 00:14:18,820
+There's actually a -- for the first time now,
+
+302
+00:14:18,820 --> 00:14:21,820
+something going to human trials, that actually cures pulmonary hypertension --
+
+303
+00:14:21,820 --> 00:14:24,820
+a fatal disease -- using gene therapy.
+
+304
+00:14:24,820 --> 00:14:27,820
+So we'll have not just designer babies, but designer baby boomers.
+
+305
+00:14:27,820 --> 00:14:30,820
+And this technology is also accelerating.
+
+306
+00:14:30,820 --> 00:14:33,820
+It cost 10 dollars per base pair in 1990,
+
+307
+00:14:33,820 --> 00:14:35,820
+then a penny in 2000.
+
+308
+00:14:35,820 --> 00:14:37,820
+It's now under a 10th of a cent.
+
+309
+00:14:37,820 --> 00:14:39,820
+The amount of genetic data --
+
+310
+00:14:39,820 --> 00:14:42,820
+basically this shows that smooth exponential growth
+
+311
+00:14:42,820 --> 00:14:44,820
+doubled every year,
+
+312
+00:14:44,820 --> 00:14:47,820
+enabling the genome project to be completed.
+
+313
+00:14:47,820 --> 00:14:50,820
+Another major revolution: the communications revolution.
+
+314
+00:14:50,820 --> 00:14:55,820
+The price performance, bandwidth, capacity of communications measured many different ways;
+
+315
+00:14:55,820 --> 00:14:58,820
+wired, wireless is growing exponentially.
+
+316
+00:14:58,820 --> 00:15:01,820
+The Internet has been doubling in power and continues to,
+
+317
+00:15:01,820 --> 00:15:03,820
+measured many different ways.
+
+318
+00:15:03,820 --> 00:15:05,820
+This is based on the number of hosts.
+
+319
+00:15:05,820 --> 00:15:07,820
+Miniaturization -- we're shrinking the size of technology
+
+320
+00:15:07,820 --> 00:15:09,820
+at an exponential rate,
+
+321
+00:15:09,820 --> 00:15:11,820
+both wired and wireless.
+
+322
+00:15:11,820 --> 00:15:15,820
+These are some designs from Eric Drexler's book --
+
+323
+00:15:15,820 --> 00:15:17,820
+which we're now showing are feasible
+
+324
+00:15:17,820 --> 00:15:19,820
+with super-computing simulations,
+
+325
+00:15:19,820 --> 00:15:21,820
+where actually there are scientists building
+
+326
+00:15:21,820 --> 00:15:23,820
+molecule-scale robots.
+
+327
+00:15:23,820 --> 00:15:25,820
+One has one that actually walks with a surprisingly human-like gait,
+
+328
+00:15:25,820 --> 00:15:28,820
+that's built out of molecules.
+
+329
+00:15:28,820 --> 00:15:32,820
+There are little machines doing things in experimental bases.
+
+330
+00:15:32,820 --> 00:15:35,820
+The most exciting opportunity
+
+331
+00:15:35,820 --> 00:15:37,820
+is actually to go inside the human body
+
+332
+00:15:37,820 --> 00:15:40,820
+and perform therapeutic and diagnostic functions.
+
+333
+00:15:40,820 --> 00:15:42,820
+And this is less futuristic than it may sound.
+
+334
+00:15:42,820 --> 00:15:44,820
+These things have already been done in animals.
+
+335
+00:15:44,820 --> 00:15:48,820
+There's one nano-engineered device that cures type 1 diabetes. It's blood cell-sized.
+
+336
+00:15:48,820 --> 00:15:50,820
+They put tens of thousands of these
+
+337
+00:15:50,820 --> 00:15:52,820
+in the blood cell -- they tried this in rats --
+
+338
+00:15:52,820 --> 00:15:54,820
+it lets insulin out in a controlled fashion,
+
+339
+00:15:54,820 --> 00:15:56,820
+and actually cures type 1 diabetes.
+
+340
+00:15:56,820 --> 00:15:59,820
+What you're watching is a design
+
+341
+00:15:59,820 --> 00:16:01,820
+of a robotic red blood cell,
+
+342
+00:16:01,820 --> 00:16:03,820
+and it does bring up the issue that our biology
+
+343
+00:16:03,820 --> 00:16:05,820
+is actually very sub-optimal,
+
+344
+00:16:05,820 --> 00:16:08,820
+even though it's remarkable in its intricacy.
+
+345
+00:16:08,820 --> 00:16:11,820
+Once we understand its principles of operation,
+
+346
+00:16:11,820 --> 00:16:14,820
+and the pace with which we are reverse-engineering biology is accelerating,
+
+347
+00:16:15,820 --> 00:16:17,820
+we can actually design these things to be
+
+348
+00:16:17,820 --> 00:16:19,820
+thousands of times more capable.
+
+349
+00:16:19,820 --> 00:16:23,820
+An analysis of this respirocyte, designed by Rob Freitas,
+
+350
+00:16:24,820 --> 00:16:26,820
+indicates if you replace 10 percent of your red blood cells with these robotic versions,
+
+351
+00:16:27,820 --> 00:16:30,820
+you could do an Olympic sprint for 15 minutes without taking a breath.
+
+352
+00:16:30,820 --> 00:16:33,820
+You could sit at the bottom of your pool for four hours --
+
+353
+00:16:33,820 --> 00:16:37,820
+so, "Honey, I'm in the pool," will take on a whole new meaning.
+
+354
+00:16:37,820 --> 00:16:39,820
+It will be interesting to see what we do in our Olympic trials.
+
+355
+00:16:39,820 --> 00:16:41,820
+Presumably we'll ban them,
+
+356
+00:16:41,820 --> 00:16:43,820
+but then we'll have the specter of teenagers in their high schools gyms
+
+357
+00:16:43,820 --> 00:16:46,820
+routinely out-performing the Olympic athletes.
+
+358
+00:16:48,820 --> 00:16:51,820
+Freitas has a design for a robotic white blood cell.
+
+359
+00:16:51,820 --> 00:16:55,820
+These are 2020-circa scenarios,
+
+360
+00:16:55,820 --> 00:16:57,820
+but they're not as futuristic as it may sound.
+
+361
+00:16:57,820 --> 00:17:01,820
+There are four major conferences on building blood cell-sized devices;
+
+362
+00:17:01,820 --> 00:17:03,820
+there are many experiments in animals.
+
+363
+00:17:03,820 --> 00:17:05,820
+There's actually one going into human trial,
+
+364
+00:17:05,820 --> 00:17:08,820
+so this is feasible technology.
+
+365
+00:17:09,820 --> 00:17:11,820
+If we come back to our exponential growth of computing,
+
+366
+00:17:11,820 --> 00:17:14,820
+1,000 dollars of computing is now somewhere between an insect and a mouse brain.
+
+367
+00:17:14,820 --> 00:17:17,820
+It will intersect human intelligence
+
+368
+00:17:17,820 --> 00:17:20,820
+in terms of capacity in the 2020s,
+
+369
+00:17:20,820 --> 00:17:22,820
+but that'll be the hardware side of the equation.
+
+370
+00:17:22,820 --> 00:17:24,820
+Where will we get the software?
+
+371
+00:17:24,820 --> 00:17:26,820
+Well, it turns out we can see inside the human brain,
+
+372
+00:17:26,820 --> 00:17:28,820
+and in fact not surprisingly,
+
+373
+00:17:28,820 --> 00:17:32,820
+the spatial and temporal resolution of brain scanning is doubling every year.
+
+374
+00:17:32,820 --> 00:17:34,820
+And with the new generation of scanning tools,
+
+375
+00:17:34,820 --> 00:17:36,820
+for the first time we can actually see
+
+376
+00:17:36,820 --> 00:17:38,820
+individual inter-neural fibers
+
+377
+00:17:38,820 --> 00:17:41,820
+and see them processing and signaling in real time --
+
+378
+00:17:41,820 --> 00:17:43,820
+but then the question is, OK, we can get this data now,
+
+379
+00:17:43,820 --> 00:17:45,820
+but can we understand it?
+
+380
+00:17:45,820 --> 00:17:48,820
+Doug Hofstadter wonders, well, maybe our intelligence
+
+381
+00:17:48,820 --> 00:17:51,820
+just isn't great enough to understand our intelligence,
+
+382
+00:17:51,820 --> 00:17:54,820
+and if we were smarter, well, then our brains would be that much more complicated,
+
+383
+00:17:54,820 --> 00:17:56,820
+and we'd never catch up to it.
+
+384
+00:17:57,820 --> 00:18:00,820
+It turns out that we can understand it.
+
+385
+00:18:00,820 --> 00:18:03,820
+This is a block diagram of
+
+386
+00:18:03,820 --> 00:18:07,820
+a model and simulation of the human auditory cortex
+
+387
+00:18:07,820 --> 00:18:09,820
+that actually works quite well --
+
+388
+00:18:09,820 --> 00:18:11,820
+in applying psychoacoustic tests, gets very similar results to human auditory perception.
+
+389
+00:18:13,820 --> 00:18:16,820
+There's another simulation of the cerebellum --
+
+390
+00:18:16,820 --> 00:18:18,820
+that's more than half the neurons in the brain --
+
+391
+00:18:18,820 --> 00:18:21,820
+again, works very similarly to human skill formation.
+
+392
+00:18:22,820 --> 00:18:25,820
+This is at an early stage, but you can show
+
+393
+00:18:25,820 --> 00:18:28,820
+with the exponential growth of the amount of information about the brain
+
+394
+00:18:28,820 --> 00:18:30,820
+and the exponential improvement
+
+395
+00:18:30,820 --> 00:18:32,820
+in the resolution of brain scanning,
+
+396
+00:18:32,820 --> 00:18:35,820
+we will succeed in reverse-engineering the human brain
+
+397
+00:18:35,820 --> 00:18:37,820
+by the 2020s.
+
+398
+00:18:37,820 --> 00:18:40,820
+We've already had very good models and simulation of about 15 regions
+
+399
+00:18:40,820 --> 00:18:43,820
+out of the several hundred.
+
+400
+00:18:43,820 --> 00:18:45,820
+All of this is driving
+
+401
+00:18:45,820 --> 00:18:47,820
+exponentially growing economic progress.
+
+402
+00:18:47,820 --> 00:18:50,820
+We've had productivity go from 30 dollars to 150 dollars per hour
+
+403
+00:18:52,820 --> 00:18:54,820
+of labor in the last 50 years.
+
+404
+00:18:54,820 --> 00:18:57,820
+E-commerce has been growing exponentially. It's now a trillion dollars.
+
+405
+00:18:57,820 --> 00:18:59,820
+You might wonder, well, wasn't there a boom and a bust?
+
+406
+00:18:59,820 --> 00:19:01,820
+That was strictly a capital-markets phenomena.
+
+407
+00:19:01,820 --> 00:19:05,820
+Wall Street noticed that this was a revolutionary technology, which it was,
+
+408
+00:19:05,820 --> 00:19:08,820
+but then six months later, when it hadn't revolutionized all business models,
+
+409
+00:19:08,820 --> 00:19:10,820
+they figured, well, that was wrong,
+
+410
+00:19:10,820 --> 00:19:12,820
+and then we had this bust.
+
+411
+00:19:13,820 --> 00:19:15,820
+All right, this is a technology
+
+412
+00:19:15,820 --> 00:19:18,820
+that we put together using some of the technologies we're involved in.
+
+413
+00:19:18,820 --> 00:19:22,820
+This will be a routine feature in a cell phone.
+
+414
+00:19:22,820 --> 00:19:24,820
+It would be able to translate from one language to another.
+
+415
+00:19:34,820 --> 00:19:36,820
+So let me just end with a couple of scenarios.
+
+416
+00:19:36,820 --> 00:19:39,820
+By 2010 computers will disappear.
+
+417
+00:19:40,820 --> 00:19:43,820
+They'll be so small, they'll be embedded in our clothing, in our environment.
+
+418
+00:19:43,820 --> 00:19:45,820
+Images will be written directly to our retina,
+
+419
+00:19:45,820 --> 00:19:47,820
+providing full-immersion virtual reality,
+
+420
+00:19:47,820 --> 00:19:50,820
+augmented real reality. We'll be interacting with virtual personalities.
+
+421
+00:19:51,820 --> 00:19:55,820
+But if we go to 2029, we really have the full maturity of these trends,
+
+422
+00:19:55,820 --> 00:19:58,820
+and you have to appreciate how many turns of the screw
+
+423
+00:19:58,820 --> 00:20:02,820
+in terms of generations of technology, which are getting faster and faster, we'll have at that point.
+
+424
+00:20:02,820 --> 00:20:04,820
+I mean, we will have two-to-the-25th-power
+
+425
+00:20:04,820 --> 00:20:07,820
+greater price performance, capacity and bandwidth
+
+426
+00:20:07,820 --> 00:20:09,820
+of these technologies, which is pretty phenomenal.
+
+427
+00:20:09,820 --> 00:20:11,820
+It'll be millions of times more powerful than it is today.
+
+428
+00:20:11,820 --> 00:20:13,820
+We'll have completed the reverse-engineering of the human brain,
+
+429
+00:20:14,820 --> 00:20:17,820
+1,000 dollars of computing will be far more powerful
+
+430
+00:20:17,820 --> 00:20:21,820
+than the human brain in terms of basic raw capacity.
+
+431
+00:20:21,820 --> 00:20:23,820
+Computers will combine
+
+432
+00:20:23,820 --> 00:20:25,820
+the subtle pan-recognition powers
+
+433
+00:20:25,820 --> 00:20:28,820
+of human intelligence with ways in which machines are already superior,
+
+434
+00:20:28,820 --> 00:20:30,820
+in terms of doing analytic thinking,
+
+435
+00:20:30,820 --> 00:20:32,820
+remembering billions of facts accurately.
+
+436
+00:20:32,820 --> 00:20:34,820
+Machines can share their knowledge very quickly.
+
+437
+00:20:34,820 --> 00:20:39,820
+But it's not just an alien invasion of intelligent machines.
+
+438
+00:20:39,820 --> 00:20:41,820
+We are going to merge with our technology.
+
+439
+00:20:41,820 --> 00:20:43,820
+These nano-bots I mentioned
+
+440
+00:20:43,820 --> 00:20:47,820
+will first be used for medical and health applications:
+
+441
+00:20:47,820 --> 00:20:50,820
+cleaning up the environment, providing powerful fuel cells
+
+442
+00:20:50,820 --> 00:20:55,820
+and widely distributed decentralized solar panels and so on in the environment.
+
+443
+00:20:55,820 --> 00:20:57,820
+But they'll also go inside our brain,
+
+444
+00:20:57,820 --> 00:20:59,820
+interact with our biological neurons.
+
+445
+00:20:59,820 --> 00:21:02,820
+We've demonstrated the key principles of being able to do this.
+
+446
+00:21:02,820 --> 00:21:04,820
+So, for example,
+
+447
+00:21:04,820 --> 00:21:06,820
+full-immersion virtual reality from within the nervous system,
+
+448
+00:21:06,820 --> 00:21:09,820
+the nano-bots shut down the signals coming from your real senses,
+
+449
+00:21:09,820 --> 00:21:12,820
+replace them with the signals that your brain would be receiving
+
+450
+00:21:12,820 --> 00:21:14,820
+if you were in the virtual environment,
+
+451
+00:21:14,820 --> 00:21:16,820
+and then it'll feel like you're in that virtual environment.
+
+452
+00:21:16,820 --> 00:21:18,820
+You can go there with other people, have any kind of experience
+
+453
+00:21:18,820 --> 00:21:20,820
+with anyone involving all of the senses.
+
+454
+00:21:21,820 --> 00:21:24,820
+"Experience beamers," I call them, will put their whole flow of sensory experiences
+
+455
+00:21:24,820 --> 00:21:27,820
+in the neurological correlates of their emotions out on the Internet.
+
+456
+00:21:27,820 --> 00:21:30,820
+You can plug in and experience what it's like to be someone else.
+
+457
+00:21:30,820 --> 00:21:32,820
+But most importantly,
+
+458
+00:21:32,820 --> 00:21:34,820
+it'll be a tremendous expansion
+
+459
+00:21:34,820 --> 00:21:38,820
+of human intelligence through this direct merger with our technology,
+
+460
+00:21:38,820 --> 00:21:40,820
+which in some sense we're doing already.
+
+461
+00:21:40,820 --> 00:21:42,820
+We routinely do intellectual feats
+
+462
+00:21:42,820 --> 00:21:44,820
+that would be impossible without our technology.
+
+463
+00:21:44,820 --> 00:21:47,820
+Human life expectancy is expanding. It was 37 in 1800,
+
+464
+00:21:47,820 --> 00:21:52,820
+and with this sort of biotechnology, nano-technology revolutions,
+
+465
+00:21:52,820 --> 00:21:54,820
+this will move up very rapidly
+
+466
+00:21:54,820 --> 00:21:56,820
+in the years ahead.
+
+467
+00:21:56,820 --> 00:22:00,820
+My main message is that progress in technology
+
+468
+00:22:00,820 --> 00:22:03,820
+is exponential, not linear.
+
+469
+00:22:03,820 --> 00:22:07,820
+Many -- even scientists -- assume a linear model,
+
+470
+00:22:07,820 --> 00:22:09,820
+so they'll say, "Oh, it'll be hundreds of years
+
+471
+00:22:09,820 --> 00:22:12,820
+before we have self-replicating nano-technology assembly
+
+472
+00:22:12,820 --> 00:22:14,820
+or artificial intelligence."
+
+473
+00:22:14,820 --> 00:22:17,820
+If you really look at the power of exponential growth,
+
+474
+00:22:17,820 --> 00:22:20,820
+you'll see that these things are pretty soon at hand.
+
+475
+00:22:20,820 --> 00:22:23,820
+And information technology is increasingly encompassing
+
+476
+00:22:23,820 --> 00:22:27,820
+all of our lives, from our music to our manufacturing
+
+477
+00:22:27,820 --> 00:22:31,820
+to our biology to our energy to materials.
+
+478
+00:22:31,820 --> 00:22:34,820
+We'll be able to manufacture almost anything we need in the 2020s,
+
+479
+00:22:34,820 --> 00:22:36,820
+from information, in very inexpensive raw materials,
+
+480
+00:22:36,820 --> 00:22:39,820
+using nano-technology.
+
+481
+00:22:39,820 --> 00:22:41,820
+These are very powerful technologies.
+
+482
+00:22:41,820 --> 00:22:45,820
+They both empower our promise and our peril.
+
+483
+00:22:45,820 --> 00:22:48,820
+So we have to have the will to apply them to the right problems.
+
+484
+00:22:48,820 --> 00:22:49,820
+Thank you very much.
+
+485
+00:22:49,820 --> 00:22:50,820
+(Applause)
+

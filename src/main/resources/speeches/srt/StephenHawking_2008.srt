@@ -1,0 +1,591 @@
+﻿1
+00:00:13,621 --> 00:00:16,736
+There is nothing bigger
+or older than the universe.
+
+2
+00:00:19,320 --> 00:00:22,248
+The questions
+I would like to talk about are:
+
+3
+00:00:25,169 --> 00:00:28,558
+one, where did we come from?
+
+4
+00:00:29,637 --> 00:00:32,073
+How did the universe come into being?
+
+5
+00:00:33,827 --> 00:00:35,796
+Are we alone in the universe?
+
+6
+00:00:36,813 --> 00:00:38,964
+Is there alien life out there?
+
+7
+00:00:39,956 --> 00:00:42,433
+What is the future of the human race?
+
+8
+00:00:43,266 --> 00:00:45,796
+Up until the 1920s,
+
+9
+00:00:45,820 --> 00:00:48,796
+everyone thought the universe
+was essentially static
+
+10
+00:00:48,820 --> 00:00:50,796
+and unchanging in time.
+
+11
+00:00:51,882 --> 00:00:55,475
+Then it was discovered
+that the universe was expanding.
+
+12
+00:00:56,501 --> 00:00:59,649
+Distant galaxies were moving away from us.
+
+13
+00:01:01,324 --> 00:01:05,073
+This meant they must have been
+closer together in the past.
+
+14
+00:01:06,073 --> 00:01:08,176
+If we extrapolate back,
+
+15
+00:01:08,200 --> 00:01:11,796
+we find we must have
+all been on top of each other
+
+16
+00:01:11,820 --> 00:01:14,342
+about 15 billion years ago.
+
+17
+00:01:15,516 --> 00:01:19,207
+This was the Big Bang,
+the beginning of the universe.
+
+18
+00:01:20,326 --> 00:01:23,232
+But was there anything
+before the Big Bang?
+
+19
+00:01:24,303 --> 00:01:27,120
+If not, what created the universe?
+
+20
+00:01:28,143 --> 00:01:32,534
+Why did the universe emerge
+from the Big Bang the way it did?
+
+21
+00:01:34,010 --> 00:01:36,796
+We used to think
+that the theory of the universe
+
+22
+00:01:36,820 --> 00:01:39,280
+could be divided into two parts.
+
+23
+00:01:40,330 --> 00:01:41,796
+First, there were the laws
+
+24
+00:01:41,820 --> 00:01:45,484
+like Maxwell's equations
+and general relativity
+
+25
+00:01:45,508 --> 00:01:48,473
+that determined the evolution
+of the universe,
+
+26
+00:01:48,497 --> 00:01:51,795
+given its state
+over all of space at one time.
+
+27
+00:01:53,128 --> 00:01:57,796
+And second, there was no question
+of the initial state of the universe.
+
+28
+00:01:59,571 --> 00:02:02,796
+We have made good progress
+on the first part,
+
+29
+00:02:02,820 --> 00:02:05,796
+and now have the knowledge
+of the laws of evolution
+
+30
+00:02:05,820 --> 00:02:08,796
+in all but the most extreme conditions.
+
+31
+00:02:08,820 --> 00:02:11,796
+But until recently,
+we have had little idea
+
+32
+00:02:11,820 --> 00:02:14,946
+about the initial conditions
+for the universe.
+
+33
+00:02:16,057 --> 00:02:21,486
+However, this division into laws
+of evolution and initial conditions
+
+34
+00:02:21,510 --> 00:02:25,431
+depends on time and space
+being separate and distinct.
+
+35
+00:02:26,494 --> 00:02:31,295
+Under extreme conditions,
+general relativity and quantum theory
+
+36
+00:02:31,319 --> 00:02:34,820
+allow time to behave
+like another dimension of space.
+
+37
+00:02:39,432 --> 00:02:43,019
+This removes the distinction
+between time and space,
+
+38
+00:02:43,043 --> 00:02:48,166
+and means the laws of evolution
+can also determine the initial state.
+
+39
+00:02:51,230 --> 00:02:55,166
+The universe can spontaneously
+create itself out of nothing.
+
+40
+00:02:58,417 --> 00:03:02,796
+Moreover, we can calculate
+a probability that the universe
+
+41
+00:03:02,820 --> 00:03:05,220
+was created in different states.
+
+42
+00:03:06,253 --> 00:03:08,582
+These predictions
+are in excellent agreement
+
+43
+00:03:08,606 --> 00:03:14,778
+with observations by the WMAP satellite
+of the cosmic microwave background,
+
+44
+00:03:14,802 --> 00:03:17,796
+which is an imprint
+of the very early universe.
+
+45
+00:03:19,710 --> 00:03:22,820
+We think we have solved
+the mystery of creation.
+
+46
+00:03:24,056 --> 00:03:26,588
+Maybe we should patent the universe
+
+47
+00:03:26,612 --> 00:03:30,064
+and charge everyone royalties
+for their existence.
+
+48
+00:03:33,222 --> 00:03:36,174
+I now turn to the second big question:
+
+49
+00:03:36,198 --> 00:03:39,820
+are we alone, or is there
+other life in the universe?
+
+50
+00:03:43,820 --> 00:03:47,485
+We believe that life arose
+spontaneously on the Earth,
+
+51
+00:03:47,509 --> 00:03:52,359
+so it must be possible for life
+to appear on other suitable planets,
+
+52
+00:03:52,383 --> 00:03:55,977
+of which there seem to be
+a large number in the galaxy.
+
+53
+00:03:58,548 --> 00:04:01,345
+But we don't know how life first appeared.
+
+54
+00:04:03,924 --> 00:04:06,796
+We have two pieces
+of observational evidence
+
+55
+00:04:06,820 --> 00:04:09,820
+on the probability of life appearing.
+
+56
+00:04:11,722 --> 00:04:17,820
+The first is that we have fossils of algae
+from 3.5 billion years ago.
+
+57
+00:04:18,820 --> 00:04:22,976
+The Earth was formed 4.6 billion years ago
+
+58
+00:04:23,000 --> 00:04:27,488
+and was probably too hot
+for about the first half billion years.
+
+59
+00:04:33,250 --> 00:04:35,075
+So life appeared on Earth
+
+60
+00:04:35,099 --> 00:04:38,751
+within half a billion years
+of it being possible,
+
+61
+00:04:38,775 --> 00:04:42,451
+which is short compared
+to the 10-billion-year lifetime
+
+62
+00:04:42,475 --> 00:04:44,093
+of a planet of Earth type.
+
+63
+00:04:45,244 --> 00:04:49,935
+This suggests that the probability
+of life appearing is reasonably high.
+
+64
+00:04:51,086 --> 00:04:54,314
+If it was very low,
+one would have expected it
+
+65
+00:04:54,338 --> 00:04:57,796
+to take most
+of the ten billion years available.
+
+66
+00:04:58,830 --> 00:05:03,550
+On the other hand, we don't seem
+to have been visited by aliens.
+
+67
+00:05:04,518 --> 00:05:07,391
+I am discounting the reports of UFOs.
+
+68
+00:05:08,478 --> 00:05:11,694
+Why would they appear
+only to cranks and weirdos?
+
+69
+00:05:14,297 --> 00:05:18,362
+If there is a government conspiracy
+to suppress the reports
+
+70
+00:05:18,386 --> 00:05:22,796
+and keep for itself the scientific
+knowledge the aliens bring,
+
+71
+00:05:22,820 --> 00:05:27,216
+it seems to have been a singularly
+ineffective policy so far.
+
+72
+00:05:32,106 --> 00:05:36,796
+Furthermore, despite an extensive search
+by the SETI project,
+
+73
+00:05:36,820 --> 00:05:40,796
+we haven't heard any alien
+television quiz shows.
+
+74
+00:05:41,954 --> 00:05:46,241
+This probably indicates
+that there are no alien civilizations
+
+75
+00:05:46,265 --> 00:05:48,511
+at our stage of development
+
+76
+00:05:48,535 --> 00:05:51,820
+within a radius
+of a few hundred light years.
+
+77
+00:05:52,820 --> 00:05:54,796
+Issuing an insurance policy
+
+78
+00:05:54,820 --> 00:05:59,493
+against abduction by aliens
+seems a pretty safe bet.
+
+79
+00:06:01,929 --> 00:06:05,215
+This brings me to the last
+of the big questions:
+
+80
+00:06:05,239 --> 00:06:07,365
+the future of the human race.
+
+81
+00:06:08,481 --> 00:06:12,140
+If we are the only intelligent
+beings in the galaxy,
+
+82
+00:06:12,164 --> 00:06:15,449
+we should make sure
+we survive and continue.
+
+83
+00:06:18,660 --> 00:06:23,040
+But we are entering an increasingly
+dangerous period of our history.
+
+84
+00:06:27,784 --> 00:06:32,618
+Our population and our use
+of the finite resources of planet Earth
+
+85
+00:06:32,642 --> 00:06:34,714
+are growing exponentially,
+
+86
+00:06:34,738 --> 00:06:39,737
+along with our technical ability
+to change the environment for good or ill.
+
+87
+00:06:44,529 --> 00:06:46,275
+But our genetic code
+
+88
+00:06:46,299 --> 00:06:49,306
+still carries the selfish
+and aggressive instincts
+
+89
+00:06:49,330 --> 00:06:52,410
+that were of survival
+advantage in the past.
+
+90
+00:06:56,751 --> 00:06:59,772
+It will be difficult enough
+to avoid disaster
+
+91
+00:06:59,796 --> 00:07:01,512
+in the next hundred years,
+
+92
+00:07:01,536 --> 00:07:04,059
+let alone the next thousand or million.
+
+93
+00:07:08,327 --> 00:07:11,438
+Our only chance of long-term survival
+
+94
+00:07:11,462 --> 00:07:14,796
+is not to remain inward-looking
+on planet Earth,
+
+95
+00:07:14,820 --> 00:07:17,048
+but to spread out into space.
+
+96
+00:07:19,820 --> 00:07:22,240
+The answers to these big questions
+
+97
+00:07:22,264 --> 00:07:27,036
+show that we have made remarkable progress
+in the last hundred years.
+
+98
+00:07:28,116 --> 00:07:32,139
+But if we want to continue
+beyond the next hundred years,
+
+99
+00:07:32,163 --> 00:07:34,326
+our future is in space.
+
+100
+00:07:36,383 --> 00:07:38,796
+That is why I am in favor of manned --
+
+101
+00:07:38,820 --> 00:07:42,533
+or should I say, personed -- space flight.
+
+102
+00:07:47,726 --> 00:07:51,796
+All of my life I have sought
+to understand the universe
+
+103
+00:07:51,820 --> 00:07:54,309
+and find answers to these questions.
+
+104
+00:07:55,325 --> 00:07:57,158
+I have been very lucky
+
+105
+00:07:57,182 --> 00:08:01,239
+that my disability has not been
+a serious handicap.
+
+106
+00:08:01,263 --> 00:08:05,902
+Indeed, it has probably given me
+more time than most people
+
+107
+00:08:05,926 --> 00:08:08,196
+to pursue the quest for knowledge.
+
+108
+00:08:11,826 --> 00:08:15,796
+The ultimate goal is a complete
+theory of the universe,
+
+109
+00:08:15,820 --> 00:08:18,074
+and we are making good progress.
+
+110
+00:08:21,979 --> 00:08:23,740
+Thank you for listening.
+
+111
+00:08:26,280 --> 00:08:29,634
+Chris Anderson: Professor,
+if you had to guess either way,
+
+112
+00:08:29,658 --> 00:08:33,464
+do you now believe
+that it is more likely than not
+
+113
+00:08:33,488 --> 00:08:36,806
+that we are alone in the Milky Way,
+
+114
+00:08:36,830 --> 00:08:42,533
+as a civilization of our level
+of intelligence or higher?
+
+115
+00:08:56,820 --> 00:09:02,796
+This answer took seven minutes,
+and really gave me an insight
+
+116
+00:09:02,820 --> 00:09:07,872
+into the incredible act of generosity
+this whole talk was for TED.
+
+117
+00:09:18,303 --> 00:09:22,796
+Stephen Hawking: I think it quite likely
+that we are the only civilization
+
+118
+00:09:22,820 --> 00:09:26,155
+within several hundred light years;
+
+119
+00:09:26,179 --> 00:09:29,592
+otherwise we would have heard radio waves.
+
+120
+00:09:32,292 --> 00:09:36,772
+The alternative is that civilizations
+don't last very long,
+
+121
+00:09:36,796 --> 00:09:38,957
+but destroy themselves.
+
+122
+00:09:40,490 --> 00:09:43,796
+CA: Professor Hawking,
+thank you for that answer.
+
+123
+00:09:43,820 --> 00:09:46,769
+We will take it
+as a salutary warning, I think,
+
+124
+00:09:46,793 --> 00:09:49,083
+for the rest of our conference this week.
+
+125
+00:09:49,921 --> 00:09:54,087
+Professor, we really thank you
+for the extraordinary effort you made
+
+126
+00:09:54,111 --> 00:09:57,024
+to share your questions with us today.
+
+127
+00:09:57,048 --> 00:09:58,700
+Thank you very much indeed.
+
+128
+00:09:58,724 --> 00:10:00,536
+(Applause)
+

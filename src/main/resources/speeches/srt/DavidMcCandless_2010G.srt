@@ -1,0 +1,1756 @@
+﻿1
+00:00:11,820 --> 00:00:13,820
+It feels like we're all suffering
+
+2
+00:00:13,820 --> 00:00:16,820
+from information overload or data glut.
+
+3
+00:00:16,820 --> 00:00:18,820
+And the good news is there might be an easy solution to that,
+
+4
+00:00:18,820 --> 00:00:20,820
+and that's using our eyes more.
+
+5
+00:00:20,820 --> 00:00:22,820
+So, visualizing information, so that we can see
+
+6
+00:00:22,820 --> 00:00:25,820
+the patterns and connections that matter
+
+7
+00:00:25,820 --> 00:00:28,820
+and then designing that information so it makes more sense,
+
+8
+00:00:28,820 --> 00:00:30,820
+or it tells a story,
+
+9
+00:00:30,820 --> 00:00:33,820
+or allows us to focus only on the information that's important.
+
+10
+00:00:34,820 --> 00:00:37,820
+Failing that, visualized information can just look really cool.
+
+11
+00:00:37,820 --> 00:00:39,820
+So, let's see.
+
+12
+00:00:41,820 --> 00:00:43,820
+This is the $Billion Dollar o-Gram,
+
+13
+00:00:43,820 --> 00:00:45,820
+and this image arose
+
+14
+00:00:45,820 --> 00:00:47,820
+out of frustration I had
+
+15
+00:00:47,820 --> 00:00:49,820
+with the reporting of billion-dollar amounts in the press.
+
+16
+00:00:49,820 --> 00:00:52,820
+That is, they're meaningless without context:
+
+17
+00:00:52,820 --> 00:00:54,820
+500 billion for this pipeline,
+
+18
+00:00:54,820 --> 00:00:56,820
+20 billion for this war.
+
+19
+00:00:56,820 --> 00:00:58,820
+It doesn't make any sense, so the only way to understand it
+
+20
+00:00:58,820 --> 00:01:00,820
+is visually and relatively.
+
+21
+00:01:00,820 --> 00:01:02,820
+So I scraped a load of reported figures
+
+22
+00:01:02,820 --> 00:01:04,820
+from various news outlets
+
+23
+00:01:04,820 --> 00:01:07,820
+and then scaled the boxes according to those amounts.
+
+24
+00:01:07,820 --> 00:01:10,820
+And the colors here represent the motivation behind the money.
+
+25
+00:01:10,820 --> 00:01:13,820
+So purple is "fighting,"
+
+26
+00:01:13,820 --> 00:01:16,820
+and red is "giving money away," and green is "profiteering."
+
+27
+00:01:16,820 --> 00:01:18,820
+And what you can see straight away
+
+28
+00:01:18,820 --> 00:01:20,820
+is you start to have a different relationship to the numbers.
+
+29
+00:01:20,820 --> 00:01:22,820
+You can literally see them.
+
+30
+00:01:22,820 --> 00:01:24,820
+But more importantly, you start to see
+
+31
+00:01:24,820 --> 00:01:26,820
+patterns and connections between numbers
+
+32
+00:01:26,820 --> 00:01:29,820
+that would otherwise be scattered across multiple news reports.
+
+33
+00:01:29,820 --> 00:01:32,820
+Let me point out some that I really like.
+
+34
+00:01:32,820 --> 00:01:34,820
+This is OPEC's revenue, this green box here --
+
+35
+00:01:34,820 --> 00:01:36,820
+780 billion a year.
+
+36
+00:01:36,820 --> 00:01:39,820
+And this little pixel in the corner -- three billion --
+
+37
+00:01:39,820 --> 00:01:42,820
+that's their climate change fund.
+
+38
+00:01:42,820 --> 00:01:44,820
+Americans, incredibly generous people --
+
+39
+00:01:44,820 --> 00:01:47,820
+over 300 billion a year, donated to charity every year,
+
+40
+00:01:47,820 --> 00:01:49,820
+compared with the amount of foreign aid
+
+41
+00:01:49,820 --> 00:01:51,820
+given by the top 17 industrialized nations
+
+42
+00:01:51,820 --> 00:01:53,820
+at 120 billion.
+
+43
+00:01:53,820 --> 00:01:55,820
+Then of course,
+
+44
+00:01:55,820 --> 00:01:57,820
+the Iraq War, predicted to cost just 60 billion
+
+45
+00:01:57,820 --> 00:02:00,820
+back in 2003.
+
+46
+00:02:00,820 --> 00:02:03,820
+And it mushroomed slightly. Afghanistan and Iraq mushroomed now
+
+47
+00:02:03,820 --> 00:02:06,820
+to 3,000 billion.
+
+48
+00:02:06,820 --> 00:02:08,820
+So now it's great
+
+49
+00:02:08,820 --> 00:02:10,820
+because now we have this texture, and we can add numbers to it as well.
+
+50
+00:02:10,820 --> 00:02:13,820
+So we could say, well, a new figure comes out ... let's see African debt.
+
+51
+00:02:13,820 --> 00:02:15,820
+How much of this diagram do you think might be taken up
+
+52
+00:02:15,820 --> 00:02:17,820
+by the debt that Africa owes to the West?
+
+53
+00:02:17,820 --> 00:02:19,820
+Let's take a look.
+
+54
+00:02:19,820 --> 00:02:21,820
+So there it is:
+
+55
+00:02:21,820 --> 00:02:23,820
+227 billion is what Africa owes.
+
+56
+00:02:23,820 --> 00:02:25,820
+And the recent financial crisis,
+
+57
+00:02:25,820 --> 00:02:27,820
+how much of this diagram might that figure take up?
+
+58
+00:02:27,820 --> 00:02:30,820
+What has that cost the world? Let's take a look at that.
+
+59
+00:02:30,820 --> 00:02:33,820
+Dooosh -- Which I think is the appropriate sound effect
+
+60
+00:02:33,820 --> 00:02:35,820
+for that much money:
+
+61
+00:02:35,820 --> 00:02:39,820
+11,900 billion.
+
+62
+00:02:41,820 --> 00:02:43,820
+So, by visualizing this information,
+
+63
+00:02:43,820 --> 00:02:45,820
+we turned it into a landscape
+
+64
+00:02:45,820 --> 00:02:47,820
+that you can explore with your eyes,
+
+65
+00:02:47,820 --> 00:02:49,820
+a kind of map really, a sort of information map.
+
+66
+00:02:49,820 --> 00:02:51,820
+And when you're lost in information,
+
+67
+00:02:51,820 --> 00:02:54,820
+an information map is kind of useful.
+
+68
+00:02:54,820 --> 00:02:56,820
+So I want to show you another landscape now.
+
+69
+00:02:56,820 --> 00:02:58,820
+We need to imagine what a landscape
+
+70
+00:02:58,820 --> 00:03:01,820
+of the world's fears might look like.
+
+71
+00:03:01,820 --> 00:03:03,820
+Let's take a look.
+
+72
+00:03:03,820 --> 00:03:05,820
+This is Mountains Out of Molehills,
+
+73
+00:03:05,820 --> 00:03:07,820
+a timeline of global media panic.
+
+74
+00:03:07,820 --> 00:03:09,820
+(Laughter)
+
+75
+00:03:09,820 --> 00:03:11,820
+So, I'll label this for you in a second.
+
+76
+00:03:11,820 --> 00:03:13,820
+But the height here, I want to point out,
+
+77
+00:03:13,820 --> 00:03:15,820
+is the intensity of certain fears
+
+78
+00:03:15,820 --> 00:03:17,820
+as reported in the media.
+
+79
+00:03:17,820 --> 00:03:19,820
+Let me point them out.
+
+80
+00:03:19,820 --> 00:03:23,820
+So this, swine flu -- pink.
+
+81
+00:03:23,820 --> 00:03:25,820
+Bird flu.
+
+82
+00:03:25,820 --> 00:03:28,820
+SARS -- brownish here. Remember that one?
+
+83
+00:03:28,820 --> 00:03:31,820
+The millennium bug,
+
+84
+00:03:31,820 --> 00:03:33,820
+terrible disaster.
+
+85
+00:03:33,820 --> 00:03:35,820
+These little green peaks
+
+86
+00:03:35,820 --> 00:03:37,820
+are asteroid collisions.
+
+87
+00:03:37,820 --> 00:03:39,820
+(Laughter)
+
+88
+00:03:39,820 --> 00:03:41,820
+And in summer, here, killer wasps.
+
+89
+00:03:41,820 --> 00:03:49,820
+(Laughter)
+
+90
+00:03:49,820 --> 00:03:51,820
+So these are what our fears look like
+
+91
+00:03:51,820 --> 00:03:53,820
+over time in our media.
+
+92
+00:03:53,820 --> 00:03:55,820
+But what I love -- and I'm a journalist --
+
+93
+00:03:55,820 --> 00:03:58,820
+and what I love is finding hidden patterns; I love being a data detective.
+
+94
+00:03:58,820 --> 00:04:01,820
+And there's a very interesting and odd pattern hidden in this data
+
+95
+00:04:01,820 --> 00:04:03,820
+that you can only see when you visualize it.
+
+96
+00:04:03,820 --> 00:04:05,820
+Let me highlight it for you.
+
+97
+00:04:05,820 --> 00:04:08,820
+See this line, this is a landscape for violent video games.
+
+98
+00:04:08,820 --> 00:04:11,820
+As you can see, there's a kind of odd, regular pattern in the data,
+
+99
+00:04:11,820 --> 00:04:13,820
+twin peaks every year.
+
+100
+00:04:13,820 --> 00:04:15,820
+If we look closer, we see those peaks occur
+
+101
+00:04:15,820 --> 00:04:18,820
+at the same month every year.
+
+102
+00:04:18,820 --> 00:04:20,820
+Why?
+
+103
+00:04:20,820 --> 00:04:22,820
+Well, November, Christmas video games come out,
+
+104
+00:04:22,820 --> 00:04:25,820
+and there may well be an upsurge in the concern about their content.
+
+105
+00:04:25,820 --> 00:04:28,820
+But April isn't a particularly massive month
+
+106
+00:04:28,820 --> 00:04:30,820
+for video games.
+
+107
+00:04:30,820 --> 00:04:32,820
+Why April?
+
+108
+00:04:32,820 --> 00:04:35,820
+Well, in April 1999 was the Columbine shooting,
+
+109
+00:04:35,820 --> 00:04:37,820
+and since then, that fear
+
+110
+00:04:37,820 --> 00:04:39,820
+has been remembered by the media
+
+111
+00:04:39,820 --> 00:04:41,820
+and echoes through the group mind gradually through the year.
+
+112
+00:04:41,820 --> 00:04:44,820
+You have retrospectives, anniversaries,
+
+113
+00:04:44,820 --> 00:04:47,820
+court cases, even copy-cat shootings,
+
+114
+00:04:47,820 --> 00:04:50,820
+all pushing that fear into the agenda.
+
+115
+00:04:50,820 --> 00:04:52,820
+And there's another pattern here as well. Can you spot it?
+
+116
+00:04:52,820 --> 00:04:54,820
+See that gap there? There's a gap,
+
+117
+00:04:54,820 --> 00:04:56,820
+and it affects all the other stories.
+
+118
+00:04:56,820 --> 00:04:58,820
+Why is there a gap there?
+
+119
+00:04:58,820 --> 00:05:01,820
+You see where it starts? September 2001,
+
+120
+00:05:01,820 --> 00:05:03,820
+when we had something very real
+
+121
+00:05:03,820 --> 00:05:05,820
+to be scared about.
+
+122
+00:05:05,820 --> 00:05:08,820
+So, I've been working as a data journalist for about a year,
+
+123
+00:05:08,820 --> 00:05:10,820
+and I keep hearing a phrase
+
+124
+00:05:10,820 --> 00:05:13,820
+all the time, which is this:
+
+125
+00:05:13,820 --> 00:05:15,820
+"Data is the new oil."
+
+126
+00:05:15,820 --> 00:05:18,820
+Data is the kind of ubiquitous resource
+
+127
+00:05:18,820 --> 00:05:21,820
+that we can shape to provide new innovations and new insights,
+
+128
+00:05:21,820 --> 00:05:24,820
+and it's all around us, and it can be mined very easily.
+
+129
+00:05:24,820 --> 00:05:27,820
+It's not a particularly great metaphor in these times,
+
+130
+00:05:27,820 --> 00:05:30,820
+especially if you live around the Gulf of Mexico,
+
+131
+00:05:30,820 --> 00:05:32,820
+but I would, perhaps, adapt this metaphor slightly,
+
+132
+00:05:32,820 --> 00:05:35,820
+and I would say that data is the new soil.
+
+133
+00:05:36,820 --> 00:05:39,820
+Because for me, it feels like a fertile, creative medium.
+
+134
+00:05:39,820 --> 00:05:41,820
+Over the years, online,
+
+135
+00:05:41,820 --> 00:05:44,820
+we've laid down
+
+136
+00:05:44,820 --> 00:05:46,820
+a huge amount of information and data,
+
+137
+00:05:46,820 --> 00:05:48,820
+and we irrigate it with networks and connectivity,
+
+138
+00:05:48,820 --> 00:05:51,820
+and it's been worked and tilled by unpaid workers and governments.
+
+139
+00:05:51,820 --> 00:05:54,820
+And, all right, I'm kind of milking the metaphor a little bit.
+
+140
+00:05:54,820 --> 00:05:57,820
+But it's a really fertile medium,
+
+141
+00:05:57,820 --> 00:06:00,820
+and it feels like visualizations, infographics, data visualizations,
+
+142
+00:06:00,820 --> 00:06:03,820
+they feel like flowers blooming from this medium.
+
+143
+00:06:03,820 --> 00:06:05,820
+But if you look at it directly,
+
+144
+00:06:05,820 --> 00:06:07,820
+it's just a lot of numbers and disconnected facts.
+
+145
+00:06:07,820 --> 00:06:10,820
+But if you start working with it and playing with it in a certain way,
+
+146
+00:06:10,820 --> 00:06:13,820
+interesting things can appear and different patterns can be revealed.
+
+147
+00:06:13,820 --> 00:06:15,820
+Let me show you this.
+
+148
+00:06:15,820 --> 00:06:18,820
+Can you guess what this data set is?
+
+149
+00:06:18,820 --> 00:06:20,820
+What rises twice a year,
+
+150
+00:06:20,820 --> 00:06:22,820
+once in Easter
+
+151
+00:06:22,820 --> 00:06:24,820
+and then two weeks before Christmas,
+
+152
+00:06:24,820 --> 00:06:26,820
+has a mini peak every Monday,
+
+153
+00:06:26,820 --> 00:06:28,820
+and then flattens out over the summer?
+
+154
+00:06:28,820 --> 00:06:30,820
+I'll take answers.
+
+155
+00:06:30,820 --> 00:06:32,820
+(Audience: Chocolate.) David McCandless: Chocolate.
+
+156
+00:06:32,820 --> 00:06:35,820
+You might want to get some chocolate in.
+
+157
+00:06:35,820 --> 00:06:37,820
+Any other guesses?
+
+158
+00:06:37,820 --> 00:06:39,820
+(Audience: Shopping.) DM: Shopping.
+
+159
+00:06:39,820 --> 00:06:42,820
+Yeah, retail therapy might help.
+
+160
+00:06:42,820 --> 00:06:44,820
+(Audience: Sick leave.)
+
+161
+00:06:44,820 --> 00:06:46,820
+DM: Sick leave. Yeah, you'll definitely want to take some time off.
+
+162
+00:06:46,820 --> 00:06:48,820
+Shall we see?
+
+163
+00:06:49,820 --> 00:06:57,820
+(Laughter)
+
+164
+00:06:57,820 --> 00:07:00,820
+(Applause)
+
+165
+00:07:00,820 --> 00:07:03,820
+So, the information guru Lee Byron and myself,
+
+166
+00:07:03,820 --> 00:07:06,820
+we scraped 10,000 status Facebook updates
+
+167
+00:07:06,820 --> 00:07:08,820
+for the phrase "break-up" and "broken-up"
+
+168
+00:07:08,820 --> 00:07:10,820
+and this is the pattern we found --
+
+169
+00:07:10,820 --> 00:07:12,820
+people clearing out for Spring Break,
+
+170
+00:07:12,820 --> 00:07:17,820
+(Laughter)
+
+171
+00:07:17,820 --> 00:07:19,820
+coming out of very bad weekends on a Monday,
+
+172
+00:07:19,820 --> 00:07:22,820
+being single over the summer,
+
+173
+00:07:22,820 --> 00:07:25,820
+and then the lowest day of the year, of course: Christmas Day.
+
+174
+00:07:25,820 --> 00:07:28,820
+Who would do that?
+
+175
+00:07:28,820 --> 00:07:30,820
+So there's a titanic amount of data out there now,
+
+176
+00:07:30,820 --> 00:07:32,820
+unprecedented.
+
+177
+00:07:33,820 --> 00:07:35,820
+But if you ask the right kind of question,
+
+178
+00:07:35,820 --> 00:07:37,820
+or you work it in the right kind of way,
+
+179
+00:07:37,820 --> 00:07:40,820
+interesting things can emerge.
+
+180
+00:07:40,820 --> 00:07:43,820
+So information is beautiful. Data is beautiful.
+
+181
+00:07:43,820 --> 00:07:46,820
+I wonder if I could make my life beautiful.
+
+182
+00:07:46,820 --> 00:07:48,820
+And here's my visual C.V.
+
+183
+00:07:48,820 --> 00:07:50,820
+I'm not quite sure I've succeeded.
+
+184
+00:07:50,820 --> 00:07:52,820
+Pretty blocky, the colors aren't that great.
+
+185
+00:07:52,820 --> 00:07:55,820
+But I wanted to convey something to you.
+
+186
+00:07:55,820 --> 00:07:57,820
+I started as a programmer,
+
+187
+00:07:57,820 --> 00:07:59,820
+and then I worked as a writer for many years, about 20 years,
+
+188
+00:07:59,820 --> 00:08:01,820
+in print, online and then in advertising,
+
+189
+00:08:01,820 --> 00:08:04,820
+and only recently have I started designing.
+
+190
+00:08:04,820 --> 00:08:06,820
+And I've never been to design school.
+
+191
+00:08:06,820 --> 00:08:09,820
+I've never studied art or anything.
+
+192
+00:08:09,820 --> 00:08:11,820
+I just kind of learned through doing.
+
+193
+00:08:11,820 --> 00:08:13,820
+And when I started designing,
+
+194
+00:08:13,820 --> 00:08:15,820
+I discovered an odd thing about myself.
+
+195
+00:08:15,820 --> 00:08:17,820
+I already knew how to design,
+
+196
+00:08:17,820 --> 00:08:20,820
+but it wasn't like I was amazingly brilliant at it,
+
+197
+00:08:20,820 --> 00:08:22,820
+but more like I was sensitive
+
+198
+00:08:22,820 --> 00:08:24,820
+to the ideas of grids and space
+
+199
+00:08:24,820 --> 00:08:26,820
+and alignment and typography.
+
+200
+00:08:26,820 --> 00:08:28,820
+It's almost like being exposed
+
+201
+00:08:28,820 --> 00:08:30,820
+to all this media over the years
+
+202
+00:08:30,820 --> 00:08:33,820
+had instilled a kind of dormant design literacy in me.
+
+203
+00:08:33,820 --> 00:08:35,820
+And I don't feel like I'm unique.
+
+204
+00:08:35,820 --> 00:08:37,820
+I feel that everyday, all of us now
+
+205
+00:08:37,820 --> 00:08:40,820
+are being blasted by information design.
+
+206
+00:08:40,820 --> 00:08:42,820
+It's being poured into our eyes through the Web,
+
+207
+00:08:42,820 --> 00:08:44,820
+and we're all visualizers now;
+
+208
+00:08:44,820 --> 00:08:46,820
+we're all demanding a visual aspect
+
+209
+00:08:46,820 --> 00:08:49,820
+to our information.
+
+210
+00:08:49,820 --> 00:08:52,820
+There's something almost quite magical about visual information.
+
+211
+00:08:52,820 --> 00:08:55,820
+It's effortless, it literally pours in.
+
+212
+00:08:55,820 --> 00:08:58,820
+And if you're navigating a dense information jungle,
+
+213
+00:08:58,820 --> 00:09:00,820
+coming across a beautiful graphic
+
+214
+00:09:00,820 --> 00:09:02,820
+or a lovely data visualization,
+
+215
+00:09:02,820 --> 00:09:05,820
+it's a relief, it's like coming across a clearing in the jungle.
+
+216
+00:09:05,820 --> 00:09:07,820
+I was curious about this, so it led me
+
+217
+00:09:07,820 --> 00:09:09,820
+to the work of a Danish physicist
+
+218
+00:09:09,820 --> 00:09:11,820
+called Tor Norretranders,
+
+219
+00:09:11,820 --> 00:09:14,820
+and he converted the bandwidth of the senses into computer terms.
+
+220
+00:09:15,820 --> 00:09:17,820
+So here we go. This is your senses,
+
+221
+00:09:17,820 --> 00:09:19,820
+pouring into your senses every second.
+
+222
+00:09:19,820 --> 00:09:22,820
+Your sense of sight is the fastest.
+
+223
+00:09:22,820 --> 00:09:25,820
+It has the same bandwidth as a computer network.
+
+224
+00:09:25,820 --> 00:09:28,820
+Then you have touch, which is about the speed of a USB key.
+
+225
+00:09:28,820 --> 00:09:30,820
+And then you have hearing and smell,
+
+226
+00:09:30,820 --> 00:09:32,820
+which has the throughput of a hard disk.
+
+227
+00:09:32,820 --> 00:09:34,820
+And then you have poor old taste,
+
+228
+00:09:34,820 --> 00:09:37,820
+which is like barely the throughput of a pocket calculator.
+
+229
+00:09:37,820 --> 00:09:40,820
+And that little square in the corner, a naught .7 percent,
+
+230
+00:09:40,820 --> 00:09:43,820
+that's the amount we're actually aware of.
+
+231
+00:09:43,820 --> 00:09:45,820
+So a lot of your vision --
+
+232
+00:09:45,820 --> 00:09:47,820
+the bulk of it is visual, and it's pouring in.
+
+233
+00:09:47,820 --> 00:09:49,820
+It's unconscious.
+
+234
+00:09:49,820 --> 00:09:52,820
+The eye is exquisitely sensitive
+
+235
+00:09:52,820 --> 00:09:55,820
+to patterns in variations in color, shape and pattern.
+
+236
+00:09:55,820 --> 00:09:57,820
+It loves them, and it calls them beautiful.
+
+237
+00:09:57,820 --> 00:09:59,820
+It's the language of the eye.
+
+238
+00:09:59,820 --> 00:10:01,820
+If you combine the language of the eye with the language of the mind,
+
+239
+00:10:01,820 --> 00:10:04,820
+which is about words and numbers and concepts,
+
+240
+00:10:04,820 --> 00:10:07,820
+you start speaking two languages simultaneously,
+
+241
+00:10:07,820 --> 00:10:10,820
+each enhancing the other.
+
+242
+00:10:10,820 --> 00:10:13,820
+So, you have the eye, and then you drop in the concepts.
+
+243
+00:10:13,820 --> 00:10:15,820
+And that whole thing -- it's two languages
+
+244
+00:10:15,820 --> 00:10:17,820
+both working at the same time.
+
+245
+00:10:17,820 --> 00:10:19,820
+So we can use this new kind of language, if you like,
+
+246
+00:10:19,820 --> 00:10:22,820
+to alter our perspective or change our views.
+
+247
+00:10:22,820 --> 00:10:24,820
+Let me ask you a simple question
+
+248
+00:10:24,820 --> 00:10:26,820
+with a really simple answer:
+
+249
+00:10:26,820 --> 00:10:28,820
+Who has the biggest military budget?
+
+250
+00:10:28,820 --> 00:10:30,820
+It's got to be America, right?
+
+251
+00:10:30,820 --> 00:10:32,820
+Massive. 609 billion in 2008 --
+
+252
+00:10:32,820 --> 00:10:34,820
+607, rather.
+
+253
+00:10:34,820 --> 00:10:36,820
+So massive, in fact, that it can contain
+
+254
+00:10:36,820 --> 00:10:39,820
+all the other military budgets in the world inside itself.
+
+255
+00:10:39,820 --> 00:10:41,820
+Gobble, gobble, gobble, gobble, gobble.
+
+256
+00:10:41,820 --> 00:10:43,820
+Now, you can see Africa's total debt there
+
+257
+00:10:43,820 --> 00:10:45,820
+and the U.K. budget deficit for reference.
+
+258
+00:10:45,820 --> 00:10:47,820
+So that might well chime
+
+259
+00:10:47,820 --> 00:10:49,820
+with your view that America
+
+260
+00:10:49,820 --> 00:10:52,820
+is a sort of warmongering military machine,
+
+261
+00:10:52,820 --> 00:10:54,820
+out to overpower the world
+
+262
+00:10:54,820 --> 00:10:57,820
+with its huge industrial-military complex.
+
+263
+00:10:57,820 --> 00:11:00,820
+But is it true that America has the biggest military budget?
+
+264
+00:11:00,820 --> 00:11:02,820
+Because America is an incredibly rich country.
+
+265
+00:11:02,820 --> 00:11:04,820
+In fact, it's so massively rich
+
+266
+00:11:04,820 --> 00:11:06,820
+that it can contain the four other
+
+267
+00:11:06,820 --> 00:11:08,820
+top industrialized nations' economies
+
+268
+00:11:08,820 --> 00:11:11,820
+inside itself, it's so vastly rich.
+
+269
+00:11:11,820 --> 00:11:14,820
+So its military budget is bound to be enormous.
+
+270
+00:11:14,820 --> 00:11:16,820
+So, to be fair and to alter our perspective,
+
+271
+00:11:16,820 --> 00:11:18,820
+we have to bring in another data set,
+
+272
+00:11:18,820 --> 00:11:20,820
+and that data set is GDP, or the country's earnings.
+
+273
+00:11:20,820 --> 00:11:22,820
+Who has the biggest budget as a proportion of GDP?
+
+274
+00:11:22,820 --> 00:11:24,820
+Let's have a look.
+
+275
+00:11:24,820 --> 00:11:27,820
+That changes the picture considerably.
+
+276
+00:11:27,820 --> 00:11:30,820
+Other countries pop into view that you, perhaps, weren't considering,
+
+277
+00:11:30,820 --> 00:11:32,820
+and American drops into eighth.
+
+278
+00:11:32,820 --> 00:11:34,820
+Now you can also do this with soldiers.
+
+279
+00:11:34,820 --> 00:11:36,820
+Who has the most soldiers? It's got to be China.
+
+280
+00:11:36,820 --> 00:11:38,820
+Of course, 2.1 million.
+
+281
+00:11:38,820 --> 00:11:40,820
+Again, chiming with your view
+
+282
+00:11:40,820 --> 00:11:42,820
+that China has a militarized regime
+
+283
+00:11:42,820 --> 00:11:44,820
+ready to, you know, mobilize its enormous forces.
+
+284
+00:11:44,820 --> 00:11:47,820
+But of course, China has an enormous population.
+
+285
+00:11:47,820 --> 00:11:49,820
+So if we do the same,
+
+286
+00:11:49,820 --> 00:11:51,820
+we see a radically different picture.
+
+287
+00:11:51,820 --> 00:11:53,820
+China drops to 124th.
+
+288
+00:11:53,820 --> 00:11:55,820
+It actually has a tiny army
+
+289
+00:11:55,820 --> 00:11:58,820
+when you take other data into consideration.
+
+290
+00:11:58,820 --> 00:12:00,820
+So, absolute figures, like the military budget,
+
+291
+00:12:00,820 --> 00:12:02,820
+in a connected world,
+
+292
+00:12:02,820 --> 00:12:04,820
+don't give you the whole picture.
+
+293
+00:12:04,820 --> 00:12:06,820
+They're not as true as they could be.
+
+294
+00:12:06,820 --> 00:12:09,820
+We need relative figures that are connected to other data
+
+295
+00:12:09,820 --> 00:12:11,820
+so that we can see a fuller picture,
+
+296
+00:12:11,820 --> 00:12:13,820
+and then that can lead to us changing our perspective.
+
+297
+00:12:13,820 --> 00:12:15,820
+As Hans Rosling, the master,
+
+298
+00:12:15,820 --> 00:12:18,820
+my master, said,
+
+299
+00:12:18,820 --> 00:12:21,820
+"Let the dataset change your mindset."
+
+300
+00:12:22,820 --> 00:12:25,820
+And if it can do that, maybe it can also change your behavior.
+
+301
+00:12:25,820 --> 00:12:27,820
+Take a look at this one.
+
+302
+00:12:27,820 --> 00:12:29,820
+I'm a bit of a health nut.
+
+303
+00:12:29,820 --> 00:12:32,820
+I love taking supplements and being fit,
+
+304
+00:12:32,820 --> 00:12:35,820
+but I can never understand what's going on in terms of evidence.
+
+305
+00:12:35,820 --> 00:12:37,820
+There's always conflicting evidence.
+
+306
+00:12:37,820 --> 00:12:39,820
+Should I take vitamin C? Should I be taking wheatgrass?
+
+307
+00:12:39,820 --> 00:12:41,820
+This is a visualization of all the evidence
+
+308
+00:12:41,820 --> 00:12:43,820
+for nutritional supplements.
+
+309
+00:12:43,820 --> 00:12:46,820
+This kind of diagram is called a balloon race.
+
+310
+00:12:46,820 --> 00:12:48,820
+So the higher up the image,
+
+311
+00:12:48,820 --> 00:12:51,820
+the more evidence there is for each supplement.
+
+312
+00:12:51,820 --> 00:12:54,820
+And the bubbles correspond to popularity as regards to Google hits.
+
+313
+00:12:54,820 --> 00:12:57,820
+So you can immediately apprehend
+
+314
+00:12:57,820 --> 00:13:00,820
+the relationship between efficacy and popularity,
+
+315
+00:13:00,820 --> 00:13:03,820
+but you can also, if you grade the evidence,
+
+316
+00:13:03,820 --> 00:13:05,820
+do a "worth it" line.
+
+317
+00:13:05,820 --> 00:13:08,820
+So supplements above this line are worth investigating,
+
+318
+00:13:08,820 --> 00:13:11,820
+but only for the conditions listed below,
+
+319
+00:13:11,820 --> 00:13:14,820
+and then the supplements below the line
+
+320
+00:13:14,820 --> 00:13:16,820
+are perhaps not worth investigating.
+
+321
+00:13:16,820 --> 00:13:19,820
+Now this image constitutes a huge amount of work.
+
+322
+00:13:19,820 --> 00:13:22,820
+We scraped like 1,000 studies from PubMed,
+
+323
+00:13:22,820 --> 00:13:24,820
+the biomedical database,
+
+324
+00:13:24,820 --> 00:13:27,820
+and we compiled them and graded them all.
+
+325
+00:13:27,820 --> 00:13:29,820
+And it was incredibly frustrating for me
+
+326
+00:13:29,820 --> 00:13:32,820
+because I had a book of 250 visualizations to do for my book,
+
+327
+00:13:32,820 --> 00:13:34,820
+and I spent a month doing this,
+
+328
+00:13:34,820 --> 00:13:36,820
+and I only filled two pages.
+
+329
+00:13:36,820 --> 00:13:38,820
+But what it points to
+
+330
+00:13:38,820 --> 00:13:40,820
+is that visualizing information like this
+
+331
+00:13:40,820 --> 00:13:42,820
+is a form of knowledge compression.
+
+332
+00:13:42,820 --> 00:13:44,820
+It's a way of squeezing an enormous amount
+
+333
+00:13:44,820 --> 00:13:46,820
+of information and understanding
+
+334
+00:13:46,820 --> 00:13:48,820
+into a small space.
+
+335
+00:13:48,820 --> 00:13:50,820
+And once you've curated that data, and once you've cleaned that data,
+
+336
+00:13:50,820 --> 00:13:52,820
+and once it's there,
+
+337
+00:13:52,820 --> 00:13:54,820
+you can do cool stuff like this.
+
+338
+00:13:54,820 --> 00:13:56,820
+So I converted this into an interactive app,
+
+339
+00:13:56,820 --> 00:13:58,820
+so I can now generate this application online --
+
+340
+00:13:58,820 --> 00:14:00,820
+this is the visualization online --
+
+341
+00:14:00,820 --> 00:14:02,820
+and I can say, "Yeah, brilliant."
+
+342
+00:14:02,820 --> 00:14:04,820
+So it spawns itself.
+
+343
+00:14:04,820 --> 00:14:06,820
+And then I can say, "Well, just show me the stuff
+
+344
+00:14:06,820 --> 00:14:08,820
+that affects heart health."
+
+345
+00:14:08,820 --> 00:14:10,820
+So let's filter that out.
+
+346
+00:14:10,820 --> 00:14:13,820
+So heart is filtered out, so I can see if I'm curious about that.
+
+347
+00:14:13,820 --> 00:14:15,820
+I think, "No, no. I don't want to take any synthetics,
+
+348
+00:14:15,820 --> 00:14:18,820
+I just want to see plants and --
+
+349
+00:14:18,820 --> 00:14:21,820
+just show me herbs and plants. I've got all the natural ingredients."
+
+350
+00:14:21,820 --> 00:14:23,820
+Now this app is spawning itself
+
+351
+00:14:23,820 --> 00:14:25,820
+from the data.
+
+352
+00:14:25,820 --> 00:14:27,820
+The data is all stored in a Google Doc,
+
+353
+00:14:27,820 --> 00:14:30,820
+and it's literally generating itself from that data.
+
+354
+00:14:30,820 --> 00:14:32,820
+So the data is now alive; this is a living image,
+
+355
+00:14:32,820 --> 00:14:34,820
+and I can update it in a second.
+
+356
+00:14:34,820 --> 00:14:36,820
+New evidence comes out. I just change a row on a spreadsheet.
+
+357
+00:14:36,820 --> 00:14:40,820
+Doosh! Again, the image recreates itself.
+
+358
+00:14:40,820 --> 00:14:42,820
+So it's cool.
+
+359
+00:14:42,820 --> 00:14:45,820
+It's kind of living.
+
+360
+00:14:45,820 --> 00:14:47,820
+But it can go beyond data,
+
+361
+00:14:47,820 --> 00:14:49,820
+and it can go beyond numbers.
+
+362
+00:14:49,820 --> 00:14:51,820
+I like to apply information visualization
+
+363
+00:14:51,820 --> 00:14:54,820
+to ideas and concepts.
+
+364
+00:14:54,820 --> 00:14:56,820
+This is a visualization
+
+365
+00:14:56,820 --> 00:14:58,820
+of the political spectrum,
+
+366
+00:14:58,820 --> 00:15:00,820
+an attempt for me to try
+
+367
+00:15:00,820 --> 00:15:02,820
+and understand how it works
+
+368
+00:15:02,820 --> 00:15:04,820
+and how the ideas percolate down
+
+369
+00:15:04,820 --> 00:15:06,820
+from government into society and culture,
+
+370
+00:15:06,820 --> 00:15:09,820
+into families, into individuals, into their beliefs
+
+371
+00:15:09,820 --> 00:15:12,820
+and back around again in a cycle.
+
+372
+00:15:12,820 --> 00:15:14,820
+What I love about this image
+
+373
+00:15:14,820 --> 00:15:16,820
+is it's made up of concepts,
+
+374
+00:15:16,820 --> 00:15:18,820
+it explores our worldviews
+
+375
+00:15:18,820 --> 00:15:20,820
+and it helps us -- it helps me anyway --
+
+376
+00:15:20,820 --> 00:15:22,820
+to see what others think,
+
+377
+00:15:22,820 --> 00:15:24,820
+to see where they're coming from.
+
+378
+00:15:24,820 --> 00:15:27,820
+And it feels just incredibly cool to do that.
+
+379
+00:15:27,820 --> 00:15:30,820
+What was most exciting for me
+
+380
+00:15:30,820 --> 00:15:32,820
+designing this
+
+381
+00:15:32,820 --> 00:15:34,820
+was that, when I was designing this image,
+
+382
+00:15:34,820 --> 00:15:37,820
+I desperately wanted this side, the left side,
+
+383
+00:15:37,820 --> 00:15:39,820
+to be better than the right side --
+
+384
+00:15:39,820 --> 00:15:42,820
+being a journalist, a Left-leaning person --
+
+385
+00:15:42,820 --> 00:15:44,820
+but I couldn't, because I would have created
+
+386
+00:15:44,820 --> 00:15:47,820
+a lopsided, biased diagram.
+
+387
+00:15:47,820 --> 00:15:50,820
+So, in order to really create a full image,
+
+388
+00:15:50,820 --> 00:15:53,820
+I had to honor the perspectives on the right-hand side
+
+389
+00:15:53,820 --> 00:15:56,820
+and at the same time, uncomfortably recognize
+
+390
+00:15:56,820 --> 00:15:59,820
+how many of those qualities were actually in me,
+
+391
+00:15:59,820 --> 00:16:01,820
+which was very, very annoying and uncomfortable.
+
+392
+00:16:01,820 --> 00:16:05,820
+(Laughter)
+
+393
+00:16:05,820 --> 00:16:07,820
+But not too uncomfortable,
+
+394
+00:16:07,820 --> 00:16:10,820
+because there's something unthreatening
+
+395
+00:16:10,820 --> 00:16:12,820
+about seeing a political perspective,
+
+396
+00:16:12,820 --> 00:16:15,820
+versus being told or forced to listen to one.
+
+397
+00:16:15,820 --> 00:16:18,820
+You're capable of holding conflicting viewpoints
+
+398
+00:16:18,820 --> 00:16:20,820
+joyously when you can see them.
+
+399
+00:16:20,820 --> 00:16:22,820
+It's even fun to engage with them
+
+400
+00:16:22,820 --> 00:16:24,820
+because it's visual.
+
+401
+00:16:24,820 --> 00:16:26,820
+So that's what's exciting to me,
+
+402
+00:16:26,820 --> 00:16:28,820
+seeing how data can change my perspective
+
+403
+00:16:28,820 --> 00:16:30,820
+and change my mind midstream --
+
+404
+00:16:30,820 --> 00:16:33,820
+beautiful, lovely data.
+
+405
+00:16:34,820 --> 00:16:36,820
+So, just to wrap up,
+
+406
+00:16:36,820 --> 00:16:38,820
+I wanted to say
+
+407
+00:16:38,820 --> 00:16:40,820
+that it feels to me that design is about solving problems
+
+408
+00:16:40,820 --> 00:16:43,820
+and providing elegant solutions,
+
+409
+00:16:43,820 --> 00:16:45,820
+and information design is about
+
+410
+00:16:45,820 --> 00:16:47,820
+solving information problems.
+
+411
+00:16:47,820 --> 00:16:49,820
+It feels like we have a lot of information problems
+
+412
+00:16:49,820 --> 00:16:51,820
+in our society at the moment,
+
+413
+00:16:51,820 --> 00:16:53,820
+from the overload and the saturation
+
+414
+00:16:53,820 --> 00:16:55,820
+to the breakdown of trust and reliability
+
+415
+00:16:55,820 --> 00:16:57,820
+and runaway skepticism and lack of transparency,
+
+416
+00:16:57,820 --> 00:16:59,820
+or even just interestingness.
+
+417
+00:16:59,820 --> 00:17:01,820
+I mean, I find information just too interesting.
+
+418
+00:17:01,820 --> 00:17:04,820
+It has a magnetic quality that draws me in.
+
+419
+00:17:05,820 --> 00:17:07,820
+So, visualizing information
+
+420
+00:17:07,820 --> 00:17:10,820
+can give us a very quick solution to those kinds of problems.
+
+421
+00:17:10,820 --> 00:17:12,820
+Even when the information is terrible,
+
+422
+00:17:12,820 --> 00:17:15,820
+the visual can be quite beautiful.
+
+423
+00:17:15,820 --> 00:17:18,820
+Often we can get clarity
+
+424
+00:17:18,820 --> 00:17:20,820
+or the answer to a simple question very quickly,
+
+425
+00:17:20,820 --> 00:17:22,820
+like this one,
+
+426
+00:17:22,820 --> 00:17:25,820
+the recent Icelandic volcano.
+
+427
+00:17:25,820 --> 00:17:27,820
+Which was emitting the most CO2?
+
+428
+00:17:27,820 --> 00:17:29,820
+Was it the planes or the volcano,
+
+429
+00:17:29,820 --> 00:17:31,820
+the grounded planes or the volcano?
+
+430
+00:17:31,820 --> 00:17:33,820
+So we can have a look.
+
+431
+00:17:33,820 --> 00:17:35,820
+We look at the data and we see:
+
+432
+00:17:35,820 --> 00:17:37,820
+Yep, the volcano emitted 150,000 tons;
+
+433
+00:17:37,820 --> 00:17:39,820
+the grounded planes would have emitted
+
+434
+00:17:39,820 --> 00:17:42,820
+345,000 if they were in the sky.
+
+435
+00:17:42,820 --> 00:17:45,820
+So essentially, we had our first carbon-neutral volcano.
+
+436
+00:17:45,820 --> 00:17:47,820
+(Laughter)
+
+437
+00:17:47,820 --> 00:17:56,820
+(Applause)
+
+438
+00:17:56,820 --> 00:17:59,820
+And that is beautiful. Thank you.
+
+439
+00:17:59,820 --> 00:18:07,820
+(Applause)
+

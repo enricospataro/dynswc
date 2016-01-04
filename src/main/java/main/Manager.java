@@ -46,15 +46,14 @@ import opennlp.tools.util.InvalidFormatException;
 public class Manager {
 	
 	public static void main(String[] args) throws IOException {
-
 		File[] files = new File("src/main/resources/speeches/txt").listFiles();
 		int n=files.length;
-		for(int i=0;i<n;i++) {
-			try{
-				new Manager().run(files[i]);
-			}catch (Exception e){e.printStackTrace();}	
-		}		
-		createResult(a,cmValue/n,smValue/n,rtValue/n);
+			for(int i=0;i<1;i++) {
+				try{
+					new Manager().run(files[i]);
+				}catch (Exception e){e.printStackTrace();}	
+			}
+			createResult(a,cmValue/n,smValue/n,rtValue/n);
 	}
 	
 	private TokenizerME tokenizer;
@@ -112,7 +111,7 @@ public class Manager {
 		
 		// 2 compute similarity of extracted words
 		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new ContextPreservingStrategy());
+		setLayoutStrategy(new StarForestStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -128,7 +127,9 @@ public class Manager {
 	        long endTime = System.nanoTime();
 	        runningTime = (endTime - startTime); 
 		}
-		
+		// 3.5 execute test
+		test();
+			
 		setFrames(100);
 		setMorphingStrategy(new SimpleMorphing(frames));
 		
@@ -159,28 +160,24 @@ public class Manager {
 		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
 		
 		// 4 visualize wordcloud
-//		visualize(wordGraph,frameResults,frameColorHandlers); 
-		
-		// 5 execute test
-		test();
+		visualize(wordGraph,frameResults,frameColorHandlers); 
 	}
 
 	private void test() {
-		a = 0.5;
+		a=1.0;
 		CombinationMetric cm = new CombinationMetric(a);
 		SpaceMetric sm = new SpaceMetric(false);
 		
 		cmValue += cm.getValue(wordGraphs,layoutResults);
-		smValue += sm.getValue(wordGraphs,layoutResults);
+		smValue += sm.getValue(wordGraphs,layoutResults); System.out.println("SP :"+smValue);
 		rtValue += runningTime/wordGraphs.size();
 	}
 
 	private static void createResult(double a, double cmValue, double smValue,long runningTime) throws IOException {
-		Random r = new Random();
 		File path = new File("src/main/resources/results");
 		File result = File.createTempFile("Test_1_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CPWCV" + "\r\n" +
+		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CycleCover" + "\r\n" +
 				"Cluster Similarity: Jaccard " + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
 		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");

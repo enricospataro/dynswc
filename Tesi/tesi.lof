@@ -1,4 +1,8 @@
 \select@language {italian}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Due word cloud relative ai dibattiti tra i candidati alla presidenza statunitense.}}{7}{figure.2.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Word cloud generata dal discorso di Obama.}}}{7}{figure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Word cloud generata dal discorso di Romney.}}}{7}{figure.2.1}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Generazione di una word cloud semantica.}}{11}{figure.3.1}

@@ -353,7 +353,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         for(int i=0;i<words.size();i++) rects.add(wordPositions.get(words.get(i)));
         
 //        new ForceDirectedUniformity<Rectangle>(0.3).run(rects);
-        new ForceDirectedOverlapRemoval<Rectangle>(0.1).run(rects);
+        new ForceDirectedOverlapRemoval<Rectangle>(0.25).run(rects);
     }
     
     private double computeMaxScore(List<Word> words){

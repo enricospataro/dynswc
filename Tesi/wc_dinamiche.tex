@@ -1,0 +1,108 @@
+\onehalfspacing
+
+%%CAPITOLO 3: =======================================
+
+\chapter{Word cloud dinamiche}
+------ INTRO DA SCRIVERE ------
+\section{Definizioni e applicazioni}\label{wc_din:def}
+
+Negli ultimi anni, sono state proposte diverse applicazioni per la creazione di word cloud. Oltre alle word cloud semantiche e non semantiche, tali applicazioni si possono suddividere in due ulteriori  categorie: word cloud \textbf{statiche} e word cloud \textbf{dinamiche} (o \textbf{tempo varianti}). La principale differenza tra queste due classi è chiaramente costituita dal fattore tempo: le word cloud dinamiche, infatti, hanno come obiettivo quello di illustrare l'evoluzione temporale di un documento o di un set di documenti. I grafici a barre, per esempio, sono tipicamente utilizzati per rappresentare l'andamento temporale di una qualche variabile e consentirne l'analisi visuale\cite{byron}\cite{havre}; Dubinko et al.\cite{dubinko} hanno sviluppato un tool che mostra l'evoluzione dei tag in Flickr e che permette l'interazione con gli utenti; Cui et al.\cite{cui} hanno proposto un sistema che abbina un grafico di tendenza (\textit{trend chart}) alle word cloud di un insieme di documenti, per illustrarne l'evoluzione semantica.
+
+Sebbene tutti questi lavori abbiano come finalità quella di visualizzare il trend temporale di un insieme di documenti, le informazioni spaziali e temporali sono rappresentate da immagini statiche. Diversamente, un lavoro interessante è stato svolto di recente da Chi et al.\cite{chi}, in cui viene mostrato, in modo dinamico, il progresso temporale di un set di documenti tramite l'utilizzo di tecniche di \textit{morphing}, che permettono di passare gradualmente da una word cloud di un documento ad un'altra, modificandone anche la forma. Tuttavia, in questo studio, non si tiene conto dell'evoluzione semantica dei documenti. 
+
+Il nostro lavoro, invece, a differenza degli altri citati precedentemente, si pone come obiettivo quello di mostrare lo sviluppo temporale di un solo testo, utilizzando tecniche di morphing tra le word cloud generate durante l'elaborazione del testo, mantenendo però il vincolo di vicinanza geometrica tra parole correlate semanticamente.
+
+\section{Algoritmi di generazione di una word cloud semantica}\label{wc_din:algs}
+Tutti gli algoritmi di visualizzazione di una word cloud prendono come input un grafo pesato, i cui vertici sono le parole, rappresentate da rettangoli. Tuttavia, sono necessari alcuni passi di preprocessing, che consentono di estrarre questa informazione dall'input. L'algoritmo di visualizzazione disegna, per quanto possibile, le parole più simili vicine tra loro. Il processo di creazione di una word cloud è indicato in figura \ref{fig:pipeline}. Infine, viene applicato un algoritmo di clustering per assegnare lo stesso colore a parole dello stesso cluster.
+\begin{figure}
+\centering
+{\includegraphics[scale=0.6]{img/wc_dinamiche/creation_steps.png}}
+\caption[Generazione di una word cloud semantica.]{Generazione di una word cloud semantica.}
+\label{fig:pipeline}
+\end{figure}
+\subsection{Estrazione keywords}\label{wc_din:word_ext}
+Il processo di estrazione delle keywords prevede una serie di passaggi preliminari, con tecniche di elaborazione del linguaggio naturale, le quali predispongono, in maniera appropriata, il testo in ingresso all'algoritmo di estrazione delle parole.
+
+Innanzitutto, il testo viene suddiviso in frasi e ogni parola viene suddivisa in \textit{token}: ciò può essere eseguito mediante l'ausilio di librerie di elaborazione del linguaggio naturale (e.g. \textit{Apache OpenNLP}\cite{opennlp}). Successivamente, dal testo vengono eliminate le \textit{stop words}, cioè articoli, congiunzioni e parole di uso comune che sono poco rilevanti dal punto di vista informativo. Le parole rimanenti vengono quindi raggruppate in base alla radice (in inglese, \textit{stem}), tramite un algoritmo di \textit{stemming}: in questo modo, parole del tipo \textit{player}, \textit{play} e \textit{playing} vengono raggruppate secondo la radice comune \textit{play}. Nella nostra implementazione, è stato utilizzato il noto algoritmo di Porter\cite{porter}. Alla fine, nella word cloud finale, viene visualizzata la variante più frequente della parola.
+
+Una volta eseguiti questi passaggi, si procede all'estrazione delle parole e al loro ranking in modo da trovare quelle più rilevanti, utilizzando tecniche di Information Retrieval. Ogni algoritmo assegna alle parole un punteggio e ne seleziona le $n$ più frequenti, dove $n$ è il numero di parole da visualizzare nella word cloud.
+
+\subsubsection{Term Frequency}
+Il modo più intuitivo di assegnare un peso alle parole è quello di contare le singole occorrenze. Questo è ciò che viene fatto dall'algoritmo Term Frequency (TF). Tuttavia, la rilevanza di un termine non aumenta linearmente con il numero delle occorrenze, per cui spesso il punteggio ottenuto viene scalato tramite una qualche funzione. In tabella \ref{tab:tf} sono riportate le tipiche funzioni che vengono applicate per pesare tale contributo, dove l'argomento $ tf_{t,d} $ è la frequenza del termine $t$ nel documento $d$. 
+
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Tipo funzione} &  \textbf{Peso} \\
+\hline
+Binaria & $0$,$1$ \\
+\hline
+Lineare & $ tf_{t,d} $ \\
+\hline
+Radice quadrata & $ \sqrt{tf_{t,d}} $ \\
+\hline
+Logaritmo & $ 1 + \log{tf_{t,d}} $ \\
+\hline
+Doppia normalizzazione con parametro $K$ & $K + (1-K)* \frac{tf_{t,d}}
+{\max_{t' \in d} tf_{t',d}}$ \\
+\hline
+\end{tabular}
+\caption{Term Frequency ranking: funzioni}
+\label{tab:tf}
+\end{table}
+
+
+Tuttavia, pur dopo aver rimosso le stop words, l'algoritmo Term Frequency tende ad assegnare punteggi troppo alti a termini poco rilevanti. Termini rari, invece, hanno contenuto informativo più alto rispetto a termini frequenti, per cui ad essi vanno assegnati punteggi più elevati. In particolare, si definisce il parametro IDF (\textit{Inverse Document Frequency}) di un termine $t$ la quantità:
+\begin{equation}
+idf_{t} = \log{\frac{N}{df_{t}}},
+\end{equation} 
+dove $N$ è la dimensione di una collezione di documenti e  $df_{t}$ è la \textit{document frequency}, cioè il numero totale di documenti in cui il termine $t$ compare. Per termini frequenti in una collezione, tale valore tende a zero, mentre per termini rari il punteggio sarà più alto. Lo scaling che viene applicato è solitamente logaritmico, con qualche variante.
+
+\subsubsection{TF-IDF}
+Ora si possono combinare le due definizioni di TF e IDF per produrre un ulteriore algoritmo, noto come TF-IDF, il quale assegna, ad ogni termine $t$ di un documento $d$, la quantità
+\begin{equation}
+tf idf_{t} = tf_{t} \times idf_{t}.
+\end{equation}
+Ne segue che:
+\begin{enumerate}
+\item se $t$ è un termine comune nella collezione, avrà un $tf_{t}$ alto, ma un $idf_{t}$ basso;
+\item se $t$ è un termine raro nella collezione, ma frequente nel documento $d$, allora avrà entrambi i contributi elevati.
+\end{enumerate} 
+In pratica, con questo approccio, vengono filtrati i termini molto comuni, mentre quelli davvero rilevanti per il documento vengono estratti.
+
+Uno degli schemi più noti in letteratura per calcolare la $tf idf_{t}$, come suggerito in \cite{manning}, è il seguente:
+\begin{equation}
+tf idf_{t} = (1 + \log{tf_{t}}) \times \log{\frac{N}{df_{t}}}.
+\end{equation}
+
+\subsubsection{LexRank}
+Il terzo algoritmo di ranking è \textbf{LexRank}\cite{lexrank}, già usato in \cite{seam} per la creazione di word cloud semantiche.  Tale algoritmo prende spunto dall'algoritmo PageRank\cite{pagerank}, utilizzato da Google per assegnare un punteggio alle pagine web e quindi migliorare le ricerche che si effettuano con il noto motore di ricerca. LexRank è un algoritmo basato su un grafo 
+$ G=(V,E) $, dove i vertici sono le parole, collegati da archi che rappresentano le co-occorrenze di due parole all'interno di una frase. Ogni arco $(i,j)$ ha un peso $w_{ij}$, che rappresenta il numero di occorrenze della parola $i$ e della parola $j$ all'interno di una stessa frase. I punteggi vengono poi calcolati sfruttando il concetto di centralità dei vertici di $G$. Sia $R$ il vettore di ranking, di dimensione $1 \times n$, dove $n$ è il numero di keywords. $R$ è definito come:
+\begin{equation}
+1
+\end{equation}
+
+\subsection{Calcolo similarità}
+Il passo successivo è quello di calcolare la similarità tra le keywords, ovvero quanto esse sono correlate tra loro. Data la lista delle $n$ parole estratte, viene calcolata la matrice $n \times n$ delle similarità tra coppie di parole. Ogni valore è compreso tra 0 (nessuna correlazione) e 1 (massima correlazione). Esistono diversi algoritmi per il calcolo delle similarità. Tutti usano uno spazio vettoriale di dimensione $n$ (pari al numero di parole estratte), dove il generico vettore $w_{i} = \{w_{i1},w_{i2},...,w_{in}\}$ rappresenta la co-occorrenza della parola $i$ con le altre $n-1$ parole. \\ Di seguito sono esposte le tecniche di calcolo da noi implementate.
+
+\subsubsection{Cosine Similarity}
+La cosine similarity tra due vettori $w_{i}$ e $w_{j}$ viene calcolata come:
+\begin{equation}
+sim_{ij} = \frac{w_{i} \cdot w_{j}}{\vert\vert w_{i} \vert\vert \, \vert\vert w_{j} \vert\vert}.
+\end{equation}
+In pratica, tale quantità corrisponde alla misura dell'angolo formato tra i vettori $w_{i}$ e $w_{j}$. Se la similarità è 1, allora l'angolo formato è pari $0°$, mentre se la similarità è 0, allora i due vettori sono perpendicolari e non condividono alcuna frase.
+
+\subsubsection{Jaccard Similarity}
+La Jaccard similarity è definita come il rapporto tra il numero delle frasi condivise tra due parole e il numero totale delle frasi in cui esse compaiono. In formule:
+\begin{equation}
+sim_{ij} = \frac{\vert S_{i} \cap S_{j} \vert}{\vert S_{i} \cup S_{j} \vert},
+\end{equation}
+dove $S_{i}$ è l'insieme delle frasi in cui compare l'i-esima parola.
+
+\subsubsection{Jaccard Similarity estesa}
+Un ulteriore modo per il calcolo della similarità è rappresentato dalla Jaccard similarity estesa (anche nota come \textbf{coefficiente di Tanimoto}), definita come:
+\begin{equation}
+sim_{ij} = \frac{w_{i} \cdot w_{j}}{\vert\vert w_{i} \vert\vert^2 + \vert\vert w_{j} \vert\vert^2 - w_{i} \cdot w_{j}}
+\end{equation}
+Tale misura si riduce alla Jaccard Similarity nel caso di vettori binari.

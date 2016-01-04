@@ -25,8 +25,8 @@ public class SpaceMetric implements OverallMetric{
     	int n = layouts.size();
     	
     	for(int i=0;i<n;i++) {
-    		double area = computeTotalArea(wordGraphs.get(i).getWords(),layouts.get(i)); 
-    		double usedArea = computeUsedArea(wordGraphs.get(i).getWords(),layouts.get(i));
+    		double area = computeTotalArea(wordGraphs.get(i).getWords(),layouts.get(i));  System.out.println("A "+area);
+    		double usedArea = computeUsedArea(wordGraphs.get(i).getWords(),layouts.get(i)); System.out.println("UA "+usedArea);
         //assert (usedArea <= area);
     		ratio += usedArea/area;
     	}
@@ -92,8 +92,6 @@ public class SpaceMetric implements OverallMetric{
             Rectangle rect = algo.getWordPosition(w);
             res += rect.getHeight() * rect.getWidth();
         }
-
         return res;
     }
-
 }

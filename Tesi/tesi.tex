@@ -7,8 +7,8 @@
 \documentclass [11pt,a4paper,oneside,openany]{book} %Classe del documento, formato carta, singola facciata, apertura capitoli pag destra/sinista (ininfluente se impostato oneside). Formato libro
 \usepackage[italian]{babel} %Lingua Documento (da impostare per la sillabazione)
 \usepackage{graphicx} %Pacchetto necessario per la gestione delle immagini
-\usepackage {fancyhdr} %Pacchetto per la gestione accurata della pagina
-\usepackage {setspace} %Pacchetto necessario per i comandi successivi onehalfspacing, singlespacing....
+\usepackage{fancyhdr} %Pacchetto per la gestione accurata della pagina
+\usepackage{setspace} %Pacchetto necessario per i comandi successivi onehalfspacing, singlespacing....
 \usepackage{longtable} %Pacchetto per la gestione delle tabelle grandi
 \usepackage[colorlinks=true]{hyperref} %Segnalibri nel pdf finale, sotto relativi parametri
 \hypersetup{
@@ -32,6 +32,7 @@
 \usepackage{cite}
 \usepackage{multirow}
 
+
 \begin{document} %Inizio Documento
 
 %%FRONTESPIZIO%%=========================================
@@ -39,9 +40,9 @@
  \begin{center}
      \includegraphics[width=6cm]{img/logo.png}\\ %Logo dell'Universit√ , cambiare il percorso, se necessario
      \vspace{1em}
-     {\Large \textsc{Universit‡  degli studi di Perugia}}\\
+     {\Large \textsc{Universit‡ degli studi di Perugia}}\\
      \vspace{1em}
-     {\Large \textsc{Facolt‡  di Ingegneria}}\\
+     {\Large \textsc{Facolt‡ di Ingegneria}}\\
      \vspace{2em}
      {\normalsize Tesi di Laurea in}\\
      \vspace{1em}
@@ -96,9 +97,10 @@
 
 %%CAPITOLI===============================================
 \input{cap1_introduzione} %nome del file LaTeX del capitolo
+\input{wc_statiche}
+\input{wc_dinamiche}
 %...
-\input{cap2}
-\input{wordcloud_gen}
+
 %%APPENDICI==============================================
 % \appendix
 % \input{appendiceA}
@@ -107,7 +109,7 @@
 %%BIBLIOGRAFIA============================================
 \normalsize
 \newpage
-\bibliographystyle{plain}
+\bibliographystyle{unsrt}
 \bibliography{bibliografia}
 
 \end{document}

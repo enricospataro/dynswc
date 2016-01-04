@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  22 DEC 2015 00:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  4 JAN 2016 23:30
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -324,27 +324,27 @@ Package: cite 2015/02/27  v 5.5
 \bigstrutjot=\dimen141
 )
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 35.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 36.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd"
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -369,7 +369,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 36.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -379,9 +379,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.out)
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.out)
@@ -421,17 +421,17 @@ LaTeX Info: Redefining \nameref on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/logo.png, id=19, 269.3262pt x 269.3262pt>
+<img/logo.png, id=47, 269.3262pt x 269.3262pt>
 File: img/logo.png Graphic file (type png)
  <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 40.
+Package pdftex.def Info: img/logo.png used on input line 41.
 (pdftex.def)             Requested size: 170.71652pt x 170.72435pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <10.95> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <6> on input line 56.
  [1
 
 
@@ -440,15 +440,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \newpage
+l.77 \newpage
               [1]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 84.
+less on input line 85.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 85.
+less on input line 86.
 
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.toc)
 \tf@toc=\write4
@@ -467,54 +467,96 @@ less on input line 85.
 
 ]
 Capitolo 1.
-) (C:\Users\Enrico\Documents\tesi\Tesi\cap2.tex [5
+) (C:\Users\Enrico\Documents\tesi\Tesi\wc_statiche.tex [5
 
 ]
 Capitolo 2.
-) (C:\Users\Enrico\Documents\tesi\Tesi\wordcloud_gen.tex [6
+<img/wc_statiche/obama_wc.png, id=103, 837.1275pt x 367.3725pt>
+File: img/wc_statiche/obama_wc.png Graphic file (type png)
+
+<use img/wc_statiche/obama_wc.png>
+Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 19.
+(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
+
+<img/wc_statiche/romney_wc.png, id=104, 837.1275pt x 367.3725pt>
+File: img/wc_statiche/romney_wc.png Graphic file (type png)
+
+<use img/wc_statiche/romney_wc.png>
+Package pdftex.def Info: img/wc_statiche/romney_wc.png used on input line 22.
+(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
+
+Underfull \hbox (badness 1062) in paragraph at lines 23--23
+[]\OT1/cmr/m/n/10.95 Figura 2.1: []Due wor-d-cloud re-la-ti-ve ai di-bat-ti-ti 
+tra i can-di-da-ti al-la pre-si-den-za
+ []
+
+[6
 
 ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_statiche/obama_wc.png> <C:/Users
+/Enrico/Documents/tesi/Tesi/img/wc_statiche/romney_wc.png>] [8])
+(C:\Users\Enrico\Documents\tesi\Tesi\wc_dinamiche.tex [9]
 Capitolo 3.
+<img/wc_dinamiche/creation_steps.png, id=160, 649.2255pt x 115.02975pt>
+File: img/wc_dinamiche/creation_steps.png Graphic file (type png)
 
-LaTeX Warning: Citation `ted' on page 7 undefined on input line 9.
+<use img/wc_dinamiche/creation_steps.png>
+Package pdftex.def Info: img/wc_dinamiche/creation_steps.png used on input line
+ 19.
+(pdftex.def)             Requested size: 389.5383pt x 69.01837pt.
+ [10
 
+] [11 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/creation_steps.png>
+] [12]
 
-LaTeX Warning: Citation `ted2srt' on page 7 undefined on input line 9.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 94.
 
-) [7
+[13]) [14] (C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [15
 
-]
-No file tesi.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 809D84C9BFE5966646DDFF5C102CEEDE;240.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+(rerunfilecheck)             Checksum: 768793E47D3A554BC585AB1454F5A63C;812.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 6553 strings out of 493921
- 96310 string characters out of 3147280
- 182381 words of memory out of 3000000
- 9734 multiletter control sequences out of 15000+200000
- 10104 words of font info for 35 fonts, out of 3000000 for 9000
+ 6681 strings out of 493921
+ 98125 string characters out of 3147280
+ 189546 words of memory out of 3000000
+ 9798 multiletter control sequences out of 15000+200000
+ 11176 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,11n,43p,643b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,12n,44p,1096b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesi.pdf (8 pages, 131249 bytes).
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb>
+Output written on tesi.pdf (17 pages, 644946 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 300 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

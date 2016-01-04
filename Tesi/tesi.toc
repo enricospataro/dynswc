@@ -1,6 +1,18 @@
 \select@language {italian}
 \contentsline {chapter}{\numberline {1}Introduzione}{5}{chapter.1}
-\contentsline {chapter}{\numberline {2}Architettura del sistema}{6}{chapter.2}
-\contentsline {paragraph}{Elaborazione dei dati}{6}{section*.4}
-\contentsline {chapter}{\numberline {3}Creazione word cloud}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Estrazione keywords}{7}{section.3.1}
+\contentsline {chapter}{\numberline {2}Word cloud statiche}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Definizioni e applicazioni}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Cos'\`e una word cloud?}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Applicazioni}{8}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Word cloud semantiche}{8}{section.2.2}
+\contentsline {chapter}{\numberline {3}Word cloud dinamiche}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definizioni e applicazioni}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Estrazione keywords}{11}{subsection.3.2.1}
+\contentsline {subsubsection}{Term Frequency}{11}{section*.4}
+\contentsline {subsubsection}{TF-IDF}{12}{section*.5}
+\contentsline {subsubsection}{LexRank}{13}{section*.6}
+\contentsline {subsection}{\numberline {3.2.2}Calcolo similarit\`a}{13}{subsection.3.2.2}
+\contentsline {subsubsection}{Cosine Similarity}{13}{section*.7}
+\contentsline {subsubsection}{Jaccard Similarity}{13}{section*.8}
+\contentsline {subsubsection}{Jaccard Similarity estesa}{14}{section*.9}

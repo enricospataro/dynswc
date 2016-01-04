@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tesi.aux
+The style file: unsrt.bst
+Database file #1: bibliografia.bib
+I was expecting a `,' or a `}'---line 245 of file bibliografia.bib
+ :  
+ :  doi = {10.1109/TVCG.2008.166},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "collins"
+refers to entry "conf/ieeevast/2009", which doesn't exist
+Warning--I didn't find a database entry for "conf/ieeevast/2009"
+(There were 2 error messages)

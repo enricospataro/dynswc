@@ -6,3 +6,18 @@
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Word cloud generata dal discorso di Romney.}}}{7}{figure.2.1}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Generazione di una word cloud semantica.}}{11}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Algoritmo Star Forest.}}{16}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Algoritmo Cycle Cover.}}{18}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k}$ ma non in $\Gamma ^{k-1}$. In figura sono riportati 3 frame consecutivi.}}{21}{figure.3.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{21}{figure.3.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{21}{figure.3.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{21}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k-1}$ ma non in $\Gamma ^{k}$. In figura sono riportati 3 frame consecutivi.}}{21}{figure.3.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{21}{figure.3.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{21}{figure.3.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{21}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Morphing delle parole comuni a $\tau _{i,k-1}$ e $\tau _{i,k}$.}}{22}{figure.3.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{22}{figure.3.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{22}{figure.3.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{22}{figure.3.6}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{22}{figure.3.6}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  4 JAN 2016 23:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  11 JAN 2016 19:28
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -421,7 +421,7 @@ LaTeX Info: Redefining \nameref on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/logo.png, id=47, 269.3262pt x 269.3262pt>
+<img/logo.png, id=71, 269.3262pt x 269.3262pt>
 File: img/logo.png Graphic file (type png)
  <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 41.
@@ -471,14 +471,14 @@ Capitolo 1.
 
 ]
 Capitolo 2.
-<img/wc_statiche/obama_wc.png, id=103, 837.1275pt x 367.3725pt>
+<img/wc_statiche/obama_wc.png, id=149, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/obama_wc.png Graphic file (type png)
 
 <use img/wc_statiche/obama_wc.png>
 Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 19.
 (pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
 
-<img/wc_statiche/romney_wc.png, id=104, 837.1275pt x 367.3725pt>
+<img/wc_statiche/romney_wc.png, id=150, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/romney_wc.png Graphic file (type png)
 
 <use img/wc_statiche/romney_wc.png>
@@ -503,42 +503,159 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 /Enrico/Documents/tesi/Tesi/img/wc_statiche/romney_wc.png>] [8])
 (C:\Users\Enrico\Documents\tesi\Tesi\wc_dinamiche.tex [9]
 Capitolo 3.
-<img/wc_dinamiche/creation_steps.png, id=160, 649.2255pt x 115.02975pt>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+[10
+
+] <img/wc_dinamiche/creation_steps.png, id=219, 649.2255pt x 115.02975pt>
 File: img/wc_dinamiche/creation_steps.png Graphic file (type png)
 
 <use img/wc_dinamiche/creation_steps.png>
 Package pdftex.def Info: img/wc_dinamiche/creation_steps.png used on input line
- 19.
+ 25.
 (pdftex.def)             Requested size: 389.5383pt x 69.01837pt.
- [10
+ [11 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/creation_steps.png>]
+ [12]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 100.
 
-] [11 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/creation_steps.png>
-] [12]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 94.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
+ [13]
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
 
-[13]) [14] (C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [15
+ []
 
-])
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 117.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 117.
+
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+
+ []
+
+<img/wc_dinamiche/starforest.png, id=284, 649.2255pt x 148.1535pt>
+File: img/wc_dinamiche/starforest.png Graphic file (type png)
+
+<use img/wc_dinamiche/starforest.png>
+Package pdftex.def Info: img/wc_dinamiche/starforest.png used on input line 164
+.
+(pdftex.def)             Requested size: 389.5383pt x 88.89278pt.
+ [16 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/starforest.png>]
+<img/wc_dinamiche/cyclecover.png, id=298, 505.28775pt x 187.29974pt>
+File: img/wc_dinamiche/cyclecover.png Graphic file (type png)
+
+<use img/wc_dinamiche/cyclecover.png>
+Package pdftex.def Info: img/wc_dinamiche/cyclecover.png used on input line 188
+.
+(pdftex.def)             Requested size: 303.17499pt x 112.38069pt.
+ [17] [18 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/cyclecover.png>
+] [19] [20]
+<img/wc_dinamiche/wordA_tiny.png, id=326, 87.32625pt x 18.66975pt>
+File: img/wc_dinamiche/wordA_tiny.png Graphic file (type png)
+
+<use img/wc_dinamiche/wordA_tiny.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 261
+.
+(pdftex.def)             Requested size: 61.12794pt x 13.06873pt.
+
+<img/wc_dinamiche/wordA.png, id=327, 153.57375pt x 35.53275pt>
+File: img/wc_dinamiche/wordA.png Graphic file (type png)
+
+<use img/wc_dinamiche/wordA.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 264.
+(pdftex.def)             Requested size: 107.50089pt x 24.87273pt.
+
+<img/wc_dinamiche/wordA_large.png, id=328, 217.41225pt x 51.7935pt>
+File: img/wc_dinamiche/wordA_large.png Graphic file (type png)
+
+<use img/wc_dinamiche/wordA_large.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 26
+7.
+(pdftex.def)             Requested size: 152.18752pt x 36.25519pt.
+File: img/wc_dinamiche/wordA_large.png Graphic file (type png)
+ <use img/wc_dinamiche/wordA_large.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 27
+4.
+(pdftex.def)             Requested size: 152.18752pt x 36.25519pt.
+File: img/wc_dinamiche/wordA.png Graphic file (type png)
+
+<use img/wc_dinamiche/wordA.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 277.
+(pdftex.def)             Requested size: 107.50089pt x 24.87273pt.
+File: img/wc_dinamiche/wordA_tiny.png Graphic file (type png)
+ <use img/wc_dinamiche/wordA_tiny.png>
+Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 280
+.
+(pdftex.def)             Requested size: 61.12794pt x 13.06873pt.
+
+<img/wc_dinamiche/quad4.png, id=329, 316.7835pt x 168.02776pt>
+File: img/wc_dinamiche/quad4.png Graphic file (type png)
+
+<use img/wc_dinamiche/quad4.png>
+Package pdftex.def Info: img/wc_dinamiche/quad4.png used on input line 287.
+(pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
+
+<img/wc_dinamiche/quad1.png, id=330, 316.7835pt x 168.02776pt>
+File: img/wc_dinamiche/quad1.png Graphic file (type png)
+
+<use img/wc_dinamiche/quad1.png>
+Package pdftex.def Info: img/wc_dinamiche/quad1.png used on input line 290.
+(pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
+
+<img/wc_dinamiche/quad3.png, id=331, 316.7835pt x 168.02776pt>
+File: img/wc_dinamiche/quad3.png Graphic file (type png)
+
+<use img/wc_dinamiche/quad3.png>
+Package pdftex.def Info: img/wc_dinamiche/quad3.png used on input line 294.
+(pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
+
+<img/wc_dinamiche/quad2.png, id=332, 316.7835pt x 168.02776pt>
+File: img/wc_dinamiche/quad2.png Graphic file (type png)
+
+<use img/wc_dinamiche/quad2.png>
+Package pdftex.def Info: img/wc_dinamiche/quad2.png used on input line 297.
+(pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
+) [21 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/wordA_tiny.png> <C:
+/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/wordA.png> <C:/Users/Enrico/
+Documents/tesi/Tesi/img/wc_dinamiche/wordA_large.png>] (C:\Users\Enrico\Documen
+ts\tesi\Tesi\tesi.bbl [22 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche
+/quad4.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/quad1.png> <C
+:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/quad3.png> <C:/Users/Enrico
+/Documents/tesi/Tesi/img/wc_dinamiche/quad2.png>] [23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+[]\OT1/cmr/m/n/10.95 Wikipedia, Mor-phing, con-sul-ta-to a Gen-na-io 2016,
+ []
+
+[24])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
- [16]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
-
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
+ (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 768793E47D3A554BC585AB1454F5A63C;812.
+(rerunfilecheck)             Checksum: D5254D38F4D23E0944C5F159DF4F9BEB;1359.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 6681 strings out of 493921
- 98125 string characters out of 3147280
- 189546 words of memory out of 3000000
- 9798 multiletter control sequences out of 15000+200000
- 11176 words of font info for 39 fonts, out of 3000000 for 9000
+ 6810 strings out of 493921
+ 100517 string characters out of 3147280
+ 190212 words of memory out of 3000000
+ 9867 multiletter control sequences out of 15000+200000
+ 11789 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,12n,44p,1096b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,12n,43p,1201b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
@@ -546,17 +663,18 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmtt10.pfb>
-Output written on tesi.pdf (17 pages, 644946 bytes).
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb>
+Output written on tesi.pdf (26 pages, 812835 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

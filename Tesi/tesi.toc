@@ -4,15 +4,25 @@
 \contentsline {section}{\numberline {2.1}Definizioni e applicazioni}{6}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Cos'\`e una word cloud?}{6}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Applicazioni}{8}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Word cloud semantiche}{8}{section.2.2}
+\contentsline {section}{\numberline {2.2}Word cloud semantiche}{9}{section.2.2}
 \contentsline {chapter}{\numberline {3}Word cloud dinamiche}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}Definizioni e applicazioni}{10}{section.3.1}
-\contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica}{11}{section.3.2}
+\contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica e statica}{11}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Estrazione keywords}{11}{subsection.3.2.1}
-\contentsline {subsubsection}{Term Frequency}{11}{section*.4}
-\contentsline {subsubsection}{TF-IDF}{12}{section*.5}
+\contentsline {subsubsection}{Term Frequency}{12}{section*.4}
+\contentsline {subsubsection}{TF-IDF}{13}{section*.5}
 \contentsline {subsubsection}{LexRank}{13}{section*.6}
-\contentsline {subsection}{\numberline {3.2.2}Calcolo similarit\`a}{13}{subsection.3.2.2}
-\contentsline {subsubsection}{Cosine Similarity}{13}{section*.7}
-\contentsline {subsubsection}{Jaccard Similarity}{13}{section*.8}
-\contentsline {subsubsection}{Jaccard Similarity estesa}{14}{section*.9}
+\contentsline {subsection}{\numberline {3.2.2}Calcolo similarit\`a}{14}{subsection.3.2.2}
+\contentsline {subsubsection}{Cosine Similarity}{14}{section*.7}
+\contentsline {subsubsection}{Jaccard Similarity}{14}{section*.8}
+\contentsline {subsubsection}{Jaccard Similarity estesa}{15}{section*.9}
+\contentsline {subsection}{\numberline {3.2.3}Creazione word cloud}{15}{subsection.3.2.3}
+\contentsline {subsubsection}{Context-Preserving Word Cloud Visualization (CPWCV)}{15}{section*.10}
+\contentsline {subsubsection}{Star Forest}{16}{section*.11}
+\contentsline {subsubsection}{Cycle Cover}{17}{section*.12}
+\contentsline {subsection}{\numberline {3.2.4}Clustering}{18}{subsection.3.2.4}
+\contentsline {subsubsection}{K-means}{18}{section*.13}
+\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{19}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{20}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{20}{subsection.3.3.3}

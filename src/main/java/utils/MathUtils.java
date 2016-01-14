@@ -35,6 +35,7 @@ public class MathUtils {
     public static double normalize(double[] x) {
         double len = 0;
         for(int i=0;i<x.length;i++) len += x[i]*x[i];
+        
         len = Math.sqrt(len);
 
         if(len<=0.0) return 0.0;

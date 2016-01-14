@@ -20,7 +20,7 @@ public class DistanceScaling
     public double[][] mds(double[][] d, int dim, boolean useClassicalScaling) {
         assert (d.length == d[0].length);
 
-        int n = d.length;
+        int n = d.length;        
         double[][] res;
         if(useClassicalScaling) res = new ClassicalScaling().mds(d, dim);  
         else  {

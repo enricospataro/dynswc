@@ -48,12 +48,14 @@ public class Manager {
 	public static void main(String[] args) throws IOException {
 		File[] files = new File("src/main/resources/speeches/txt").listFiles();
 		int n=files.length;
-			for(int i=0;i<n;i++) {
+			for(int i=0;i<1;i++) {
 				try{
-					new Manager().run(files[i]);
+					new Manager().run(files[68]);
 				}catch (Exception e){e.printStackTrace();}	
 			}
-			createResult(a,cmValue/n,smValue/n,rtValue/n);
+			for(int j=0;j<cmValues.length;j++) {
+				createResult(a[j],cmValues[j]/n,smValue/n,rtValue/n,runningTime/n);
+			}
 	}
 	
 	private TokenizerME tokenizer;
@@ -75,11 +77,13 @@ public class Manager {
 	private static int parts;
 	private int frames;
 	private static int words;
-	private static double a;
+	private static double[] a={0.0,0.25,0.5,0.75,1.0};
 	private static long rtValue;
 	private static double cmValue;
+	private static double[] cmValues = {0.0,0.0,0.0,0.0,0.0};
 	private static double smValue; 
-	private long runningTime;
+	private static long runningTime;
+	private long singleRunningTime;
 	
 	private void run(File in) throws IOException {
 		
@@ -101,16 +105,16 @@ public class Manager {
 		parts=4;
 		List<String> textParts=TextUtils.splitText(text,text.length()/parts);
 		
-		setWords(20);
 		setRankingStrategy(new TFIDFRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
-			t=t + " " +textParts.get(i); 
+			t=t + " " +textParts.get(i);
+			setWords(60);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}
-		
+
 		// 2 compute similarity of extracted words
 		setSimilarityStrategy(new JaccardSimilarity());
 		setLayoutStrategy(new ContextPreservingStrategy());
@@ -127,7 +131,7 @@ public class Manager {
 	        long startTime = System.nanoTime();
 			layoutResults.add(layout(wordGraph));
 	        long endTime = System.nanoTime();
-	        runningTime += (endTime - startTime); //System.out.println(endTime - startTime);
+	        singleRunningTime += (endTime - startTime); //System.out.println(endTime - startTime);
 		}
 		// 3.5 execute test
 		test();
@@ -162,30 +166,32 @@ public class Manager {
 		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
 		
 		// 4 visualize wordcloud
-//		visualize(wordGraph,frameResults,frameColorHandlers); 
+		visualize(wordGraph,frameResults,frameColorHandlers); 
 	}
 
 	private void test() {
-		a=0.25;
-		CombinationMetric cm = new CombinationMetric(a);
+		for(int i=0;i<a.length;i++) {
+			CombinationMetric cm = new CombinationMetric(a[i]);
+			cmValues[i] += cm.getValue(wordGraphs,layoutResults);
+		}
 		SpaceMetric sm = new SpaceMetric(false);
-		
-		cmValue += cm.getValue(wordGraphs,layoutResults);
 		smValue += sm.getValue(wordGraphs,layoutResults); //System.out.println("SP :"+smValue);
-		rtValue += runningTime/wordGraphs.size();
+		runningTime += singleRunningTime;
+		rtValue += singleRunningTime/parts;
 	}
 
-	private static void createResult(double a, double cmValue, double smValue,long runningTime) throws IOException {
+	private static void createResult(double a, double cmValue, double smValue,
+			long rtValue,long runningTime) throws IOException {
 		File path = new File("src/main/resources/results");
-		File result = File.createTempFile("Test_2_",".txt",path);
+		File result = File.createTempFile("Test_3_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CPWCV" + "\r\n" +
+		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CycleCover" + "\r\n" +
 				"Cluster Similarity: Jaccard " + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
 		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
 		bw.write("SpaceMetric: " + smValue + "\r\n");
 		bw.write("CombinationMetric: " + cmValue + "\r\n");
-		bw.write("Single RunningTime: " + runningTime/parts + "\r\n");
+		bw.write("Single RunningTime: " + rtValue + "\r\n");
 		bw.write("Total RunningTime: " + runningTime + "\r\n");
 		bw.flush();
 		bw.close();

@@ -4,7 +4,7 @@ Layout: CPWCV
 Cluster Similarity: Jaccard 
 Words: 20
 Parameter a: 0.25 , parameter b: 0.75
-SpaceMetric: 0.6544730781911436
-CombinationMetric: 0.8303104880523919
-Single RunningTime: 941609
-Total RunningTime: 3766439
+SpaceMetric: 0.6531198610140633
+CombinationMetric: 0.8308053433913334
+Single RunningTime: 3975481
+Total RunningTime: 15901926

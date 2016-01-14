@@ -40,8 +40,7 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
         this.words=wordGraph.getWords();
         this.similarity=wordGraph.getSimilarity();
         this.wordPositions=new ArrayList<Rectangle>(words.size());
-        this.wordPositionsMap=new HashMap<>();
-        
+        this.wordPositionsMap=new HashMap<>();  
 
         execute();    
 

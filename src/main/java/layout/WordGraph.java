@@ -17,7 +17,7 @@ public class WordGraph {
     private WordGraphStats stats;
 
     public WordGraph(List<Word> words,Map<WordPair,Double> similarity)  {
-        this.words = words;
+        this.words = words; 
         this.similarity = similarity;
         
         checkConsistency();

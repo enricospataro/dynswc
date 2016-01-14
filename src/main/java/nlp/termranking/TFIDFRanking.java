@@ -3,9 +3,11 @@ package main.java.nlp.termranking;
 import java.io.File;
 import java.io.IOException;
 import java.io.ObjectInputStream;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import main.java.nlp.Document;
 import main.java.nlp.Word;
@@ -21,7 +23,7 @@ public class TFIDFRanking  implements RankingStrategy{
 		computeIDF();
 		List<Word> words = document.getWords();
 		for(Word w:words) {
-			double tf = 1 + Math.log10(w.getSentences().size());
+			double tf = 1 + Math.log10(w.getSentences().size()); 
 			double idf;
 			
 			if(idfMap.containsKey(w.getStem())) idf=idfMap.get(w.getStem());

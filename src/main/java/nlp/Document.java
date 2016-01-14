@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import main.java.main.Manager;
 import main.java.nlp.sentencedetection.SentenceDetectionStrategy;
 import main.java.nlp.termranking.RankingStrategy;
 import opennlp.tools.stemmer.Stemmer;
@@ -99,9 +100,9 @@ public class Document {
      */
     public void rankFilter(int maxWords,RankingStrategy rankStrategy) {
         rankStrategy.rank(this);
-        Collections.sort(words,Comparator.reverseOrder());
+        Collections.sort(words,Comparator.reverseOrder());       
         if(words.size()>maxWords) words=words.subList(0,maxWords);
-
+        Manager.setWords(words.size());
         rescaleScores();
     }
     /**
@@ -117,10 +118,10 @@ public class Document {
 
         double mn = words.get(words.size()-1).getScore();
         double mx = words.get(0).getScore();
-
+        
         for (Word w:words){
             double num = Math.log(w.getScore()) - Math.log(mn);
-            double den = (mx > mn ? Math.log(mx) - Math.log(mn) : 1.0);
+            double den = (mx > mn ? Math.log(mx) - Math.log(mn) : 1.0); 
 
             w.setScore(1.0 + (upper-1.0) * num / den);
         }

@@ -36,14 +36,13 @@ public class MDSStrategy extends BaseLayoutStrategy {
 		double[][] outputMDS = runMDS();
 		
 		// set coordinates
-		for(int i=0;i<words.size();i++) {
-			
-	    Rectangle rect = wordPositions.get(i);
-	    double x = outputMDS[0][i];
-	    double y = outputMDS[1][i];
-	    x -= rect.getWidth()/2.;
-	    y -= rect.getHeight()/2.;
-	    rect.setRect(x,y,rect.getWidth(),rect.getHeight());
+		for(int i=0;i<words.size();i++) {		
+			Rectangle rect = wordPositions.get(i);
+			double x = outputMDS[0][i];
+			double y = outputMDS[1][i];
+			x -= rect.getWidth()/2.;
+			y -= rect.getHeight()/2.;
+			rect.setRect(x,y,rect.getWidth(),rect.getHeight());
 	    }
 		perturbOverlappingPoints();
 	}
@@ -77,6 +76,7 @@ public class MDSStrategy extends BaseLayoutStrategy {
 	        for(int i=0;i<words.size();i++)
 	            for(int j=0;j<words.size();j++) {
 	                double dist = wordGraph.distance(words.get(i),words.get(j));
+
 	                desiredDistance[i][j] = dist * scaling;
 	            }
 
@@ -92,7 +92,7 @@ public class MDSStrategy extends BaseLayoutStrategy {
 
 	    private double computeScaling() {
 	        double areaSum = wordPositions.stream().mapToDouble(r -> r.getArea()).sum();
-
+	        
 	        List<Double> distances = new ArrayList();
 	        for(int i=0;i<words.size();i++)
 	            for(int j=0;j<words.size();j++) {

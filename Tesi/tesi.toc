@@ -9,20 +9,20 @@
 \contentsline {section}{\numberline {3.1}Definizioni e applicazioni}{10}{section.3.1}
 \contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica e statica}{11}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Estrazione keywords}{11}{subsection.3.2.1}
-\contentsline {subsubsection}{Term Frequency}{12}{section*.4}
+\contentsline {subsubsection}{Term Frequency (TF)}{12}{section*.4}
 \contentsline {subsubsection}{TF-IDF}{13}{section*.5}
 \contentsline {subsubsection}{LexRank}{13}{section*.6}
 \contentsline {subsection}{\numberline {3.2.2}Calcolo similarit\`a}{14}{subsection.3.2.2}
 \contentsline {subsubsection}{Cosine Similarity}{14}{section*.7}
-\contentsline {subsubsection}{Jaccard Similarity}{14}{section*.8}
+\contentsline {subsubsection}{Jaccard Similarity}{15}{section*.8}
 \contentsline {subsubsection}{Jaccard Similarity estesa}{15}{section*.9}
 \contentsline {subsection}{\numberline {3.2.3}Creazione word cloud}{15}{subsection.3.2.3}
 \contentsline {subsubsection}{Context-Preserving Word Cloud Visualization (CPWCV)}{15}{section*.10}
 \contentsline {subsubsection}{Star Forest}{16}{section*.11}
-\contentsline {subsubsection}{Cycle Cover}{17}{section*.12}
+\contentsline {subsubsection}{Cycle Cover}{18}{section*.12}
 \contentsline {subsection}{\numberline {3.2.4}Clustering}{18}{subsection.3.2.4}
-\contentsline {subsubsection}{K-means}{18}{section*.13}
-\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{18}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{19}{subsection.3.3.1}
+\contentsline {subsubsection}{K-means}{19}{section*.13}
+\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{20}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{20}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{20}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{21}{subsection.3.3.3}

@@ -35,7 +35,7 @@ public class ClassicalScaling {
             double[] u = MathUtils.randomUnitLengthVector(n,k);
             double lambda = powerIteration(B, u);
             //System.out.println("\u019B_" + (k + 1) + " = " + lambda);
-
+            
             if(k<dimensions) {
                 if(lambda>=0.0) {
                     double s = Math.sqrt(lambda);

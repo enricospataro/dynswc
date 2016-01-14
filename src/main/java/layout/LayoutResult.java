@@ -15,7 +15,7 @@ public class LayoutResult {
 
     public LayoutResult(List<Word> words,List<Rectangle> positions) {
     	this.words=words;
-        this.wordPositions = new HashMap<>(); 
+        this.wordPositions = new HashMap<>();
         IntStream.range(0,words.size()).forEach(i -> wordPositions.put(words.get(i),positions.get(i)));
     }
     

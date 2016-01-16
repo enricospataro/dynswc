@@ -20,9 +20,10 @@
 \contentsline {subsubsection}{Context-Preserving Word Cloud Visualization (CPWCV)}{15}{section*.10}
 \contentsline {subsubsection}{Star Forest}{16}{section*.11}
 \contentsline {subsubsection}{Cycle Cover}{18}{section*.12}
-\contentsline {subsection}{\numberline {3.2.4}Clustering}{18}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.4}Clustering}{19}{subsection.3.2.4}
 \contentsline {subsubsection}{K-means}{19}{section*.13}
-\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{19}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{20}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{20}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{21}{subsection.3.3.3}
+\contentsline {subsubsection}{K-means++}{20}{section*.14}
+\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{21}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{22}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{22}{subsection.3.3.3}

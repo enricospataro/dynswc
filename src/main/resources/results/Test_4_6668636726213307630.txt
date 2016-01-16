@@ -1,0 +1,10 @@
+Ranking: TFIDF
+Similarity: Jaccard
+Layout: ContextPreserving
+Cluster Similarity: Jaccard 
+Words: 100
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric: 0.6145288470757263
+CombinationMetric: 0.946393877278171
+Single RunningTime: 238302632
+Total RunningTime: 238302632

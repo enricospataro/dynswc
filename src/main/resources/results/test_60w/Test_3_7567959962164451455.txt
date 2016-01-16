@@ -1,0 +1,10 @@
+Ranking: TFIDF
+Similarity: Jaccard
+Layout: StarForest
+Cluster Similarity: Jaccard 
+Words: 60
+Parameter a: 1.0 , parameter b: 0.0
+SpaceMetric: 0.6025806649460926
+CombinationMetric: 0.7861599907475869
+Single RunningTime: 231194896
+Total RunningTime: 924779585

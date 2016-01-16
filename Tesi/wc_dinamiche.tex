@@ -25,7 +25,7 @@ Tutti gli algoritmi di visualizzazione di una word cloud ricevono in input un gr
 \subsection{Estrazione keywords}\label{wc_din:word_ext}
 Il processo di estrazione delle keywords prevede una serie di passaggi preliminari, con tecniche di elaborazione del linguaggio naturale, le quali predispongono, in maniera appropriata, il testo in ingresso all'algoritmo di estrazione delle parole.
 
-Innanzitutto, il testo viene suddiviso in frasi e ogni parola viene suddivisa in \textit{token}: ciò può essere eseguito mediante l'ausilio di librerie di elaborazione del linguaggio naturale (e.g. \textit{Apache OpenNLP}\cite{opennlp}). Successivamente, dal testo vengono eliminate le \textit{stop words}, cioè articoli, congiunzioni e parole di uso comune che sono poco rilevanti dal punto di vista informativo. Le parole rimanenti vengono quindi raggruppate in base alle rispettive radici (in inglese, \textit{stem}), tramite un algoritmo di \textit{stemming}: in questo modo, ad esempio, parole come \textit{player}, \textit{play} e \textit{playing} vengono raggruppate secondo la radice comune \textit{play}. Nella nostra implementazione, è stato utilizzato il noto algoritmo \textit{Porter Stemmer}\cite{porter}. Alla fine, nella word cloud finale, viene visualizzata la variante più frequente della parola.
+Innanzitutto, il testo viene suddiviso in frasi. Poi, ogni sequenza di caratteri viene scomposta in \textit{token} (insiemi di caratteri, ad esempio parole, punteggiatura, numeri, simboli ecc...): ciò può essere eseguito mediante l'ausilio di librerie di elaborazione del linguaggio naturale (e.g. \textit{Apache OpenNLP}\cite{opennlp}). Successivamente, dal testo vengono eliminate le \textit{stop words}, cioè articoli, congiunzioni, parole di uso comune che sono poco rilevanti dal punto di vista informativo. Le parole rimanenti vengono quindi raggruppate in base alle rispettive radici (in inglese, \textit{stem}), tramite un algoritmo di \textit{stemming}: in questo modo, ad esempio, parole come \textit{player}, \textit{play} e \textit{playing} vengono raggruppate secondo la radice comune \textit{play}. Nella nostra implementazione, è stato utilizzato il noto algoritmo \textit{Porter Stemmer}\cite{porter}. Alla fine, nella word cloud finale, viene visualizzata la variante più frequente della parola.
 
 Una volta eseguiti questi passaggi, si procede all'estrazione delle parole e al loro ranking in modo da trovare quelle più rilevanti, utilizzando tecniche di Information Retrieval. Ogni algoritmo assegna alle parole un punteggio e ne seleziona le $n$ più frequenti, dove $n$ è il numero di parole da visualizzare nella word cloud.
 \\ \\
@@ -35,6 +35,7 @@ Il modo più intuitivo di assegnare un peso alle parole consiste nel contare le l
 
 \begin{table}[!htbp]
 \centering
+\renewcommand\arraystretch{1.4}
 \begin{tabular}{|c|c|}
 \hline
 \textbf{Tipo funzione} &  \textbf{Peso} \\
@@ -139,7 +140,6 @@ Questo algoritmo, introdotto da Cui et al. in\cite{cui}, mira a soddisfare il vi
 \item Principio di non sovrapposizione: questa condizione richiede che le parole non siano sovrapposte, proprietà fondamentale per la leggibilità della word cloud;
 \item Principio di planarità: per mantenere le relazioni semantiche tra le parole, il grafo è bene che sia planare, anche se ciò non è strettamente necessario. Inoltre imporre questa condizione può portare ad uno spreco di spazio.
 \end{itemize}
-
 Seguendo tali principi, la word cloud che si ottiene è compatta, facilmente leggibile e semanticamente coerente. Ognuna di queste proprietà è ottenibile applicando, rispettivamente, una forza elastica, una forza repulsiva e una forza attrattiva.
 
 \subsubsection{Star Forest}
@@ -147,8 +147,8 @@ Introdotto in\cite{kobourov} da Kobourov et. al, Star Forest consiste in una for
 \\ \\
 L'algoritmo è composto da una sequenza di tre passaggi fondamentali:
 \begin{enumerate}
-\item Partizionamento del grafo, in modo da ottenere una foresta di stelle;
-\item Applicazione dello scaling multidimensionale alla matrice delle distanze, ottenuta da quella delle similarità tra coppie di parole, con conseguente creazione della word cloud per ogni stella;
+\item Partizionamento del grafo, in modo da ottenere una foresta di stelle.
+\item Applicazione dello scaling multidimensionale alla matrice delle distanze, ottenuta da quella delle similarità tra coppie di parole, con conseguente creazione della word cloud per ogni stella.
 \item Compattazione delle singole word cloud realizzate, da cui ne deriva il risultato finale.
 \end{enumerate}
 Le stelle vengono estratte dal grafo in modo \textit{greedy}. Si cerca un vertice $v$ i cui vertici adiacenti abbiano peso massimo, cioè tali che la somma $ \sum\nolimits_{u \in V} sim(u,v) $ sia massima. Si assume dunque che il vertice $v$ sia il centro della stella, mentre l'insieme dei vertici $V - \{v\}$ forma l'insieme delle foglie. Vengono scelte le parole adiacenti a $v$ e tali parole vengono rimosse dal grafo. Si ripete la procedura con grafi via via più piccoli, finchè non ci saranno più vertici.
@@ -171,7 +171,7 @@ $ k_{a}(1 -  sim(s_{1},s_{2}))\Delta l$, con $\Delta l$ pari alla minima distanz
 \item repulsiva, per evitare sovrapposizioni tra le varie parole, pari a  
 $ k_{r}min(\Delta x,\Delta y)$, dove $\Delta x$ ($\Delta y$) corrisponde alla larghezza (altezza) della regione di spazio in sovrapposizione.
 \end{itemize} 
-Come ogni algoritmo force directed, questo metodo risistema le posizioni delle stelle iterativamente.
+Come ogni algoritmo force directed, questo metodo aggiorna le posizioni delle stelle iterativamente.
 
 \subsubsection{Cycle Cover}
 Questo algoritmo è stato proposto, come Star Forest, da Kobourov et. al in\cite{kobourov}. Esso si basa sull'estrazione di un sottografo planare dal grafo $G=(V,E)$ definito dalla matrice di similarità. Tale sottografo è composto da un insieme disgiunto di cicli di peso massimo ed è denominato, appunto, \textit{cycle cover}.
@@ -187,15 +187,42 @@ L'algoritmo che calcola il cycle cover estrae, dal grafo $G$, un grafo bipartito
 
 Fissato dunque un ciclo $(v_{1},v_{2},...,v_{n})$, sia $t$ il massimo indice  tale che $ \sum\nolimits_{i \leq t} w_{i} \leq \sum\nolimits_{i \leq n} w_{i}/2 $, dove $w_{i}$ è la base del bounding box corrispondente alla parola i-esima. I vertici $v_{1},v_{2},...,v_{t}$ vengono collocati orizzontalmente da sinistra verso destra, mentre i vertici $v_{n},v_{n-1},...,v_{t+2}$ vengono collocati da destra verso sinistra. In entrambi i casi, i vertici sono allineati su una stessa linea (figura \ref{fig:cyclecover}(a)). Rimane da piazzare il vertice $v_{t+1}$, in contatto tra $v_{t}$ e $v_{t+2}$. Si sceglie il gruppo di vertici (superiore o inferiore) i cui rettangoli hanno la minima larghezza oppure lo si pone a metà tra  $v_{t}$ e $v_{t+2}$. I cicli vengono convertiti in cammini se sono composti da più di 10 vertici. In tal caso, dopo aver posizionato i vertici $v_{1}$ e $v_{2}$ vicini l'un l'altro, si procede a piazzare il generico vertice $v_{i}$ in modo tale che tocchi $v_{i-1}$ nel primo spazio disponibile in senso orario, ottenendo così un layout a spirale.
 
-Successivamente, come nell'algoritmo Star Forest, le soluzioni individuali vengono messe insieme. Poi si applica lo stesso algoritmo force directed, descritto precedentemente, per compattare il disegno e rimuovere eventuali intersezioni tra le parole.
+Successivamente, così come nell'algoritmo Star Forest, le soluzioni individuali realizzate vengono messe insieme. Poi si applica lo stesso algoritmo force directed, descritto precedentemente, per compattare il disegno e rimuovere eventuali intersezioni tra le parole.
 
 \subsection{Clustering}
-Una volta ottenuto il layout, si prosegue con l'applicazione di un algoritmo di clustering, il quale suddivide le parole in più gruppi (\textit{cluster}). Ad ogni cluster viene assegnato un colore diverso e ogni colore corrisponde ad un diverso raggruppamento semantico. In generale, l'obiettivo del clustering è quello di ottenere che gli oggetti di ogni cluster siano il più possibile simili tra loro, o comunque che la loro correlazione sia più alta rispetto a quella con oggetti di cluster diversi. Dal momento che la word cloud è stata disegnata in modo tale che parole correlate semanticamente stiano vicine, l'algoritmo di clustering dovrebbe raggruppare correttamente le varie parole.
+Una volta ottenuto il layout, si prosegue con l'applicazione di un algoritmo di \textit{clustering}, il quale suddivide le parole in più gruppi (\textit{cluster}). Ad ogni cluster viene assegnato un colore diverso e ogni colore corrisponde ad un diverso raggruppamento semantico. In generale, l'obiettivo del clustering è quello di ottenere che gli oggetti di ogni cluster siano il più possibile simili tra loro, o comunque che la loro correlazione sia più alta rispetto a quella con oggetti di cluster diversi.
 \\ \\
-L'algoritmo di clustering utilizzato in questa tesi è uno dei più noti in letteratura, ovvero K-means. Esso è stato applicato non sul layout finale, ma sulla base delle distanze tra coppie di parole ottenute dalla matrice di similarità.
+L'algoritmo di clustering utilizzato in questa tesi e che verrà ora descritto, è una versione migliorata di uno dei più noti algoritmi in letteratura, cioè K-means++, proposto da Arthur et. al in\cite{arthur}.
 
 \subsubsection{K-means}
----DA SCRIVERE---
+K-means è un tipo di algoritmo \textit{prototype-based}, cioè basato sul concetto di prototipo, che è un elemento che rappresenta un cluster. Infatti, un cluster è una collezione di oggetti in cui ogni oggetto è più simile al prototipo di quel cluster rispetto ai prototipi di altri cluster. K-means definisce il prototipo in termini di centroide, spesso inteso come elemento medio di un gruppo di punti
+
+La tecnica di clustering definita dal K-means è piuttosto semplice e intuitiva. In generale, dato un intero $K>0$ e un insieme di $n$ oggetti in un dataset $\chi$, si vogliono scegliere $K$ centroidi, tali da minimizzare la funzione obiettivo $\phi = \sum\limits_{i=1}^K \sum\nolimits_{x \in C_{i}} dist(c_{i},x) $, dove $C_{i}$ è l'i-esimo cluster e $dist(c_{i},x)$ è una qualche misura di prossimità tra il generico elemento $x \in C_{i} $ e il centroide dell'i-esimo cluster $C_{i}$. In pratica, ciò che si vuole ottenere, sono $k$ cluster in cui gli oggetti appartenenti ad ogni cluster siano il più possibile simili tra loro.
+\\ \\
+La procedura base è la seguente: 
+\begin{enumerate}
+\item Si scelgono $K$ centroidi $C=\{c_{1},...,c_{k}\}$.
+\item Ogni elemento $x \in \chi$ viene associato al centroide più vicino. Ogni collezione di elementi associata a $c_{i}, i \in \{1,...,k\}$ forma un cluster.
+\item Si aggiorna il centroide di ogni cluster.
+\item I passi 2 e 3 vengono eseguiti iterativamente finchè non ci sono ulteriori variazioni dei centroidi.
+\end{enumerate}
+
+Spesso i centroidi iniziali vengono scelti in modo randomico, ma sono possibili diverse scelte. In ogni caso, l'idea dell'algoritmo è quella di minimizzare, ad ogni esecuzione, la funzione $\phi$, tramite i passi 2 e 3 (i quali garantiscono il decremento di $\phi$), finchè non vengono osservate variazioni nei centroidi. Quando l'algoritmo termina, i centroidi dovrebbero aver identificato i raggruppamenti naturali degli elementi del dataset.
+
+L'obiettivo dell'algoritmo, come detto, è quello di minimizzare la funzione obiettivo $\phi$. Tale funzione, misura la qualità del clustering tramite il calcolo della prossimità (o similarità) tra il centroide $c_{i}$ e gli elementi del cluster $C_{i}$. Solitamente, i punti fanno parte di uno spazio $n$-dimensionale e come misura di prossimità si utilizza la distanza euclidea. Ad ogni modo, ci sono diverse possibilità per la scelta della misura di prossimità, come suggerito in\cite{tan}. 
+
+\subsubsection{K-means\texorpdfstring{++}{}}
+La differenza principale tra K-means++ e il K-means classico consiste nell'inizializzazione dell'algoritmo, ovvero nella scelta dei $K$ centroidi iniziali. La successione dei passi, infatti, è la seguente: 
+\begin{enumerate}
+\item Si sceglie il primo centroide $c_{1}$ in modo casuale tra tutti i punti (nel nostro caso le parole).
+\item Per ogni altro elemento del dataset, $x \in \chi$, si calcola la distanza $dist(x,c_{i})$ tra $x$ e il centroide più vicino tra quelli già selezionati.
+\item Un elemento generico $x$ viene quindi scelto come centroide con probabilità pari a $\frac{dist(x,c_{i})^2}{\sum\nolimits_{x \in \chi} dist(x,c_{i})^2} $.
+\item Si ripetono gli step 2 e 3 finchè non vengono scelti $k$ centroidi.
+\item Avendo raggiunto un insieme di $K$ centroidi, si può procedere con il K-means classico.
+\end{enumerate}
+Con l'inizializzazione suggerita da K-means++, l'algoritmo trova una soluzione in $O(log\;k)$ 
+
+Nel nostro caso, il dataset è costituito dall'insieme delle $n$ parole $W=\{w_{1},...,w_{n}\}$. Come misura di prossimità è stata utilizzata la distanza tra le parole ottenuta dalla matrice di similarità. Il clustering quindi non viene eseguito sul disegno finale, cioè in base al posizionamento sul piano delle parole, ma a partire dalla loro similarità. Ne segue che il raggruppamento delle parole è logico, non geometrico. La funzione obiettivo da minimizzare diventa dunque $\phi = \sum\limits_{i=1}^K \sum\nolimits_{w \in C_{i}} (1 - sim_{w,c_{i}})$. 
 \section{Algoritmi di generazione di una word cloud semantica e dinamica}\label{wc_din:din_algs}
 Nel paragrafo precedente, è stata presentata la procedura, insieme agli algoritmi, necessaria a realizzare una word cloud semantica a partire da un testo in input. Tuttavia, tali algoritmi sono stati pensati per un singolo layout statico, cioè invariante nel tempo. L'obiettivo del nostro lavoro è invece quello di mostrare l'evoluzione della word cloud di un documento. A tal fine, vengono create diverse word cloud del testo ad intervalli regolari. Per passare da un layout al successivo in modo dinamico, è stata applicata una semplice tecnica di \textit{morphing}. La dinamicità, come vedremo meglio dopo, dipende dallo stato delle parole, poichè esse possono apparire, scomparire o rimanere nel passaggio da una word cloud ad un'altra. Ciò significa che bisogna tener conto di diversi aspetti: variazione della posizione delle parole, variazione delle dimensioni delle parole in base al punteggio via via ottenuto e variazione dei colori. Tuttavia, conferire dinamicità comporta alcune problematiche: 
 \begin{itemize}
@@ -241,14 +268,14 @@ Dati due disegni consecutivi $\Gamma^{k-1}$ e $\Gamma^{k}$, con $k \in [2,K]$, i
 \end{itemize}
 La parola i-esima $w_{i}$ può far parte di tre diversi insiemi. A seconda dei casi, il comportamento può variare. Analizziamo ogni possibile situazione:
 \begin{enumerate}
-\item $w_{i} \in C$: poichè $w_{i}$ compare solo in $\Gamma^{k}$ con un punteggio pari a $\rho_{i}^{k}$, essa avrà un punteggio pari a 0 in $\Gamma^{k-1}$. Avendo $N$ frame tra $\Gamma^{k-1}$ e $\Gamma^{k}$, il punteggio viene incrementato, ad ogni frame, di una quantità pari a $\rho_{i}^{k}/(N+1)$. Di conseguenza, in base al punteggio corrente della parola, anche la dimensione del rettangolo viene opportunamente modificata ad ogni frame (figura \ref{fig:new_word}); 
-\item $w_{i} \in S$: caso opposto al precedente, ovvero $w_{i}$ compare solo in $\Gamma^{k-1}$ con un punteggio pari a $\rho_{i}^{k-1}$, per cui essa avrà un punteggio pari a 0 in $\Gamma^{k}$. Poichè tra $\Gamma^{k-1}$ e $\Gamma^{k}$ ci sono $N$ frame, il punteggio viene decrementato, ad ogni frame, di una quantità pari a $\rho_{i}^{k-1}/(N+1)$. Come nel caso precedente, la dimensione del rettangolo viene opportunamente modificata ad ogni frame in base al punteggio corrente della parola (figura \ref{fig:disapp_word}); 
-\item $w_{i} \in P$: caso più complesso che è unione dei due precedenti. Il termine $w_{i}$ compare in entrambi i layout. Indicati con $\rho_{i}^{k-1}$ il punteggio di $w_{i}$ in $\Gamma^{k-1}$, con $\rho_{i}^{k}$ il punteggio di $w_{i}$ in $\Gamma^{k}$ e con $\Delta_{\rho_{i}}^{k,k-1} = \vert\rho_{i}^{k}-\rho_{i}^{k-1}\vert$, se:
+\item $w_{i} \in C$: poichè $w_{i}$ compare solo in $\Gamma^{k}$ con un punteggio pari a $\rho_{i}^{k}$, essa avrà un punteggio pari a 0 in $\Gamma^{k-1}$. Avendo $N$ frame tra $\Gamma^{k-1}$ e $\Gamma^{k}$, il punteggio viene incrementato, ad ogni frame, di una quantità pari a $\rho_{i}^{k}/(N+1)$. Di conseguenza, in base al punteggio corrente della parola, anche la dimensione del rettangolo viene opportunamente modificata ad ogni frame (figura \ref{fig:new_word}).
+\item $w_{i} \in S$: caso opposto al precedente, ovvero $w_{i}$ compare solo in $\Gamma^{k-1}$ con un punteggio pari a $\rho_{i}^{k-1}$, per cui essa avrà un punteggio pari a 0 in $\Gamma^{k}$. Poichè tra $\Gamma^{k-1}$ e $\Gamma^{k}$ ci sono $N$ frame, il punteggio viene decrementato, ad ogni frame, di una quantità pari a $\rho_{i}^{k-1}/(N+1)$. Come nel caso precedente, la dimensione del rettangolo viene opportunamente modificata ad ogni frame in base al punteggio corrente della parola (figura \ref{fig:disapp_word}).
+\item $w_{i} \in P$: è il caso più complesso dei tre. Il termine $w_{i}$ compare in entrambi i layout. Indicati con $\rho_{i}^{k-1}$ il punteggio di $w_{i}$ in $\Gamma^{k-1}$, con $\rho_{i}^{k}$ il punteggio di $w_{i}$ in $\Gamma^{k}$ e con $\Delta_{\rho_{i}}^{k,k-1} = \vert\rho_{i}^{k}-\rho_{i}^{k-1}\vert$, se:
 \begin{itemize}
 \item $\rho_{i}^{k} < \rho_{i}^{k-1} $, il peso di $w_{i}$ viene decrementato di $\Delta/(N+1)$ ad ogni frame;
 \item $\rho_{i}^{k} > \rho_{i}^{k-1} $, il peso di $w_{i}$ viene incrementato di $\Delta/(N+1)$ ad ogni frame;
 \end{itemize}
-In base al punteggio corrente, ad ogni frame la dimensione del bounding box di $w_{i}$ viene opportunamente aggiornata. \\ Inoltre, in questo caso, le parole vengono anche traslate, quindi le posizioni dei rettangoli variano. Siano dunque $\tau_{i}^{k}$ la posizione di $w_{i} $ in $\Gamma^{k}$, $\tau_{i}^{k-1}$ la posizione di $w_{i} $ in $\Gamma^{k-1}$ e $\delta_{\tau_{i}}^{k,k-1}$ la distanza tra i centri dei rettangoli. Ad ogni frame, il rettangolo viene traslato, in valore assoluto, di una quantità pari a $\delta_{\tau_{i}}^{k,k-1}/(N+1)$. La direzione dello spostamento dipende dal relativo posizionamento di $\tau_{i}^{k-1}$ in $\Gamma^{k-1}$ e di $\tau_{i}^{k}$ in $\Gamma^{k}$. Abbiamo in generale quattro casi diversi, come indicato in figura \ref{fig:morphcommon}.
+In base al punteggio corrente, ad ogni frame la dimensione del bounding box di $w_{i}$ viene opportunamente aggiornata. \\ Inoltre, in questo caso, le parole vengono anche traslate, quindi le posizioni dei rispettivi rettangoli variano. Siano dunque $\tau_{i}^{k}=(x_{i}^{k},y_{i}^{k})$ il centro di $w_{i} $ in $\Gamma^{k}$, $\tau_{i}^{k-1}=(x_{i}^{k-1},y_{i}^{k-1})$ il centro di $w_{i} $ in $\Gamma^{k-1}$ e $\,\delta_{\tau_{i}}^{k,k-1} = \vert\vert \tau_{i}^{k} - \tau_{i}^{k-1} \vert\vert$, ovvero la distanza tra $\tau_{i}^{k}$ e $\tau_{i}^{k-1}$. Ad ogni frame, il rettangolo viene traslato, in valore assoluto, di una quantità pari a $\delta_{\tau_{i}}^{k,k-1}/(N+1)$. La direzione dello spostamento dipende dal relativo posizionamento di $\tau_{i}^{k-1}$ in $\Gamma^{k-1}$ e di $\tau_{i}^{k}$ in $\Gamma^{k}$. Abbiamo in generale quattro casi diversi, come indicato in figura \ref{fig:morphcommon}.
 \end{enumerate}
 \begin{figure}
 \centering

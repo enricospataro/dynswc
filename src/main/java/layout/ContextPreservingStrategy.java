@@ -19,7 +19,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     private static final double KR = 1000;
     private static final double TOTAL_ITERATIONS = 1000;
     private double T = 1;
-    private int numIterations = 0;
+    private int iter = 0;
 
     public ContextPreservingStrategy() {super();}
 
@@ -31,14 +31,14 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         IntStream.range(0,words.size()).forEach(i -> wordPositions.add(initialLayout.getWordPosition(words.get(i))));
         IntStream.range(0,words.size()).forEach(i -> wordPositionsMap.put(words.get(i),initialLayout.getWordPosition(words.get(i))));
         
-        if(numIterations!=0) runForceDirected(lastResult);
+        if(iter!=0) runForceDirected(lastResult);
         
         //compute Delaunay
         delaunayEdges = computeDelaunay();
 
         runForceDirected();
 
-        numIterations++; 
+        iter++; 
     }
 
 	int[][] delaunayEdges;
@@ -110,7 +110,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 		int numIterations = 0;
 //		doIteration(lastResult);
 		while(numIterations++ < TOTAL_ITERATIONS)  {
-	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration: " + numIterations);
+	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration2: " + numIterations);
 	        if(!doIteration(lastResult)) break;
 
 	        //cooling down the temperature (max allowed step is decreased)

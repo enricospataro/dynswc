@@ -133,4 +133,16 @@ Oscar~H. Ibarra and Chul~E. Kim.
   problems.
 \newblock {\em J. ACM}, 22(4):463--468, October 1975.
 
+\bibitem{arthur}
+David Arthur and Sergei Vassilvitskii.
+\newblock K-means++: The advantages of careful seeding.
+\newblock In {\em Proceedings of the Eighteenth Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, SODA '07, pages 1027--1035, Philadelphia, PA, USA,
+  2007. Society for Industrial and Applied Mathematics.
+
+\bibitem{tan}
+Pang-Ning Tan, Michael Steinbach, and Vipin Kumar.
+\newblock {\em Introduction to Data Mining, (First Edition)}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2005.
+
 \end{thebibliography}

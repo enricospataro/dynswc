@@ -48,13 +48,13 @@ public class Manager {
 	public static void main(String[] args) throws IOException {
 		File[] files = new File("src/main/resources/speeches/txt").listFiles();
 		int n=files.length;
-			for(int i=0;i<1;i++) {
+			for(int i=0;i<n;i++) {
 				try{
-					new Manager().run(files[68]);
+					new Manager().run(files[i]);
 				}catch (Exception e){e.printStackTrace();}	
 			}
 			for(int j=0;j<cmValues.length;j++) {
-				createResult(a[j],cmValues[j]/n,smValue/n,rtValue/n,runningTime/n);
+				createResult(a[j],cmValues[j]/n,smValue/n,singleRunningTime/n,runningTime/n);
 			}
 	}
 	
@@ -78,12 +78,12 @@ public class Manager {
 	private int frames;
 	private static int words;
 	private static double[] a={0.0,0.25,0.5,0.75,1.0};
-	private static long rtValue;
+	private static long singleRunningTime;
 	private static double cmValue;
 	private static double[] cmValues = {0.0,0.0,0.0,0.0,0.0};
 	private static double smValue; 
 	private static long runningTime;
-	private long singleRunningTime;
+	private long layoutRunningTime;
 	
 	private void run(File in) throws IOException {
 		
@@ -117,7 +117,7 @@ public class Manager {
 
 		// 2 compute similarity of extracted words
 		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new ContextPreservingStrategy());
+		setLayoutStrategy(new StarForestStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -131,42 +131,43 @@ public class Manager {
 	        long startTime = System.nanoTime();
 			layoutResults.add(layout(wordGraph));
 	        long endTime = System.nanoTime();
-	        singleRunningTime += (endTime - startTime); //System.out.println(endTime - startTime);
+	        layoutRunningTime += (endTime - startTime); 
+	        System.out.println(layoutRunningTime);
 		}
 		// 3.5 execute test
 		test();
-			
-		setFrames(100);
-		setMorphingStrategy(new SimpleMorphing(frames));
 		
-		// execute morphing between wordclouds
-		frameResults = new ArrayList<>();
-		frameResults.addAll(morphingStrategy.morph(layoutResults.get(0)));
-		for(int i=0;i<layoutResults.size()-1;i++) frameResults.addAll(morphingStrategy.morph(layoutResults.get(i),layoutResults.get(i+1)));
-		
-		// execute clustering of words
-		clusterResults = new ArrayList<>();
-		colorHandlers = new ArrayList<>();
-		setClusterSimilarityStrategy(new ClusterJaccardSimilarityStrategy());
-		
-		ClusterColorHandler ch = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
-		ch.initialize(wordGraphs.get(0),null);
-		colorHandlers.add(ch);
-		clusterResults.add(ch.getClusterResult()); 
-		for(int i=1;i<wordGraphs.size();i++) {
-			ClusterColorHandler ch1 = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
-			ch1.initialize(wordGraphs.get(i),clusterResults.get(i-1));
-			colorHandlers.add(ch1);
-			clusterResults.add(ch1.getClusterResult());
-		}
-		
-		setColorMorphingStrategy(new SimpleColorMorphing(frames));
-		frameColorHandlers = new ArrayList<>();
-		frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(0)));
-		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
+//		setFrames(100);
+//		setMorphingStrategy(new SimpleMorphing(frames));
+//		
+//		// execute morphing between wordclouds
+//		frameResults = new ArrayList<>();
+//		frameResults.addAll(morphingStrategy.morph(layoutResults.get(0)));
+//		for(int i=0;i<layoutResults.size()-1;i++) frameResults.addAll(morphingStrategy.morph(layoutResults.get(i),layoutResults.get(i+1)));
+//		
+//		// execute clustering of words
+//		clusterResults = new ArrayList<>();
+//		colorHandlers = new ArrayList<>();
+//		setClusterSimilarityStrategy(new ClusterJaccardSimilarityStrategy());
+//		
+//		ClusterColorHandler ch = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
+//		ch.initialize(wordGraphs.get(0),null);
+//		colorHandlers.add(ch);
+//		clusterResults.add(ch.getClusterResult()); 
+//		for(int i=1;i<wordGraphs.size();i++) {
+//			ClusterColorHandler ch1 = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
+//			ch1.initialize(wordGraphs.get(i),clusterResults.get(i-1));
+//			colorHandlers.add(ch1);
+//			clusterResults.add(ch1.getClusterResult());
+//		}
+//		
+//		setColorMorphingStrategy(new SimpleColorMorphing(frames));
+//		frameColorHandlers = new ArrayList<>();
+//		frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(0)));
+//		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
 		
 		// 4 visualize wordcloud
-		visualize(wordGraph,frameResults,frameColorHandlers); 
+//		visualize(wordGraph,frameResults,frameColorHandlers); 
 	}
 
 	private void test() {
@@ -176,22 +177,22 @@ public class Manager {
 		}
 		SpaceMetric sm = new SpaceMetric(false);
 		smValue += sm.getValue(wordGraphs,layoutResults); //System.out.println("SP :"+smValue);
-		runningTime += singleRunningTime;
-		rtValue += singleRunningTime/parts;
+		runningTime += layoutRunningTime;
+		singleRunningTime += layoutRunningTime/parts;
 	}
 
 	private static void createResult(double a, double cmValue, double smValue,
-			long rtValue,long runningTime) throws IOException {
+			long singleRunningTime,long runningTime) throws IOException {
 		File path = new File("src/main/resources/results");
-		File result = File.createTempFile("Test_3_",".txt",path);
+		File result = File.createTempFile("Test_4_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: CycleCover" + "\r\n" +
+		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: ContextPreserving" + "\r\n" +
 				"Cluster Similarity: Jaccard " + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
 		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
 		bw.write("SpaceMetric: " + smValue + "\r\n");
 		bw.write("CombinationMetric: " + cmValue + "\r\n");
-		bw.write("Single RunningTime: " + rtValue + "\r\n");
+		bw.write("Single RunningTime: " + singleRunningTime + "\r\n");
 		bw.write("Total RunningTime: " + runningTime + "\r\n");
 		bw.flush();
 		bw.close();

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  16 JAN 2016 23:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  17 JAN 2016 18:08
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -471,14 +471,14 @@ Capitolo 1.
 
 ]
 Capitolo 2.
-<img/wc_statiche/obama_wc.png, id=149, 837.1275pt x 367.3725pt>
+<img/wc_statiche/obama_wc.png, id=154, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/obama_wc.png Graphic file (type png)
 
 <use img/wc_statiche/obama_wc.png>
 Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 19.
 (pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
 
-<img/wc_statiche/romney_wc.png, id=150, 837.1275pt x 367.3725pt>
+<img/wc_statiche/romney_wc.png, id=155, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/romney_wc.png Graphic file (type png)
 
 <use img/wc_statiche/romney_wc.png>
@@ -514,7 +514,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
 [10
 
-] <img/wc_dinamiche/creation_steps.png, id=219, 649.2255pt x 115.02975pt>
+] <img/wc_dinamiche/creation_steps.png, id=224, 649.2255pt x 115.02975pt>
 File: img/wc_dinamiche/creation_steps.png Graphic file (type png)
 
 <use img/wc_dinamiche/creation_steps.png>
@@ -555,7 +555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--149
 
  []
 
-<img/wc_dinamiche/starforest.png, id=284, 649.2255pt x 148.1535pt>
+<img/wc_dinamiche/starforest.png, id=289, 649.2255pt x 148.1535pt>
 File: img/wc_dinamiche/starforest.png Graphic file (type png)
 
 <use img/wc_dinamiche/starforest.png>
@@ -564,7 +564,7 @@ Package pdftex.def Info: img/wc_dinamiche/starforest.png used on input line 158
 (pdftex.def)             Requested size: 389.5383pt x 88.89278pt.
  [16] [17 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/starforest.png>
 ]
-<img/wc_dinamiche/cyclecover.png, id=302, 505.28775pt x 187.29974pt>
+<img/wc_dinamiche/cyclecover.png, id=307, 505.28775pt x 187.29974pt>
 File: img/wc_dinamiche/cyclecover.png Graphic file (type png)
 
 <use img/wc_dinamiche/cyclecover.png>
@@ -581,115 +581,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
-[19]
-Overfull \hbox (6.78853pt too wide) in paragraph at lines 223--224
-\OT1/cmr/m/n/10.95 Con l'i-ni-zia-liz-za-zio-ne sug-ge-ri-ta da K-means++, l'al
--go-rit-mo tro-va una so-lu-zio-ne in $\OML/cmm/m/it/10.95 O\OT1/cmr/m/n/10.95 
-(\OML/cmm/m/it/10.95 log k\OT1/cmr/m/n/10.95 )$ 
+<img/wc_dinamiche/kmeans_ex.png, id=317, 676.929pt x 416.15475pt>
+File: img/wc_dinamiche/kmeans_ex.png Graphic file (type png)
+
+<use img/wc_dinamiche/kmeans_ex.png>
+Package pdftex.def Info: img/wc_dinamiche/kmeans_ex.png used on input line 211.
+
+(pdftex.def)             Requested size: 406.16054pt x 249.69478pt.
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+[]|\OT1/cmr/m/n/10.95 Massimizzare (mi-ni-miz-za-re)
  []
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 232--237
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--237
-
- []
-
+[20 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/kmeans_ex.png>]
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
 
  []
 
-[22] <img/wc_dinamiche/wordA_tiny.png, id=345, 87.32625pt x 18.66975pt>
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--287
+
+ []
+
+[23] <img/wc_dinamiche/wordA_tiny.png, id=359, 87.32625pt x 18.66975pt>
 File: img/wc_dinamiche/wordA_tiny.png Graphic file (type png)
 
 <use img/wc_dinamiche/wordA_tiny.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 283
+Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 307
 .
 (pdftex.def)             Requested size: 61.12794pt x 13.06873pt.
 
-<img/wc_dinamiche/wordA.png, id=346, 153.57375pt x 35.53275pt>
+<img/wc_dinamiche/wordA.png, id=360, 153.57375pt x 35.53275pt>
 File: img/wc_dinamiche/wordA.png Graphic file (type png)
 
 <use img/wc_dinamiche/wordA.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 286.
+Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 310.
 (pdftex.def)             Requested size: 107.50089pt x 24.87273pt.
 
-<img/wc_dinamiche/wordA_large.png, id=347, 217.41225pt x 51.7935pt>
+<img/wc_dinamiche/wordA_large.png, id=361, 217.41225pt x 51.7935pt>
 File: img/wc_dinamiche/wordA_large.png Graphic file (type png)
 
 <use img/wc_dinamiche/wordA_large.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 28
-9.
+Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 31
+3.
 (pdftex.def)             Requested size: 152.18752pt x 36.25519pt.
 File: img/wc_dinamiche/wordA_large.png Graphic file (type png)
  <use img/wc_dinamiche/wordA_large.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 29
-6.
+Package pdftex.def Info: img/wc_dinamiche/wordA_large.png used on input line 32
+0.
 (pdftex.def)             Requested size: 152.18752pt x 36.25519pt.
 File: img/wc_dinamiche/wordA.png Graphic file (type png)
 
 <use img/wc_dinamiche/wordA.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 299.
+Package pdftex.def Info: img/wc_dinamiche/wordA.png used on input line 323.
 (pdftex.def)             Requested size: 107.50089pt x 24.87273pt.
 File: img/wc_dinamiche/wordA_tiny.png Graphic file (type png)
  <use img/wc_dinamiche/wordA_tiny.png>
-Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 302
+Package pdftex.def Info: img/wc_dinamiche/wordA_tiny.png used on input line 326
 .
 (pdftex.def)             Requested size: 61.12794pt x 13.06873pt.
 
-<img/wc_dinamiche/quad4.png, id=348, 316.7835pt x 168.02776pt>
+<img/wc_dinamiche/quad4.png, id=362, 316.7835pt x 168.02776pt>
 File: img/wc_dinamiche/quad4.png Graphic file (type png)
 
 <use img/wc_dinamiche/quad4.png>
-Package pdftex.def Info: img/wc_dinamiche/quad4.png used on input line 309.
+Package pdftex.def Info: img/wc_dinamiche/quad4.png used on input line 333.
 (pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
 
-<img/wc_dinamiche/quad1.png, id=349, 316.7835pt x 168.02776pt>
+<img/wc_dinamiche/quad1.png, id=363, 316.7835pt x 168.02776pt>
 File: img/wc_dinamiche/quad1.png Graphic file (type png)
 
 <use img/wc_dinamiche/quad1.png>
-Package pdftex.def Info: img/wc_dinamiche/quad1.png used on input line 312.
+Package pdftex.def Info: img/wc_dinamiche/quad1.png used on input line 336.
 (pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
 
-<img/wc_dinamiche/quad3.png, id=350, 316.7835pt x 168.02776pt>
+<img/wc_dinamiche/quad3.png, id=364, 316.7835pt x 168.02776pt>
 File: img/wc_dinamiche/quad3.png Graphic file (type png)
 
 <use img/wc_dinamiche/quad3.png>
-Package pdftex.def Info: img/wc_dinamiche/quad3.png used on input line 316.
+Package pdftex.def Info: img/wc_dinamiche/quad3.png used on input line 340.
 (pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
 
-<img/wc_dinamiche/quad2.png, id=351, 316.7835pt x 168.02776pt>
+<img/wc_dinamiche/quad2.png, id=365, 316.7835pt x 168.02776pt>
 File: img/wc_dinamiche/quad2.png Graphic file (type png)
 
 <use img/wc_dinamiche/quad2.png>
-Package pdftex.def Info: img/wc_dinamiche/quad2.png used on input line 319.
+Package pdftex.def Info: img/wc_dinamiche/quad2.png used on input line 343.
 (pdftex.def)             Requested size: 190.07155pt x 100.81743pt.
-) [23] [24 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/wordA_tiny.png
+) [24] [25 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/wordA_tiny.png
 > <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/wordA.png> <C:/Users/En
 rico/Documents/tesi/Tesi/img/wc_dinamiche/wordA_large.png> <C:/Users/Enrico/Doc
 uments/tesi/Tesi/img/wc_dinamiche/quad4.png> <C:/Users/Enrico/Documents/tesi/Te
 si/img/wc_dinamiche/quad1.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dina
 miche/quad3.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/quad2.pn
 g>]
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [25
+(C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [26
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 101--103
 []\OT1/cmr/m/n/10.95 Wikipedia, Mor-phing, con-sul-ta-to a Gen-na-io 2016,
  []
 
-[26])
+[27])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
- [27]
+ [28]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
@@ -699,10 +705,10 @@ Package rerunfilecheck Info: File `tesi.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 6823 strings out of 493921
- 100616 string characters out of 3147280
- 192273 words of memory out of 3000000
- 9869 multiletter control sequences out of 15000+200000
+ 6833 strings out of 493921
+ 100826 string characters out of 3147280
+ 193464 words of memory out of 3000000
+ 9875 multiletter control sequences out of 15000+200000
  11789 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,12n,43p,1301b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -722,9 +728,9 @@ ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on tesi.pdf (28 pages, 826287 bytes).
+Output written on tesi.pdf (29 pages, 890217 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 492 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
+ 207 words of extra memory for PDF output out of 10000 (max. 10000000)
 

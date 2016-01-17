@@ -190,39 +190,63 @@ Fissato dunque un ciclo $(v_{1},v_{2},...,v_{n})$, sia $t$ il massimo indice  ta
 Successivamente, così come nell'algoritmo Star Forest, le soluzioni individuali realizzate vengono messe insieme. Poi si applica lo stesso algoritmo force directed, descritto precedentemente, per compattare il disegno e rimuovere eventuali intersezioni tra le parole.
 
 \subsection{Clustering}
-Una volta ottenuto il layout, si prosegue con l'applicazione di un algoritmo di \textit{clustering}, il quale suddivide le parole in più gruppi (\textit{cluster}). Ad ogni cluster viene assegnato un colore diverso e ogni colore corrisponde ad un diverso raggruppamento semantico. In generale, l'obiettivo del clustering è quello di ottenere che gli oggetti di ogni cluster siano il più possibile simili tra loro, o comunque che la loro correlazione sia più alta rispetto a quella con oggetti di cluster diversi.
+Una volta ottenuto il layout, si prosegue con l'applicazione di un algoritmo di \textit{clustering}, il quale suddivide le parole in più gruppi (\textit{cluster}). Ad ogni cluster viene assegnato un colore diverso e ogni colore identifica un diverso raggruppamento semantico. In generale, l'obiettivo del clustering è quello di ottenere che gli oggetti di ogni cluster siano il più possibile simili tra loro, o comunque che la loro correlazione sia più alta rispetto a quella con oggetti di cluster diversi.
 \\ \\
-L'algoritmo di clustering utilizzato in questa tesi e che verrà ora descritto, è una versione migliorata di uno dei più noti algoritmi in letteratura, cioè K-means++, proposto da Arthur et. al in\cite{arthur}.
+L'algoritmo di clustering utilizzato in questa tesi è K-means++, proposto da Arthur et. al in\cite{arthur}, ed è una versione migliorata di uno dei più noti algoritmi in letteratura, K-means. Prima verrà quindi presentato K-means, per poi passare alla variante K-means++.
 
 \subsubsection{K-means}
-K-means è un tipo di algoritmo \textit{prototype-based}, cioè basato sul concetto di prototipo, che è un elemento che rappresenta un cluster. Infatti, un cluster è una collezione di oggetti in cui ogni oggetto è più simile al prototipo di quel cluster rispetto ai prototipi di altri cluster. K-means definisce il prototipo in termini di centroide, spesso inteso come elemento medio di un gruppo di punti
+K-means è un tipo di algoritmo \textit{prototype-based}, cioè basato sul concetto di prototipo, che è l'elemento più rappresentativo di un cluster. Infatti, un cluster è una collezione di oggetti in cui ogni oggetto è più simile al prototipo del rispettivo cluster piuttosto che ai prototipi di altri cluster. K-means definisce il prototipo in termini di centroide, tipicamente inteso come elemento medio di un insieme di punti.
 
-La tecnica di clustering definita dal K-means è piuttosto semplice e intuitiva. In generale, dato un intero $K>0$ e un insieme di $n$ oggetti in un dataset $\chi$, si vogliono scegliere $K$ centroidi, tali da minimizzare la funzione obiettivo $\phi = \sum\limits_{i=1}^K \sum\nolimits_{x \in C_{i}} dist(c_{i},x) $, dove $C_{i}$ è l'i-esimo cluster e $dist(c_{i},x)$ è una qualche misura di prossimità tra il generico elemento $x \in C_{i} $ e il centroide dell'i-esimo cluster $C_{i}$. In pratica, ciò che si vuole ottenere, sono $k$ cluster in cui gli oggetti appartenenti ad ogni cluster siano il più possibile simili tra loro.
+La tecnica di clustering definita dal K-means è piuttosto semplice e intuitiva, oltre ad essere veloce, sebbene non ci sono garanzie riguardo l'accuratezzza del risultato. In generale, dato un intero $K>0$ e un insieme di $n$ oggetti di un dataset $\chi$, si vogliono scegliere $K$ centroidi, tali da minimizzare (o massimizzare) la funzione obiettivo $\phi = \sum\limits_{i=1}^K \sum\nolimits_{x \in C_{i}} dist(c_{i},x) $, dove $C_{i}$ è l'i-esimo cluster e $dist(c_{i},x)$ è una qualche misura di prossimità tra il generico elemento $x \in C_{i} $ e il centroide dell'i-esimo cluster $C_{i}$. In pratica, ciò che si vuole ottenere, sono $k$ cluster in cui gli oggetti appartenenti ad ogni cluster siano il più possibile simili tra loro. 
 \\ \\
-La procedura base è la seguente: 
+L'ottimizzazione della funzione obiettivo è un problema NP-completo, per cui l'approccio comunemente adottato prevede le seguenti fasi, che fanno convergere l'algoritmo ad una soluzione locale (figura \ref{fig:kmeans_ex}): 
 \begin{enumerate}
 \item Si scelgono $K$ centroidi $C=\{c_{1},...,c_{k}\}$.
-\item Ogni elemento $x \in \chi$ viene associato al centroide più vicino. Ogni collezione di elementi associata a $c_{i}, i \in \{1,...,k\}$ forma un cluster.
+\item Ogni elemento $x \in \chi$ viene associato al centroide più vicino. Ogni collezione di elementi associata a $c_{i}, i \in \{1,...,k\}$, forma un cluster.
 \item Si aggiorna il centroide di ogni cluster.
-\item I passi 2 e 3 vengono eseguiti iterativamente finchè non ci sono ulteriori variazioni dei centroidi.
+\item I passi 2 e 3 vengono eseguiti iterativamente finchè non ci sono ulteriori variazioni nell'insieme dei centroidi.
 \end{enumerate}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.6]{img/wc_dinamiche/kmeans_ex.png}}
+\caption[K-means: esempio di esecuzione dell'algoritmo. In questo caso si ottengono $K=3$ cluster.]{K-means: esempio di esecuzione dell'algoritmo\cite{tan}. In questo caso si ottengono $K=3$ cluster.}
+\label{fig:kmeans_ex}
+\end{figure}
+Spesso i centroidi iniziali vengono selezionati in modo randomico, ma è possibile seguire diversi approcci. In ogni caso, supponendo di voler minimizzare la funzione obiettivo, l'idea dell'algoritmo è quella di decrementare, ad ogni esecuzione, il valore della funzione $\phi$, mediante i passi 2 e 3, finchè non vengono osservate variazioni nei centroidi. Infatti, $\phi$ è una funzione monotona decrescente, per cui ad ogni esecuzione il suo valore al massimo rimane invariato. Dal momento che ci sono $k^n$ raggruppamenti possibili, l'esecuzione dell'algoritmo termina sempre.
 
-Spesso i centroidi iniziali vengono scelti in modo randomico, ma sono possibili diverse scelte. In ogni caso, l'idea dell'algoritmo è quella di minimizzare, ad ogni esecuzione, la funzione $\phi$, tramite i passi 2 e 3 (i quali garantiscono il decremento di $\phi$), finchè non vengono osservate variazioni nei centroidi. Quando l'algoritmo termina, i centroidi dovrebbero aver identificato i raggruppamenti naturali degli elementi del dataset.
-
-L'obiettivo dell'algoritmo, come detto, è quello di minimizzare la funzione obiettivo $\phi$. Tale funzione, misura la qualità del clustering tramite il calcolo della prossimità (o similarità) tra il centroide $c_{i}$ e gli elementi del cluster $C_{i}$. Solitamente, i punti fanno parte di uno spazio $n$-dimensionale e come misura di prossimità si utilizza la distanza euclidea. Ad ogni modo, ci sono diverse possibilità per la scelta della misura di prossimità, come suggerito in\cite{tan}. 
-
+L'obiettivo dell'algoritmo, come detto, è quello di minimizzare (massimizzare) la funzione obiettivo $\phi$. Tale funzione, misura la qualità del clustering tramite il calcolo della prossimità (similarità) tra il centroide $c_{i}$ e gli elementi del cluster $C_{i}$. Solitamente, i punti fanno parte di uno spazio $n$-dimensionale e come misura di prossimità si utilizza la distanza euclidea. Ad ogni modo, ci sono diverse possibilità per la scelta della misura di prossimità, come indicato in tabella \ref{tab:prox_kmeans}\cite{tan}. 
+\begin{table}[!htbp]
+\centering
+\renewcommand\arraystretch{1.4}
+\begin{tabular}{|c|c|p{5cm}|}
+\hline
+\textbf{Funzione di prossimità} &  \textbf{Centroide} & \textbf{Funzione obiettivo} \\
+\hline
+Manhattan & mediana & Minimizzare la somma delle distanze di ogni oggetto dal centroide del suo cluster \\
+\hline
+Euclidea & media & Minimizzare la somma delle distanze (al quadrato) di ogni oggetto dal centroide del suo cluster \\
+\hline
+Similarità (coseno, Jaccard...) & media & Massimizzare (minimizzare) la similarità (dissimilarità) di ogni oggetto con il centroide del cluster di appartenenza  \\
+\hline
+Divergenza di Bregman & media & Minimizzare la somma della divergenza di Bregman di ogni oggetto con il centroide del cluster di appartenenza \\
+\hline
+\end{tabular}
+\caption{K-means: scelte comuni per le misure di prossimità.}
+\label{tab:prox_kmeans}
+\end{table}
+\vspace{0.5cm}
 \subsubsection{K-means\texorpdfstring{++}{}}
-La differenza principale tra K-means++ e il K-means classico consiste nell'inizializzazione dell'algoritmo, ovvero nella scelta dei $K$ centroidi iniziali. La successione dei passi, infatti, è la seguente: 
+La differenza principale tra il K-means++ e il K-means classico consiste nell'inizializzazione dell'algoritmo, ovvero nella scelta dei $K$ centroidi iniziali, da cui dipende la qualità del clustering finale. La fase di inizializzazione, infatti, consiste di diversi passaggi di seguito esposti: 
 \begin{enumerate}
 \item Si sceglie il primo centroide $c_{1}$ in modo casuale tra tutti i punti (nel nostro caso le parole).
-\item Per ogni altro elemento del dataset, $x \in \chi$, si calcola la distanza $dist(x,c_{i})$ tra $x$ e il centroide più vicino tra quelli già selezionati.
-\item Un elemento generico $x$ viene quindi scelto come centroide con probabilità pari a $\frac{dist(x,c_{i})^2}{\sum\nolimits_{x \in \chi} dist(x,c_{i})^2} $.
-\item Si ripetono gli step 2 e 3 finchè non vengono scelti $k$ centroidi.
-\item Avendo raggiunto un insieme di $K$ centroidi, si può procedere con il K-means classico.
+\item Per ogni altro elemento del dataset, $x \in \chi$, si calcola la distanza $dist(x,c_{i})$ tra $x$ e il centroide più vicino $c_{i}$ tra quelli già selezionati.
+\item Un elemento generico $x$ può quindi diventare un centroide con probabilità pari a $\frac{dist(x,c_{i})^2}{\sum\nolimits_{x \in \chi} dist(x,c_{i})^2} $.
+\item Si ripetono gli step 2 e 3 finchè non si hanno $K$ centroidi.
+\item Avendo ottenuto un insieme di $K$ centroidi, si può procedere con il K-means classico.
 \end{enumerate}
-Con l'inizializzazione suggerita da K-means++, l'algoritmo trova una soluzione in $O(log\;k)$ 
+Con l'inizializzazione suggerita dal K-means++, l'algoritmo trova una soluzione che è $O(log\;k)$-competitiva rispetto alla soluzione ottima fornita dal K-means classico. 
 
-Nel nostro caso, il dataset è costituito dall'insieme delle $n$ parole $W=\{w_{1},...,w_{n}\}$. Come misura di prossimità è stata utilizzata la distanza tra le parole ottenuta dalla matrice di similarità. Il clustering quindi non viene eseguito sul disegno finale, cioè in base al posizionamento sul piano delle parole, ma a partire dalla loro similarità. Ne segue che il raggruppamento delle parole è logico, non geometrico. La funzione obiettivo da minimizzare diventa dunque $\phi = \sum\limits_{i=1}^K \sum\nolimits_{w \in C_{i}} (1 - sim_{w,c_{i}})$. 
+Per quanto riguarda l'applicazione dell'algoritmo al nostro lavoro, si parte da un dataset costituito dall'insieme delle $n$ parole $W=\{w_{1},...,w_{n}\}$ estratte in fase di pre-processing. Come misura di prossimità è stata utilizzata la distanza tra le parole, ricavata dalla matrice di similarità. Il clustering quindi non viene eseguito sul disegno finale, cioè in base al posizionamento sul piano delle parole, ma a partire dalla loro similarità. Ne segue che il raggruppamento delle parole è logico, non geometrico (ovvero tramite la distanza euclidea, come spesso avviene). La funzione obiettivo da minimizzare diventa dunque $\phi = \sum\limits_{i=1}^K \sum\nolimits_{w \in C_{i}} (1 - sim_{w,c_{i}})$. 
 \section{Algoritmi di generazione di una word cloud semantica e dinamica}\label{wc_din:din_algs}
 Nel paragrafo precedente, è stata presentata la procedura, insieme agli algoritmi, necessaria a realizzare una word cloud semantica a partire da un testo in input. Tuttavia, tali algoritmi sono stati pensati per un singolo layout statico, cioè invariante nel tempo. L'obiettivo del nostro lavoro è invece quello di mostrare l'evoluzione della word cloud di un documento. A tal fine, vengono create diverse word cloud del testo ad intervalli regolari. Per passare da un layout al successivo in modo dinamico, è stata applicata una semplice tecnica di \textit{morphing}. La dinamicità, come vedremo meglio dopo, dipende dallo stato delle parole, poichè esse possono apparire, scomparire o rimanere nel passaggio da una word cloud ad un'altra. Ciò significa che bisogna tener conto di diversi aspetti: variazione della posizione delle parole, variazione delle dimensioni delle parole in base al punteggio via via ottenuto e variazione dei colori. Tuttavia, conferire dinamicità comporta alcune problematiche: 
 \begin{itemize}

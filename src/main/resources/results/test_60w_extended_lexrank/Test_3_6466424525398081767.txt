@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: ExtendedJaccard
+Layout: CycleCover
+Words: 60
+Parameter a: 0.25 , parameter b: 0.75
+SpaceMetric BoundingBox: 0.5989852914065306
+SpaceMetric ConvexHull: 0.4677889008896009
+CombinationMetric: 0.780809522033039
+Single RunningTime: 43102925
+Total RunningTime: 172411701

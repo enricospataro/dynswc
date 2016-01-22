@@ -54,7 +54,7 @@ public class Manager {
 				}catch (Exception e){e.printStackTrace();}	
 			}
 			for(int j=0;j<cmValues.length;j++) {
-				createResult(a[j],cmValues[j]/n,smValue/n,singleRunningTime/n,runningTime/n);
+				createResult(a[j],cmValues[j]/n,bbValue/n,chValue/n,singleRunningTime/n,runningTime/n);
 			}
 	}
 	
@@ -81,7 +81,8 @@ public class Manager {
 	private static long singleRunningTime;
 	private static double cmValue;
 	private static double[] cmValues = {0.0,0.0,0.0,0.0,0.0};
-	private static double smValue; 
+	private static double bbValue; 
+	private static double chValue; 
 	private static long runningTime;
 	private long layoutRunningTime;
 	
@@ -105,7 +106,7 @@ public class Manager {
 		parts=4;
 		List<String> textParts=TextUtils.splitText(text,text.length()/parts);
 		
-		setRankingStrategy(new TFIDFRanking());
+		setRankingStrategy(new TFRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
@@ -116,8 +117,8 @@ public class Manager {
 		}
 
 		// 2 compute similarity of extracted words
-		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new StarForestStrategy());
+		setSimilarityStrategy(new ExtendedJaccardSimilarity());
+		setLayoutStrategy(new ContextPreservingStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -132,12 +133,12 @@ public class Manager {
 			layoutResults.add(layout(wordGraph));
 	        long endTime = System.nanoTime();
 	        layoutRunningTime += (endTime - startTime); 
-	        System.out.println(layoutRunningTime);
 		}
+//		System.out.println(layoutRunningTime);
 		// 3.5 execute test
 		test();
 		
-//		setFrames(100);
+//		setFrames(150);
 //		setMorphingStrategy(new SimpleMorphing(frames));
 //		
 //		// execute morphing between wordclouds
@@ -165,8 +166,8 @@ public class Manager {
 //		frameColorHandlers = new ArrayList<>();
 //		frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(0)));
 //		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
-		
-		// 4 visualize wordcloud
+//		
+//		// 4 visualize wordcloud
 //		visualize(wordGraph,frameResults,frameColorHandlers); 
 	}
 
@@ -176,21 +177,23 @@ public class Manager {
 			cmValues[i] += cm.getValue(wordGraphs,layoutResults);
 		}
 		SpaceMetric sm = new SpaceMetric(false);
-		smValue += sm.getValue(wordGraphs,layoutResults); //System.out.println("SP :"+smValue);
+		SpaceMetric sm2 = new SpaceMetric(true);
+		bbValue += sm.getValue(wordGraphs,layoutResults); //System.out.println("SP :"+smValue);
+		chValue += sm2.getValue(wordGraphs,layoutResults); 
 		runningTime += layoutRunningTime;
 		singleRunningTime += layoutRunningTime/parts;
 	}
 
-	private static void createResult(double a, double cmValue, double smValue,
+	private static void createResult(double a, double cmValue, double bbValue, double chValue,
 			long singleRunningTime,long runningTime) throws IOException {
 		File path = new File("src/main/resources/results");
-		File result = File.createTempFile("Test_4_",".txt",path);
+		File result = File.createTempFile("Test_3_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TFIDF" + "\r\n" + "Similarity: Jaccard"  + "\r\n" + "Layout: ContextPreserving" + "\r\n" +
-				"Cluster Similarity: Jaccard " + "\r\n");
+		bw.write("Ranking: TF" + "\r\n" + "Similarity: ExtendedJaccard"  + "\r\n" + "Layout: CPWCV" + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
 		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
-		bw.write("SpaceMetric: " + smValue + "\r\n");
+		bw.write("SpaceMetric BoundingBox: " + bbValue + "\r\n");
+		bw.write("SpaceMetric ConvexHull: " + chValue + "\r\n");
 		bw.write("CombinationMetric: " + cmValue + "\r\n");
 		bw.write("Single RunningTime: " + singleRunningTime + "\r\n");
 		bw.write("Total RunningTime: " + runningTime + "\r\n");

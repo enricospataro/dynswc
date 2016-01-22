@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: ExtendedJaccard
+Layout: StarForest
+Words: 40
+Parameter a: 1.0 , parameter b: 0.0
+SpaceMetric BoundingBox: 0.59809892998685
+SpaceMetric ConvexHull: 0.46811637187271293
+CombinationMetric: 0.7528149622142541
+Single RunningTime: 146023668
+Total RunningTime: 584094674

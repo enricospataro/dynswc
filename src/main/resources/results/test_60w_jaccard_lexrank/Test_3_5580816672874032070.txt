@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: Jaccard
+Layout: StarForest
+Cluster Similarity: Jaccard 
+Words: 60
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric: 0.5953816430308335
+CombinationMetric: 0.7723904693716347
+Single RunningTime: 213171240
+Total RunningTime: 852684961

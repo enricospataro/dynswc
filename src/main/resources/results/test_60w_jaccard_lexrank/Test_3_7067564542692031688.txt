@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: Jaccard
+Layout: CycleCover
+Cluster Similarity: Jaccard 
+Words: 60
+Parameter a: 0.0 , parameter b: 1.0
+SpaceMetric: 0.5974896814909463
+CombinationMetric: 0.7861862877019407
+Single RunningTime: 40497483
+Total RunningTime: 161989937

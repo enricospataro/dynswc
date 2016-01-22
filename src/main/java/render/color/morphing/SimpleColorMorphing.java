@@ -75,7 +75,7 @@ public class SimpleColorMorphing implements ColorMorphingStrategy{
 				int oldGreenB = colorSequence[j].getGreen();
 				int oldBlueB = colorSequence[j].getBlue();
 				
-				int r = checkColor(iter,oldRedA,oldRedB);
+				int r = checkColor(iter,oldRedA,oldRedB); 
 				int g = checkColor(iter,oldGreenA,oldGreenB);
 				int b = checkColor(iter,oldBlueA,oldBlueB);	
 				

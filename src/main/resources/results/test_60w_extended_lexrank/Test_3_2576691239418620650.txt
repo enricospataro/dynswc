@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: ExtendedJaccard
+Layout: CPWCV
+Words: 60
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric BoundingBox: 0.657416358878879
+SpaceMetric ConvexHull: 0.5323513358667041
+CombinationMetric: 0.7990559743151205
+Single RunningTime: 45668714
+Total RunningTime: 182674860

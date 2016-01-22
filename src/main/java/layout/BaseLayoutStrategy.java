@@ -42,8 +42,8 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
         this.wordPositions=new ArrayList<Rectangle>(words.size());
         this.wordPositionsMap=new HashMap<>();  
 
-        execute();    
-
+        execute(); 
+        
         lastResult = createResult();
         return lastResult;
     }

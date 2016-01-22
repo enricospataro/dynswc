@@ -1,0 +1,10 @@
+Ranking: TF
+Similarity: ExtendedJaccard
+Layout: CycleCover
+Words: 40
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric BoundingBox: 0.6007710028585704
+SpaceMetric ConvexHull: 0.4756580483592922
+CombinationMetric: 0.7869579996546033
+Single RunningTime: 14397027
+Total RunningTime: 57588111

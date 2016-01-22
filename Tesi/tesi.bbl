@@ -3,6 +3,11 @@
 \bibitem{flickr}
 {Flickr: photo sharing website}, {\texttt{http://www.flickr.com/photos/tags}}.
 
+\bibitem{Deutsch}
+Stephanie Deutsch, Johann Schrammel, and Manfred Tscheligi.
+\newblock Comparing different layouts of tag clouds: Findings on visual
+  perception.
+
 \bibitem{halvey}
 Martin~J. Halvey and Mark~T. Keane.
 \newblock An assessment of tag presentation techniques.
@@ -43,11 +48,6 @@ Christopher Collins, Fernanda~B. Viegas, and Martin Wattenberg.
 Nan Cao, Jimeng Sun, Yu-Ru Lin, David Gotz, Shixia Liu, and Huamin Qu.
 \newblock Facetatlas: Multifaceted visualization for rich text corpora.
 \newblock {\em IEEE Trans. Vis. Comput. Graph.}, 16(6):1172--1181, 2010.
-
-\bibitem{Deutsch}
-Stephanie Deutsch, Johann Schrammel, and Manfred Tscheligi.
-\newblock Comparing different layouts of tag clouds: Findings on visual
-  perception.
 
 \bibitem{gambette}
 Philippe Gambette and Jean V{\'e}ronis.
@@ -126,6 +126,12 @@ L.~Page, S.~Brin, R.~Motwani, and T.~Winograd.
 \newblock The pagerank citation ranking: Bringing order to the web.
 \newblock In {\em Proceedings of the 7th International World Wide Web
   Conference}, pages 161--172, Brisbane, Australia, 1998.
+
+\bibitem{delaunay}
+B.~Delaunay.
+\newblock {Sur la sphere vide}.
+\newblock {\em Izv. Akad. Nauk SSSR, Otdelenie Matematicheskii i Estestvennyka
+  Nauk}, 7:793--800, 1934.
 
 \bibitem{ibarra}
 Oscar~H. Ibarra and Chul~E. Kim.

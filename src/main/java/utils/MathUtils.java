@@ -124,5 +124,6 @@ public class MathUtils {
         double s = 0.05;
         double d = -Math.log((1.0 - s) * similarity + s);
         return Math.max(d,0.0);
+//        return 1-similarity;
     }
 }

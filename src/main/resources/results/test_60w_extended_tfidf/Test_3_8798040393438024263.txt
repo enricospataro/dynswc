@@ -1,0 +1,10 @@
+Ranking: TFIDF
+Similarity: ExtendedJaccard
+Layout: CPWCV
+Words: 60
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric BoundingBox: 0.6446003676979749
+SpaceMetric ConvexHull: 0.5215327503282541
+CombinationMetric: 0.8384326080943718
+Single RunningTime: 54754666
+Total RunningTime: 219018667

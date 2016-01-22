@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: CycleCover
+Words: 40
+Parameter a: 0.75 , parameter b: 0.25
+SpaceMetric BoundingBox: 0.5956749589663248
+SpaceMetric ConvexHull: 0.4685144614036082
+CombinationMetric: 0.7392865446592171
+Single RunningTime: 14814751
+Total RunningTime: 59259007

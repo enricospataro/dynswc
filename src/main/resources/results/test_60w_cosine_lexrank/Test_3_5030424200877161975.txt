@@ -1,0 +1,11 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: CycleCover
+Cluster Similarity: Jaccard 
+Words: 60
+Parameter a: 0.75 , parameter b: 0.25
+SpaceMetric BoundingBox: 0.6010204942726787
+SpaceMetric ConvexHull: 0.46865530452497356
+CombinationMetric: 0.7332825451666485
+Single RunningTime: 42217347
+Total RunningTime: 168869390

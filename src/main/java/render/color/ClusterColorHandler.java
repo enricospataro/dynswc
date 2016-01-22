@@ -59,7 +59,8 @@ public class ClusterColorHandler implements ColorHandler {
 		
 		similarityMap=clusterSimilarity.computeSimilarity(prevResult,clustering);
 		computeBestPairs(bestPairs);
-
+		
+		// adds the missing pairs
 		if(k_p<k) {
 			int length = colorSequence.length;
 			List<Boolean> usedIndex1 = new ArrayList<>(Collections.nCopies(length+1,false));		
@@ -75,7 +76,7 @@ public class ClusterColorHandler implements ColorHandler {
 				new_j = computeNewIndex(usedIndex2,new_j);
 				usedIndex1.set(new_i,true);
 				usedIndex2.set(new_j,true);
-				// adds the missing pairs
+				
 				bestPairs.add(new ClusterPair(new_i,new_j));
 			}
 		}

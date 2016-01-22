@@ -1,0 +1,10 @@
+Ranking: TFIDF
+Similarity: Cosine
+Layout: CycleCover
+Cluster Similarity: Jaccard 
+Words: 20
+Parameter a: 0.0 , parameter b: 1.0
+SpaceMetric: 0.5957808753838748
+CombinationMetric: 0.755283761407949
+Single RunningTime: 3599607
+Total RunningTime: 14398430

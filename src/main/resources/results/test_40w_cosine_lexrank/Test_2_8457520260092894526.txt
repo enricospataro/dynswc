@@ -1,0 +1,10 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: CPWCV
+Words: 40
+Parameter a: 0.0 , parameter b: 1.0
+SpaceMetric BoundingBox: 0.6706415948874426
+SpaceMetric ConvexHull: 0.5483514366025536
+CombinationMetric: 0.7981369494986773
+Single RunningTime: 14595961
+Total RunningTime: 58383846

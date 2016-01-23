@@ -111,14 +111,14 @@ public class Manager {
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
 			t=t + " " +textParts.get(i);
-			setWords(60);
+			setWords(40);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}
 
 		// 2 compute similarity of extracted words
-		setSimilarityStrategy(new ExtendedJaccardSimilarity());
-		setLayoutStrategy(new ContextPreservingStrategy());
+		setSimilarityStrategy(new CosineSimilarity());
+		setLayoutStrategy(new CycleCoverStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -187,9 +187,9 @@ public class Manager {
 	private static void createResult(double a, double cmValue, double bbValue, double chValue,
 			long singleRunningTime,long runningTime) throws IOException {
 		File path = new File("src/main/resources/results");
-		File result = File.createTempFile("Test_3_",".txt",path);
+		File result = File.createTempFile("Test_2_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TF" + "\r\n" + "Similarity: ExtendedJaccard"  + "\r\n" + "Layout: CPWCV" + "\r\n");
+		bw.write("Ranking: TF" + "\r\n" + "Similarity: Cosine"  + "\r\n" + "Layout: CycleCover" + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
 		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
 		bw.write("SpaceMetric BoundingBox: " + bbValue + "\r\n");

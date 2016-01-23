@@ -14,8 +14,8 @@
 \contentsline {figure}{\numberline {3.5}{\ignorespaces K-means: esempio di esecuzione dell'algoritmo. In questo caso si ottengono $K=3$ cluster.}}{23}{figure.3.5}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k}$ ma non in $\Gamma ^{k-1}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{28}{figure.3.6}
 \contentsline {figure}{\numberline {3.7}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k-1}$ ma non in $\Gamma ^{k}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{28}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Morphing delle parole comuni a $\Gamma _{i}^{k-1}$ e $\Gamma _{i}^{k}$.}}{29}{figure.3.8}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{29}{figure.3.8}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{29}{figure.3.8}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{29}{figure.3.8}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{29}{figure.3.8}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Morphing delle parole comuni a $\Gamma _{i}^{k-1}$ e $\Gamma _{i}^{k}$.}}{30}{figure.3.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{30}{figure.3.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{30}{figure.3.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{30}{figure.3.8}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{30}{figure.3.8}

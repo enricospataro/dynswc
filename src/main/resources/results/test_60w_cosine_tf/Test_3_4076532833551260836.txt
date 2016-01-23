@@ -1,0 +1,10 @@
+Ranking: TF
+Similarity: Cosine
+Layout: CycleCover
+Words: 60
+Parameter a: 0.0 , parameter b: 1.0
+SpaceMetric BoundingBox: 0.6125448937727421
+SpaceMetric ConvexHull: 0.4819973471071345
+CombinationMetric: 0.7875489755950655
+Single RunningTime: 41785832
+Total RunningTime: 167143332

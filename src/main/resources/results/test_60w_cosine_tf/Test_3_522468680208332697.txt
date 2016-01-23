@@ -1,0 +1,10 @@
+Ranking: TF
+Similarity: Cosine
+Layout: CPWCV
+Words: 60
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric BoundingBox: 0.6650588842680645
+SpaceMetric ConvexHull: 0.5460921928091598
+CombinationMetric: 0.7812643505199448
+Single RunningTime: 45040305
+Total RunningTime: 180161223

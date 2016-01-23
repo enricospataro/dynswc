@@ -108,16 +108,10 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
     private void runForceDirected(LayoutResult lastResult) {
 
 		int numIterations = 0;
-//		doIteration(lastResult);
 		while(numIterations++ < TOTAL_ITERATIONS)  {
-	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration2: " + numIterations);
+//	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration2: " + numIterations);
 	        if(!doIteration(lastResult)) break;
-
-	        //cooling down the temperature (max allowed step is decreased)
-	        if(numIterations % 5 == 0) T *= 0.95;
 	    }
-//		new ForceDirectedOverlapRemoval<>(0.15).run(wordPositions);
-//	    new ForceDirectedUniformity<>(0.1).run(wordPositions);
 	}
 
 	/**

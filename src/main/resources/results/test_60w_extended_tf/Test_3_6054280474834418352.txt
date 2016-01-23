@@ -1,0 +1,10 @@
+Ranking: TF
+Similarity: ExtendedJaccard
+Layout: StarForest
+Words: 60
+Parameter a: 0.5 , parameter b: 0.5
+SpaceMetric BoundingBox: 0.6161051435302309
+SpaceMetric ConvexHull: 0.48644986323545397
+CombinationMetric: 0.7850623261930546
+Single RunningTime: 238229578
+Total RunningTime: 952918314

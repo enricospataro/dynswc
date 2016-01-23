@@ -1,0 +1,10 @@
+Ranking: TF
+Similarity: Cosine
+Layout: StarForest
+Words: 60
+Parameter a: 0.25 , parameter b: 0.75
+SpaceMetric BoundingBox: 0.6152865166708267
+SpaceMetric ConvexHull: 0.4878045638771762
+CombinationMetric: 0.8022405391641535
+Single RunningTime: 382019718
+Total RunningTime: 1528078875

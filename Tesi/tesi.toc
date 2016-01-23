@@ -32,5 +32,5 @@
 \contentsline {subsubsection}{K-means++}{24}{section*.17}
 \contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{25}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{26}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{27}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{27}{subsection.3.3.3}

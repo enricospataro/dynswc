@@ -38,7 +38,7 @@ public class Document {
 		this.stopWords=stopWords;
 	}
     
-	public void setWords(List<Word> list) {this.words=list;}
+	public void setWords(List<Word> words) {this.words=words;}
     public List<Word> getWords() {return words;}
 
 	public void parse() {
@@ -103,7 +103,7 @@ public class Document {
         Collections.sort(words,Comparator.reverseOrder());       
         if(words.size()>maxWords) words=words.subList(0,maxWords);
         Manager.setWords(words.size());
-        rescaleScores();
+        rescaleScores(5);
     }
     /**
      * scaling weights from 1 to 5

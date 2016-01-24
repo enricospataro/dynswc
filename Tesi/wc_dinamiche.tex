@@ -279,7 +279,7 @@ La differenza principale tra il K-means++ e il K-means classico consiste nell'in
 \end{enumerate}
 Con l'inizializzazione suggerita dalla tecnica K-means++, l'algoritmo riesce a trovare una soluzione che è $O(log\;k)$-competitiva rispetto alla soluzione ottima fornita dal K-means classico. 
 
-Per quanto riguarda l'applicazione dell'algoritmo al nostro lavoro, si parte da un dataset costituito dall'insieme delle $n$ parole $W=\{w_{1},...,w_{n}\}$, estratte in fase di pre-processing. Come misura di prossimità è stata utilizzata la distanza semantica tra le parole ricavata dalla matrice di similarità. Il clustering quindi non viene eseguito sul disegno finale, cioè in base al posizionamento sul piano delle parole, ma a partire dalla loro similarità. Ne segue che il raggruppamento delle parole è logico, non geometrico (ovvero tramite la distanza euclidea, come spesso avviene). La funzione obiettivo da minimizzare diventa dunque 
+Per quanto riguarda l'applicazione dell'algoritmo al nostro lavoro, si parte da un dataset costituito dall'insieme delle $n$ parole $W=\{w_{1},...,w_{n}\}$, estratte in fase di pre-processing. Come misura di prossimità è stata utilizzata la distanza semantica tra le parole ricavata dalla matrice di similarità. Il clustering quindi non viene eseguito sul disegno finale, cioè in base al posizionamento sul piano delle keyword, ma a partire dalla loro similarità. Ne segue che il raggruppamento delle parole è logico, non geometrico (ovvero tramite la distanza euclidea, come spesso avviene). La funzione obiettivo da minimizzare diventa dunque 
 \begin{equation}\label{kmeansplusplus_formula}
 \phi = \sum\limits_{i=1}^K \sum\nolimits_{w \in C_{i}} (1 - sim_{w,c_{i}})
 \end{equation}

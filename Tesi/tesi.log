@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  23 JAN 2016 15:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  24 JAN 2016 21:12
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -523,7 +523,7 @@ LaTeX Info: Redefining \nameref on input line 38.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/logo.png, id=83, 269.3262pt x 269.3262pt>
+<img/logo.png, id=95, 269.3262pt x 269.3262pt>
 File: img/logo.png Graphic file (type png)
  <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 43.
@@ -567,14 +567,14 @@ Capitolo 1.
 
 ]
 Capitolo 2.
-<img/wc_statiche/obama_wc.png, id=174, 837.1275pt x 367.3725pt>
+<img/wc_statiche/obama_wc.png, id=197, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/obama_wc.png Graphic file (type png)
 
 <use img/wc_statiche/obama_wc.png>
 Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 19.
 (pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
 
-<img/wc_statiche/romney_wc.png, id=175, 837.1275pt x 367.3725pt>
+<img/wc_statiche/romney_wc.png, id=198, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/romney_wc.png Graphic file (type png)
 
 <use img/wc_statiche/romney_wc.png>
@@ -586,7 +586,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 23--23
 tra i can-di-da-ti al-la pre-si-den-za
  []
 
-<img/wc_statiche/mattarella_wc.png, id=176, 740.7675pt x 463.7325pt>
+<img/wc_statiche/mattarella_wc.png, id=199, 740.7675pt x 463.7325pt>
 File: img/wc_statiche/mattarella_wc.png Graphic file (type png)
 
 <use img/wc_statiche/mattarella_wc.png>
@@ -640,7 +640,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-<img/wc_dinamiche/morphing_wc.png, id=243, 738.96075pt x 522.753pt>
+<img/wc_dinamiche/morphing_wc.png, id=266, 738.96075pt x 522.753pt>
 File: img/wc_dinamiche/morphing_wc.png Graphic file (type png)
 
 <use img/wc_dinamiche/morphing_wc.png>
@@ -657,7 +657,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morphing_wc.png>]
-<img/wc_dinamiche/creation_steps.png, id=263, 649.2255pt x 115.02975pt>
+<img/wc_dinamiche/creation_steps.png, id=286, 649.2255pt x 115.02975pt>
 File: img/wc_dinamiche/creation_steps.png Graphic file (type png)
 
 <use img/wc_dinamiche/creation_steps.png>
@@ -740,7 +740,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] <img/wc_dinamiche/starforest.png, id=340, 649.2255pt x 148.1535pt>
+[19] <img/wc_dinamiche/starforest.png, id=363, 649.2255pt x 148.1535pt>
 File: img/wc_dinamiche/starforest.png Graphic file (type png)
 
 <use img/wc_dinamiche/starforest.png>
@@ -755,7 +755,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/starforest.png>]
-<img/wc_dinamiche/cyclecover.png, id=353, 505.28775pt x 187.29974pt>
+<img/wc_dinamiche/cyclecover.png, id=376, 505.28775pt x 187.29974pt>
 File: img/wc_dinamiche/cyclecover.png Graphic file (type png)
 
 <use img/wc_dinamiche/cyclecover.png>
@@ -785,7 +785,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22] <img/wc_dinamiche/kmeans_ex.png, id=369, 676.929pt x 416.15475pt>
+[22] <img/wc_dinamiche/kmeans_ex.png, id=392, 676.929pt x 416.15475pt>
 File: img/wc_dinamiche/kmeans_ex.png Graphic file (type png)
 
 <use img/wc_dinamiche/kmeans_ex.png>
@@ -849,14 +849,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27] <img/wc_dinamiche/new_word.png, id=413, 388.3308pt x 106.4778pt>
+[27] <img/wc_dinamiche/new_word.png, id=436, 388.3308pt x 106.4778pt>
 File: img/wc_dinamiche/new_word.png Graphic file (type png)
 
 <use img/wc_dinamiche/new_word.png>
 Package pdftex.def Info: img/wc_dinamiche/new_word.png used on input line 336.
 (pdftex.def)             Requested size: 388.32983pt x 106.47752pt.
 
-<img/wc_dinamiche/disapp_word.png, id=415, 391.2216pt x 106.4778pt>
+<img/wc_dinamiche/disapp_word.png, id=438, 391.2216pt x 106.4778pt>
 File: img/wc_dinamiche/disapp_word.png Graphic file (type png)
 
 <use img/wc_dinamiche/disapp_word.png>
@@ -872,28 +872,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [28 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/new_word.png> <C:/Use
 rs/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/disapp_word.png>]
-<img/wc_dinamiche/morph_4.png, id=425, 279.9258pt x 212.9556pt>
+<img/wc_dinamiche/morph_4.png, id=448, 279.9258pt x 212.9556pt>
 File: img/wc_dinamiche/morph_4.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_4.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_4.png used on input line 363.
 (pdftex.def)             Requested size: 195.94672pt x 149.06789pt.
 
-<img/wc_dinamiche/morph_1.png, id=426, 282.3348pt x 212.9556pt>
+<img/wc_dinamiche/morph_1.png, id=449, 282.3348pt x 212.9556pt>
 File: img/wc_dinamiche/morph_1.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_1.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_1.png used on input line 366.
 (pdftex.def)             Requested size: 197.633pt x 149.06789pt.
 
-<img/wc_dinamiche/morph_3.png, id=427, 282.8166pt x 208.6194pt>
+<img/wc_dinamiche/morph_3.png, id=450, 282.8166pt x 208.6194pt>
 File: img/wc_dinamiche/morph_3.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_3.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_3.png used on input line 370.
 (pdftex.def)             Requested size: 197.97026pt x 146.03258pt.
 
-<img/wc_dinamiche/morph_2.png, id=428, 278.4804pt x 208.6194pt>
+<img/wc_dinamiche/morph_2.png, id=451, 278.4804pt x 208.6194pt>
 File: img/wc_dinamiche/morph_2.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_2.png>
@@ -917,13 +917,76 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 s/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morph_1.png> <C:/Users/Enrico/Doc
 uments/tesi/Tesi/img/wc_dinamiche/morph_3.png> <C:/Users/Enrico/Documents/tesi/
 Tesi/img/wc_dinamiche/morph_2.png>])
+(C:\Users\Enrico\Documents\tesi\Tesi\implementazione_sperimentazione.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31] (C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [32
+[31]
+Capitolo 4.
+<img/impl_test/class_doc.png, id=479, 658.25925pt x 260.172pt>
+File: img/impl_test/class_doc.png Graphic file (type png)
+
+<use img/impl_test/class_doc.png>
+Package pdftex.def Info: img/impl_test/class_doc.png used on input line 17.
+(pdftex.def)             Requested size: 394.9586pt x 156.10439pt.
+
+<img/impl_test/rank_strategy.png, id=482, 567.92175pt x 314.3745pt>
+File: img/impl_test/rank_strategy.png Graphic file (type png)
+
+<use img/impl_test/rank_strategy.png>
+Package pdftex.def Info: img/impl_test/rank_strategy.png used on input line 24.
+
+(pdftex.def)             Requested size: 397.54251pt x 220.06064pt.
+
+Underfull \hbox (badness 1742) in paragraph at lines 25--25
+[]\OT1/cmr/m/n/10.95 Figura 4.2: []Classi coin-vol-te nel-l'e-stra-zio-ne del-l
+e pa-ro-le. Nel-l'im-ple-men-ta-zio-ne
+ []
+
+[32
+
+] <img/impl_test/class_word.png, id=490, 192.11775pt x 288.47775pt>
+File: img/impl_test/class_word.png Graphic file (type png)
+
+<use img/impl_test/class_word.png>
+Package pdftex.def Info: img/impl_test/class_word.png used on input line 32.
+(pdftex.def)             Requested size: 192.11728pt x 288.47704pt.
+
+<img/impl_test/simil_strategy.png, id=492, 648.62325pt x 364.9635pt>
+File: img/impl_test/simil_strategy.png Graphic file (type png)
+
+<use img/impl_test/simil_strategy.png>
+Package pdftex.def Info: img/impl_test/simil_strategy.png used on input line 40
+.
+(pdftex.def)             Requested size: 389.17694pt x 218.97978pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_doc.png> <C:/Users
+/Enrico/Documents/tesi/Tesi/img/impl_test/rank_strategy.png>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_word.png>]
+(C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/simil_strategy.png>]
+[36
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 101--103
@@ -936,8 +999,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[33])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+[]\OT1/cmr/m/n/10.95 Wikipedia, Bro-wn Cor-pus, con-sul-ta-to a Gen-na-io 2016,
+
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -945,19 +1014,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+[38]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
  (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 8033DE4DB2A86C386FFE3BF56F6AFDC6;1595.
+(rerunfilecheck)             Checksum: 56945C4AA91415402605790F70918CF3;1817.
  ) 
 Here is how much of TeX's memory you used:
- 8322 strings out of 493921
- 119995 string characters out of 3147280
- 224894 words of memory out of 3000000
- 11312 multiletter control sequences out of 15000+200000
+ 8371 strings out of 493921
+ 121072 string characters out of 3147280
+ 225339 words of memory out of 3000000
+ 11340 multiletter control sequences out of 15000+200000
  13616 words of font info for 48 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  33i,13n,43p,1301b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -978,9 +1047,9 @@ public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
 .pfb>
-Output written on tesi.pdf (35 pages, 1654928 bytes).
+Output written on tesi.pdf (39 pages, 1876310 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 150 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 616 PDF objects out of 1000 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
+ 280 words of extra memory for PDF output out of 10000 (max. 10000000)
 

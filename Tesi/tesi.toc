@@ -34,3 +34,6 @@
 \contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{26}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{27}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{27}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Implementazione e sperimentazione}{32}{chapter.4}
+\contentsline {section}{\numberline {4.1}Architettura del sistema}{32}{section.4.1}
+\contentsline {section}{\numberline {4.2}Risultati sperimentali}{34}{section.4.2}

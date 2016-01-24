@@ -35,12 +35,12 @@ public class Word implements Comparable<Word>, Cloneable{
     @Override
     public int hashCode() {return word.hashCode();}
     @Override
-    public boolean equals(Object o) {
-        if (!(o instanceof Word))return false;
-        return word.equals(((Word)o).word);
+    public boolean equals(Object w) {
+        if (!(w instanceof Word))return false;
+        return word.equals(((Word)w).word);
     }
-    public int compareTo(Word o) {
-        return Double.compare(score, o.score); }
+    public int compareTo(Word w) {
+        return Double.compare(score, w.score); }
 
     public String toString() {return stem;}
 

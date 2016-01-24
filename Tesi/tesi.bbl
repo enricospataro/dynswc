@@ -151,4 +151,13 @@ Pang-Ning Tan, Michael Steinbach, and Vipin Kumar.
 \newblock {\em Introduction to Data Mining, (First Edition)}.
 \newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2005.
 
+\bibitem{gof}
+Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
+\newblock {\em Design Patterns: Elements of Reusable Object-oriented Software}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 1995.
+
+\bibitem{wiki:browncorpus}
+{Wikipedia, Brown Corpus, consultato a Gennaio 2016},
+  {\texttt{http://it.wikipedia.org/wiki/brown\_corpus}}.
+
 \end{thebibliography}

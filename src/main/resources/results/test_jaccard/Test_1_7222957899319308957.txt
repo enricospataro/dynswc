@@ -1,0 +1,15 @@
+Ranking: Term Frequency
+Similarity: Jaccard
+Layout: CPWCV
+Words: 20
+DistortionMetric: 0.5404440074262287
+CoherenceMetric: 0.5440042068578965
+SpaceMetric BoundingBox: 0.657524907842115
+SpaceMetric ConvexHull: 0.5308132620201907
+Processing RunningTime: 54281665
+Simil RunningTime: 600198
+Layout RunningTime: 3873269
+Morphing RunningTime: 491031
+Clustering RunningTime: 2856426
+ColorMorphing RunningTime: 3208085
+UI RunningTime: 398282688

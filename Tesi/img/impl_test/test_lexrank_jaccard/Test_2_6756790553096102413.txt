@@ -1,0 +1,9 @@
+Ranking: LexRank
+Similarity: Jaccard
+Layout: CPWCV
+Words: 40
+DistortionMetric: 0.5506985533934541
+CoherenceMetric: 0.6250710970747543
+SpaceMetric BoundingBox: 0.6598766188318311
+SpaceMetric ConvexHull: 0.5360210486489169
+Single RunningTime: 15673149

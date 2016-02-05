@@ -7,5 +7,5 @@ public class ForceDirectedLayoutStrategy extends BaseLayoutStrategy {
 		// TODO Auto-generated method stub
 		
 	}
-
+	public String toString() {return "";}
 }

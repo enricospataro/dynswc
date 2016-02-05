@@ -1,0 +1,9 @@
+Ranking: Term Frequency
+Similarity: Extended Jaccard
+Layout: CycleCover
+Words: 20
+DistortionMetric: 0.6935789484185358
+CoherenceMetric: 0.8611612854365581
+SpaceMetric BoundingBox: 0.6049207484468394
+SpaceMetric ConvexHull: 0.48378223318583347
+Single RunningTime: 6165823

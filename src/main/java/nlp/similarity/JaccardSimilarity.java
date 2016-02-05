@@ -43,4 +43,5 @@ public class JaccardSimilarity extends BaseSimilarityStrategy {
 
 	@Override
 	protected Map<WordPair, Double> getSimilarity() {return similarityMap;}
+	public String toString() {return "Jaccard";}
 }

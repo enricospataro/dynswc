@@ -102,8 +102,8 @@ public class WordCloudRenderer {
       double sigmoid =  1/(1+Math.exp(-0.2*Manager.getWords()));
       scaleFactor = sigmoid*Math.min(panelWidth/(maxX-minX),panelHeight/(maxY-minY));
       
-      shiftX = -1*minX;
-      shiftY = -1*minY;
+//      shiftX = -1*minX;
+//      shiftY = -1*minY;
       shiftX = -1*minX + offset/scaleFactor;
       shiftY = -1*minY + offset/scaleFactor;
     }

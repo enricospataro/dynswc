@@ -64,4 +64,5 @@ public class LexRankRanking implements RankingStrategy {
 			}
 		return coocNumber;
 	}
+	public String toString() {return "LexRank";}
 }

@@ -1,0 +1,9 @@
+Ranking: Term Frequency
+Similarity: Cosine
+Layout: StarForest
+Words: 20
+DistortionMetric: 0.6130652317300171
+CoherenceMetric: 0.7064950878928731
+SpaceMetric BoundingBox: 0.6025511855975704
+SpaceMetric ConvexHull: 0.48227199294755513
+Single RunningTime: 109940220

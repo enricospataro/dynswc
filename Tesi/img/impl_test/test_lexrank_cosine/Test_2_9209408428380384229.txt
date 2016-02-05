@@ -1,0 +1,9 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: StarForest
+Words: 40
+DistortionMetric: 0.4911850340250264
+CoherenceMetric: 0.5874247242089091
+SpaceMetric BoundingBox: 0.6044151081334815
+SpaceMetric ConvexHull: 0.48147784358234647
+Single RunningTime: 213367576

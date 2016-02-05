@@ -1,0 +1,9 @@
+Ranking: LexRank
+Similarity: Jaccard
+Layout: StarForest
+Words: 20
+DistortionMetric: 0.6155669972579313
+CoherenceMetric: 0.7174165052533462
+SpaceMetric BoundingBox: 0.6017028793455302
+SpaceMetric ConvexHull: 0.47860997414850404
+Single RunningTime: 86175617

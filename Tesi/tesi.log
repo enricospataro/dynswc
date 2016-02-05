@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  24 JAN 2016 21:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  5 FEB 2016 18:15
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -394,6 +394,9 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \TX@cols=\count133
 \TX@ftn=\toks25
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip66
@@ -422,23 +425,104 @@ Package: cite 2015/02/27  v 5.5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen159
 )
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Info: Redefining \it@ocap on input line 38.
-LaTeX Info: Redefining \it@ccap on input line 38.
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count138
+\lst@gtempboxa=\box32
+\lst@token=\toks26
+\lst@length=\count139
+\lst@currlwidth=\dimen160
+\lst@column=\count140
+\lst@pos=\count141
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count142
+\lst@lineno=\count143
+\lst@maxwidth=\dimen163
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count144
+\lst@skipnumbers=\count145
+\lst@framebox=\box33
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count146
+\float@exts=\toks27
+\float@box=\box34
+\@float@everytoks=\toks28
+\@floatcapt=\box35
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count147
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count148
+\c@ALG@rem=\count149
+\c@ALG@nested=\count150
+\ALG@tlm=\skip72
+\ALG@thistlm=\skip73
+\c@ALG@Lnr=\count151
+\c@ALG@blocknr=\count152
+\c@ALG@storecount=\count153
+\c@ALG@tmpcounter=\count154
+\ALG@tmplength=\skip74
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux
+
+LaTeX Warning: Label `sm_tf_cosine_40' multiply defined.
+
+
+LaTeX Warning: Label `sm_tf_cosine_60' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Info: Redefining \it@ocap on input line 42.
+LaTeX Info: Redefining \it@ccap on input line 42.
 
 
 File italian.ldf warning: 
@@ -446,23 +530,23 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 38.
+italian.ldf    on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count138
-\scratchdimen=\dimen160
-\scratchbox=\box32
-\nofMPsegments=\count139
-\nofMParguments=\count140
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count141
-\MPscratchDim=\dimen161
-\MPnumerator=\count142
-\makeMPintoPDFobject=\count143
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count155
+\scratchdimen=\dimen164
+\scratchbox=\box36
+\nofMPsegments=\count156
+\nofMParguments=\count157
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen165
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
+\everyMPtoPDFconversion=\toks31
 )
-\AtBeginShipoutBox=\box33
+\AtBeginShipoutBox=\box37
  ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -471,7 +555,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 38.
+Package hyperref Info: Link coloring ON on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -479,11 +563,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count144
+\c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.out)
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.out)
@@ -523,10 +607,11 @@ LaTeX Info: Redefining \nameref on input line 38.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/logo.png, id=95, 269.3262pt x 269.3262pt>
+\c@lstlisting=\count162
+<img/logo.png, id=127, 269.3262pt x 269.3262pt>
 File: img/logo.png Graphic file (type png)
  <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 43.
+Package pdftex.def Info: img/logo.png used on input line 47.
 (pdftex.def)             Requested size: 170.71652pt x 170.72435pt.
  [1
 
@@ -536,89 +621,130 @@ Package pdftex.def Info: img/logo.png used on input line 43.
 ifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \newpage
+l.83 \newpage
               [1]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 87.
+less on input line 91.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 88.
+less on input line 92.
 
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.toc)
 \tf@toc=\write4
  [2
 
 ]
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.lof)
-\tf@lof=\write5
- [3
+(C:\Users\Enrico\Documents\tesi\Tesi\tesi.lof [3
 
 ]
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.lot)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4])
+\tf@lof=\write5
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] (C:\Users\Enrico\Documents\tesi\Tesi\tesi.lot)
 \tf@lot=\write6
 
-(C:\Users\Enrico\Documents\tesi\Tesi\cap1_introduzione.tex [4
+(C:\Users\Enrico\Documents\tesi\Tesi\cap1_introduzione.tex [6
 
 ]
 Capitolo 1.
-) (C:\Users\Enrico\Documents\tesi\Tesi\wc_statiche.tex [5
 
-]
-Capitolo 2.
-<img/wc_statiche/obama_wc.png, id=197, 837.1275pt x 367.3725pt>
-File: img/wc_statiche/obama_wc.png Graphic file (type png)
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
-<use img/wc_statiche/obama_wc.png>
-Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 19.
-(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
-
-<img/wc_statiche/romney_wc.png, id=198, 837.1275pt x 367.3725pt>
-File: img/wc_statiche/romney_wc.png Graphic file (type png)
-
-<use img/wc_statiche/romney_wc.png>
-Package pdftex.def Info: img/wc_statiche/romney_wc.png used on input line 22.
-(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
-
-Underfull \hbox (badness 1062) in paragraph at lines 23--23
-[]\OT1/cmr/m/n/10.95 Figura 2.1: []Due wor-d-cloud re-la-ti-ve ai di-bat-ti-ti 
-tra i can-di-da-ti al-la pre-si-den-za
  []
 
-<img/wc_statiche/mattarella_wc.png, id=199, 740.7675pt x 463.7325pt>
-File: img/wc_statiche/mattarella_wc.png Graphic file (type png)
-
-<use img/wc_statiche/mattarella_wc.png>
-Package pdftex.def Info: img/wc_statiche/mattarella_wc.png used on input line 2
-8.
-(pdftex.def)             Requested size: 407.42339pt x 255.05365pt.
- [6
-
-]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_statiche/obama_wc.png> <C:/Users
-/Enrico/Documents/tesi/Tesi/img/wc_statiche/romney_wc.png>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[8 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_statiche/mattarella_wc.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
-)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+ [7
+
+])
+(C:\Users\Enrico\Documents\tesi\Tesi\wc_statiche.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+Capitolo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+<img/wc_statiche/obama_wc.png, id=413, 837.1275pt x 367.3725pt>
+File: img/wc_statiche/obama_wc.png Graphic file (type png)
+
+<use img/wc_statiche/obama_wc.png>
+Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 17.
+(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
+
+<img/wc_statiche/romney_wc.png, id=414, 837.1275pt x 367.3725pt>
+File: img/wc_statiche/romney_wc.png Graphic file (type png)
+
+<use img/wc_statiche/romney_wc.png>
+Package pdftex.def Info: img/wc_statiche/romney_wc.png used on input line 20.
+(pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
+
+Underfull \hbox (badness 1062) in paragraph at lines 21--21
+[]\OT1/cmr/m/n/10.95 Figura 2.1: []Due wor-d-cloud re-la-ti-ve ai di-bat-ti-ti 
+tra i can-di-da-ti al-la pre-si-den-za
+ []
+
+<img/wc_statiche/mattarella_wc.png, id=415, 740.7675pt x 463.7325pt>
+File: img/wc_statiche/mattarella_wc.png Graphic file (type png)
+
+<use img/wc_statiche/mattarella_wc.png>
+Package pdftex.def Info: img/wc_statiche/mattarella_wc.png used on input line 2
+6.
+(pdftex.def)             Requested size: 407.42339pt x 255.05365pt.
+ [9
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.34 
+      <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_statiche/obama_wc.png> <C:/Us
+ers/Enrico/Documents/tesi/Tesi/img/wc_statiche/romney_wc.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.38 
+      <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_statiche/mattarella_wc.png>])
 (C:\Users\Enrico\Documents\tesi\Tesi\wc_dinamiche.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -626,28 +752,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9]
+[12]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[13]
 Capitolo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-<img/wc_dinamiche/morphing_wc.png, id=266, 738.96075pt x 522.753pt>
+<img/wc_dinamiche/morphing_wc.png, id=481, 738.96075pt x 522.753pt>
 File: img/wc_dinamiche/morphing_wc.png Graphic file (type png)
 
 <use img/wc_dinamiche/morphing_wc.png>
 Package pdftex.def Info: img/wc_dinamiche/morphing_wc.png used on input line 17
 .
 (pdftex.def)             Requested size: 406.42967pt x 287.51503pt.
- [11
+ [14
 
 ]
 
@@ -656,8 +782,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morphing_wc.png>]
-<img/wc_dinamiche/creation_steps.png, id=286, 649.2255pt x 115.02975pt>
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.23 \subsection
+                {Applicazioni} <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dina
+miche/morphing_wc.png>]
+<img/wc_dinamiche/creation_steps.png, id=500, 649.2255pt x 115.02975pt>
 File: img/wc_dinamiche/creation_steps.png Graphic file (type png)
 
 <use img/wc_dinamiche/creation_steps.png>
@@ -675,14 +808,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/creation_steps.png>]
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.42 \subsection
+                {Riferimenti teorici} <C:/Users/Enrico/Documents/tesi/Tesi/img/
+wc_dinamiche/creation_steps.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
@@ -693,14 +833,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[18]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16]
+[19pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.114 
+      ]
 Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
  []
@@ -711,7 +857,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[20]
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 144.
 
@@ -729,7 +875,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 175--178
 
  []
@@ -740,7 +886,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] <img/wc_dinamiche/starforest.png, id=363, 649.2255pt x 148.1535pt>
+[22] <img/wc_dinamiche/starforest.png, id=577, 649.2255pt x 148.1535pt>
 File: img/wc_dinamiche/starforest.png Graphic file (type png)
 
 <use img/wc_dinamiche/starforest.png>
@@ -754,8 +900,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/starforest.png>]
-<img/wc_dinamiche/cyclecover.png, id=376, 505.28775pt x 187.29974pt>
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.197 \begin{itemize}
+                      <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/sta
+rforest.png>]
+<img/wc_dinamiche/cyclecover.png, id=590, 505.28775pt x 187.29974pt>
 File: img/wc_dinamiche/cyclecover.png Graphic file (type png)
 
 <use img/wc_dinamiche/cyclecover.png>
@@ -769,7 +922,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/cyclecover.png>]
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.218 
+       <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/cyclecover.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 222--225
 
  []
@@ -785,7 +944,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22] <img/wc_dinamiche/kmeans_ex.png, id=392, 676.929pt x 416.15475pt>
+[25] <img/wc_dinamiche/kmeans_ex.png, id=607, 676.929pt x 416.15475pt>
 File: img/wc_dinamiche/kmeans_ex.png Graphic file (type png)
 
 <use img/wc_dinamiche/kmeans_ex.png>
@@ -803,21 +962,34 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/kmeans_ex.png>]
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.271 \subsubsection
+                    {K-means\texorpdfstring{++}{}}\label{clust:kplus} <C:/Users
+/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/kmeans_ex.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24]
+[27pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.279 \end{enumerate}
+                     ]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 294--299
 
  []
@@ -833,7 +1005,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26]
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 310--313
 
  []
@@ -849,14 +1021,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27] <img/wc_dinamiche/new_word.png, id=436, 388.3308pt x 106.4778pt>
+[30] <img/wc_dinamiche/new_word.png, id=651, 388.3308pt x 106.4778pt>
 File: img/wc_dinamiche/new_word.png Graphic file (type png)
 
 <use img/wc_dinamiche/new_word.png>
 Package pdftex.def Info: img/wc_dinamiche/new_word.png used on input line 336.
 (pdftex.def)             Requested size: 388.32983pt x 106.47752pt.
 
-<img/wc_dinamiche/disapp_word.png, id=438, 391.2216pt x 106.4778pt>
+<img/wc_dinamiche/disapp_word.png, id=653, 391.2216pt x 106.4778pt>
 File: img/wc_dinamiche/disapp_word.png Graphic file (type png)
 
 <use img/wc_dinamiche/disapp_word.png>
@@ -870,30 +1042,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/new_word.png> <C:/Use
-rs/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/disapp_word.png>]
-<img/wc_dinamiche/morph_4.png, id=448, 279.9258pt x 212.9556pt>
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.348 \begin{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.3.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.348 \begin{itemize}
+                      <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/new
+_word.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/disapp_word.pn
+g>] <img/wc_dinamiche/morph_4.png, id=663, 279.9258pt x 212.9556pt>
 File: img/wc_dinamiche/morph_4.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_4.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_4.png used on input line 363.
 (pdftex.def)             Requested size: 195.94672pt x 149.06789pt.
 
-<img/wc_dinamiche/morph_1.png, id=449, 282.3348pt x 212.9556pt>
+<img/wc_dinamiche/morph_1.png, id=664, 282.3348pt x 212.9556pt>
 File: img/wc_dinamiche/morph_1.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_1.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_1.png used on input line 366.
 (pdftex.def)             Requested size: 197.633pt x 149.06789pt.
 
-<img/wc_dinamiche/morph_3.png, id=450, 282.8166pt x 208.6194pt>
+<img/wc_dinamiche/morph_3.png, id=665, 282.8166pt x 208.6194pt>
 File: img/wc_dinamiche/morph_3.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_3.png>
 Package pdftex.def Info: img/wc_dinamiche/morph_3.png used on input line 370.
 (pdftex.def)             Requested size: 197.97026pt x 146.03258pt.
 
-<img/wc_dinamiche/morph_2.png, id=451, 278.4804pt x 208.6194pt>
+<img/wc_dinamiche/morph_2.png, id=666, 278.4804pt x 208.6194pt>
 File: img/wc_dinamiche/morph_2.png Graphic file (type png)
 
 <use img/wc_dinamiche/morph_2.png>
@@ -906,17 +1090,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29]
+[32]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30 <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morph_4.png> <C:/User
-s/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morph_1.png> <C:/Users/Enrico/Doc
-uments/tesi/Tesi/img/wc_dinamiche/morph_3.png> <C:/Users/Enrico/Documents/tesi/
-Tesi/img/wc_dinamiche/morph_2.png>])
+[33pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.383 \item $
+             w_{i} \in S$: $w_{i}$ compare solo in $\Gamma^{k-1}$, con  colo...
+ <C:/Users/Enrico/Documents/tesi/Tesi/img/wc_dinamiche/morph_4.png> <C:/Users/E
+nrico/Documents/tesi/Tesi/img/wc_dinamiche/morph_1.png> <C:/Users/Enrico/Docume
+nts/tesi/Tesi/img/wc_dinamiche/morph_3.png> <C:/Users/Enrico/Documents/tesi/Tes
+i/img/wc_dinamiche/morph_2.png>])
 (C:\Users\Enrico\Documents\tesi\Tesi\implementazione_sperimentazione.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -924,44 +1115,56 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31]
+[34]
 Capitolo 4.
-<img/impl_test/class_doc.png, id=479, 658.25925pt x 260.172pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+[35
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36] <img/impl_test/class_doc.png, id=708, 658.25925pt x 260.172pt>
 File: img/impl_test/class_doc.png Graphic file (type png)
 
 <use img/impl_test/class_doc.png>
-Package pdftex.def Info: img/impl_test/class_doc.png used on input line 17.
+Package pdftex.def Info: img/impl_test/class_doc.png used on input line 43.
 (pdftex.def)             Requested size: 394.9586pt x 156.10439pt.
 
-<img/impl_test/rank_strategy.png, id=482, 567.92175pt x 314.3745pt>
+<img/impl_test/rank_strategy.png, id=710, 567.92175pt x 314.3745pt>
 File: img/impl_test/rank_strategy.png Graphic file (type png)
 
 <use img/impl_test/rank_strategy.png>
-Package pdftex.def Info: img/impl_test/rank_strategy.png used on input line 24.
+Package pdftex.def Info: img/impl_test/rank_strategy.png used on input line 50.
 
 (pdftex.def)             Requested size: 397.54251pt x 220.06064pt.
 
-Underfull \hbox (badness 1742) in paragraph at lines 25--25
+Underfull \hbox (badness 1742) in paragraph at lines 51--51
 []\OT1/cmr/m/n/10.95 Figura 4.2: []Classi coin-vol-te nel-l'e-stra-zio-ne del-l
 e pa-ro-le. Nel-l'im-ple-men-ta-zio-ne
  []
 
-[32
-
-] <img/impl_test/class_word.png, id=490, 192.11775pt x 288.47775pt>
+<img/impl_test/class_word.png, id=714, 192.11775pt x 288.47775pt>
 File: img/impl_test/class_word.png Graphic file (type png)
 
 <use img/impl_test/class_word.png>
-Package pdftex.def Info: img/impl_test/class_word.png used on input line 32.
+Package pdftex.def Info: img/impl_test/class_word.png used on input line 58.
 (pdftex.def)             Requested size: 192.11728pt x 288.47704pt.
 
-<img/impl_test/simil_strategy.png, id=492, 648.62325pt x 364.9635pt>
+<img/impl_test/simil_strategy.png, id=716, 451.08525pt x 458.31226pt>
 File: img/impl_test/simil_strategy.png Graphic file (type png)
 
 <use img/impl_test/simil_strategy.png>
-Package pdftex.def Info: img/impl_test/simil_strategy.png used on input line 40
+Package pdftex.def Info: img/impl_test/simil_strategy.png used on input line 66
 .
-(pdftex.def)             Requested size: 389.17694pt x 218.97978pt.
+(pdftex.def)             Requested size: 360.8687pt x 366.6503pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -969,24 +1172,1381 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[33 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_doc.png> <C:/Users
-/Enrico/Documents/tesi/Tesi/img/impl_test/rank_strategy.png>])
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \begin{itemize}
+                     <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_d
+oc.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_word.png>]
-(C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \begin{itemize}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.4.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \begin{itemize}
+                     <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/rank_st
+rategy.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_word.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/simil_strategy.png>]
-[36
+[39pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \begin{itemize}
+                     <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/simil_s
+trategy.png>]
+<img/impl_test/layout_strategy.png, id=730, 481.19775pt x 524.55975pt>
+File: img/impl_test/layout_strategy.png Graphic file (type png)
+
+<use img/impl_test/layout_strategy.png>
+Package pdftex.def Info: img/impl_test/layout_strategy.png used on input line 8
+1.
+(pdftex.def)             Requested size: 384.95872pt x 419.64836pt.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 102.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.118 L
+       'algoritmo viene eseguito dalla classe \texttt{ClusterColorHandler} (...
+ <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/layout_strategy.png>]
+Overfull \hbox (1.73846pt too wide) in paragraph at lines 123--124
+[]\OT1/cmr/m/n/10.95 infine, il clu-ster cor-ren-te vie-ne mo-di-fi-ca-to in-vo
+-can-do \OT1/cmtt/m/n/10.95 updateClusters(bestPairs)\OT1/cmr/m/n/10.95 ,
+ []
+
+<img/impl_test/class_clusterhandler.png, id=745, 425.1885pt x 202.356pt>
+File: img/impl_test/class_clusterhandler.png Graphic file (type png)
+
+<use img/impl_test/class_clusterhandler.png>
+Package pdftex.def Info: img/impl_test/class_clusterhandler.png used on input l
+ine 128.
+(pdftex.def)             Requested size: 403.92677pt x 192.2371pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42]
+Overfull \hbox (2.13213pt too wide) in paragraph at lines 137--138
+[]\OT1/cmr/m/n/10.95 il se-con-do, \OT1/cmtt/m/n/10.95 morph(LayoutResulta resu
+ltA, LayoutResult resultB)\OT1/cmr/m/n/10.95 , pren-de co-
+ []
+
+
+Overfull \hbox (2.77177pt too wide) in paragraph at lines 143--144
+[]\OT1/cmtt/m/n/10.95 morphCommonWords(int iter)\OT1/cmr/m/n/10.95 , il qua-le,
+ per ogni ele-men-to del-la li-sta \OT1/cmtt/m/n/10.95 commonWords\OT1/cmr/m/n/
+10.95 ,
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.144 \end{itemize}
+                    <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/class_cl
+usterhandler.png>]
+<img/impl_test/morph_strategy.png, id=758, 407.121pt x 431.211pt>
+File: img/impl_test/morph_strategy.png Graphic file (type png)
+
+<use img/impl_test/morph_strategy.png>
+Package pdftex.def Info: img/impl_test/morph_strategy.png used on input line 14
+8.
+(pdftex.def)             Requested size: 325.69725pt x 344.96927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
+
+ []
+
+
+Overfull \hbox (0.23503pt too wide) in paragraph at lines 145--154
+\OT1/cmr/m/n/10.95 to-di \OT1/cmtt/m/n/10.95 morphNewWords(...)\OT1/cmr/m/n/10.
+95 , \OT1/cmtt/m/n/10.95 morphDisappearingWords(...) \OT1/cmr/m/n/10.95 e \OT1/
+cmtt/m/n/10.95 morphCommonWords(...)
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.156 
+       <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/morph_strategy.png>]
+<img/impl_test/wordcloud_ui1.png, id=766, 1151.502pt x 618.51076pt>
+File: img/impl_test/wordcloud_ui1.png Graphic file (type png)
+
+<use img/impl_test/wordcloud_ui1.png>
+Package pdftex.def Info: img/impl_test/wordcloud_ui1.png used on input line 161
+.
+(pdftex.def)             Requested size: 403.03174pt x 216.482pt.
+
+<img/impl_test/wordcloud_ui2.png, id=767, 1153.30875pt x 618.51076pt>
+File: img/impl_test/wordcloud_ui2.png Graphic file (type png)
+
+<use img/impl_test/wordcloud_ui2.png>
+Package pdftex.def Info: img/impl_test/wordcloud_ui2.png used on input line 163
+.
+(pdftex.def)             Requested size: 403.66411pt x 216.482pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.168 \section
+              {Risultati sperimentali}\label{sec:test} <C:/Users/Enrico/Documen
+ts/tesi/Tesi/img/impl_test/wordcloud_ui1.png> <C:/Users/Enrico/Documents/tesi/T
+esi/img/impl_test/wordcloud_ui2.png>]
+<img/impl_test/dist_1.png, id=782, 291.0072pt x 137.7948pt>
+File: img/impl_test/dist_1.png Graphic file (type png)
+
+<use img/impl_test/dist_1.png>
+Package pdftex.def Info: img/impl_test/dist_1.png used on input line 184.
+(pdftex.def)             Requested size: 218.25485pt x 103.34583pt.
+
+<img/impl_test/dist_2.png, id=783, 143.0946pt x 242.3454pt>
+File: img/impl_test/dist_2.png Graphic file (type png)
+
+<use img/impl_test/dist_2.png>
+Package pdftex.def Info: img/impl_test/dist_2.png used on input line 187.
+(pdftex.def)             Requested size: 107.32068pt x 181.75859pt.
+
+<img/impl_test/dist_3.png, id=784, 251.4996pt x 250.0542pt>
+File: img/impl_test/dist_3.png Graphic file (type png)
+
+<use img/impl_test/dist_3.png>
+Package pdftex.def Info: img/impl_test/dist_3.png used on input line 189.
+(pdftex.def)             Requested size: 188.62422pt x 187.54018pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[47]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48pdfTeX warning (ext4): destination with the same identifier (name{figure.4.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.201 \subsubsection
+                    {Coherence metric} <C:/Users/Enrico/Documents/tesi/Tesi/img
+/impl_test/dist_1.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/dist_
+2.png> <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/dist_3.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[49]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50]
+<img/impl_test/test_tf_jaccard/figures/combo_20.png, id=821, 1196.1931pt x 554.
+48535pt>
+File: img/impl_test/test_tf_jaccard/figures/combo_20.png Graphic file (type png
+)
+ <use img/impl_test/test_tf_jaccard/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/combo_20.png use
+d on input line 248.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_jaccard/figures/combo_40.png, id=822, 1196.1931pt x 554.
+48535pt>
+File: img/impl_test/test_tf_jaccard/figures/combo_40.png Graphic file (type png
+)
+ <use img/impl_test/test_tf_jaccard/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/combo_40.png use
+d on input line 254.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_jaccard/figures/combo_60.png, id=823, 1196.1931pt x 554.
+48535pt>
+File: img/impl_test/test_tf_jaccard/figures/combo_60.png Graphic file (type png
+)
+ <use img/impl_test/test_tf_jaccard/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/combo_60.png use
+d on input line 260.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_cosine/figures/combo_20.png, id=824, 1196.1931pt x 554.4
+8535pt>
+File: img/impl_test/test_tf_cosine/figures/combo_20.png Graphic file (type png)
+
+ <use img/impl_test/test_tf_cosine/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/combo_20.png used
+ on input line 266.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_cosine/figures/combo_40.png, id=825, 1196.1931pt x 554.4
+8535pt>
+File: img/impl_test/test_tf_cosine/figures/combo_40.png Graphic file (type png)
+
+ <use img/impl_test/test_tf_cosine/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/combo_40.png used
+ on input line 272.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_cosine/figures/combo_60.png, id=826, 1196.1931pt x 554.4
+8535pt>
+File: img/impl_test/test_tf_cosine/figures/combo_60.png Graphic file (type png)
+
+ <use img/impl_test/test_tf_cosine/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/combo_60.png used
+ on input line 278.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tf_extended/figures/combo_20.png, id=827, 1196.1931pt x 586
+.88225pt>
+File: img/impl_test/test_tf_extended/figures/combo_20.png Graphic file (type pn
+g)
+ <use img/impl_test/test_tf_extended/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_20.png us
+ed on input line 284.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_extended/figures/combo_40.png, id=828, 1196.1931pt x 586
+.88225pt>
+File: img/impl_test/test_tf_extended/figures/combo_40.png Graphic file (type pn
+g)
+ <use img/impl_test/test_tf_extended/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_40.png us
+ed on input line 290.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+0}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_jac
+card/figures/combo_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_jac
+card/figures/combo_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/img/
+impl_test/test_tf_jaccard/figures/combo_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_cos
+ine/figures/combo_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/img/i
+mpl_test/test_tf_cosine/figures/combo_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_cos
+ine/figures/combo_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/img/i
+mpl_test/test_tf_extended/figures/combo_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_ext
+ended/figures/combo_40.png (PNG copy)>]
+<img/impl_test/test_tf_extended/figures/combo_60.png, id=850, 1196.1931pt x 586
+.88225pt>
+File: img/impl_test/test_tf_extended/figures/combo_60.png Graphic file (type pn
+g)
+ <use img/impl_test/test_tf_extended/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_60.png us
+ed on input line 297.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/combo_20.png, id=851, 1196.1931pt x 5
+54.48535pt>
+File: img/impl_test/test_tfidf_jaccard/figures/combo_20.png Graphic file (type 
+png)
+ <use img/impl_test/test_tfidf_jaccard/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/combo_20.png 
+used on input line 303.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/combo_40.png, id=852, 1196.1931pt x 5
+54.48535pt>
+File: img/impl_test/test_tfidf_jaccard/figures/combo_40.png Graphic file (type 
+png)
+ <use img/impl_test/test_tfidf_jaccard/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/combo_40.png 
+used on input line 309.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/combo_60.png, id=853, 1196.1931pt x 5
+54.48535pt>
+File: img/impl_test/test_tfidf_jaccard/figures/combo_60.png Graphic file (type 
+png)
+ <use img/impl_test/test_tfidf_jaccard/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/combo_60.png 
+used on input line 315.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_cosine/figures/combo_20.png, id=854, 1196.1931pt x 55
+4.48535pt>
+File: img/impl_test/test_tfidf_cosine/figures/combo_20.png Graphic file (type p
+ng)
+ <use img/impl_test/test_tfidf_cosine/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/combo_20.png u
+sed on input line 321.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_cosine/figures/combo_40.png, id=855, 1196.1931pt x 55
+4.48535pt>
+File: img/impl_test/test_tfidf_cosine/figures/combo_40.png Graphic file (type p
+ng)
+ <use img/impl_test/test_tfidf_cosine/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/combo_40.png u
+sed on input line 327.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_cosine/figures/combo_60.png, id=856, 1196.1931pt x 55
+4.48535pt>
+File: img/impl_test/test_tfidf_cosine/figures/combo_60.png Graphic file (type p
+ng)
+ <use img/impl_test/test_tfidf_cosine/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/combo_60.png u
+sed on input line 333.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_extended/figures/combo_20.png, id=857, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_tfidf_extended/figures/combo_20.png Graphic file (type
+ png)
+ <use img/impl_test/test_tfidf_extended/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/combo_20.png
+ used on input line 339.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_tfidf_extended/figures/combo_40.png, id=858, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_tfidf_extended/figures/combo_40.png Graphic file (type
+ png)
+ <use img/impl_test/test_tfidf_extended/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/combo_40.png
+ used on input line 345.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_ext
+ended/figures/combo_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/img
+/impl_test/test_tfidf_jaccard/figures/combo_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+0}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.21}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+jaccard/figures/combo_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/i
+mg/impl_test/test_tfidf_jaccard/figures/combo_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.23}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+cosine/figures/combo_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/im
+g/impl_test/test_tfidf_cosine/figures/combo_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+cosine/figures/combo_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/im
+g/impl_test/test_tfidf_extended/figures/combo_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.349 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+extended/figures/combo_40.png (PNG copy)>]
+<img/impl_test/test_tfidf_extended/figures/combo_60.png, id=880, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_tfidf_extended/figures/combo_60.png Graphic file (type
+ png)
+ <use img/impl_test/test_tfidf_extended/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/combo_60.png
+ used on input line 352.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_jaccard/figures/combo_20.png, id=881, 1196.1931pt x
+ 554.48535pt>
+File: img/impl_test/test_lexrank_jaccard/figures/combo_20.png Graphic file (typ
+e png)
+ <use img/impl_test/test_lexrank_jaccard/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/combo_20.pn
+g used on input line 358.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_jaccard/figures/combo_40.png, id=882, 1196.1931pt x
+ 554.48535pt>
+File: img/impl_test/test_lexrank_jaccard/figures/combo_40.png Graphic file (typ
+e png)
+ <use img/impl_test/test_lexrank_jaccard/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/combo_40.pn
+g used on input line 364.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_jaccard/figures/combo_60.png, id=883, 1196.1931pt x
+ 554.48535pt>
+File: img/impl_test/test_lexrank_jaccard/figures/combo_60.png Graphic file (typ
+e png)
+ <use img/impl_test/test_lexrank_jaccard/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/combo_60.pn
+g used on input line 370.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_cosine/figures/combo_20.png, id=884, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/combo_20.png Graphic file (type
+ png)
+ <use img/impl_test/test_lexrank_cosine/figures/combo_20.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/combo_20.png
+ used on input line 376.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_cosine/figures/combo_40.png, id=885, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/combo_40.png Graphic file (type
+ png)
+ <use img/impl_test/test_lexrank_cosine/figures/combo_40.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/combo_40.png
+ used on input line 382.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_cosine/figures/combo_60.png, id=886, 1196.1931pt x 
+554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/combo_60.png Graphic file (type
+ png)
+ <use img/impl_test/test_lexrank_cosine/figures/combo_60.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/combo_60.png
+ used on input line 388.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.28}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+extended/figures/combo_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/
+img/impl_test/test_lexrank_jaccard/figures/combo_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.30}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexran
+k_jaccard/figures/combo_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi
+/img/impl_test/test_lexrank_jaccard/figures/combo_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.32}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexran
+k_cosine/figures/combo_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi/
+img/impl_test/test_lexrank_cosine/figures/combo_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexran
+k_cosine/figures/combo_60.png (PNG copy)>]
+<img/impl_test/test_tf_jaccard/figures/spacemetric_20.png, id=903, 1196.1931pt 
+x 586.88225pt>
+File: img/impl_test/test_tf_jaccard/figures/spacemetric_20.png Graphic file (ty
+pe png)
+ <use img/impl_test/test_tf_jaccard/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_20.p
+ng used on input line 398.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_jaccard/figures/spacemetric_40.png, id=904, 1196.1931pt 
+x 586.88225pt>
+File: img/impl_test/test_tf_jaccard/figures/spacemetric_40.png Graphic file (ty
+pe png)
+ <use img/impl_test/test_tf_jaccard/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_40.p
+ng used on input line 404.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_jaccard/figures/spacemetric_60.png, id=905, 1196.1931pt 
+x 586.88225pt>
+File: img/impl_test/test_tf_jaccard/figures/spacemetric_60.png Graphic file (ty
+pe png)
+ <use img/impl_test/test_tf_jaccard/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_60.p
+ng used on input line 410.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_cosine/figures/spacemetric_20.png, id=906, 1196.1931pt x
+ 586.88225pt>
+File: img/impl_test/test_tf_cosine/figures/spacemetric_20.png Graphic file (typ
+e png)
+ <use img/impl_test/test_tf_cosine/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_20.pn
+g used on input line 416.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_cosine/figures/spacemetric_40.png, id=907, 1196.1931pt x
+ 586.88225pt>
+File: img/impl_test/test_tf_cosine/figures/spacemetric_40.png Graphic file (typ
+e png)
+ <use img/impl_test/test_tf_cosine/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_40.pn
+g used on input line 422.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_cosine/figures/spacemetric_60.png, id=908, 1196.1931pt x
+ 586.88225pt>
+File: img/impl_test/test_tf_cosine/figures/spacemetric_60.png Graphic file (typ
+e png)
+ <use img/impl_test/test_tf_cosine/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_60.pn
+g used on input line 428.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_extended/figures/spacemetric_20.png, id=909, 1196.1931pt
+ x 586.88225pt>
+File: img/impl_test/test_tf_extended/figures/spacemetric_20.png Graphic file (t
+ype png)
+
+<use img/impl_test/test_tf_extended/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_20.
+png used on input line 434.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_extended/figures/spacemetric_40.png, id=910, 1196.1931pt
+ x 586.88225pt>
+File: img/impl_test/test_tf_extended/figures/spacemetric_40.png Graphic file (t
+ype png)
+
+<use img/impl_test/test_tf_extended/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_40.
+png used on input line 440.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tf_extended/figures/spacemetric_60.png, id=911, 1196.1931pt
+ x 586.88225pt>
+File: img/impl_test/test_tf_extended/figures/spacemetric_60.png Graphic file (t
+ype png)
+
+<use img/impl_test/test_tf_extended/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_60.
+png used on input line 447.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png, id=912, 1196.1931
+pt x 586.88225pt>
+File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png Graphic file 
+(type png)
+
+<use img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_2
+0.png used on input line 453.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png, id=913, 1196.1931
+pt x 586.88225pt>
+File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png Graphic file 
+(type png)
+
+<use img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_4
+0.png used on input line 459.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png, id=914, 1196.1931
+pt x 586.88225pt>
+File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png Graphic file 
+(type png)
+
+<use img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_6
+0.png used on input line 465.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png, id=915, 1196.1931p
+t x 586.88225pt>
+File: img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png Graphic file (
+type png)
+
+<use img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_20
+.png used on input line 471.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png, id=916, 1196.1931p
+t x 586.88225pt>
+File: img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png Graphic file (
+type png)
+
+<use img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_40
+.png used on input line 477.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png, id=917, 1196.1931p
+t x 586.88225pt>
+File: img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png Graphic file (
+type png)
+
+<use img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_60
+.png used on input line 483.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_extended/figures/spacemetric_20.png, id=918, 1196.193
+1pt x 586.88225pt>
+File: img/impl_test/test_tfidf_extended/figures/spacemetric_20.png Graphic file
+ (type png)
+
+<use img/impl_test/test_tfidf_extended/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
+20.png used on input line 489.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_extended/figures/spacemetric_40.png, id=919, 1196.193
+1pt x 586.88225pt>
+File: img/impl_test/test_tfidf_extended/figures/spacemetric_40.png Graphic file
+ (type png)
+
+<use img/impl_test/test_tfidf_extended/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
+40.png used on input line 495.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_tfidf_extended/figures/spacemetric_60.png, id=920, 1196.193
+1pt x 586.88225pt>
+File: img/impl_test/test_tfidf_extended/figures/spacemetric_60.png Graphic file
+ (type png)
+
+<use img/impl_test/test_tfidf_extended/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
+60.png used on input line 501.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                
+
+
+
+ <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_jaccard/figures/spa
+cemetric_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.36}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_jac
+card/figures/spacemetric_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tes
+i/img/impl_test/test_tf_jaccard/figures/spacemetric_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[67pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.38}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_cos
+ine/figures/spacemetric_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi
+/img/impl_test/test_tf_cosine/figures/spacemetric_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.40}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_cos
+ine/figures/spacemetric_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Tesi
+/img/impl_test/test_tf_extended/figures/spacemetric_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[69pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.42})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_ext
+ended/figures/spacemetric_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/Te
+si/img/impl_test/test_tf_extended/figures/spacemetric_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[70pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.44}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+jaccard/figures/spacemetric_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/
+Tesi/img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[71pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.46}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+jaccard/figures/spacemetric_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/
+Tesi/img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.48}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+cosine/figures/spacemetric_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/T
+esi/img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[73pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4.50}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+extended/figures/spacemetric_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi
+/Tesi/img/impl_test/test_tfidf_extended/figures/spacemetric_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.505 \clearpage
+                 <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
+extended/figures/spacemetric_60.png (PNG copy)>]
+<img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png, id=964, 1196.19
+31pt x 586.88225pt>
+File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png Graphic fil
+e (type png)
+
+<use img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
+_20.png used on input line 508.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png, id=965, 1196.19
+31pt x 586.88225pt>
+File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png Graphic fil
+e (type png)
+
+<use img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
+_40.png used on input line 514.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png, id=966, 1196.19
+31pt x 586.88225pt>
+File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png Graphic fil
+e (type png)
+
+<use img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
+_60.png used on input line 520.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png, id=967, 1196.193
+1pt x 554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png Graphic file
+ (type png)
+
+<use img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/spacemetric_
+20.png used on input line 526.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_cosine/figures/spacemetric_40.png, id=968, 1196.193
+1pt x 554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/spacemetric_40.png Graphic file
+ (type png)
+
+<use img/impl_test/test_lexrank_cosine/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/spacemetric_
+40.png used on input line 532.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_cosine/figures/spacemetric_60.png, id=969, 1196.193
+1pt x 554.48535pt>
+File: img/impl_test/test_lexrank_cosine/figures/spacemetric_60.png Graphic file
+ (type png)
+
+<use img/impl_test/test_lexrank_cosine/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/spacemetric_
+60.png used on input line 538.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
+
+<img/impl_test/test_lexrank_extended/figures/spacemetric_20.png, id=970, 1196.1
+931pt x 586.88225pt>
+File: img/impl_test/test_lexrank_extended/figures/spacemetric_20.png Graphic fi
+le (type png)
+
+<use img/impl_test/test_lexrank_extended/figures/spacemetric_20.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
+c_20.png used on input line 544.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_lexrank_extended/figures/spacemetric_40.png, id=971, 1196.1
+931pt x 586.88225pt>
+File: img/impl_test/test_lexrank_extended/figures/spacemetric_40.png Graphic fi
+le (type png)
+
+<use img/impl_test/test_lexrank_extended/figures/spacemetric_40.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
+c_40.png used on input line 550.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+<img/impl_test/test_lexrank_extended/figures/spacemetric_60.png, id=972, 1196.1
+931pt x 586.88225pt>
+File: img/impl_test/test_lexrank_extended/figures/spacemetric_60.png Graphic fi
+le (type png)
+
+<use img/impl_test/test_lexrank_extended/figures/spacemetric_60.png>
+Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
+c_60.png used on input line 556.
+(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[75
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.52})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.53}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+               <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexrank_
+jaccard/figures/spacemetric_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/
+Tesi/img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.55}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+               <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexrank_
+jaccard/figures/spacemetric_60.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/
+Tesi/img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[77pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.57}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+               <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexrank_
+cosine/figures/spacemetric_40.png (PNG copy)> <C:/Users/Enrico/Documents/tesi/T
+esi/img/impl_test/test_lexrank_cosine/figures/spacemetric_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[78pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.4.59}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.561 \newpage
+               <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexrank_
+extended/figures/spacemetric_20.png (PNG copy)> <C:/Users/Enrico/Documents/tesi
+/Tesi/img/impl_test/test_lexrank_extended/figures/spacemetric_40.png (PNG copy)
+>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[79pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6
+0}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.620 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.620 
+       <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexrank_extended
+/figures/spacemetric_60.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[80pdfTeX warning (ext4): destination with the same identifier (name{table.4.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[81pdfTeX warning (ext4): destination with the same identifier (name{table.4.5}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.694 
+      ]) (C:\Users\Enrico\Documents\tesi\Tesi\conclusioni.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[82pdfTeX warning (ext4): destination with the same identifier (name{table.4.8}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 \chapter
+            {Conclusioni e sviluppi futuri}\label{ch:end}]
+Capitolo 5.
+[83
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[84] (C:\Users\Enrico\Documents\tesi\Tesi\tesi.bbl [85
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 101--103
@@ -999,14 +2559,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 160--162
 []\OT1/cmr/m/n/10.95 Wikipedia, Bro-wn Cor-pus, con-sul-ta-to a Gen-na-io 2016,
 
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1014,22 +2574,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+[87]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
  (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 56945C4AA91415402605790F70918CF3;1817.
+(rerunfilecheck)             Checksum: 7EFC652DFD04FC6881E2B107CB46441A;2435.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 8371 strings out of 493921
- 121072 string characters out of 3147280
- 225339 words of memory out of 3000000
- 11340 multiletter control sequences out of 15000+200000
- 13616 words of font info for 48 fonts, out of 3000000 for 9000
+ 10865 strings out of 493921
+ 167085 string characters out of 3147280
+ 265903 words of memory out of 3000000
+ 13615 multiletter control sequences out of 15000+200000
+ 15209 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 33i,13n,43p,1301b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 33i,13n,48p,1301b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
@@ -1046,10 +2610,10 @@ ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb>
-Output written on tesi.pdf (39 pages, 1876310 bytes).
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb>
+Output written on tesi.pdf (88 pages, 3153890 bytes).
 PDF statistics:
- 616 PDF objects out of 1000 (max. 8388607)
- 163 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1165 PDF objects out of 1200 (max. 8388607)
+ 310 named destinations out of 1000 (max. 500000)
+ 639 words of extra memory for PDF output out of 10000 (max. 10000000)
 

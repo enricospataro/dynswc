@@ -479,5 +479,5 @@ public class SingleStarStrategy extends BaseLayoutStrategy {
             }
         };
     }
-
+	public String toString() {return "";}
 }

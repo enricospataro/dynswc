@@ -104,5 +104,5 @@ public class MDSStrategy extends BaseLayoutStrategy {
 
 	        return Math.sqrt(areaSum) / avgDist;
 	    }
-
+		public String toString() {return "";}
 	}

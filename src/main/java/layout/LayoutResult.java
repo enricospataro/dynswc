@@ -27,4 +27,18 @@ public class LayoutResult {
     public List<Word> getWords() {return words;}
     public Rectangle getWordPosition(Word w) {return wordPositions.get(w);}
     public Map<Word,Rectangle> getWordPositionMap() {return wordPositions;}
+	public Rectangle computeBoundingBox() {
+        double minX = Double.POSITIVE_INFINITY;
+        double maxX = Double.NEGATIVE_INFINITY;
+        double minY = Double.POSITIVE_INFINITY;
+        double maxY = Double.NEGATIVE_INFINITY;
+        
+        for(Rectangle rect:wordPositions.values()) {
+            minX = Math.min(minX,rect.getMinX());
+            maxX = Math.max(maxX,rect.getMaxX());
+            minY = Math.min(minY,rect.getMinY());
+            maxY = Math.max(maxY,rect.getMaxY());
+        }       
+        return new Rectangle(minX, minY, maxX - minX, maxY - minY);
+    }
 }

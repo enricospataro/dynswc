@@ -99,14 +99,14 @@ public class ClusterColorHandler implements ColorHandler {
 	    }
 	}	
 
-	private int computeNewIndex(List<Boolean> usedIndex1, int new_i) {
-		for(boolean b:usedIndex1) {
+	private int computeNewIndex(List<Boolean> usedIndex, int newIndex) {
+		for(boolean b:usedIndex) {
 			if(!b) {
-				new_i=usedIndex1.indexOf(b);
+				newIndex=usedIndex.indexOf(b);
 				continue;
 			}
 		}
-		return new_i;
+		return newIndex;
 	}
 	private void sortClusters(List<Word> words)
     {

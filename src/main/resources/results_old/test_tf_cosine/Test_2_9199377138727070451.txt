@@ -1,0 +1,9 @@
+Ranking: Term Frequency
+Similarity: Cosine
+Layout: CPWCV
+Words: 40
+DistortionMetric: 0.5179459258504011
+CoherenceMetric: 0.6435877179940817
+SpaceMetric BoundingBox: 0.6680483072388482
+SpaceMetric ConvexHull: 0.5463526567348019
+Single RunningTime: 15290490

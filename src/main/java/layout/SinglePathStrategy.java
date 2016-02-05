@@ -161,4 +161,5 @@ public class SinglePathStrategy extends BaseLayoutStrategy {
         words = wordGraph.getWords();
         similarity = wordGraph.getSimilarity();
     }
+	public String toString() {return "";}
 }

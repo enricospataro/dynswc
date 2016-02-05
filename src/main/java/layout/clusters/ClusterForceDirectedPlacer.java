@@ -160,13 +160,9 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
 
 		int numIterations = 0;
 		
-		while(numIterations++ < TOTAL_ITERATIONS)  {
-	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration: " + numIterations);
-
+		while(numIterations++ < TOTAL_ITERATIONS*2)  {
+//	        if(numIterations % 1000 == 0) System.out.println("Finished Iteration2: " + numIterations);
 	        if(!doIteration(lastResult)) break;
-
-	        //cooling down the temperature (max allowed step is decreased)
-	        if(numIterations % 5 == 0) T *= 0.95;
 	    } 
 	}
 
@@ -246,7 +242,7 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
 					Rectangle lastRect = lastWordPositions.get(w);
 
 					Point dxy = new Point();					
-					dxy.add(computeAttractiveForce(bb,w,rect,lastRect,maxScore));
+					dxy.add(computeAttractiveForce(w,rect,lastRect,maxScore));
 					
 					// move the rectangle
 					rect.setRect(rect.getX()+dxy.getX(),rect.getY()+dxy.getY(),
@@ -264,14 +260,13 @@ public class ClusterForceDirectedPlacer implements WordPlacer {
         return avgStep > Math.max(bb.getWidth(),bb.getHeight())/10000.0;
 	}
     
-    private Point computeAttractiveForce(Rectangle bb,Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
+    private Point computeAttractiveForce(Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
     	
     	Point dxy = new Point();  	
         double k = Math.max(w.getScore(),maxScore/5.0);     
 
      	// distance between the two rectangles
         Point dir = new Point(lastRect.getCenterX()-rect.getCenterX(),lastRect.getCenterY()-rect.getCenterY());
-        double len = dir.length(); 
         
 //      double force = Math.pow(2,k);
 //      double force = k*k;

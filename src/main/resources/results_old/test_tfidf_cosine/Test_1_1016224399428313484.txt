@@ -1,0 +1,9 @@
+Ranking: TFIDF
+Similarity: Cosine
+Layout: CPWCV
+Words: 20
+DistortionMetric: 0.5303721928906627
+CoherenceMetric: 0.5373633040423357
+SpaceMetric BoundingBox: 0.6569779101001516
+SpaceMetric ConvexHull: 0.5331825641145651
+Single RunningTime: 4050372

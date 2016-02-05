@@ -15,4 +15,5 @@ public abstract class BaseSimilarityStrategy implements SimilarityStrategy {
     }
     protected abstract void execute(Document document); //template method
     protected abstract Map<WordPair,Double> getSimilarity();
+    public abstract String toString();
 }

@@ -87,4 +87,5 @@ public class SingleCycleStrategy extends BaseLayoutStrategy {
             }
         }
     }
+	public String toString() {return "";}
 }

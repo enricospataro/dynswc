@@ -108,4 +108,5 @@ public class StarForestStrategy extends BaseLayoutStrategy {
         }    
         return new Graph(words,weights);
     }
+	public String toString() {return "StarForest";}
 }

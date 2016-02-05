@@ -1,0 +1,9 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: CPWCV
+Words: 40
+DistortionMetric: 0.5406430655771419
+CoherenceMetric: 0.6009091507108957
+SpaceMetric BoundingBox: 0.6682333411763844
+SpaceMetric ConvexHull: 0.5463423664873508
+Single RunningTime: 14994823

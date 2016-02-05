@@ -1,0 +1,16 @@
+Ranking: TFIDF
+Similarity: Jaccard
+Layout: StarForest
+Words: 60
+DistortionMetric: 0.5451549099997486
+CoherenceMetric: 0.5996551609766688
+SpaceMetric BoundingBox: 0.6112122886579704
+SpaceMetric ConvexHull: 0.48042961202244155
+Processing RunningTime: 440029721
+Simil RunningTime: 2228474
+Layout RunningTime: 253305567
+Morphing RunningTime: 2010889
+Clustering RunningTime: 21919182
+ColorMorphing RunningTime: 12830772
+UI RunningTime: 608985055
+Total RunningTime: 3660659018

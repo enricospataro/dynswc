@@ -1,0 +1,9 @@
+Ranking: LexRank
+Similarity: Extended Jaccard
+Layout: CycleCover
+Words: 20
+DistortionMetric: 0.6044042114639891
+CoherenceMetric: 0.7785208240372312
+SpaceMetric BoundingBox: 0.6066102234042834
+SpaceMetric ConvexHull: 0.4827207543067205
+Single RunningTime: 6283901

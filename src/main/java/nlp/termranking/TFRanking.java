@@ -19,4 +19,5 @@ public class TFRanking implements RankingStrategy{
 			w.setScore(0.5 + 0.5*frequency/maxCount);
 		}
 	}
+	public String toString() {return "Term Frequency";}
 }

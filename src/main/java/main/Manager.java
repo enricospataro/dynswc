@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
@@ -47,23 +48,82 @@ public class Manager {
 	
 	public static void main(String[] args) throws IOException {
 		File[] files = new File("src/main/resources/speeches/txt").listFiles();
+		
 		int n=files.length;
-			for(int i=0;i<n;i++) {
-				try{
-					new Manager().run(files[i]);
-				}catch (Exception e){e.printStackTrace();}	
-			}
-			for(int j=0;j<cmValues.length;j++) {
-				createResult(a[j],cmValues[j]/n,bbValue/n,chValue/n,singleRunningTime/n,runningTime/n);
-			}
+		long runningTime=0;
+
+		for(int i=0;i<n;i++) {
+			try{
+				long startTime = System.nanoTime();
+				new Manager().run(files[i]);
+				long endTime = System.nanoTime();
+				runningTime += (endTime-startTime);
+			}catch (Exception e){e.printStackTrace();}	
+		}
+		
+		double maxDiag = getMaxDiag();
+		
+		double maxDist = Double.MIN_VALUE;
+		double minDist = Double.MAX_VALUE;
+		double maxCoher = Double.MIN_VALUE;
+		double minCoher = Double.MAX_VALUE;
+		
+		for(Result r:results) {
+			r.test(maxDiag);
+			if(maxDist<r.distValue) maxDist = r.distValue;
+			if(minDist>r.distValue) minDist = r.distValue;
+			if(maxCoher<r.coherValue) maxCoher = r.coherValue;
+			if(minCoher>r.coherValue) minCoher = r.coherValue;
+		}		
+		long rankingRunningTime=0;
+		long similRunningTime=0;
+		long morphingRunningTime=0;
+		long clusteringRunningTime=0;
+		long colorMorphingRunningTime=0;
+		long layoutRunningTime=0;
+		long uiRunningTime=0;
+		double distValue=0;
+		double coherValue=0;
+		double bbValue=0; 
+		double chValue=0;
+		
+		for(Result r:results) {
+			r.distValue = normalize(r.distValue,maxDist,minDist);
+			r.coherValue = normalize(r.coherValue,maxCoher,minCoher);
+			distValue += r.distValue;
+			coherValue += r.coherValue;
+			bbValue += r.bbValue;
+			chValue += r.chValue;
+			rankingRunningTime += r.meanRankingRunningTime;
+			similRunningTime += r.meanSimilRunningTime;
+			layoutRunningTime += r.meanRunningTime;
+			morphingRunningTime += r.meanMorphingRunningTime;
+			clusteringRunningTime += r.meanClusteringRunningTime;
+			colorMorphingRunningTime += r.meanColorMorphingRunningTime;
+			uiRunningTime += r.uiRunningTime;
+		}
+		createResult(distValue/n,coherValue/n,bbValue/n,chValue/n,rankingRunningTime/n,similRunningTime/n,
+				layoutRunningTime/n,morphingRunningTime/n,clusteringRunningTime/n,colorMorphingRunningTime/n,
+				uiRunningTime/n,runningTime/n);
 	}
 	
+	private static double normalize(double value, double maxValue, double minValue) {
+		return (value-minValue)/(maxValue-minValue);
+	}
+	private static double getMaxDiag() {
+		double max = Double.MIN_VALUE;
+		for(Double d:diags) {
+			if(max<d) max=d;
+		}
+		return max;
+	}
+
 	private TokenizerME tokenizer;
 	private SentenceDetectionStrategy sentDetector;
 	private List<String> stopWords;
-	private RankingStrategy rankingStrategy;
-	private SimilarityStrategy similarityStrategy;
-	private LayoutStrategy layoutStrategy;
+	private static RankingStrategy rankingStrategy;
+	private static SimilarityStrategy similarityStrategy;
+	private static LayoutStrategy layoutStrategy;
 	private MorphingStrategy morphingStrategy;
 	private ClusterSimilarityStrategy clusterSimilarityStrategy;
 	private ColorHandler colorHandler;
@@ -74,20 +134,21 @@ public class Manager {
 	private List<ClusterResult> clusterResults;
 	private List<ClusterColorHandler> colorHandlers;
 	private List<ColorHandler> frameColorHandlers;
-	private static int parts;
-	private int frames;
-	private static int words;
-	private static double[] a={0.0,0.25,0.5,0.75,1.0};
-	private static long singleRunningTime;
-	private static double cmValue;
-	private static double[] cmValues = {0.0,0.0,0.0,0.0,0.0};
-	private static double bbValue; 
-	private static double chValue; 
-	private static long runningTime;
+	static int parts;
+	private static int frames;
+	private static int words; 
+	private long rankingRunningTime;
+	private long similRunningTime;
 	private long layoutRunningTime;
+	private long morphingRunningTime;
+	private long colorMorphingRunningTime;
+	private long clusteringRunningTime;
+	private long uiRunningTime;
+	private static List<Double> diags = new ArrayList<>();
+	private static List<Result> results = new ArrayList<>();
 	
-	private void run(File in) throws IOException {
-		
+	private void run(File in) throws IOException { 
+
 		// 1 compute elaboration of a document 	
 		File sentModel = new File("src/main/resources/opennlp/en-sent.bin");
 //		// Text parsing if the input file is a .srt file
@@ -106,96 +167,87 @@ public class Manager {
 		parts=4;
 		List<String> textParts=TextUtils.splitText(text,text.length()/parts);
 		
-		setRankingStrategy(new TFRanking());
+		setRankingStrategy(new LexRankRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
 			t=t + " " +textParts.get(i);
-			setWords(40);
+			setWords(60);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}
 
 		// 2 compute similarity of extracted words
-		setSimilarityStrategy(new CosineSimilarity());
-		setLayoutStrategy(new CycleCoverStrategy());
+		setSimilarityStrategy(new JaccardSimilarity());
+		setLayoutStrategy(new StarForestStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
 		
 		for(int i=0;i<docs.size();i++) {
+			long startTime = System.nanoTime();
 			Map<WordPair,Double> similarity = computeSimilarities(docs.get(i));
+			long endTime = System.nanoTime();
+			similRunningTime += (endTime-startTime);
 			wordGraph = new WordGraph(docs.get(i).getWords(),similarity);
 			wordGraphs.add(wordGraph);
 			
-			// 3 run a layout algorithm
-	        long startTime = System.nanoTime();
+			// 3 run the layout algorithm
+	        long startTime2 = System.nanoTime();
 			layoutResults.add(layout(wordGraph));
-	        long endTime = System.nanoTime();
-	        layoutRunningTime += (endTime - startTime); 
-		}
-//		System.out.println(layoutRunningTime);
-		// 3.5 execute test
-		test();
+	        long endTime2 = System.nanoTime();
+	        layoutRunningTime += (endTime2 - startTime2); 
+		}		
+		setFrames(150);
+		setMorphingStrategy(new SimpleMorphing(frames));
 		
-//		setFrames(150);
-//		setMorphingStrategy(new SimpleMorphing(frames));
-//		
-//		// execute morphing between wordclouds
-//		frameResults = new ArrayList<>();
-//		frameResults.addAll(morphingStrategy.morph(layoutResults.get(0)));
-//		for(int i=0;i<layoutResults.size()-1;i++) frameResults.addAll(morphingStrategy.morph(layoutResults.get(i),layoutResults.get(i+1)));
-//		
-//		// execute clustering of words
-//		clusterResults = new ArrayList<>();
-//		colorHandlers = new ArrayList<>();
-//		setClusterSimilarityStrategy(new ClusterJaccardSimilarityStrategy());
-//		
-//		ClusterColorHandler ch = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
-//		ch.initialize(wordGraphs.get(0),null);
-//		colorHandlers.add(ch);
-//		clusterResults.add(ch.getClusterResult()); 
-//		for(int i=1;i<wordGraphs.size();i++) {
-//			ClusterColorHandler ch1 = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
-//			ch1.initialize(wordGraphs.get(i),clusterResults.get(i-1));
-//			colorHandlers.add(ch1);
-//			clusterResults.add(ch1.getClusterResult());
-//		}
-//		
-//		setColorMorphingStrategy(new SimpleColorMorphing(frames));
-//		frameColorHandlers = new ArrayList<>();
-//		frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(0)));
-//		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
-//		
-//		// 4 visualize wordcloud
-//		visualize(wordGraph,frameResults,frameColorHandlers); 
+		// execute morphing between wordclouds
+		frameResults = new ArrayList<>();
+		morph();
+		
+		// execute clustering of words
+		clusterResults = new ArrayList<>();
+		colorHandlers = new ArrayList<>();
+		setClusterSimilarityStrategy(new ClusterJaccardSimilarityStrategy());
+		cluster();
+
+		//execute color morphing
+		setColorMorphingStrategy(new SimpleColorMorphing(frames));
+		frameColorHandlers = new ArrayList<>();
+		morphColors();
+
+		// 4 visualize wordcloud
+		long startTime = System.nanoTime();
+		visualize(wordGraph,frameResults,frameColorHandlers); 	
+		long endTime = System.nanoTime();
+		uiRunningTime += (endTime-startTime);
+		
+		computeBoundingBoxes();
+		results.add(new Result(wordGraphs,layoutResults,rankingRunningTime,similRunningTime,layoutRunningTime,
+				morphingRunningTime,clusteringRunningTime,colorMorphingRunningTime,uiRunningTime));
 	}
 
-	private void test() {
-		for(int i=0;i<a.length;i++) {
-			CombinationMetric cm = new CombinationMetric(a[i]);
-			cmValues[i] += cm.getValue(wordGraphs,layoutResults);
-		}
-		SpaceMetric sm = new SpaceMetric(false);
-		SpaceMetric sm2 = new SpaceMetric(true);
-		bbValue += sm.getValue(wordGraphs,layoutResults); //System.out.println("SP :"+smValue);
-		chValue += sm2.getValue(wordGraphs,layoutResults); 
-		runningTime += layoutRunningTime;
-		singleRunningTime += layoutRunningTime/parts;
-	}
-
-	private static void createResult(double a, double cmValue, double bbValue, double chValue,
-			long singleRunningTime,long runningTime) throws IOException {
+	private static void createResult(double dist, double coher,	double bbValue, double chValue,	
+			long rankingRunningTime,long similRunningTime,long layoutRunningTime,
+			long morphingRunningTime,long clusteringRunningTime,long colorMorphingRunningTime, 
+			long uiRunningTime, long runningTime) throws IOException {
 		File path = new File("src/main/resources/results");
 		File result = File.createTempFile("Test_2_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: TF" + "\r\n" + "Similarity: Cosine"  + "\r\n" + "Layout: CycleCover" + "\r\n");
+		bw.write("Ranking: " + rankingStrategy.toString() + "\r\n" + "Similarity: " + 
+				similarityStrategy.toString() + "\r\n" + "Layout: " + layoutStrategy.toString() + "\r\n");
 		bw.write("Words: " + getWords() + "\r\n");
-		bw.write("Parameter a: " + a + " , parameter b: " + (1-a) + "\r\n");
+		bw.write("DistortionMetric: " + dist + "\r\n");
+		bw.write("CoherenceMetric: " + coher + "\r\n");
 		bw.write("SpaceMetric BoundingBox: " + bbValue + "\r\n");
 		bw.write("SpaceMetric ConvexHull: " + chValue + "\r\n");
-		bw.write("CombinationMetric: " + cmValue + "\r\n");
-		bw.write("Single RunningTime: " + singleRunningTime + "\r\n");
+		bw.write("Processing RunningTime: " + rankingRunningTime + "\r\n");
+		bw.write("Simil RunningTime: " + similRunningTime + "\r\n");
+		bw.write("Layout RunningTime: " + layoutRunningTime + "\r\n");
+		bw.write("Morphing RunningTime: " + morphingRunningTime + "\r\n");
+		bw.write("Clustering RunningTime: " + clusteringRunningTime + "\r\n");
+		bw.write("ColorMorphing RunningTime: " + colorMorphingRunningTime + "\r\n");
+		bw.write("UI RunningTime: " + uiRunningTime + "\r\n");
 		bw.write("Total RunningTime: " + runningTime + "\r\n");
 		bw.flush();
 		bw.close();
@@ -250,8 +302,11 @@ public class Manager {
 
 	private Document computeDocument(String text) {		
 		Document doc = new Document(text,sentDetector,tokenizer,new PorterStemmer(),stopWords);
+		long startTime = System.nanoTime();
 		doc.parse();
 		doc.rankFilter(words,rankingStrategy);
+		long endTime = System.nanoTime();
+		rankingRunningTime += (endTime-startTime); 
 		return doc;
 	}
 	
@@ -261,6 +316,47 @@ public class Manager {
 	
 	private LayoutResult layout(WordGraph wordGraph) {
 		return layoutStrategy.layout(wordGraph);
+	}
+	
+	private void morphColors() {
+		long startTime = System.nanoTime();
+		frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(0)));
+		for(int i=0;i<clusterResults.size()-1;i++) frameColorHandlers.addAll(colorMorphingStrategy.morph(colorHandlers.get(i),colorHandlers.get(i+1)));
+		long endTime = System.nanoTime();
+		morphingRunningTime += (endTime-startTime);
+	}
+	
+	private void cluster() {
+		long startTime = System.nanoTime();
+		ClusterColorHandler ch = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
+		ch.initialize(wordGraphs.get(0),null);
+		colorHandlers.add(ch);
+		clusterResults.add(ch.getClusterResult()); 
+		for(int i=1;i<wordGraphs.size();i++) {
+			ClusterColorHandler ch1 = new ClusterColorHandler(ColorHandlerConstants.colorbrewer_1,clusterSimilarityStrategy);
+			ch1.initialize(wordGraphs.get(i),clusterResults.get(i-1));
+			colorHandlers.add(ch1);
+			clusterResults.add(ch1.getClusterResult());
+		}
+		long endTime = System.nanoTime();
+		clusteringRunningTime += (endTime-startTime);
+	}
+	
+	private void morph() {
+		long startTime = System.nanoTime();
+		frameResults.addAll(morphingStrategy.morph(layoutResults.get(0)));
+		for(int i=0;i<layoutResults.size()-1;i++) frameResults.addAll(morphingStrategy.morph(layoutResults.get(i),layoutResults.get(i+1)));
+		long endTime = System.nanoTime();
+		colorMorphingRunningTime += (endTime-startTime);
+	}
+
+	private void computeBoundingBoxes() {
+		double maxDiag = Double.MIN_VALUE;
+		for(LayoutResult l:layoutResults) {
+			double temp=l.computeBoundingBox().getDiagonal();
+			if(maxDiag<temp) maxDiag=temp;					
+		}
+		diags.add(maxDiag);
 	}
 	
 	private void visualize(WordGraph wordGraph,List<LayoutResult> frameResults,List<ColorHandler> colorHandlers) {

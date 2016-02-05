@@ -188,4 +188,5 @@ public class CycleCoverStrategy extends BaseLayoutStrategy {
 
         return realizedWeight;
     }
+	public String toString() {return "CycleCover";}
 }

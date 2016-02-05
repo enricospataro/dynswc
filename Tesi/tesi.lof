@@ -2,25 +2,87 @@
 \select@language {italian}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Due word cloud relative ai dibattiti tra i candidati alla presidenza statunitense.}}{7}{figure.2.1}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Word cloud generata dal discorso di Obama.}}}{7}{figure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Word cloud generata dal discorso di Romney.}}}{7}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Word cloud del presidente Mattarella.}}{8}{figure.2.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Due word cloud relative ai dibattiti tra i candidati alla presidenza statunitense.}}{10}{figure.2.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Word cloud generata dal discorso di Obama.}}}{10}{figure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Word cloud generata dal discorso di Romney.}}}{10}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Word cloud generata dal discorso del presidente Mattarella.}}{11}{figure.2.2}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Evoluzione di diverse word word cloud tramite tecniche di morphing.}}{12}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Generazione di una word cloud semantica.}}{13}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Algoritmo Star Forest.}}{20}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Algoritmo Cycle Cover.}}{21}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces K-means: esempio di esecuzione dell'algoritmo. In questo caso si ottengono $K=3$ cluster.}}{23}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k}$ ma non in $\Gamma ^{k-1}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{28}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k-1}$ ma non in $\Gamma ^{k}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{28}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Morphing delle parole comuni a $\Gamma _{i}^{k-1}$ e $\Gamma _{i}^{k}$.}}{30}{figure.3.8}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{30}{figure.3.8}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{30}{figure.3.8}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{30}{figure.3.8}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{30}{figure.3.8}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Evoluzione di diverse word word cloud tramite tecniche di morphing.}}{15}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Generazione di una word cloud semantica.}}{16}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Algoritmo Star Forest.}}{23}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Algoritmo Cycle Cover.}}{24}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces K-means: esempio di esecuzione dell'algoritmo. In questo caso si ottengono $K=3$ cluster.}}{26}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k}$ ma non in $\Gamma ^{k-1}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{31}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Esempio di parola che compare in $\Gamma ^{k-1}$ ma non in $\Gamma ^{k}$. In figura \`e illustrato lo stato della parola in 3 istanti consecutivi.}}{31}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Morphing delle parole comuni a $\Gamma _{i}^{k-1}$ e $\Gamma _{i}^{k}$.}}{33}{figure.3.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{33}{figure.3.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{33}{figure.3.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{33}{figure.3.8}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{33}{figure.3.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Class diagram delle classe Document.}}{33}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Classi coinvolte nell'estrazione delle parole.}}{33}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Class diagram delle classe Word.}}{34}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Classi coinvolte nel calcolo della similarit\`a tra parole.}}{35}{figure.4.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Class diagram delle classe \texttt {Document}.}}{37}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Classi coinvolte nell'estrazione delle parole.}}{38}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Class diagram delle classe \texttt {Word}.}}{38}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Classi coinvolte nel calcolo della similarit\`a tra parole.}}{39}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Classi coinvolte nella creazione della word cloud.}}{41}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Class diagram della classe \texttt {ClusterColorHandler}.}}{43}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Classi coinvolte nell'operazione di morphing.}}{44}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Esempio di visualizzazione dinamica di una word cloud in due layout successivi.}}{46}{figure.4.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{46}{figure.4.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{46}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Distanza minima tra due parole.}}{48}{figure.4.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Distanza solo sulle ascisse.}}}{48}{figure.4.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Distanza solo sulle ordinate.}}}{48}{figure.4.9}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Distanza su entrambi gli assi.}}}{48}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Combination metric: Term Frequency + Jaccard Similarity con 20 parole estratte.}}{51}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Combination metric: Term Frequency + Jaccard Similarity con 40 parole estratte.}}{52}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Combination metric: Term Frequency + Jaccard Similarity con 60 parole estratte.}}{52}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Combination metric: Term Frequency + Cosine Similarity con 20 parole estratte.}}{53}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Combination metric: Term Frequency + Cosine Similarity con 40 parole estratte.}}{53}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Combination metric: Term Frequency + Cosine Similarity con 60 parole estratte.}}{54}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Combination metric: Term Frequency + Extended Jaccard Similarity con 20 parole estratte.}}{54}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Combination metric: Term Frequency + Extended Jaccard Similarity con 40 parole estratte.}}{55}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Combination metric: Term Frequency + Extended Jaccard Similarity con 60 parole estratte.}}{56}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Combination metric: TFIDF + Jaccard Similarity con 20 parole estratte.}}{56}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Combination metric: TFIDF + Jaccard Similarity con 40 parole estratte.}}{57}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Combination metric: TFIDF + Jaccard Similarity con 60 parole estratte.}}{57}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Combination metric: TFIDF + Cosine Similarity con 20 parole estratte.}}{58}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Combination metric: TFIDF + Cosine Similarity con 40 parole estratte.}}{58}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Combination metric: TFIDF + Cosine Similarity con 60 parole estratte.}}{59}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Combination metric: TFIDF + Extended Jaccard Similarity con 20 parole estratte.}}{59}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Combination metric: TFIDF + Extended Jaccard Similarity con 40 parole estratte.}}{60}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Combination metric: TFIDF + Extended Jaccard Similarity con 60 parole estratte.}}{61}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Combination metric: LexRank + Jaccard Similarity con 20 parole estratte.}}{61}{figure.4.28}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Combination metric: LexRank + Jaccard Similarity con 40 parole estratte.}}{62}{figure.4.29}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Combination metric: LexRank + Jaccard Similarity con 60 parole estratte.}}{62}{figure.4.30}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Combination metric: LexRank + Cosine Similarity con 20 parole estratte.}}{63}{figure.4.31}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Combination metric: LexRank + Cosine Similarity con 40 parole estratte.}}{63}{figure.4.32}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Combination metric: LexRank + Cosine Similarity con 60 parole estratte.}}{64}{figure.4.33}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Space metric: Term Frequency + Jaccard Similarity con 20 parole estratte.}}{65}{figure.4.34}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Space metric: Term Frequency + Jaccard Similarity con 40 parole estratte.}}{66}{figure.4.35}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Space metric: Term Frequency + Jaccard Similarity con 60 parole estratte.}}{66}{figure.4.36}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Space metric: Term Frequency + Cosine Similarity con 20 parole estratte.}}{67}{figure.4.37}
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Space metric: Term Frequency + Cosine Similarity con 40 parole estratte.}}{67}{figure.4.38}
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Space metric: Term Frequency + Cosine Similarity con 60 parole estratte.}}{68}{figure.4.39}
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Space metric: Term Frequency + Extended Jaccard Similarity con 20 parole estratte.}}{68}{figure.4.40}
+\contentsline {figure}{\numberline {4.41}{\ignorespaces Space metric: Term Frequency + Extended Jaccard Similarity con 40 parole estratte.}}{69}{figure.4.41}
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Space metric: Term Frequency + Extended Jaccard Similarity con 60 parole estratte.}}{69}{figure.4.42}
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Space metric: TFIDF + Jaccard Similarity con 20 parole estratte.}}{70}{figure.4.43}
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Space metric: TFIDF + Jaccard Similarity con 40 parole estratte.}}{70}{figure.4.44}
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Space metric: TFIDF + Jaccard Similarity con 60 parole estratte.}}{71}{figure.4.45}
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Space metric: TFIDF + Cosine Similarity con 20 parole estratte.}}{71}{figure.4.46}
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Space metric: TFIDF + Cosine Similarity con 40 parole estratte.}}{72}{figure.4.47}
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Space metric: TFIDF + Cosine Similarity con 60 parole estratte.}}{72}{figure.4.48}
+\contentsline {figure}{\numberline {4.49}{\ignorespaces Space metric: TFIDF + Extended Jaccard Similarity con 20 parole estratte.}}{73}{figure.4.49}
+\contentsline {figure}{\numberline {4.50}{\ignorespaces Space metric: TFIDF + Extended Jaccard Similarity con 40 parole estratte.}}{73}{figure.4.50}
+\contentsline {figure}{\numberline {4.51}{\ignorespaces Space metric: TFIDF + Extended Jaccard Similarity con 60 parole estratte.}}{74}{figure.4.51}
+\contentsline {figure}{\numberline {4.52}{\ignorespaces Space metric: LexRank + Jaccard Similarity con 20 parole estratte.}}{75}{figure.4.52}
+\contentsline {figure}{\numberline {4.53}{\ignorespaces Space metric: LexRank + Jaccard Similarity con 40 parole estratte.}}{75}{figure.4.53}
+\contentsline {figure}{\numberline {4.54}{\ignorespaces Space metric: LexRank + Jaccard Similarity con 60 parole estratte.}}{76}{figure.4.54}
+\contentsline {figure}{\numberline {4.55}{\ignorespaces Space metric: LexRank + Cosine Similarity con 20 parole estratte.}}{76}{figure.4.55}
+\contentsline {figure}{\numberline {4.56}{\ignorespaces Space metric: LexRank + Cosine Similarity con 40 parole estratte.}}{77}{figure.4.56}
+\contentsline {figure}{\numberline {4.57}{\ignorespaces Space metric: LexRank + Cosine Similarity con 60 parole estratte.}}{77}{figure.4.57}
+\contentsline {figure}{\numberline {4.58}{\ignorespaces Space metric: LexRank + Extended Jaccard Similarity con 20 parole estratte.}}{78}{figure.4.58}
+\contentsline {figure}{\numberline {4.59}{\ignorespaces Space metric: LexRank + Extended Jaccard Similarity con 40 parole estratte.}}{78}{figure.4.59}
+\contentsline {figure}{\numberline {4.60}{\ignorespaces Space metric: LexRank + Extended Jaccard Similarity con 60 parole estratte.}}{79}{figure.4.60}
+\addvspace {10\p@ }

@@ -1,0 +1,9 @@
+Ranking: TFIDF
+Similarity: Jaccard
+Layout: CycleCover
+Words: 20
+DistortionMetric: 0.6114117279280397
+CoherenceMetric: 0.726822721671466
+SpaceMetric BoundingBox: 0.6104792226517052
+SpaceMetric ConvexHull: 0.48948269296409375
+Single RunningTime: 6741454

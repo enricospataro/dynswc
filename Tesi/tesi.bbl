@@ -160,4 +160,14 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
 {Wikipedia, Brown Corpus, consultato a Gennaio 2016},
   {\texttt{http://it.wikipedia.org/wiki/brown\_corpus}}.
 
+\bibitem{JFreeChart}
+{JFreeChart}.
+\newblock http://sourceforge.net/projects/jfreechart.
+
+\bibitem{ted}
+{TED, Technology Entertainment Design}, {\texttt{http://www.ted.com}}.
+
+\bibitem{ted2srt}
+{TED2SRT}, {\texttt{http://ted2srt.org}}.
+
 \end{thebibliography}

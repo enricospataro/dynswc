@@ -37,7 +37,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         delaunayEdges = computeDelaunay();
 
         runForceDirected();
-
+        
         iter++; 
     }
 
@@ -148,7 +148,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
 			Rectangle lastRect = lastWordPositions.get(w);
 			
             Point dxy = new Point();
-            dxy.add(computeAttractiveForce(bb,w,rect,lastRect,maxScore));
+            dxy.add(computeAttractiveForce(w,rect,lastRect,maxScore));
 
             // move the rectangle
             rect.setRect(rect.getX()+dxy.getX(),rect.getY()+dxy.getY(),rect.getWidth(),rect.getHeight());
@@ -203,7 +203,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         return avgStep > Math.max(bb.getWidth(),bb.getHeight())/10000.0;
     }
     
-    private Point computeAttractiveForce(Rectangle bb,Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
+    private Point computeAttractiveForce(Word w,Rectangle rect,Rectangle lastRect,double maxScore) {
     	
     	Point dxy = new Point();     
         double k = Math.max(w.getScore(),maxScore/5.0);     
@@ -398,7 +398,7 @@ public class ContextPreservingStrategy extends BaseLayoutStrategy {
         }
         return res;
     }
-
+	public String toString() {return "CPWCV";}
 }
 
 

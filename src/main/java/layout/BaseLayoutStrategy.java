@@ -41,7 +41,7 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
         this.similarity=wordGraph.getSimilarity();
         this.wordPositions=new ArrayList<Rectangle>(words.size());
         this.wordPositionsMap=new HashMap<>();  
-
+        
         execute(); 
         
         lastResult = createResult();
@@ -50,6 +50,7 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
     
     protected LayoutResult createResult() {
     	IntStream.range(0,words.size()).forEach(i -> wordPositionsMap.put(words.get(i),wordPositions.get(i)));
+
     	return new LayoutResult(words,wordPositions);
 //    	return new LayoutResult(wordPositionsMap);
     }
@@ -57,4 +58,5 @@ public abstract class BaseLayoutStrategy implements LayoutStrategy {
 		IntStream.range(0,words.size()).forEach(i -> wordPositions.add(getBoundingBox(words.get(i))));
 	}	
 	public Rectangle getBoundingBox(Word word) {return boundingBox.getBoundingBox(word);}
+	public abstract String toString();
 }

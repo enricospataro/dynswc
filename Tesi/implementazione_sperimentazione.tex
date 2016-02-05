@@ -2,23 +2,49 @@
 
 %%CAPITOLO 3: =======================================
 
-\chapter{Implementazione e sperimentazione}
-
+\chapter{Implementazione e sperimentazione}\label{ch:impl_test}
+L'architettura del sistema e la fase di sperimentazione sono esposte in questo capitolo.
+\\ \\
+La sezione \ref{sec:arch} spiega, a grandi linee, i dettagli implementativi degli algoritmi presentati nel precedente capitolo, facendo uso di class diagram per descrivere i moduli funzionali che compongono il sistema. La sezione \ref{sec:test} riporta invece i test eseguiti: dapprima vengono descritte le metriche utilizzate, poi i risultati ottenuti sono analizzati con l'ausilio di figure e tabelle.
 \section{Architettura del sistema}\label{sec:arch}
 Il sistema è stato scritto interamente con il linguaggio di programmazione \textit{Java} in ambiente \textit{Eclipse}.
 
-La word cloud viene generata a partire da un file di testo (formato \textit{.txt}) in input. Tuttavia, il software è dotato di una classe, SrtFileCleaner, che permette di ricevere in input un file di testo in formato \textit{.srt}, che è la rappresentazione di un generico sottotitolo, con relativi timestamp, e lo ripulisce, in modo da ottenere un semplice file di testo. Il supporto a questo tipo di file è utile perchè la word cloud dinamica si può creare a partire da video che contengono il relativo sottotitolo (ad esempio, a partire dai video di YouTube).
+La word cloud viene generata a partire da un file di testo (formato \textit{.txt}) in input. Tuttavia, il software è dotato di una classe, \texttt{SrtFileCleaner}, la quale permette di ricevere in input un file di testo in formato \textit{.srt}, che è la rappresentazione di un generico sottotitolo con relativi timestamp, e lo ripulisce, in modo da ottenere un semplice file di testo. Il supporto a questo tipo di file è utile perchè la word cloud dinamica si può creare a partire da video che contengono il relativo sottotitolo (ad esempio, a partire dai video di YouTube). 
 
-La fase di pre-processing inizia con l'elaborazione del testo. A tal fine, è stato utilizzato il toolkit open source \textit{Apache OpenNLP}\cite{opennlp}, basato su tecniche di Machine Learning per l'elaborazione del linguaggio naturale. Questo toolkit consente l'esecuzione delle varie fasi che preparano il testo in input all'algoritmo di estrazione delle keywords: rilevamento delle frasi, suddivisione del testo in token, stemming e rimozione delle stop word. Per ogni fase si utilizzano dei modelli (forniti dalla libreria) per l'elaborazione della lingua inglese, ma anche altre lingue sono supportate. 
+Come descritto nel capitolo precedente, ogni fase può essere svolta da più algoritmi. L'utilizzo del pattern \textbf{Strategy}\cite{gof}, rende l'architettura parametrica rispetto a tali algoritmi e consente loro di essere intercambiabili. Ciò, inoltre, riduce notevolmente la probabilità di introdurre errori nel caso si vogliano aggiungere nuovi algoritmi o modificare quelli già implementati.
 
-L'elaborazione del testo, con conseguente estrazione delle keywords, è gestita dalla classe \textit{Document}, il cui costruttore ha come parametri il testo da elaborare, l'algoritmo di rilevamento delle frasi, il tokenizer, l'algoritmo di stemming e la lista delle stop word (figura \ref{class:doc}). Nella nostra implementazione l'algoritmo di stemming utilizzato è il Porter Stemmer, fornito dalla libreria. Il metodo che elabora il testo è \textit{parse()}, il quale predispone in modo opportuno la lista delle parole da cui l'algoritmo di ranking estrarrà le parole più rilevanti. 
+Il file di testo viene elaborato opportunamente in base al numero di campionamenti (istanti di generazione della word cloud) scelto dall'utente e in base al numero di parole da visualizzare (classe \texttt{Document}). L'elaborazione del testo crea le strutture dati (lista delle parole estratte e conteggio delle co-occorrenze tra le parole) che costituiscono l'input dell'algoritmo di calcolo della similarità. 
+
+Calcolate le parole e le loro similarità, si crea il grafo delle parole. Ogni grafo viene salvato su una lista di dimensione uguale al numero di campionamenti del testo. Ciascun elemento di tale lista rappresenta il parametro dell'algoritmo di layout che realizza il disegno (implementazione dell'interfaccia \texttt{LayoutStrategy}). Inoltre, ogni algoritmo di layout mantiene un riferimento al disegno precedente, in modo da consentire la preservazione della mappa mentale tra layout consecutivi (vedi paragrafo \ref{subsec:layoutdin}). I disegni (istanze di tipo \texttt{LayoutResult}) vengono quindi salvati su una lista di dimensione pari al numero di campionamenti del testo. 
+
+L'algoritmo K-means++, per ogni elemento della lista dei layout, esegue il clustering delle parole. La classe \texttt{ClusterColorHandler} invoca l'algoritmo di clustering e, inoltre, avendo il riferimento al cluster precedente, gestisce le variazioni dei cluster tra due disegni successivi.
+
+La dinamicità viene gestita dall'algoritmo di morphing descritto nel precedente capitolo: viene creata una lista di oggetti \texttt{LayoutResult} di dimensione pari al numero di frame scelti. Il metodo \texttt{setFrames(int frames)} permette all'utente di scegliere il numero di frame desiderato tra un layout ed un altro.
+
+La variazione graduale dei colori, tra un frame e l'altro, è realizzata dalla classe \texttt{SimpleColorMorphing}, la quale calcola le variazioni dei colori e assegna, ad ogni frame, il giusto colore alle parole.
+
+Terminata la fase di logica applicativa, viene visualizzata la word cloud dinamica con l'utilizzo di una semplice interfaccia grafica.
+
+\subsection{Estrazione keywords e calcolo similarità}
+ 
+L'estrazione delle parole e il calcolo delle similarità, come abbiamo visto nel paragrafo \ref{wc_din:word_ext}, prevede una fase iniziale di preprocessing dell'input. Questa fase è stata realizzata con l'ausilio del toolkit open source \textit{Apache OpenNLP}\cite{opennlp}, basato su tecniche di Machine Learning per l'elaborazione del linguaggio naturale, che consente l'esecuzione dei diversi passaggi che elaborano in modo adeguato il testo in input, al fine di creare le strutture dati necessarie all'algoritmo di estrazione delle keywords. Dunque, grazie ai servizi forniti dal toolkit, vengono eseguiti il rilevamento delle frasi, la suddivisione del testo in token, il processo di stemming e la rimozione delle stop word. Per ciascuna di queste fasi si utilizzano dei modelli (forniti dalla libreria) per l'elaborazione della lingua inglese, ma anche altre lingue sono supportate. 
+
+L'elaborazione del testo, con conseguente estrazione delle keywords, è gestita dalla classe \texttt{Document}, la cui generica istanza ha diversi attributi (figura \ref{class:doc}):
+\begin{itemize}
+\item il testo da elaborare (variabile \texttt{text});
+\item l'algoritmo di rilevamento delle frasi (variabile \texttt{sentenceDetector}); 
+\item il tokenizer (variabile \texttt{tokenizer}); 
+\item l'algoritmo di stemming (variabile \texttt{stemmer});
+\item la lista delle stop word (variabile \texttt{stopWords}).
+\end{itemize} 
+Nella nostra implementazione l'algoritmo di stemming utilizzato è il Porter Stemmer, fornito dalla libreria. \\ Il metodo che elabora il testo è \texttt{parse()}, il quale predispone in modo opportuno, tramite i parametri del costruttore, la lista delle parole da cui l'algoritmo di ranking estrarrà le parole più rilevanti. 
 \begin{figure}
 \centering
 {\includegraphics[scale=0.6]{img/impl_test/class_doc.png}}
-\caption[Class diagram delle classe Document.]{Class diagram delle classe Document.}
+\caption[Class diagram delle classe  \texttt{Document}.]{Class diagram delle classe  \texttt{Document}.}
 \label{class:doc}
 \end{figure}
-Il ranking e la conseguente estrazione delle parole è gestita dal metodo \textit{rankFilter(int maxWords,RankingStrategy rankStrategy)}, i cui parametri sono il numero di parole da estrarre e l'algoritmo di ranking, attraverso cui viene chiamato il metodo \textit{rank(Document document)}, che esegue la classificazione delle parole. Tale metodo è dichiarato nell'interfaccia \textit{RankingStrategy} ed è realizzato dalle classi che estendono \textit{RankingStrategy}, le quali rappresentano i diversi algoritmi di estrazione delle keywords descritti nel precedente capitolo (figura \ref{strategy:rank}). L'utilizzo del pattern \textbf{Strategy}\cite{gof}, rende l'architettura parametrica rispetto agli algoritmi di estrazione delle parole (lo stesso avviene con gli algoritmi impiegati nelle fasi successive del processo di creazione della word cloud).
+Il ranking e la conseguente estrazione delle parole è quindi gestita dal metodo \texttt{rankFilter(int maxWords,RankingStrategy rankStrategy)}, i cui parametri sono il numero di parole da estrarre e l'algoritmo di ranking. Attraverso il parametro \texttt{rankStrategy} viene invocato il metodo \texttt{rank(Document document)}, che esegue l'effettiva classificazione delle parole. Tale metodo è dichiarato nell'interfaccia \texttt{RankingStrategy} ed è realizzato dalle classi che implementano \texttt{RankingStrategy}, le quali rappresentano i diversi algoritmi di estrazione delle keywords descritti nel precedente capitolo (vedi figura \ref{strategy:rank}). 
 \begin{figure}
 \centering
 {\includegraphics[scale=0.7]{img/impl_test/rank_strategy.png}}
@@ -26,21 +52,659 @@ Il ranking e la conseguente estrazione delle parole è gestita dal metodo \textit
 \label{strategy:rank}
 \end{figure}
 
-Ogni parola è un'istanza della classe \textit{Word}, che gestisce diverse caratteristiche di una parola, tra cui la radice, il punteggio e le sue variazioni, la lista di frasi in cui essa compare ecc... (figura \ref{class:word}). 
+Ogni parola è rappresentata da un'istanza della classe \texttt{Word}, che gestisce diverse caratteristiche di una parola, tra cui la radice, il punteggio e le sue variazioni, la lista di frasi in cui essa compare ecc... (figura \ref{class:word}). 
 \begin{figure}
 \centering
 {\includegraphics[scale=1]{img/impl_test/class_word.png}}
-\caption[Class diagram delle classe Word.]{Class diagram delle classe Word.}
+\caption[Class diagram delle classe \texttt{Word}.]{Class diagram delle classe  \texttt{Word}.}
 \label{class:word}
 \end{figure}
 
-Una volta ottenute le parole estratte, si procede al calcolo della similarità, tramite uno degli algoritmi di similarità definiti in precedenza. Si utilizza un approccio parametrico come per gli algoritmi di ranking (figura \ref{strategy:simil}).
+Una volta estratte le keywords, si procede al calcolo della similarità, tramite uno degli algoritmi di similarità definiti in precedenza. Si utilizza un approccio parametrico come per gli algoritmi di ranking (figura \ref{strategy:simil}).
 \begin{figure}
 \centering
-{\includegraphics[scale=0.6]{img/impl_test/simil_strategy.png}}
+{\includegraphics[scale=0.8]{img/impl_test/simil_strategy.png}}
 \caption[Classi coinvolte nel calcolo della similarità tra parole.]{Classi coinvolte nel calcolo della similarità tra parole.}
 \label{strategy:simil}
 \end{figure}
 
-Ottenute la lista delle parole più rilevanti e la similarità a coppie, si procede con la costruzione del grafo tramite la classe \textit{WordGraph}, il cui costruttore ha come parametri la lista delle parole e la mappa delle similarità tra coppie di parole. Il generico oggetto \textit{WordGraph} è il parametro degli algoritmi di layout. 
+\subsection{Creazione word cloud dinamica}
+\subsubsection{Layout}
+Ottenute la lista delle parole più rilevanti e la similarità a coppie, si procede con la costruzione del grafo delle parole tramite la classe \texttt{WordGraph}, il cui costruttore ha come parametri proprio la lista delle parole e la mappa delle similarità tra coppie di parole. Gli algoritmi di layout creano il disegno a partire da un oggetto \texttt{WordGraph} e salvano tutte le relative informazioni in un'istanza di \texttt{LayoutResult}. I servizi comuni tra le classi che effettivamente realizzano gli algoritmi sono esposti nella classe astratta \texttt{BaseLayoutStrategy}. In particolare, si hanno i seguenti metodi:
+\begin{itemize}
+\item \texttt{layout(WordGraph wordGraph)}, che inizializza alcune variabili di utilità, per poi chiamare il metodo astratto \texttt{execute()}, il quale a tempo di esecuzione sarà ovviamente concreto e verrà eseguito a seconda del tipo effettivo di \texttt{LayoutStrategy};
+\item \texttt{createResult()}, il quale crea un oggetto di tipo \texttt{LayoutResult} e lo salva nella variabile \texttt{lastResult}. Questo riferimento sarà la chiave per il mantenimento della mappa mentale nel passaggio da una word cloud ad un'altra;
+\item \texttt{createBoundingBoxes()} associa, ad ogni parola contenuta nella lista \texttt{words} (contenente oggetti di tipo \texttt{Word}), il relativo bounding box, che non è altro che un oggetto \texttt{Rectangle}. Questa mappatura viene salvata nella variabile \texttt{wordPositionsMap}. Per generare il bounding box, Java consente di estrarre il bounding box di una sequenza di caratteri tramite il toolkit Graphics2D. La dimensione del bounding box viene quindi opportunamente scalata in base al relativo punteggio  di ciascuna parola.
+\end{itemize}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.8]{img/impl_test/layout_strategy.png}}
+\caption[Classi coinvolte nella creazione della word cloud.]{Classi coinvolte nella creazione della word cloud.}
+\label{strategy:layout}
+\end{figure}
+La coerenza della mappa mentale, come detto, viene rispettata grazie al riferimento all'ultimo disegno realizzato, denotato dalla variabile \texttt{lastResult}. Tale variabile viene ereditata dallo specifico algoritmo di layout ed è gestita in modo opportuno nell'implementazione della procedura force directed descritta nel paragrafo \ref{subsec:layoutdin}. Tale procedura viene eseguita subito dopo l'applicazione dello scaling multidimensionale al grafo delle parole, che colloca sul piano le parole in base alla loro similarità. Il metodo force directed, grazie al riferimento all'ultimo layout, riesce a ricavare le parole in comune tra i due layout. Per ognuna di queste parole, viene calcolata la distanza tra la vecchia e la nuova posizione, dunque si applica una forza attrattiva proporzionale al punteggio della parola nel layout corrente. Il numero massimo di iterazioni è 1000. \\ Di seguito è riportato lo pseudocodice della procedura force directed utilizzata.
+\begin{algorithm}
+\label{iter_algorithm}
+\begin{algorithmic}[1]
+\Procedure{ForceDirected\textendash Iteration}{}
+\State siano $\Gamma_{i-1}$ il layout precedente, $\Gamma_{i}$ il layout corrente e sia $W$ l'insieme delle parole comuni a $\Gamma_{i-1}$ e $\Gamma_{i}$;
+\Repeat
+\For{\textbf{each} parola $w$ \Pisymbol{psy}{206} $W$ }
+\State sia $\tau_{i-1} \gets $ posizione di $w$ in $\Gamma_{i-1}$;
+\State sia $\tau_{i} \gets$ posizione di $w$ in $\Gamma_{i}$;
+\State $\rho_{i} \gets$ punteggio di $w$ $\Gamma_{i}$;
+\State $\delta \gets \textsc{attractiveforce}$($\tau_{i-1}$,$\tau_{i}$,$\rho_{i}$);
+\State muovi $r_{i}$ in direzione di $r_{i-1}$ di una quantità pari a $\delta$;
+\EndFor
+\Until{equilibrio raggiunto OR iterazioni massime effettuate;}
+\EndProcedure
+\end{algorithmic}
+\caption{Avvio iterazione.}
+\end{algorithm}
+\begin{algorithm}
+\label{att_force}
+\begin{algorithmic}[1]
+\Procedure{AttractiveForce($\tau_{i-1}$,$\tau_{i}$,$\rho_{i}$)}{}
+\State $P=(x,y) \gets$ punto di coordinate $x$ e $y$ corrispondenti alle distanze dei centri di $\tau_{i-1}$ e $\tau_{i}$;
+\State $\bar{P} \gets$  normalizzazione di $P$;
+\State \Return $\bar{P}$ scalato di una quantità proporzionale a $\rho_{i}$;
+\EndProcedure
+\end{algorithmic}
+\caption{Calcolo forza attrattiva.}
+\end{algorithm}
+\subsubsection{Clustering}
+L'esecuzione dell'algoritmo di clustering K-means++ avviene per ciascun oggetto di tipo \texttt{WordGraph}. Per calcolare il corretto numero di cluster, viene avviato più volte l'algoritmo a partire da $k = \sqrt{n/2}$, incrementando $k$ di una unità ad ogni iterazione. Poi si esegue il confronto tra clustering successivi per selezionare quello migliore. 
+
+L'algoritmo viene eseguito dalla classe \texttt{ClusterColorHandler} (vedi figura \ref{class:clusterhandler}), mediante l'invocazione del metodo \texttt{initialize(WordGraph wordGraph, ClusterResult prevResult)}. Il cluster prodotto è referenziato dalla variabile \texttt{clustering}, il cui tipo è \texttt{ClusterResult}, struttura dati che contiene tutte le informazioni relative al cluster. Ad ogni cluster è associato un intero, il quale corrisponde all'indice di un elemento dell'array dei colori da assegnare alle parole del cluster (variabile \texttt{colorSequence}). Il metodo \texttt{getColor(Word w)}, quindi, consente di restituire il colore della parola \texttt{w} tramite l'indice associato al cluster di \texttt{w}. Il metodo \texttt{updateClusters(ClusterResult prevResult)}, gestisce invece la variazione dei cluster tra due layout successivi, per mezzo dei seguenti passaggi: 
+\begin{itemize}
+\item vengono calcolati i valori di similarità tra i cluster del layout precedente (variabile \texttt{prevResult}) e di quello corrente (variabile \texttt{clustering}) tramite l'algoritmo di similarità che implementa l'interfaccia \texttt{ClusterSimilarityStrategy};
+\item viene invocato il metodo \texttt{computeBestPairs(List<ClusterPair> bestPairs)}, il quale salva su una lista le coppie (di interi) con i valori più alti;
+\item se il numero di cluster, nel layout corrente, è aumentato, allora vengono aggiunte nuove coppie alla lista \texttt{bestPairs}, le quali sono calcolate in base agli interi non ancora assegnati ad alcun cluster. Il numero di coppie aggiunto è uguale a $m-l$, dove $l$ è il numero di cluster del disegno precedente ed $m$ il numero di cluster del disegno attuale; 
+\item infine, il cluster corrente viene modificato invocando  \texttt{updateClusters(bestPairs)}, metodo offerto della classe \texttt{ClusterResult}, che esegue l'aggiornamento degli indici dei vari cluster;
+\end{itemize}
+Al termine, per ciascun oggetto \texttt{WordGraph}, si ottiene un oggetto \texttt{ClusterResult} aggiornato.
+\begin{figure}
+\centering
+{\includegraphics[scale=0.95]{img/impl_test/class_clusterhandler.png}}
+\caption[Class diagram della classe \texttt{ClusterColorHandler}.]{Class diagram della classe \texttt{ClusterColorHandler}.}
+\label{class:clusterhandler}
+\end{figure}
+
+\subsubsection{Morphing}
+La dinamicità è conferita dallo specifico algoritmo di morphing che implementa l'interfaccia \texttt{MorphingStrategy}. Ovviamente, anche in questo caso è possibile estendere facilmente l'architettura con nuovi algoritmi. L'interfaccia definita prevede quindi due metodi: 
+\begin{itemize}
+\item il primo, \texttt{morph(LayoutResulta resultA)}, prende come parametro un solo layout ed esegue il morphing iniziale, ovvero quello in cui, nella word cloud, compaiono solo nuove parole;
+\item il secondo, \texttt{morph(LayoutResulta resultA, LayoutResult resultB)}, prende come parametri due layout consecutivi e ne esegue il morphing. 
+\end{itemize}
+Questi due metodi estraggono una lista di disegni (oggetti \texttt{LayoutResult}) con le posizioni delle parole via via aggiornate. La dimensione di tale lista è pari al numero di frame scelto tra una word cloud e la successiva, definito dal parametro \texttt{frames} del costruttore dello specifico algoritmo di morphing che estende \texttt{MorphingStrategy}. \\ L'algoritmo di morphing utilizzato è rappresentato dalla classe \texttt{SimpleMorphing}, che implementa diversi metodi, tra cui:
+\begin{itemize}
+\item \texttt{morphNewWords(int iter)}, il quale, per ogni elemento della lista \texttt{newWords}, incrementa il punteggio ad ogni frame e restituisce una mappa in cui, a ciascuna parola, è associata un rettangolo con le dimensioni aggiornate;
+\item \texttt{morphDisappearingWords(int iter)}, il quale, per ogni elemento della lista \\ \texttt{disappearingWords}, decrementa il punteggio ad ogni frame e restituisce una mappa in cui, a ciascuna parola, è associata un rettangolo con le dimensioni aggiornate;
+\item \texttt{morphCommonWords(int iter)}, il quale, per ogni elemento della lista \texttt{commonWords}, incrementa o decrementa il punteggio ad ogni frame. Inoltre, viene chiamato il metodo \texttt{handleRects(...)} che, a seconda dei casi (vedi paragrafo \ref{subsec:morphing}), aggiorna le coordinate delle parole. Il metodo restituisce dunque una mappa in cui, a ciascuna parola, è associato un rettangolo con le coordinate e le dimensioni aggiornate.
+\end{itemize}
+Quindi, una volta terminato il morphing, se $n$ è il numero di frame tra un layout ed un altro, vengono creati $n$ oggetti \texttt{LayoutResult}, che rappresentano i layout aggiornati frame per frame.
+\begin{figure}
+\centering
+{\includegraphics[scale=0.8]{img/impl_test/morph_strategy.png}}
+\caption[Classi coinvolte nell'operazione di morphing.]{Classi coinvolte nell'operazione di morphing.}
+\label{strategy:morph}
+\end{figure}
+\\ \\
+La variazione del colore da un layout al successivo è invece trattata, con un approccio simile alla classe \texttt{SimpleMorphing}, dalla classe \texttt{SimpleColorMorphing}. La classe \texttt{Color} di Java codifica i colori, nel modello RGB, con interi compresi tra 0 a 255. Come sopra, i metodi \texttt{morphNewWords(...)}, \texttt{morphDisappearingWords(...)} e \texttt{morphCommonWords(...)} applicano il morphing dei colori tra due disegni consecutivi, con la differenza che il tipo restituito è un array di oggetti \texttt{Color} (nel caso dei primi due metodi) o una matrice di oggetti \texttt{Color} (nel caso del terzo metodo). Queste strutture dati vengono restituite alla classe \texttt{DynamicColorHandler}, che si occupa, ad ogni frame, di assegnare il colore esatto a ciascuna parola, tramite il metodo \texttt{getColor(Word w)}, così come nella classe \texttt{ClusterColorHandler}.
+\subsection{Interfaccia grafica}
+La visualizzazione dinamica della word cloud avviene per mezzo di una semplice interfaccia grafica sviluppata con il framework \textit{Swing} di Java. L'interfaccia contiene i bottoni tipici di un qualsiasi player, i quali permettono di avviare la visualizzazione, metterla in pausa, riavviarla, passare direttamente alla successiva word cloud o alla precedente (vedi figura \ref{ex:ui}). 
+
+Sempre in figura \ref{ex:ui} si nota, in basso a sinistra, un grafico a barre (la cui visibilità si può impostare dal menù) contenente le 10 parole più importanti ad ogni layout, ordinate in base al relativo punteggio. Tale finestra è stata realizzata tramite la libreria Java \textit{JFreeChart}\cite{JFreeChart}.
+\begin{figure}
+\centering
+\subfigure[]
+{\includegraphics[scale=0.35]{img/impl_test/wordcloud_ui1.png}}
+\subfigure[]
+{\includegraphics[scale=0.35]{img/impl_test/wordcloud_ui2.png}}
+\caption[Esempio di visualizzazione dinamica di una word cloud in due layout successivi.]{Esempio di visualizzazione dinamica di una word cloud in due layout successivi.}
+\label{ex:ui}
+\end{figure}
+
 \section{Risultati sperimentali}\label{sec:test}
+Il sistema è stato testato su un dataset di 200 testi, corrispondenti a discorsi estratti da video della conferenza \textit{TED}\cite{ted}. Le trascrizioni dei video (file di testo \textit{.txt}) sono state ottenute grazie al tool online TED2SRT\cite{ted2srt}. Ogni discorso tratta temi di attualità e la durata media è di circa 17 minuti. La sperimentazione è stata infine effettuata su un calcolatore con processore Intel i7 2.40Ghz e memoria RAM 8GB. 
+\subsection{Metriche adottate}
+Gli algoritmi di layout sono stati testati sulla base di diverse metriche. Le metriche tengono conto sia di aspetti quantitativi (compattazione, distanza tra parole correlate semanticamente) che qualitativi (mantenimento della mappa mentale) ed assumono valori compresi nell'intervallo $[0,1]$.
+
+\subsubsection{Distortion metric}
+Data una word cloud $\Gamma^{k}$, $k \in \{1,...,K\}$, tale metrica misura la vicinanza geometrica tra parole correlate semanticamente nel disegno. In particolare, siano: 
+\begin{itemize}
+\item $s_{ij}$ il valore di similarità, compreso tra $0$ e $1$, tra la parola $w_{i}$ e la parola $w_{j}$ ed estratto dalla matrice di similarità calcolata con uno degli algoritmi descritti in precedenza;
+\item $d_{ij}$ la distanza normalizzata (cioè compresa tra $0$ e $1$) tra la parola $w_{i}$ e la parola $w_{j}$. Essa è calcolata come $d_{ij}=\dfrac{\delta_{ij}}{D}$, dove $\delta_{ij}$ è la distanza minima tra due bounding box, mentre $D$ è la massima distanza possibile nel disegno tra due punti, cioè la diagonale del più grande bounding box che contiene la word cloud. In generale, nel calcolo di $\delta_{ij}$, si hanno tre casi (vedi figura \ref{dist_rett}). Se $b_{i}$, $h_{i}$ e $c_{i}$ rappresentano la base, l'altezza e il centro del bounding box di $w_{i}$, allora $\delta_{ij} = \sqrt{\Delta_{x_{ij}}^2 +\Delta_{y_{ij}}^2 }$, dove:
+\begin{itemize}
+\item la quantità $\Delta_{x_{ij}} = \max \{{0,\vert c_{x_{i}}-c_{x_{j}}\vert - \dfrac{b_{i}+b_{j}}{2}}\}$ rappresenta la distanza minima sull'asse x;
+\item la quantità $\Delta_{y_{ij}} = \max \{{0,\vert c_{y_{i}}-c_{y_{j}}\vert - \dfrac{h_{i}+h_{j}}{2}}\}$ rappresenta la distanza minima sull'asse y.
+\begin{figure}
+\centering
+\subfigure[Distanza solo sulle ascisse.]
+{\includegraphics[scale=0.75]{img/impl_test/dist_1.png}}
+\hspace{1cm}
+\subfigure[Distanza solo sulle ordinate.]
+{\includegraphics[scale=0.75]{img/impl_test/dist_2.png}}
+\subfigure[Distanza su entrambi gli assi.]
+{\includegraphics[scale=0.75]{img/impl_test/dist_3.png}}
+\caption[Distanza minima tra due parole.]{Distanza minima tra due parole.}
+\label{dist_rett}
+\end{figure}
+\end{itemize}
+Per ogni coppia di parole $w_{i}$ e $w_{j}$, dunque, si calcola il coefficiente $c_{ij} = (1-d_{ij})^2$.
+\end{itemize}
+La misura $S^{k}$ della vicinanza geometrica fra parole correlate semanticamente nel disegno $\Gamma_{k}$ viene quindi calcolata combinando $c_{ij}$ con $s_{ij}$ mediante la seguente formula:
+\begin{equation}
+S^{k} = \dfrac{\sum \nolimits_{ij} c_{ij}s_{ij}}{\sum \nolimits_{ij} s_{ij}},
+\end{equation}
+dove $S^{k} \in [0,1]$. Se tale valore è vicino a $1$, allora la distanza geometrica rispecchia la similarità, altrimenti se tale valore tende a $0$ vale il contrario.
+\subsubsection{Coherence metric}
+Il mantenimento della mappa mentale tra due disegni consecutivi è calcolato con questa metrica. Dati due disegni consecutivi $\Gamma^{k-1}$ e $\Gamma^{k}$, con $k \in \{2,...,K\}$, indichiamo con
+$P = \{w_{1},...,w_{p}\}$ l'insieme delle $p$ parole comuni a $\Gamma^{k-1}$ e $\Gamma^{k}$. Denotiamo con $\sigma(w_{i}^{k},w_{i}^{k-1}, w_{i} \in P$, la variazione di posizione della parola $w_{i}$ nel disegno $\Gamma^{k}$. Sia inoltre $D$ la diagonale del più grande bounding box che contiene la word cloud. La metrica è definita come:
+\begin{equation}
+\vartheta^{k,k-1} = 1 - \dfrac{\sum \limits_{i=1}^p \sigma(w_{i}^{k},w_{i}^{k-1})}{pD}
+\end{equation}
+Ne segue che:
+\begin{enumerate}
+\item $\vartheta^{k,k-1} \in [0,1]$;
+\item essendo $k \in \{2,...,K\}$, tale misura non è definita per il primo layout. Si può dunque assumere che $\vartheta^{1,0}=1$;
+\end{enumerate}
+\subsubsection{Combination metric}
+Per ciascun disegno $\Gamma^{k}, k \in \{1,...,K\}$, sono state calcolate $S^{k}$ e $\vartheta^{k,k-1}$. A questo punto si può ottenere una nuova metrica, combinazione lineare delle due metriche appena definite:
+\begin{equation}
+\nu = \dfrac{1}{K}\sum\limits_{k=1}^K (\alpha S^{k} + \beta\vartheta^{k,k-1})
+\end{equation}
+dove:
+\begin{itemize}
+\item $K$ è il numero di word cloud realizzate;
+\item $\alpha$ e $\beta$ sono due coefficienti entrambi positivi e tali che $\alpha + \beta=1$;
+\end{itemize}
+La definizione di questa metrica è utile poichè, come già espresso in precedenza, la vicinanza geometrica tra parole maggiormente correlate semanticamente e la preservazione della mappa mentale cosituiscono due obiettivi contrastanti. Con i valori ottenuti da questa metrica, è possibile analizzare gli algoritmi di disegno sulla base di tali parametri e scegliere quindi l'algoritmo adatto in base alle proprie esigenze. 
+\subsubsection{Space metric}
+L'uso efficiente dell'area di disegno viene racchiusa da questa semplice misura. Si calcola l'area utilizzata come la somma delle aree dei bounding box di ciascuna parola ($\mu$); poi si calcola l'area del bounding box (o dell'inviluppo convesso, detto \textit{convex hull}) che contiene tutte le parole ($\varphi$). La \textbf{compattezza} è definita come $ \gamma = 1 - \dfrac{\mu}{\varphi}$. Se tale valore tende ad $1$, allora si ha un disegno poco compatto, mentre un valore tendente a zero denota un disegno troppo compatto.
+\subsubsection{Running time}
+Il calcolo del tempo d'esecuzione consiste nel conteggio del tempo  necessario ad eseguire i diversi passaggi nella creazione della word cloud, a partire dall'elaborazione del testo, fino ad arrivare alla generazione dell'interfaccia grafica. Il tempo di esecuzione è stato valutato dunque per:
+\begin{itemize}
+\item l'elaborazione del testo ed estrazione delle keywords;
+\item il calcolo delle similarità;
+\item la creazione della word cloud;
+\item l'applicazione della procedura di morphing tra le parole;
+\item il clustering e la gestione delle variazioni dei cluster tra una word cloud e l'altra;
+\item la gestione delle variazioni dei colori delle parole;
+\item la generazione dell'interfaccia grafica;
+\item tempo totale di esecuzione.
+\end{itemize}
+Eccetto per gli ultimi due valori, tutti i tempi sono stati mediati sul numero di campionamenti del testo (pari a $4$).
+\subsection{Risultati}
+La durata media dei discorsi che compongono il dataset è di circa 17 minuti, per cui si è scelto di creare le word cloud in 4 istanti, in modo da ottenere una prima finestra temporale tra i 4 e i 5 minuti e avere abbastanza parole da estrarre. Inoltre, poichè l'evoluzione della word cloud è dinamica, è bene non visualizzare troppe parole, in modo da non creare confusione all'utente. Per questi motivi, sono state realizzate, per ogni combinazione degli algoritmi utilizzati, tre word cloud da 20, 40 e 60 parole ciascuna.
+
+\subsubsection{Combination metric}
+Sono stati calcolati i valori dei tre algoritmi di layout per tutte le combinazioni possibili tra il numero di parole, l'algoritmo di ranking e l'algoritmo di similarità. Gli andamenti degli algoritmi sono riportati nelle figure delle pagine successive. I valori assunti giacciono su una retta che congiunge due punti, cioè $\alpha=0$, che coincide con la misura della Coherence, e $\alpha=1$, che coincide con la misura della Distortion. In entrambe le metriche, la quantità $D$, cioè la diagonale del bounding box che contiene la word cloud, è presa come il massimo per ogni coppia $\{$numero di parole,algoritmo di layout$\}$.
+
+L'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sempre Star Forest e CPWCV. In particolare, preserva piuttosto bene la mappa mentale, mentre per quanto riguarda la Distortion, i valori assunti dai vari algoritmi tendono ad essere molto vicini e in ogni caso sono più che discreti. Com'era lecito aspettarsi, i valori più alti si osservano nel caso di 20 parole estratte, mentre all'aumentare delle parole i valori decrescono. Star Forest ha un comportamento simile a Cycle Cover, assumendo valori leggermente inferiori sulla Coherence. CPWCV è invece l'algoritmo che, il più delle volte, si comporta peggio nella misura della coerenza della mappa mentale. Ciò fa si che le parole tendano a muoversi di più, migliorando d'altro canto la Distortion. La retta che rappresenta l'andamento della CPWCV, infatti, ha solitamente un andamento non decrescente.
+
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/combo_20.png}}
+\caption{Combination metric: Term Frequency + Jaccard Similarity con 20 parole estratte.}
+\label{combo_tf_jaccard_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/combo_40.png}}
+\caption{Combination metric: Term Frequency + Jaccard Similarity con 40 parole estratte.}
+\label{combo_tf_jaccard_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/combo_60.png}}
+\caption{Combination metric: Term Frequency + Jaccard Similarity con 60 parole estratte.}
+\label{combo_tf_jaccard_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/combo_20.png}}
+\caption{Combination metric: Term Frequency + Cosine Similarity con 20 parole estratte.}
+\label{combo_tf_cosine_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/combo_40.png}}
+\caption{Combination metric: Term Frequency + Cosine Similarity con 40 parole estratte.}
+\label{sm_tf_cosine_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/combo_60.png}}
+\caption{Combination metric: Term Frequency + Cosine Similarity con 60 parole estratte.}
+\label{sm_tf_cosine_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/combo_20.png}}
+\caption{Combination metric: Term Frequency + Extended Jaccard Similarity con 20 parole estratte.}
+\label{combo_tf_extended_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/combo_40.png}}
+\caption{Combination metric: Term Frequency + Extended Jaccard Similarity con 40 parole estratte.}
+\label{combo_tf_extended_40}
+\end{figure}
+\clearpage
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/combo_60.png}}
+\caption{Combination metric: Term Frequency + Extended Jaccard Similarity con 60 parole estratte.}
+\label{combo_tf_extended_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/combo_20.png}}
+\caption{Combination metric: TFIDF + Jaccard Similarity con 20 parole estratte.}
+\label{combo_tfidf_jaccard_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/combo_40.png}}
+\caption{Combination metric: TFIDF + Jaccard Similarity con 40 parole estratte.}
+\label{combo_tfidf_jaccard_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/combo_60.png}}
+\caption{Combination metric: TFIDF + Jaccard Similarity con 60 parole estratte.}
+\label{combo_tfidf_jaccard_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/combo_20.png}}
+\caption{Combination metric: TFIDF + Cosine Similarity con 20 parole estratte.}
+\label{combo_tfidf_cosine_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/combo_40.png}}
+\caption{Combination metric: TFIDF + Cosine Similarity con 40 parole estratte.}
+\label{combo_tfidf_cosine_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/combo_60.png}}
+\caption{Combination metric: TFIDF + Cosine Similarity con 60 parole estratte.}
+\label{combo_tfidf_cosine_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/combo_20.png}}
+\caption{Combination metric: TFIDF + Extended Jaccard Similarity con 20 parole estratte.}
+\label{combo_tfidf_extended_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/combo_40.png}}
+\caption{Combination metric: TFIDF + Extended Jaccard Similarity con 40 parole estratte.}
+\label{combo_tfidf_extended_40}
+\end{figure}
+\clearpage
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/combo_60.png}}
+\caption{Combination metric: TFIDF + Extended Jaccard Similarity con 60 parole estratte.}
+\label{combo_tfidf_extended_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/combo_20.png}}
+\caption{Combination metric: LexRank + Jaccard Similarity con 20 parole estratte.}
+\label{combo_lexrank_jaccard_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/combo_40.png}}
+\caption{Combination metric: LexRank + Jaccard Similarity con 40 parole estratte.}
+\label{combo_lexrank_jaccard_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/combo_60.png}}
+\caption{Combination metric: LexRank + Jaccard Similarity con 60 parole estratte.}
+\label{combo_lexrank_jaccard_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/combo_20.png}}
+\caption{Combination metric: LexRank + Cosine Similarity con 20 parole estratte.}
+\label{combo_lexrank_cosine_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/combo_40.png}}
+\caption{Combination metric: LexRank + Cosine Similarity con 40 parole estratte.}
+\label{combo_lexrank_cosine_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/combo_60.png}}
+\caption{Combination metric: LexRank + Cosine Similarity con 60 parole estratte.}
+\label{combo_lexrank_cosine_60}
+\end{figure}
+\clearpage
+\subsubsection{Space metric}
+Nei risultati ottenuti, l'algoritmo CPWCV risulta essere l'algoritmo che produce disegni meno compatti, anche se la differenza con Star Forest e Cycle Cover non è eccessiva. Ovviamente, si ottengono valori diversi a seconda dell'utilizzo del bounding box o del convex hull. Quest'ultimo, infatti, ha un'area più piccola del bounding box, abbassando quindi il valore $1 - \dfrac{\mu}{\varphi}$. In generale, comunque, si ottengono buoni risultati: i valori estremi possono infatti essere dannosi, poichè disegni troppo compatti comportano una difficoltà nella lettura di parole adiacenti, mentre disegni poco compatti possono risultare dispersivi.
+
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/spacemetric_20.png}}
+\caption{Space metric: Term Frequency + Jaccard Similarity con 20 parole estratte.}
+\label{sm_tf_jaccard_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/spacemetric_40.png}}
+\caption{Space metric: Term Frequency + Jaccard Similarity con 40 parole estratte.}
+\label{sm_tf_jaccard_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_jaccard/figures/spacemetric_60.png}}
+\caption{Space metric: Term Frequency + Jaccard Similarity con 60 parole estratte.}
+\label{sm_tf_jaccard_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/spacemetric_20.png}}
+\caption{Space metric: Term Frequency + Cosine Similarity con 20 parole estratte.}
+\label{sm_tf_cosine_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/spacemetric_40.png}}
+\caption{Space metric: Term Frequency + Cosine Similarity con 40 parole estratte.}
+\label{sm_tf_cosine_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_cosine/figures/spacemetric_60.png}}
+\caption{Space metric: Term Frequency + Cosine Similarity con 60 parole estratte.}
+\label{sm_tf_cosine_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/spacemetric_20.png}}
+\caption{Space metric: Term Frequency + Extended Jaccard Similarity con 20 parole estratte.}
+\label{sm_tf_extended_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/spacemetric_40.png}}
+\caption{Space metric: Term Frequency + Extended Jaccard Similarity con 40 parole estratte.}
+\label{sm_tf_extended_40}
+\end{figure}
+\begin{figure}
+\clearpage
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tf_extended/figures/spacemetric_60.png}}
+\caption{Space metric: Term Frequency + Extended Jaccard Similarity con 60 parole estratte.}
+\label{sm_tf_extended_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png}}
+\caption{Space metric: TFIDF + Jaccard Similarity con 20 parole estratte.}
+\label{sm_tfidf_jaccard_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png}}
+\caption{Space metric: TFIDF + Jaccard Similarity con 40 parole estratte.}
+\label{sm_tfidf_jaccard_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png}}
+\caption{Space metric: TFIDF + Jaccard Similarity con 60 parole estratte.}
+\label{sm_tfidf_jaccard_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png}}
+\caption{Space metric: TFIDF + Cosine Similarity con 20 parole estratte.}
+\label{sm_tfidf_cosine_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png}}
+\caption{Space metric: TFIDF + Cosine Similarity con 40 parole estratte.}
+\label{sm_tfidf_cosine_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png}}
+\caption{Space metric: TFIDF + Cosine Similarity con 60 parole estratte.}
+\label{sm_tfidf_cosine_60}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/spacemetric_20.png}}
+\caption{Space metric: TFIDF + Extended Jaccard Similarity con 20 parole estratte.}
+\label{sm_tfidf_extended_20}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/spacemetric_40.png}}
+\caption{Space metric: TFIDF + Extended Jaccard Similarity con 40 parole estratte.}
+\label{sm_tfidf_extended_40}
+\end{figure}
+\begin{figure}
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_tfidf_extended/figures/spacemetric_60.png}}
+\caption{Space metric: TFIDF + Extended Jaccard Similarity con 60 parole estratte.}
+\label{sm_tfidf_extended_60}
+\end{figure}
+\clearpage
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png}}
+\caption{Space metric: LexRank + Jaccard Similarity con 20 parole estratte.}
+\label{sm_lexrank_jaccard_20}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png}}
+\caption{Space metric: LexRank + Jaccard Similarity con 40 parole estratte.}
+\label{sm_lexrank_jaccard_40}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png}}
+\caption{Space metric: LexRank + Jaccard Similarity con 60 parole estratte.}
+\label{sm_lexrank_jaccard_60}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png}}
+\caption{Space metric: LexRank + Cosine Similarity con 20 parole estratte.}
+\label{sm_lexrank_cosine_20}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/spacemetric_40.png}}
+\caption{Space metric: LexRank + Cosine Similarity con 40 parole estratte.}
+\label{sm_lexrank_cosine_40}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_cosine/figures/spacemetric_60.png}}
+\caption{Space metric: LexRank + Cosine Similarity con 60 parole estratte.}
+\label{sm_lexrank_cosine_60}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_extended/figures/spacemetric_20.png}}
+\caption{Space metric: LexRank + Extended Jaccard Similarity con 20 parole estratte.}
+\label{sm_lexrank_extended_20}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_extended/figures/spacemetric_40.png}}
+\caption{Space metric: LexRank + Extended Jaccard Similarity con 40 parole estratte.}
+\label{sm_lexrank_extended_40}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+{\includegraphics[scale=0.35]{img/impl_test/test_lexrank_extended/figures/spacemetric_60.png}}
+\caption{Space metric: LexRank + Extended Jaccard Similarity con 60 parole estratte.}
+\label{sm_lexrank_extended_60}
+\end{figure}
+
+\newpage 
+\newpage
+\newpage
+\subsubsection{Running time}
+Il tempo medio per l'elaborazione del testo e l'estrazione delle parole è espresso in tabella \ref{tab:ranking_time}. Si nota che l'algoritmo che impiega di più è TF-IDF, seguito da LexRank e Term Frequency, piuttosto veloce. TF-IDF risulta il meno veloce poichè per ogni termine $t$, si calcola il parametro $idf_{t}$, estratto dal corpus Brown, però rispetto a Term Frequency estrae parole più rilevanti.
+
+Il tempo impiegato è lo stesso indipendentemente dal numero di parole estratte: le parole vengono comunque tutte classificate e inserite su una lista ordinata per punteggio. Poi vengono selezionate le prime $n$ parole, dove $n$ è il numero di parole scelto da visualizzare.
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cc}
+\toprule
+Algoritmo & Tempo [sec] \\
+\midrule
+Term Frequency 	&	$0.05$ \\						
+\midrule
+TF-IDF			& 	$0.41$ \\
+\midrule
+LexRank			&	$0.23$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in secondi) di elaborazione del testo e classificazione delle parole.}
+\label{tab:ranking_time}
+\end{table}
+
+Il tempo utilizzato per il calcolo delle similarità tra coppie di parole è indicato in tabella \ref{tab:simil_time}. Sono stati valutati i tempi di calcolo (espressi in $\mu s$) per 20,40 e 60 parole estratte. Gli algoritmi Cosine similarity ed Extended Jaccard similarity hanno quasi gli stessi tempi (in effetti i due algoritmi sono molto simili). La Jaccard similarity impiega un pò di più.
+\begin{table}
+\centering
+\begin{tabular}{cccc}
+\toprule
+\multirow{2}*{Parole estratte} & \multicolumn{3}{c}{Algoritmo} \\
+\cmidrule(lr){2-4}
+& Jaccard & Cosine & Extended Jaccard \\
+\midrule
+$20$ & $0.55$ & $0.34$& $0.34$\\
+$40$ & $1.61$ & $0.98$ & $1.1$ \\
+$60$ & $3.02$ & $1.86$ & $1.88$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in $\mu s$) per il calcolo della similarità per $20$,$40$ e $60$ parole estratte.}
+\label{tab:simil_time}
+\end{table}
+
+In tabella \ref{tab:layout_time} sono riportati i tempi degli algoritmi di disegno. L'algoritmo più lento è Star Forest, mentre CPWCV e Cycle Cover sono paragonabili. In ogni caso, gli algoritmi di disegno sono piuttosto veloci e offrono buone prestazioni.
+\begin{table}
+\centering
+\begin{tabular}{cccc}
+\toprule
+\multirow{2}*{Parole estratte} & \multicolumn{3}{c}{Algoritmo} \\
+\cmidrule(lr){2-4}
+& CPWCV & Star Forest & Cycle Cover \\
+\midrule
+$20$ & $3.93 \mu s$ & $0.095s$& $6.43 \mu s$\\
+$40$ & $0.016 s$ & $0.151 s$ & $0.024s$ \\
+$60$ & $0.048s$ & $0.27 s$ & $0.067 s$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio per la creazione della word cloud con $20$,$40$ e $60$ parole.}
+\label{tab:layout_time}
+\end{table}
+
+La procedura di morphing è stata testata per un numero elevato di frame tra una word cloud ed un'altra, ovvero $150$. L'algoritmo risulta comunque piuttosto veloce (tabella \ref{tab:morphing_time}). I valori sono quasi uguali per 20 e 40 parole estratte, mentre il tempo aumenta per 60 parole estratte. 
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cc}
+\toprule
+Parole estratte & Tempo [$\mu s$] \\
+\midrule
+$20$ 	&	$0.55$ \\						
+\midrule
+$40$	& 	$0.57$\\
+\midrule
+$60$	&	$1.86$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di morphing delle parole.}
+\label{tab:morphing_time}
+\end{table}
+
+Nella tabella \ref{tab:clustering_time}, a pagina successiva, sono riportati i tempi d'esecuzione dell'algoritmo di clustering, che include anche la gestione delle variazioni tra cluster di layout successivi.
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cc}
+\toprule
+Parole estratte & Tempo [$\mu s$] \\
+\midrule
+$20$ 	&	$2.86$ \\						
+\midrule
+$40$	& 	$9.32$\\
+\midrule
+$60$	&	$18.8$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di clustering per $20$,$40$ e $60$ parole estratte.}
+\label{tab:clustering_time}
+\end{table}
+
+L'algoritmo di morphing che esegue l'aggiornamento dei colori frame per frame è leggermente più lento del morphing delle parole. Questo perchè nell'implementazione vengono create ed accedute strutture dati più complesse (vedi tabella \ref{tab:colormorphing_time}).
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cc}
+\toprule
+Parole estratte & Tempo [$\mu s$] \\
+\midrule
+$20$ 	&	$3.41$ \\						
+\midrule
+$40$	& 	$7.8$\\
+\midrule
+$60$	&	$13.16$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di morphing dei colori delle parole.}
+\label{tab:colormorphing_time}
+\end{table}
+
+La generazione dell'interfaccia grafica è, insieme all'elaborazione del testo e all'esecuzione dell'algoritmo di layout, la fase che consuma più tempo. Ovviamente, al crescere del numero di parole, anche il tempo impiegato aumenta (vedi tabella \ref{tab:ui_time}).
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cc}
+\toprule
+Parole estratte & Tempo [$ s$] \\
+\midrule
+$20$ 	&	$0.398$ \\						
+\midrule
+$40$	& 	$0.478$\\
+\midrule
+$60$	&	$0.614$ \\
+\bottomrule
+\end{tabular}
+\caption{Tempo medio (espresso in secondi) di creazione dell'interfaccia grafica per $20$,$40$ e $60$ parole.}
+\label{tab:ui_time}
+\end{table}
+
+Infine, per valutare il tempo totale necessario a creare la word cloud dinamica, il sistema è stato avviato, rispettivamente per $20$,$40$ e $60$ parole estratte, con le configurazioni degli algoritmi che sulla base delle tabelle precedenti hanno riportato le prestazioni peggiori e migliori. Ciò vale ovviamente solo per gli algoritmi di estrazione delle parole, calcolo delle similarità e disegno delle word cloud. Il numero di frame tra una word cloud e la successiva è pari a $150$.
+
+La configurazione peggiore è data dagli algoritmi TFIDF, Jaccard Similarity e Star Forest, mentre la configurazione migliore è data da Term Frequency, Cosine (o Extended Jaccard) Similarity e CPWCV (o Cycle Cover). I risultati ottenuti sono del tutto ragionevoli e sono riportati in tabella \ref{tab:total_time}.
+
+\begin{table}
+\centering
+\begin{tabular}{ccc}
+\toprule
+Parole estratte & Caso peggiore & Caso peggiore  \\
+\midrule
+$20$ & $2.65s$ & $0.77s$\\
+$40$ & $3s$ & $0.94s$\\
+$60$ & $3.66s$ & $1.25s$\\
+\bottomrule
+\end{tabular}
+\caption{Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole.}
+\label{tab:total_time}
+\end{table}

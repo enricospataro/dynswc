@@ -1,0 +1,16 @@
+Ranking: TFIDF
+Similarity: Cosine
+Layout: StarForest
+Words: 40
+DistortionMetric: 0.595002111789056
+CoherenceMetric: 0.605348499804871
+SpaceMetric BoundingBox: 0.6053186511537333
+SpaceMetric ConvexHull: 0.48268862300055215
+Processing RunningTime: 418561308
+Simil RunningTime: 682297
+Layout RunningTime: 231162367
+Morphing RunningTime: 552465
+Clustering RunningTime: 10237843
+ColorMorphing RunningTime: 7327134
+UI RunningTime: 476571603
+Total RunningTime: 3270002337

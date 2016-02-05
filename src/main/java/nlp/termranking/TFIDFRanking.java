@@ -44,4 +44,5 @@ public class TFIDFRanking  implements RankingStrategy{
 			idfMap.put(s, Math.log10(CORPUS_SIZE/idfMap.get(s)));
 		}
 	}
+	public String toString() {return "TFIDF";}
 }

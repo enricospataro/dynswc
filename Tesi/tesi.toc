@@ -1,39 +1,58 @@
 \select@language {italian}
 \select@language {italian}
-\contentsline {chapter}{\numberline {1}Introduzione}{5}{chapter.1}
-\contentsline {chapter}{\numberline {2}Word cloud statiche}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Definizioni e applicazioni}{6}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Cos'\`e una word cloud?}{6}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Applicazioni}{9}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Stato dell'arte}{9}{section.2.2}
-\contentsline {chapter}{\numberline {3}Word cloud dinamiche}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Definizioni e applicazioni}{11}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Word cloud dinamiche e stato dell'arte}{11}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Applicazioni}{13}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica}{13}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Riferimenti teorici}{14}{subsection.3.2.1}
-\contentsline {subsubsection}{Grafo}{14}{section*.4}
-\contentsline {subsubsection}{Cammini e cicli}{14}{section*.5}
-\contentsline {subsubsection}{Altre propriet\`a dei grafi}{14}{section*.6}
-\contentsline {subsection}{\numberline {3.2.2}Estrazione keywords}{15}{subsection.3.2.2}
-\contentsline {subsubsection}{Term Frequency (TF)}{15}{section*.7}
-\contentsline {subsubsection}{TF-IDF}{16}{section*.8}
-\contentsline {subsubsection}{LexRank}{17}{section*.9}
-\contentsline {subsection}{\numberline {3.2.3}Calcolo similarit\`a}{17}{subsection.3.2.3}
-\contentsline {subsubsection}{Cosine Similarity}{18}{section*.10}
-\contentsline {subsubsection}{Jaccard Similarity}{18}{section*.11}
-\contentsline {subsubsection}{Jaccard Similarity estesa}{18}{section*.12}
-\contentsline {subsection}{\numberline {3.2.4}Creazione word cloud}{18}{subsection.3.2.4}
-\contentsline {subsubsection}{Context-Preserving Word Cloud Visualization (CPWCV)}{19}{section*.13}
-\contentsline {subsubsection}{Star Forest}{19}{section*.14}
-\contentsline {subsubsection}{Cycle Cover}{21}{section*.15}
-\contentsline {subsection}{\numberline {3.2.5}Clustering}{22}{subsection.3.2.5}
-\contentsline {subsubsection}{K-means}{22}{section*.16}
-\contentsline {subsubsection}{K-means++}{24}{section*.17}
-\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{25}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{27}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{27}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4}Implementazione e sperimentazione}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}Architettura del sistema}{32}{section.4.1}
-\contentsline {section}{\numberline {4.2}Risultati sperimentali}{34}{section.4.2}
+\contentsline {chapter}{\numberline {1}Introduzione}{7}{chapter.1}
+\contentsline {chapter}{\numberline {2}Word cloud statiche}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Definizioni e applicazioni}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Cos'\`e una word cloud?}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Applicazioni}{12}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Stato dell'arte}{12}{section.2.2}
+\contentsline {chapter}{\numberline {3}Word cloud dinamiche}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definizioni e applicazioni}{14}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Word cloud dinamiche e stato dell'arte}{14}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Applicazioni}{16}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Algoritmi di generazione di una word cloud semantica}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Riferimenti teorici}{17}{subsection.3.2.1}
+\contentsline {subsubsection}{Grafo}{17}{section*.4}
+\contentsline {subsubsection}{Cammini e cicli}{17}{section*.5}
+\contentsline {subsubsection}{Altre propriet\`a dei grafi}{17}{section*.6}
+\contentsline {subsection}{\numberline {3.2.2}Estrazione keywords}{18}{subsection.3.2.2}
+\contentsline {subsubsection}{Term Frequency (TF)}{18}{section*.7}
+\contentsline {subsubsection}{TF-IDF}{19}{section*.8}
+\contentsline {subsubsection}{LexRank}{20}{section*.9}
+\contentsline {subsection}{\numberline {3.2.3}Calcolo similarit\`a}{20}{subsection.3.2.3}
+\contentsline {subsubsection}{Cosine Similarity}{21}{section*.10}
+\contentsline {subsubsection}{Jaccard Similarity}{21}{section*.11}
+\contentsline {subsubsection}{Jaccard Similarity estesa}{21}{section*.12}
+\contentsline {subsection}{\numberline {3.2.4}Creazione word cloud}{21}{subsection.3.2.4}
+\contentsline {subsubsection}{Context-Preserving Word Cloud Visualization (CPWCV)}{22}{section*.13}
+\contentsline {subsubsection}{Star Forest}{22}{section*.14}
+\contentsline {subsubsection}{Cycle Cover}{24}{section*.15}
+\contentsline {subsection}{\numberline {3.2.5}Clustering}{25}{subsection.3.2.5}
+\contentsline {subsubsection}{K-means}{25}{section*.16}
+\contentsline {subsubsection}{K-means++}{27}{section*.17}
+\contentsline {section}{\numberline {3.3}Algoritmi di generazione di una word cloud semantica e dinamica}{28}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Creazione word cloud}{29}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Calcolo similarit\`a tra cluster}{30}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Morphing tra successive word cloud}{30}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Implementazione e sperimentazione}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}Architettura del sistema}{35}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Estrazione keywords e calcolo similarit\`a}{36}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Creazione word cloud dinamica}{40}{subsection.4.1.2}
+\contentsline {subsubsection}{Layout}{40}{section*.18}
+\contentsline {subsubsection}{Clustering}{40}{section*.19}
+\contentsline {subsubsection}{Morphing}{42}{section*.20}
+\contentsline {subsection}{\numberline {4.1.3}Interfaccia grafica}{45}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Risultati sperimentali}{47}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Metriche adottate}{47}{subsection.4.2.1}
+\contentsline {subsubsection}{Distortion metric}{47}{section*.21}
+\contentsline {subsubsection}{Coherence metric}{49}{section*.22}
+\contentsline {subsubsection}{Combination metric}{49}{section*.23}
+\contentsline {subsubsection}{Space metric}{49}{section*.24}
+\contentsline {subsubsection}{Running time}{50}{section*.25}
+\contentsline {subsection}{\numberline {4.2.2}Risultati}{50}{subsection.4.2.2}
+\contentsline {subsubsection}{Combination metric}{50}{section*.26}
+\contentsline {subsubsection}{Space metric}{65}{section*.27}
+\contentsline {subsubsection}{Running time}{79}{section*.28}
+\contentsline {chapter}{\numberline {5}Conclusioni e sviluppi futuri}{83}{chapter.5}
+\contentsline {section}{\numberline {5.1}Risultati}{83}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sviluppi futuri}{83}{section.5.2}

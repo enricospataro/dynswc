@@ -2,6 +2,7 @@ package main.java.ui;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
+import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -37,7 +38,7 @@ public class WordCloudFrame extends JFrame {
         
 		createLayout(results,colorHandlers);
 		
-		setVisible(true);
+		setVisible(false);
 	}
 	
 	static Dimension getScreenDimension() {

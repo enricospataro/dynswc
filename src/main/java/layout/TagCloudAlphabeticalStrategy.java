@@ -14,4 +14,5 @@ public class TagCloudAlphabeticalStrategy extends TagCloudStrategy
         words = wordGraph.getWords();
         similarity = wordGraph.getSimilarity();
     }
+	public String toString() {return "AlphabeticalTagCloud";}
 }

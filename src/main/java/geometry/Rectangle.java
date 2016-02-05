@@ -90,4 +90,9 @@ public class Rectangle {
     public String toString() {
     	return "x = " + x + ", " + "y = " + y + ", " + "width = " + width + ", " + "height = " + height;
     }
+    public double getDiagonal() {
+    	double base = getWidth();
+    	double height = getHeight();
+    	return Math.sqrt(base*base + height*height);
+    }
 }

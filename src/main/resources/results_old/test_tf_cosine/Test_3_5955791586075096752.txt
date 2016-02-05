@@ -1,0 +1,9 @@
+Ranking: Term Frequency
+Similarity: Cosine
+Layout: CycleCover
+Words: 60
+DistortionMetric: 0.543643898963217
+CoherenceMetric: 0.656921322275781
+SpaceMetric BoundingBox: 0.6245873845695522
+SpaceMetric ConvexHull: 0.4982723452070871
+Single RunningTime: 63902670

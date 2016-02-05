@@ -1,0 +1,16 @@
+Ranking: LexRank
+Similarity: Extended Jaccard
+Layout: CPWCV
+Words: 20
+DistortionMetric: 0.6023201682782436
+CoherenceMetric: 0.654926838597083
+SpaceMetric BoundingBox: 0.6605475424426541
+SpaceMetric ConvexHull: 0.5374181072408722
+Processing RunningTime: 232778702
+Simil RunningTime: 370473
+Layout RunningTime: 3842324
+Morphing RunningTime: 562478
+Clustering RunningTime: 3096481
+ColorMorphing RunningTime: 3734611
+UI RunningTime: 391615140
+Total RunningTime: 1487140192

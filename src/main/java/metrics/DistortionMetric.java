@@ -15,7 +15,13 @@ import main.java.utils.GeometryUtils;
  */
 
 public class DistortionMetric implements QualityMetric {
+	
+	private double maxDiag;
 
+	public DistortionMetric(double maxDiag) {
+		this.maxDiag=maxDiag;
+	}
+	
 	@Override
 	public double getValue(WordGraph wordGraph, LayoutResult layout) {
 		List<Word> words = wordGraph.getWords();
@@ -35,10 +41,10 @@ public class DistortionMetric implements QualityMetric {
 		double distance=0.0;
 		double value=0.0;
 		double sum=0.0;
-		
+
 		// va considerata tutta la matrice o solo metà, essendo simmetrica???
 		for(int i=0;i<n;i++)
-			for(int j=0;j<n;j++) {
+			for(int j=i+1;j<n;j++) {
 				distance = (1 - matrixGeometryDistance[i][j])*(1 - matrixGeometryDistance[i][j]);
 				value += distance*matrixSimilarity[i][j];
 				sum += matrixSimilarity[i][j];
@@ -56,11 +62,11 @@ public class DistortionMetric implements QualityMetric {
         
         for(int i=0;i<n;i++)
            for(int j=0;j<n;j++) {
-        	   dist=computeDistance(words.get(i),words.get(j),layout);
+        	   dist=computeDistance(words.get(i),words.get(j),layout); 
                matrix[i][j]=dist;
                if(dist>max) max=dist;
            }       
-        normalize(matrix,max);
+        normalize(matrix,maxDiag);
 
         return matrix;
 	}

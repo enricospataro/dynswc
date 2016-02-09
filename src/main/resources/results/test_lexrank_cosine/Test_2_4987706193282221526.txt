@@ -1,0 +1,16 @@
+Ranking: LexRank
+Similarity: Cosine
+Layout: CycleCover
+Words: 40
+DistortionMetric: 0.5460736547454349
+CoherenceMetric: 0.6655426326190985
+SpaceMetric BoundingBox: 0.6078043175620721
+SpaceMetric ConvexHull: 0.4840471590488585
+Processing RunningTime: 235477140
+Simil RunningTime: 1050866
+Layout RunningTime: 23989392
+Morphing RunningTime: 575739
+Clustering RunningTime: 10066850
+ColorMorphing RunningTime: 7459840
+UI RunningTime: 497684965
+Total RunningTime: 1734031974

@@ -32,6 +32,9 @@ public class WordCloudRenderer {
     private double height;
     private boolean showRectangles;
 	private boolean showText;
+	private double panelWidth;
+    private double panelHeight;
+
 	
     public WordCloudRenderer(List<RenderedWord> words,double screenWidth,double screenHeight,double minX,double minY,double maxX,double maxY) {
         this.words=words;
@@ -43,6 +46,8 @@ public class WordCloudRenderer {
         this.maxY=maxY;
         this.showRectangles=false;
         this.showText=true;
+        panelWidth = width - 2*offset;
+        panelHeight = height - 2*offset;
     }
     
     public void render(Graphics2D g2d) {
@@ -95,13 +100,9 @@ public class WordCloudRenderer {
             Rectangle rect = rw.getBoundingBox();
             allRects.add(rect);
         }
-      
-      double panelWidth = width - 2*offset;
-      double panelHeight = height - 2*offset;
         
-      double sigmoid =  1/(1+Math.exp(-0.2*Manager.getWords()));
-      scaleFactor = sigmoid*Math.min(panelWidth/(maxX-minX),panelHeight/(maxY-minY));
-      
+      double sigmoid =  1/(1+Math.exp(-1*Manager.getWords()));
+      scaleFactor = Math.min(panelWidth/(maxX-minX),panelHeight/(maxY-minY));
 //      shiftX = -1*minX;
 //      shiftY = -1*minY;
       shiftX = -1*minX + offset/scaleFactor;
@@ -115,7 +116,8 @@ public class WordCloudRenderer {
 	
 	private Rectangle transformRect(Rectangle rect) {
 		Rectangle ret = new Rectangle();
-	    ret.setRect(transformX(rect.getX()), transformY(rect.getY()), scaleFactor*rect.getWidth(), scaleFactor*rect.getHeight());
+	    ret.setRect(transformX(rect.getX()), transformY(rect.getY()), 
+	    		scaleFactor*rect.getWidth(), scaleFactor*rect.getHeight());
 	    return ret;
 	}
 	private double transformX(double x) {return scaleFactor*(shiftX + x);}

@@ -52,59 +52,59 @@ public class Manager {
 		int n=files.length;
 		long runningTime=0;
 
-		for(int i=0;i<n;i++) {
+		for(int i=0;i<1;i++) {
 			try{
 				long startTime = System.nanoTime();
-				new Manager().run(files[i]);
+				new Manager().run(files[i+189]);
 				long endTime = System.nanoTime();
 				runningTime += (endTime-startTime);
 			}catch (Exception e){e.printStackTrace();}	
 		}
-		
-		double maxDiag = getMaxDiag();
-		
-		double maxDist = Double.MIN_VALUE;
-		double minDist = Double.MAX_VALUE;
-		double maxCoher = Double.MIN_VALUE;
-		double minCoher = Double.MAX_VALUE;
-		
-		for(Result r:results) {
-			r.test(maxDiag);
-			if(maxDist<r.distValue) maxDist = r.distValue;
-			if(minDist>r.distValue) minDist = r.distValue;
-			if(maxCoher<r.coherValue) maxCoher = r.coherValue;
-			if(minCoher>r.coherValue) minCoher = r.coherValue;
-		}		
-		long rankingRunningTime=0;
-		long similRunningTime=0;
-		long morphingRunningTime=0;
-		long clusteringRunningTime=0;
-		long colorMorphingRunningTime=0;
-		long layoutRunningTime=0;
-		long uiRunningTime=0;
-		double distValue=0;
-		double coherValue=0;
-		double bbValue=0; 
-		double chValue=0;
-		
-		for(Result r:results) {
-			r.distValue = normalize(r.distValue,maxDist,minDist);
-			r.coherValue = normalize(r.coherValue,maxCoher,minCoher);
-			distValue += r.distValue;
-			coherValue += r.coherValue;
-			bbValue += r.bbValue;
-			chValue += r.chValue;
-			rankingRunningTime += r.meanRankingRunningTime;
-			similRunningTime += r.meanSimilRunningTime;
-			layoutRunningTime += r.meanRunningTime;
-			morphingRunningTime += r.meanMorphingRunningTime;
-			clusteringRunningTime += r.meanClusteringRunningTime;
-			colorMorphingRunningTime += r.meanColorMorphingRunningTime;
-			uiRunningTime += r.uiRunningTime;
-		}
-		createResult(distValue/n,coherValue/n,bbValue/n,chValue/n,rankingRunningTime/n,similRunningTime/n,
-				layoutRunningTime/n,morphingRunningTime/n,clusteringRunningTime/n,colorMorphingRunningTime/n,
-				uiRunningTime/n,runningTime/n);
+//		
+//		double maxDiag = getMaxDiag();
+//		
+//		double maxDist = Double.MIN_VALUE;
+//		double minDist = Double.MAX_VALUE;
+//		double maxCoher = Double.MIN_VALUE;
+//		double minCoher = Double.MAX_VALUE;
+//		
+//		for(Result r:results) {
+//			r.test(maxDiag);
+//			if(maxDist<r.distValue) maxDist = r.distValue;
+//			if(minDist>r.distValue) minDist = r.distValue;
+//			if(maxCoher<r.coherValue) maxCoher = r.coherValue;
+//			if(minCoher>r.coherValue) minCoher = r.coherValue;
+//		}		
+//		long rankingRunningTime=0;
+//		long similRunningTime=0;
+//		long morphingRunningTime=0;
+//		long clusteringRunningTime=0;
+//		long colorMorphingRunningTime=0;
+//		long layoutRunningTime=0;
+//		long uiRunningTime=0;
+//		double distValue=0;
+//		double coherValue=0;
+//		double bbValue=0; 
+//		double chValue=0;
+//		
+//		for(Result r:results) {
+//			r.distValue = normalize(r.distValue,maxDist,minDist);
+//			r.coherValue = normalize(r.coherValue,maxCoher,minCoher);
+//			distValue += r.distValue;
+//			coherValue += r.coherValue;
+//			bbValue += r.bbValue;
+//			chValue += r.chValue;
+//			rankingRunningTime += r.meanRankingRunningTime;
+//			similRunningTime += r.meanSimilRunningTime;
+//			layoutRunningTime += r.meanRunningTime;
+//			morphingRunningTime += r.meanMorphingRunningTime;
+//			clusteringRunningTime += r.meanClusteringRunningTime;
+//			colorMorphingRunningTime += r.meanColorMorphingRunningTime;
+//			uiRunningTime += r.uiRunningTime;
+//		}
+//		createResult(distValue/n,coherValue/n,bbValue/n,chValue/n,rankingRunningTime/n,similRunningTime/n,
+//				layoutRunningTime/n,morphingRunningTime/n,clusteringRunningTime/n,colorMorphingRunningTime/n,
+//				uiRunningTime/n,runningTime/n);
 	}
 	
 	private static double normalize(double value, double maxValue, double minValue) {
@@ -167,19 +167,19 @@ public class Manager {
 		parts=4;
 		List<String> textParts=TextUtils.splitText(text,text.length()/parts);
 		
-		setRankingStrategy(new LexRankRanking());
+		setRankingStrategy(new TFRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
 			t=t + " " +textParts.get(i);
-			setWords(60);
+			setWords(120);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}
 
 		// 2 compute similarity of extracted words
-		setSimilarityStrategy(new JaccardSimilarity());
-		setLayoutStrategy(new StarForestStrategy());
+		setSimilarityStrategy(new ExtendedJaccardSimilarity());
+		setLayoutStrategy(new CycleCoverStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();

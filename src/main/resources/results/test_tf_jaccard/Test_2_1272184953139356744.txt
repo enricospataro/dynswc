@@ -1,0 +1,16 @@
+Ranking: Term Frequency
+Similarity: Jaccard
+Layout: StarForest
+Words: 40
+DistortionMetric: 0.5394793600605732
+CoherenceMetric: 0.7439324467759031
+SpaceMetric BoundingBox: 0.6252537779921884
+SpaceMetric ConvexHull: 0.5022100964642743
+Processing RunningTime: 54008125
+Simil RunningTime: 2041260
+Layout RunningTime: 164481747
+Morphing RunningTime: 551622
+Clustering RunningTime: 9995160
+ColorMorphing RunningTime: 7079280
+UI RunningTime: 482176555
+Total RunningTime: 1591147647

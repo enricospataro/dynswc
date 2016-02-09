@@ -38,7 +38,7 @@ public class WordCloudFrame extends JFrame {
         
 		createLayout(results,colorHandlers);
 		
-		setVisible(false);
+		setVisible(true);
 	}
 	
 	static Dimension getScreenDimension() {

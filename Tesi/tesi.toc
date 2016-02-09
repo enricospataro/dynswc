@@ -42,17 +42,17 @@
 \contentsline {subsubsection}{Clustering}{40}{section*.19}
 \contentsline {subsubsection}{Morphing}{42}{section*.20}
 \contentsline {subsection}{\numberline {4.1.3}Interfaccia grafica}{45}{subsection.4.1.3}
-\contentsline {section}{\numberline {4.2}Risultati sperimentali}{47}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Metriche adottate}{47}{subsection.4.2.1}
-\contentsline {subsubsection}{Distortion metric}{47}{section*.21}
-\contentsline {subsubsection}{Coherence metric}{49}{section*.22}
-\contentsline {subsubsection}{Combination metric}{49}{section*.23}
-\contentsline {subsubsection}{Space metric}{49}{section*.24}
-\contentsline {subsubsection}{Running time}{50}{section*.25}
-\contentsline {subsection}{\numberline {4.2.2}Risultati}{50}{subsection.4.2.2}
-\contentsline {subsubsection}{Combination metric}{50}{section*.26}
-\contentsline {subsubsection}{Space metric}{65}{section*.27}
-\contentsline {subsubsection}{Running time}{79}{section*.28}
-\contentsline {chapter}{\numberline {5}Conclusioni e sviluppi futuri}{83}{chapter.5}
-\contentsline {section}{\numberline {5.1}Risultati}{83}{section.5.1}
-\contentsline {section}{\numberline {5.2}Sviluppi futuri}{83}{section.5.2}
+\contentsline {section}{\numberline {4.2}Risultati sperimentali}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Metriche adottate}{46}{subsection.4.2.1}
+\contentsline {subsubsection}{Distortion metric}{46}{section*.21}
+\contentsline {subsubsection}{Coherence metric}{48}{section*.22}
+\contentsline {subsubsection}{Combination metric}{48}{section*.23}
+\contentsline {subsubsection}{Space metric}{48}{section*.24}
+\contentsline {subsubsection}{Running time}{49}{section*.25}
+\contentsline {subsection}{\numberline {4.2.2}Risultati}{49}{subsection.4.2.2}
+\contentsline {subsubsection}{Combination metric}{49}{section*.26}
+\contentsline {subsubsection}{Space metric}{64}{section*.27}
+\contentsline {subsubsection}{Running time}{78}{section*.28}
+\contentsline {chapter}{\numberline {5}Conclusioni e sviluppi futuri}{82}{chapter.5}
+\contentsline {section}{\numberline {5.1}Risultati}{82}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sviluppi futuri}{82}{section.5.2}

@@ -6,12 +6,14 @@ Il recente sviluppo di Internet, con l'avvento del Web 2.0, assieme al grande pr
 
 L'obiettivo di questo lavoro di tesi consiste nella realizzazione di un sistema che consente di visualizzare, in modo dinamico, l'evoluzione temporale del contenuto di un testo, tramite l'utilizzo di word cloud. Nello specifico, il testo viene elaborato ad intervalli regolari, da cui si estraggono le parole più rilevanti del testo (fino a quell'istante), per poi visualizzarle sullo schermo, tenendo conto delle relazioni semantiche tra le parole. Il tutto avviene in un contesto dinamico, cioè il passaggio da una word cloud alla successiva avviene in modo graduale tramite delle animazioni. 
 
-In generale, l'utilizzo delle word cloud consente agli utenti di avere una rapida sintesi sul contenuto di un testo, facilitandone la comprensione. I contesti applicativi sono molteplici, e verranno discussi nei prossimi capitoli.
+Rispetto allo stato dell'arte, questo lavoro di tesi si propone di creare word cloud dinamiche relative a brevi periodi temporali (e.g. un discorso), per cui diventa importante avere delle animazioni che mostrino l'evoluzione della word cloud.
+
+In generale, l'utilizzo delle word cloud consente agli utenti di avere una rapida sintesi sul contenuto di un testo, facilitandone la comprensione. I contesti applicativi sono molteplici, e verranno discussi nei capitoli successivi.
 \\ \\
 Questa tesi di laurea è dunque strutturata come segue:
 \begin{itemize}
 \item Nel capitolo \ref{ch:wc_stat} verrà introdotto il concetto di word cloud, facendo il punto sulle caratteristiche, sullo stato dell'arte e sulle possibili applicazioni.
-\item Il capitolo \ref{ch:wcdin}, dopo una breve distinzione tra word cloud statiche e dinamiche, tratterà gli aspetti algoritmici del sistema sviluppato. Verranno descritte le varie fasi, composte da diversi algoritmi, che consentono di creare una word cloud statica (sezione \ref{wc_din:algs}). L'approccio utilizzato per conferire dinamicità al sistema è invece esposto nella sezione \ref{wc_din:din_algs}.
-\item I dettagli implementativi, relativi all'architettura del sistema, e i risultati dell'analisi sperimentale coprono il capitolo \ref{ch:impl_test}.
+\item Il capitolo \ref{ch:wcdin}, dopo una breve distinzione tra word cloud statiche e dinamiche, tratterà gli aspetti algoritmici del sistema sviluppato. Verranno descritte le varie fasi, composte da diversi algoritmi, che consentono la creazione di una word cloud statica (sezione \ref{wc_din:algs}). L'approccio utilizzato per conferire dinamicità al sistema è invece esposto nella sezione \ref{wc_din:din_algs}.
+\item I dettagli implementativi, relativi all'architettura del sistema, insieme ai risultati dell'analisi sperimentale, fanno parte del capitolo \ref{ch:impl_test}.
 \item Infine, il capitolo \ref{ch:end} conclude il lavoro di tesi, riportando le considerazioni finali e delineando possibili sviluppi futuri.
 \end{itemize}

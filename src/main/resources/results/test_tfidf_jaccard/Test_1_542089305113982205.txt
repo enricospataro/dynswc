@@ -1,0 +1,16 @@
+Ranking: TFIDF
+Similarity: Jaccard
+Layout: CPWCV
+Words: 20
+DistortionMetric: 0.47956485577456204
+CoherenceMetric: 0.5447007272964953
+SpaceMetric BoundingBox: 0.6533411667424543
+SpaceMetric ConvexHull: 0.530605417011248
+Processing RunningTime: 430001301
+Simil RunningTime: 440431
+Layout RunningTime: 3953456
+Morphing RunningTime: 577698
+Clustering RunningTime: 2868094
+ColorMorphing RunningTime: 3540665
+UI RunningTime: 410242006
+Total RunningTime: 2294668230

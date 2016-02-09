@@ -132,7 +132,7 @@ dove:
 Alla fine, le parole estratte saranno costituite dai primi $n$ valori di $R$.
 
 \subsection{Calcolo similarità}\label{par:simil}
-Il passo successivo è quello di calcolare la similarità tra le keywords, ovvero quanto esse sono correlate tra loro. Data la lista delle $n$ parole estratte, viene calcolata la matrice $n \times n$ delle similarità tra coppie di parole. Ogni valore è compreso tra 0 (nessuna correlazione) e 1 (massima correlazione). Esistono diversi algoritmi per il calcolo delle similarità. Tutti usano uno spazio vettoriale di dimensione $n$ (pari al numero di parole estratte), dove il generico vettore $w_{i} = \{w_{i1},w_{i2},...,w_{in}\}$ rappresenta la co-occorrenza della $i$-esima parola con le altre $n-1$ parole. 
+Il passo successivo è quello di calcolare la similarità tra le keywords, ovvero quanto esse sono correlate tra loro. Data la lista delle $n$ parole estratte, viene calcolata la matrice $n \times n$ delle similarità tra coppie di parole. Ogni valore è compreso tra $0$ (nessuna correlazione) e $1$ (massima correlazione). Esistono diversi algoritmi per il calcolo delle similarità. Tutti usano uno spazio vettoriale di dimensione $n$ (pari al numero di parole estratte), dove il generico vettore $w_{i} = \{w_{i1},w_{i2},...,w_{in}\}$ rappresenta la co-occorrenza della $i$-esima parola con le altre $n$ parole (la similarità $w_{i,i}$ è ovviamente massima e pari a $1$). 
 \\ \\ 
 Di seguito sono esposte le tecniche di calcolo da noi implementate.
 
@@ -141,7 +141,7 @@ La cosine similarity tra due vettori $w_{i}$ e $w_{j}$ viene calcolata come:
 \begin{equation}
 sim_{ij} = \frac{w_{i} \cdot w_{j}}{\vert\vert w_{i} \vert\vert \, \vert\vert w_{j} \vert\vert}
 \end{equation}
-In pratica, tale quantità corrisponde alla misura dell'angolo formato tra i vettori $w_{i}$ e $w_{j}$. Se la similarità è 1, allora l'angolo formato è pari $0°$, mentre se la similarità è 0, allora i due vettori sono perpendicolari (angolo di intersezione $90°$) e non condividono alcuna frase.
+In pratica, tale quantità corrisponde alla misura dell'angolo formato tra i vettori $w_{i}$ e $w_{j}$. Se la similarità è $1$, allora l'angolo formato è pari $0°$, mentre se la similarità è $0$, allora i due vettori sono perpendicolari (angolo di intersezione $90°$) e non condividono alcuna frase.
 
 \subsubsection{Jaccard Similarity}
 La Jaccard similarity è definita come il rapporto tra il numero delle frasi condivise tra due parole e il numero totale delle frasi in cui esse compaiono. In formule:

@@ -1,0 +1,16 @@
+Ranking: Term Frequency
+Similarity: Jaccard
+Layout: CycleCover
+Words: 20
+DistortionMetric: 0.6935789484185358
+CoherenceMetric: 0.8611612854365581
+SpaceMetric BoundingBox: 0.6049207484468394
+SpaceMetric ConvexHull: 0.48378223318583347
+Processing RunningTime: 53773579
+Simil RunningTime: 593052
+Layout RunningTime: 6285388
+Morphing RunningTime: 534636
+Clustering RunningTime: 2796216
+ColorMorphing RunningTime: 3748724
+UI RunningTime: 415611971
+Total RunningTime: 806714055

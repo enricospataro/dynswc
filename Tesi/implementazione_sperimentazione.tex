@@ -5,7 +5,7 @@
 \chapter{Implementazione e sperimentazione}\label{ch:impl_test}
 L'architettura del sistema e la fase di sperimentazione sono esposte in questo capitolo.
 \\ \\
-La sezione \ref{sec:arch} spiega, a grandi linee, i dettagli implementativi degli algoritmi presentati nel precedente capitolo, facendo uso di class diagram per descrivere i moduli funzionali che compongono il sistema. La sezione \ref{sec:test} riporta invece i test eseguiti: dapprima vengono descritte le metriche utilizzate, poi i risultati ottenuti sono analizzati con l'ausilio di figure e tabelle.
+La sezione \ref{sec:arch} spiega, a grandi linee, i dettagli implementativi degli algoritmi presentati nel precedente capitolo, facendo uso di class diagram per descrivere i moduli funzionali che compongono il sistema. La sezione \ref{sec:test} riporta invece i test eseguiti: dapprima vengono descritte le metriche utilizzate, poi i risultati ottenuti sono illustrati e analizzati con l'ausilio di figure e tabelle.
 \section{Architettura del sistema}\label{sec:arch}
 Il sistema è stato scritto interamente con il linguaggio di programmazione \textit{Java} in ambiente \textit{Eclipse}.
 
@@ -154,13 +154,14 @@ La variazione del colore da un layout al successivo è invece trattata, con un ap
 \subsection{Interfaccia grafica}
 La visualizzazione dinamica della word cloud avviene per mezzo di una semplice interfaccia grafica sviluppata con il framework \textit{Swing} di Java. L'interfaccia contiene i bottoni tipici di un qualsiasi player, i quali permettono di avviare la visualizzazione, metterla in pausa, riavviarla, passare direttamente alla successiva word cloud o alla precedente (vedi figura \ref{ex:ui}). 
 
+%I frame della word cloud sono gestiti tramite il layout manager \texttt{CardLayout}, che consente il passaggio da un \texttt{JPanel} (che rappresenta un frame) all'altro in modo continuo, grazie all'utilizzo dei comandi del player.
 Sempre in figura \ref{ex:ui} si nota, in basso a sinistra, un grafico a barre (la cui visibilità si può impostare dal menù) contenente le 10 parole più importanti ad ogni layout, ordinate in base al relativo punteggio. Tale finestra è stata realizzata tramite la libreria Java \textit{JFreeChart}\cite{JFreeChart}.
 \begin{figure}
 \centering
 \subfigure[]
-{\includegraphics[scale=0.35]{img/impl_test/wordcloud_ui1.png}}
+{\includegraphics[scale=0.3]{img/impl_test/wordcloud_ui1.png}}
 \subfigure[]
-{\includegraphics[scale=0.35]{img/impl_test/wordcloud_ui2.png}}
+{\includegraphics[scale=0.3]{img/impl_test/wordcloud_ui2.png}}
 \caption[Esempio di visualizzazione dinamica di una word cloud in due layout successivi.]{Esempio di visualizzazione dinamica di una word cloud in due layout successivi.}
 \label{ex:ui}
 \end{figure}
@@ -241,7 +242,9 @@ La durata media dei discorsi che compongono il dataset è di circa 17 minuti, per
 \subsubsection{Combination metric}
 Sono stati calcolati i valori dei tre algoritmi di layout per tutte le combinazioni possibili tra il numero di parole, l'algoritmo di ranking e l'algoritmo di similarità. Gli andamenti degli algoritmi sono riportati nelle figure delle pagine successive. I valori assunti giacciono su una retta che congiunge due punti, cioè $\alpha=0$, che coincide con la misura della Coherence, e $\alpha=1$, che coincide con la misura della Distortion. In entrambe le metriche, la quantità $D$, cioè la diagonale del bounding box che contiene la word cloud, è presa come il massimo per ogni coppia $\{$numero di parole,algoritmo di layout$\}$.
 
-L'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sempre Star Forest e CPWCV. In particolare, preserva piuttosto bene la mappa mentale, mentre per quanto riguarda la Distortion, i valori assunti dai vari algoritmi tendono ad essere molto vicini e in ogni caso sono più che discreti. Com'era lecito aspettarsi, i valori più alti si osservano nel caso di 20 parole estratte, mentre all'aumentare delle parole i valori decrescono. Star Forest ha un comportamento simile a Cycle Cover, assumendo valori leggermente inferiori sulla Coherence. CPWCV è invece l'algoritmo che, il più delle volte, si comporta peggio nella misura della coerenza della mappa mentale. Ciò fa si che le parole tendano a muoversi di più, migliorando d'altro canto la Distortion. La retta che rappresenta l'andamento della CPWCV, infatti, ha solitamente un andamento non decrescente.
+Nei grafici si può notare come le rette siano crescenti o decrescenti, a seconda dei rispettivi valori della Coherence o della Distortion. Essendo due misure contrastanti, tali rette si intersecano spesso, per cui un algoritmo può comportarsi meglio su una metrica rispetto ad un altro algoritmo, e viceversa.
+
+In generale, l'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sempre Star Forest e CPWCV. In particolare, preserva piuttosto bene la mappa mentale, mentre, per quanto riguarda la Distortion, i valori assunti dai vari algoritmi tendono ad essere molto vicini e in ogni caso sono più che discreti (confermando i risultati del lavoro di Kobourov et al.\cite{kobourov}). Com'era lecito aspettarsi, i valori più alti si osservano nel caso di 20 parole estratte, mentre all'aumentare delle parole i valori decrescono. Star Forest ha un comportamento simile a Cycle Cover, assumendo valori leggermente inferiori sulla Coherence. CPWCV è invece l'algoritmo che, il più delle volte, si comporta peggio nella misura della coerenza della mappa mentale. Ciò fa si che le parole tendano a muoversi di più, migliorando d'altro canto la Distortion. La retta che rappresenta l'andamento della CPWCV, infatti, ha solitamente un andamento non decrescente.
 
 \begin{figure}
 \centering
@@ -391,7 +394,7 @@ L'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sem
 \end{figure}
 \clearpage
 \subsubsection{Space metric}
-Nei risultati ottenuti, l'algoritmo CPWCV risulta essere l'algoritmo che produce disegni meno compatti, anche se la differenza con Star Forest e Cycle Cover non è eccessiva. Ovviamente, si ottengono valori diversi a seconda dell'utilizzo del bounding box o del convex hull. Quest'ultimo, infatti, ha un'area più piccola del bounding box, abbassando quindi il valore $1 - \dfrac{\mu}{\varphi}$. In generale, comunque, si ottengono buoni risultati: i valori estremi possono infatti essere dannosi, poichè disegni troppo compatti comportano una difficoltà nella lettura di parole adiacenti, mentre disegni poco compatti possono risultare dispersivi.
+Nei risultati ottenuti, l'algoritmo CPWCV risulta essere l'algoritmo che produce disegni meno compatti, anche se la differenza con Star Forest e Cycle Cover non è eccessiva. Ovviamente, si ottengono valori diversi a seconda dell'utilizzo del bounding box o del convex hull. Quest'ultimo, infatti, ha un'area più piccola del bounding box, abbassando quindi il valore $1 - \dfrac{\mu}{\varphi}$. Ad ogni modo, comunque, si ottengono buoni risultati: i valori estremi (vicini a $0$ e $1$) possono infatti essere dannosi, poichè disegni troppo compatti comportano una difficoltà nella lettura di parole adiacenti, mentre disegni poco compatti possono risultare dispersivi.
 
 \begin{figure}
 \centering
@@ -562,27 +565,28 @@ Nei risultati ottenuti, l'algoritmo CPWCV risulta essere l'algoritmo che produce
 \newpage
 \newpage
 \subsubsection{Running time}
-Il tempo medio per l'elaborazione del testo e l'estrazione delle parole è espresso in tabella \ref{tab:ranking_time}. Si nota che l'algoritmo che impiega di più è TF-IDF, seguito da LexRank e Term Frequency, piuttosto veloce. TF-IDF risulta il meno veloce poichè per ogni termine $t$, si calcola il parametro $idf_{t}$, estratto dal corpus Brown, però rispetto a Term Frequency estrae parole più rilevanti.
+Il tempo medio per l'elaborazione del testo e l'estrazione delle parole, calcolato per ogni algoritmo di ranking utilizzato, è espresso in tabella \ref{tab:ranking_time}. Si nota che l'algoritmo che impiega di più è TF-IDF, seguito da LexRank e Term Frequency, piuttosto veloce. TF-IDF risulta il meno veloce poichè, per ogni termine $t$, calcola il parametro $idf_{t}$, estratto dal corpus Brown. Tuttavia, rispetto a Term Frequency, tale algoritmo estrae parole più rilevanti.
 
-Il tempo impiegato è lo stesso indipendentemente dal numero di parole estratte: le parole vengono comunque tutte classificate e inserite su una lista ordinata per punteggio. Poi vengono selezionate le prime $n$ parole, dove $n$ è il numero di parole scelto da visualizzare.
-\begin{table}[htbp]
+Il tempo impiegato è il medesimo indipendentemente dal numero di parole estratte: le parole vengono comunque tutte classificate e inserite su una lista ordinata per punteggio. Poi vengono selezionate le prime $n$ parole, dove $n$ è il numero di parole scelto da visualizzare.
+\begin{table}
 \centering
+\setlength{\tabcolsep}{12pt}
 \begin{tabular}{cc}
 \toprule
 Algoritmo & Tempo [sec] \\
 \midrule
 Term Frequency 	&	$0.05$ \\						
 \midrule
-TF-IDF			& 	$0.41$ \\
+TF-IDF			& 	$0.43$ \\
 \midrule
-LexRank			&	$0.23$ \\
+LexRank			&	$0.24$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in secondi) di elaborazione del testo e classificazione delle parole.}
 \label{tab:ranking_time}
 \end{table}
 
-Il tempo utilizzato per il calcolo delle similarità tra coppie di parole è indicato in tabella \ref{tab:simil_time}. Sono stati valutati i tempi di calcolo (espressi in $\mu s$) per 20,40 e 60 parole estratte. Gli algoritmi Cosine similarity ed Extended Jaccard similarity hanno quasi gli stessi tempi (in effetti i due algoritmi sono molto simili). La Jaccard similarity impiega un pò di più.
+Il tempo speso per il calcolo delle similarità tra coppie di parole è indicato in tabella \ref{tab:simil_time}. Sono stati valutati i tempi di calcolo (espressi in $\mu s$) per 20,40 e 60 parole estratte. Gli algoritmi Cosine Similarity ed Extended Jaccard Similarity hanno quasi gli stessi tempi (in effetti i due algoritmi sono molto simili). La Jaccard Similarity impiega un pò di più.
 \begin{table}
 \centering
 \begin{tabular}{cccc}
@@ -591,9 +595,9 @@ Il tempo utilizzato per il calcolo delle similarità tra coppie di parole è indic
 \cmidrule(lr){2-4}
 & Jaccard & Cosine & Extended Jaccard \\
 \midrule
-$20$ & $0.55$ & $0.34$& $0.34$\\
-$40$ & $1.61$ & $0.98$ & $1.1$ \\
-$60$ & $3.02$ & $1.86$ & $1.88$ \\
+$20$ & $0.55$ & $0.34$& $0.36$\\
+$40$ & $1.65$ & $0.98$ & $1.08$ \\
+$60$ & $3$ & $1.88$ & $1.87$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in $\mu s$) per il calcolo della similarità per $20$,$40$ e $60$ parole estratte.}
@@ -610,8 +614,8 @@ In tabella \ref{tab:layout_time} sono riportati i tempi degli algoritmi di diseg
 & CPWCV & Star Forest & Cycle Cover \\
 \midrule
 $20$ & $3.93 \mu s$ & $0.095s$& $6.43 \mu s$\\
-$40$ & $0.016 s$ & $0.151 s$ & $0.024s$ \\
-$60$ & $0.048s$ & $0.27 s$ & $0.067 s$ \\
+$40$ & $0.016 s$ & $0.18 s$ & $0.024s$ \\
+$60$ & $0.048s$ & $0.274 s$ & $0.067 s$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio per la creazione della word cloud con $20$,$40$ e $60$ parole.}
@@ -619,17 +623,18 @@ $60$ & $0.048s$ & $0.27 s$ & $0.067 s$ \\
 \end{table}
 
 La procedura di morphing è stata testata per un numero elevato di frame tra una word cloud ed un'altra, ovvero $150$. L'algoritmo risulta comunque piuttosto veloce (tabella \ref{tab:morphing_time}). I valori sono quasi uguali per 20 e 40 parole estratte, mentre il tempo aumenta per 60 parole estratte. 
-\begin{table}[htbp]
+\begin{table}
 \centering
+\setlength{\tabcolsep}{9pt}
 \begin{tabular}{cc}
 \toprule
 Parole estratte & Tempo [$\mu s$] \\
 \midrule
-$20$ 	&	$0.55$ \\						
+$20$ 	&	$0.53$ \\						
 \midrule
-$40$	& 	$0.57$\\
+$40$	& 	$0.6$\\
 \midrule
-$60$	&	$1.86$ \\
+$60$	&	$1.93$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di morphing delle parole.}
@@ -637,74 +642,80 @@ $60$	&	$1.86$ \\
 \end{table}
 
 Nella tabella \ref{tab:clustering_time}, a pagina successiva, sono riportati i tempi d'esecuzione dell'algoritmo di clustering, che include anche la gestione delle variazioni tra cluster di layout successivi.
-\begin{table}[htbp]
+\begin{table}
 \centering
+\setlength{\tabcolsep}{9pt}
 \begin{tabular}{cc}
 \toprule
 Parole estratte & Tempo [$\mu s$] \\
 \midrule
-$20$ 	&	$2.86$ \\						
+$20$ 	&	$2.96$ \\						
 \midrule
-$40$	& 	$9.32$\\
+$40$	& 	$9.7$\\
 \midrule
-$60$	&	$18.8$ \\
+$60$	&	$19.27$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di clustering per $20$,$40$ e $60$ parole estratte.}
 \label{tab:clustering_time}
 \end{table}
 
-L'algoritmo di morphing che esegue l'aggiornamento dei colori frame per frame è leggermente più lento del morphing delle parole. Questo perchè nell'implementazione vengono create ed accedute strutture dati più complesse (vedi tabella \ref{tab:colormorphing_time}).
-\begin{table}[htbp]
+L'algoritmo di morphing che esegue l'aggiornamento dei colori frame per frame è leggermente più lento del morphing che aggiorna i bounding box delle parole. Questo perchè nell'implementazione vengono create ed accedute strutture dati più complesse (vedi tabella \ref{tab:colormorphing_time}).
+\begin{table}
 \centering
+\setlength{\tabcolsep}{9pt}
 \begin{tabular}{cc}
 \toprule
 Parole estratte & Tempo [$\mu s$] \\
 \midrule
-$20$ 	&	$3.41$ \\						
+$20$ 	&	$3.52$ \\						
 \midrule
-$40$	& 	$7.8$\\
+$40$	& 	$7.58$\\
 \midrule
-$60$	&	$13.16$ \\
+$60$	&	$12.84$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in $\mu s$) dell'algoritmo di morphing dei colori delle parole.}
 \label{tab:colormorphing_time}
 \end{table}
 
-La generazione dell'interfaccia grafica è, insieme all'elaborazione del testo e all'esecuzione dell'algoritmo di layout, la fase che consuma più tempo. Ovviamente, al crescere del numero di parole, anche il tempo impiegato aumenta (vedi tabella \ref{tab:ui_time}).
-\begin{table}[htbp]
+Per quanto riguarda la generazione dell'interfaccia grafica, questa fase, insieme all'elaborazione del testo e all'esecuzione dell'algoritmo di layout, è quella che incide maggiormente nel calcolo dei tempi. Ovviamente, al crescere del numero di parole, anche il tempo impiegato aumenta (vedi tabella \ref{tab:ui_time}).
+\begin{table}
 \centering
+\setlength{\tabcolsep}{9pt}
 \begin{tabular}{cc}
 \toprule
 Parole estratte & Tempo [$ s$] \\
 \midrule
-$20$ 	&	$0.398$ \\						
+$20$ 	&	$0.4$ \\						
 \midrule
-$40$	& 	$0.478$\\
+$40$	& 	$0.48$\\
 \midrule
-$60$	&	$0.614$ \\
+$60$	&	$0.63$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo medio (espresso in secondi) di creazione dell'interfaccia grafica per $20$,$40$ e $60$ parole.}
 \label{tab:ui_time}
 \end{table}
 
-Infine, per valutare il tempo totale necessario a creare la word cloud dinamica, il sistema è stato avviato, rispettivamente per $20$,$40$ e $60$ parole estratte, con le configurazioni degli algoritmi che sulla base delle tabelle precedenti hanno riportato le prestazioni peggiori e migliori. Ciò vale ovviamente solo per gli algoritmi di estrazione delle parole, calcolo delle similarità e disegno delle word cloud. Il numero di frame tra una word cloud e la successiva è pari a $150$.
+Infine, per valutare il tempo totale necessario a creare la word cloud dinamica, sono state considerate le configurazioni del sistema con gli algoritmi che, sulla base delle tabelle precedenti, hanno riportato le prestazioni peggiori e migliori in termini di consumo di tempo. Ciò vale ovviamente solo per gli algoritmi di estrazione delle parole, calcolo delle similarità e disegno delle word cloud.
 
-La configurazione peggiore è data dagli algoritmi TFIDF, Jaccard Similarity e Star Forest, mentre la configurazione migliore è data da Term Frequency, Cosine (o Extended Jaccard) Similarity e CPWCV (o Cycle Cover). I risultati ottenuti sono del tutto ragionevoli e sono riportati in tabella \ref{tab:total_time}.
+La configurazione peggiore è data dagli algoritmi TFIDF, Jaccard Similarity e Star Forest, mentre la configurazione migliore è data da Term Frequency, Cosine (o Extended Jaccard) Similarity e CPWCV (o Cycle Cover). Inoltre, come sopra, il numero di frame tra una word cloud e la successiva è pari a $150$.
+
+I risultati ottenuti sono del tutto ragionevoli e sono riportati in tabella \ref{tab:total_time}.
 
 \begin{table}
 \centering
+\setlength{\tabcolsep}{9pt}
 \begin{tabular}{ccc}
 \toprule
-Parole estratte & Caso peggiore & Caso peggiore  \\
+Parole estratte & Caso peggiore & Caso migliore  \\
 \midrule
-$20$ & $2.65s$ & $0.77s$\\
-$40$ & $3s$ & $0.94s$\\
-$60$ & $3.66s$ & $1.25s$\\
+$20$ & $2.65$ & $0.77$\\
+$40$ & $3.01$ & $0.94$\\
+$60$ & $3.66$ & $1.25$\\
 \bottomrule
 \end{tabular}
-\caption{Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole.}
+\caption[Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole.]{Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole. Configurazione caso peggiore: TFIDF, Jaccard Similarity e Star Forest. Configurazione caso migliore: Term Frequency, Cosine Similarity e CPWCV.}
 \label{tab:total_time}
 \end{table}

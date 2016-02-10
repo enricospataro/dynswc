@@ -6,4 +6,11 @@ DistortionMetric: 0.5520031594474513
 CoherenceMetric: 0.7432564230374169
 SpaceMetric BoundingBox: 0.608777559709609
 SpaceMetric ConvexHull: 0.48472296158170897
-Single RunningTime: 84605575
+Processing RunningTime: 52448319
+Simil RunningTime: 376124
+Layout RunningTime: 84605575
+Morphing RunningTime: 477433
+Clustering RunningTime: 3119670
+ColorMorphing RunningTime: 3609589
+UI RunningTime: 396311101
+Total RunningTime: 1112351941

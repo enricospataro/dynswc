@@ -55,7 +55,7 @@ public class Manager {
 		for(int i=0;i<1;i++) {
 			try{
 				long startTime = System.nanoTime();
-				new Manager().run(files[i+189]);
+				new Manager().run(files[i]);
 				long endTime = System.nanoTime();
 				runningTime += (endTime-startTime);
 			}catch (Exception e){e.printStackTrace();}	
@@ -172,7 +172,7 @@ public class Manager {
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
 			t=t + " " +textParts.get(i);
-			setWords(120);
+			setWords(20);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}

@@ -2,15 +2,15 @@
 
 %%CAPITOLO 1: Introduzione=======================================
 \chapter{Introduzione}
-Il recente sviluppo di Internet, con l'avvento del Web 2.0, assieme al grande progresso tecnologico dei calcolatori, ha comportato un'ingente produzione di dati sul web e sulle piattaforme web-based, per cui il problema di estrarre, gestire e visualizzare efficacemente tale informazione è diventata, negli ultimi anni, un'area di ricerca piuttosto importante nella visualizzazione dell'informazione.
+Il recente sviluppo di Internet, con l'avvento del Web 2.0, assieme al grande progresso tecnologico dei calcolatori, ha comportato un'ingente produzione di dati sul web e sulle piattaforme web-based, per cui il problema di estrarre, gestire e visualizzare efficacemente tale informazione è diventato, negli ultimi anni, un ambito di ricerca piuttosto importante nella visualizzazione dell'informazione.
 
-L'obiettivo di questo lavoro di tesi consiste nella realizzazione di un sistema che consente di visualizzare, in modo dinamico, l'evoluzione temporale del contenuto di un testo, tramite l'utilizzo di word cloud. Nello specifico, il testo viene elaborato ad intervalli regolari, da cui si estraggono le parole più rilevanti del testo (fino a quell'istante), per poi visualizzarle sullo schermo, tenendo conto delle relazioni semantiche tra le parole. Il tutto avviene in un contesto dinamico, cioè il passaggio da una word cloud alla successiva avviene in modo graduale tramite delle animazioni. 
+Una modalità di visualizzazione dei dati che negli ultimi tempi ha suscitato molto interesse è costituita dalla word cloud (letteralmente \textit{nuvola di parole}), che è una rappresentazione visuale delle parole più significative di un documento. In generale, l'utilizzo delle word cloud consente agli utenti di avere una rapida sintesi sul contenuto di un testo, facilitandone la comprensione. I contesti applicativi sono molteplici, e verranno discussi nei capitoli successivi.
+
+L'obiettivo del seguente lavoro di tesi consiste nella realizzazione di un sistema che consente di visualizzare, in modo dinamico, l'evoluzione temporale del contenuto di un testo, tramite l'utilizzo di word cloud. Nello specifico, il testo viene elaborato ad intervalli regolari, da cui si estraggono le parole più rilevanti del testo (fino a quell'istante), per poi visualizzarle sullo schermo, tenendo conto delle relazioni semantiche tra le parole. Il tutto avviene in un contesto dinamico, cioè il passaggio da una word cloud alla successiva avviene in modo graduale tramite delle animazioni. 
 
 Rispetto allo stato dell'arte, questo lavoro di tesi si propone di creare word cloud dinamiche relative a brevi periodi temporali (e.g. un discorso), per cui diventa importante avere delle animazioni che mostrino l'evoluzione della word cloud.
-
-In generale, l'utilizzo delle word cloud consente agli utenti di avere una rapida sintesi sul contenuto di un testo, facilitandone la comprensione. I contesti applicativi sono molteplici, e verranno discussi nei capitoli successivi.
 \\ \\
-Questa tesi di laurea è dunque strutturata come segue:
+La tesi di laurea è dunque strutturata come segue:
 \begin{itemize}
 \item Nel capitolo \ref{ch:wc_stat} verrà introdotto il concetto di word cloud, facendo il punto sulle caratteristiche, sullo stato dell'arte e sulle possibili applicazioni.
 \item Il capitolo \ref{ch:wcdin}, dopo una breve distinzione tra word cloud statiche e dinamiche, tratterà gli aspetti algoritmici del sistema sviluppato. Verranno descritte le varie fasi, composte da diversi algoritmi, che consentono la creazione di una word cloud statica (sezione \ref{wc_din:algs}). L'approccio utilizzato per conferire dinamicità al sistema è invece esposto nella sezione \ref{wc_din:din_algs}.

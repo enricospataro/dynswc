@@ -82,7 +82,7 @@ Ottenute la lista delle parole più rilevanti e la similarità a coppie, si proced
 \caption[Classi coinvolte nella creazione della word cloud.]{Classi coinvolte nella creazione della word cloud.}
 \label{strategy:layout}
 \end{figure}
-La coerenza della mappa mentale, come detto, viene rispettata grazie al riferimento all'ultimo disegno realizzato, denotato dalla variabile \texttt{lastResult}. Tale variabile viene ereditata dallo specifico algoritmo di layout ed è gestita in modo opportuno nell'implementazione della procedura force directed descritta nel paragrafo \ref{subsec:layoutdin}. Tale procedura viene eseguita subito dopo l'applicazione dello scaling multidimensionale al grafo delle parole, che colloca sul piano le parole in base alla loro similarità. Il metodo force directed, grazie al riferimento all'ultimo layout, riesce a ricavare le parole in comune tra i due layout. Per ognuna di queste parole, viene calcolata la distanza tra la vecchia e la nuova posizione, dunque si applica una forza attrattiva proporzionale al punteggio della parola nel layout corrente. Il numero massimo di iterazioni è 1000. \\ Di seguito è riportato lo pseudocodice della procedura force directed utilizzata.
+La coerenza della mappa mentale, come detto, viene rispettata grazie al riferimento all'ultimo disegno realizzato, denotato dalla variabile \texttt{lastResult}. Tale variabile viene ereditata dallo specifico algoritmo di layout ed è gestita in modo opportuno nell'implementazione della procedura force directed descritta nel paragrafo \ref{subsec:layoutdin}. Tale procedura viene eseguita subito dopo l'applicazione dello scaling multidimensionale al grafo delle parole, che colloca sul piano le parole in base alla loro similarità. Il metodo force directed, grazie al riferimento all'ultimo layout, riesce a ricavare le parole in comune tra i due layout. Per ognuna di queste parole, viene calcolata la distanza tra la vecchia e la nuova posizione, dunque si applica una forza attrattiva proporzionale al punteggio della parola nel layout corrente. Il numero massimo di iterazioni è 1000. \\ Nelle pagine successive è riportato lo pseudocodice della procedura force directed utilizzata.
 \begin{algorithm}
 \label{iter_algorithm}
 \begin{algorithmic}[1]
@@ -200,8 +200,8 @@ S^{k} = \dfrac{\sum \nolimits_{ij} c_{ij}s_{ij}}{\sum \nolimits_{ij} s_{ij}},
 \end{equation}
 dove $S^{k} \in [0,1]$. Se tale valore è vicino a $1$, allora la distanza geometrica rispecchia la similarità, altrimenti se tale valore tende a $0$ vale il contrario.
 \subsubsection{Coherence metric}
-Il mantenimento della mappa mentale tra due disegni consecutivi è calcolato con questa metrica. Dati due disegni consecutivi $\Gamma^{k-1}$ e $\Gamma^{k}$, con $k \in \{2,...,K\}$, indichiamo con
-$P = \{w_{1},...,w_{p}\}$ l'insieme delle $p$ parole comuni a $\Gamma^{k-1}$ e $\Gamma^{k}$. Denotiamo con $\sigma(w_{i}^{k},w_{i}^{k-1}, w_{i} \in P$, la variazione di posizione della parola $w_{i}$ nel disegno $\Gamma^{k}$. Sia inoltre $D$ la diagonale del più grande bounding box che contiene la word cloud. La metrica è definita come:
+Il mantenimento della mappa mentale tra due disegni consecutivi (ovvero la stabilità spaziale) è calcolato con questa metrica. Dati due disegni consecutivi $\Gamma^{k-1}$ e $\Gamma^{k}$, con $k \in \{2,...,K\}$, indichiamo con
+$P = \{w_{1},...,w_{p}\}$ l'insieme delle $p$ parole comuni a $\Gamma^{k-1}$ e $\Gamma^{k}$. Denotiamo con $\sigma(w_{i}^{k},w_{i}^{k-1})$, $w_{i} \in P$, la variazione di posizione della parola $w_{i}$ in $\Gamma^{k}$ rispetto a $\Gamma^{k-1}$. Sia inoltre $D$ la diagonale del più grande bounding box che contiene la word cloud. La metrica è definita come:
 \begin{equation}
 \vartheta^{k,k-1} = 1 - \dfrac{\sum \limits_{i=1}^p \sigma(w_{i}^{k},w_{i}^{k-1})}{pD}
 \end{equation}
@@ -235,7 +235,7 @@ Il calcolo del tempo d'esecuzione consiste nel conteggio del tempo  necessario a
 \item la generazione dell'interfaccia grafica;
 \item tempo totale di esecuzione.
 \end{itemize}
-Eccetto per gli ultimi due valori, tutti i tempi sono stati mediati sul numero di campionamenti del testo (pari a $4$).
+Eccetto per gli ultimi due valori, tutti i tempi sono stati mediati sul numero di campionamenti del testo.
 \subsection{Risultati}
 La durata media dei discorsi che compongono il dataset è di circa 17 minuti, per cui si è scelto di creare le word cloud in 4 istanti, in modo da ottenere una prima finestra temporale tra i 4 e i 5 minuti e avere abbastanza parole da estrarre. Inoltre, poichè l'evoluzione della word cloud è dinamica, è bene non visualizzare troppe parole, in modo da non creare confusione all'utente. Per questi motivi, sono state realizzate, per ogni combinazione degli algoritmi utilizzati, tre word cloud da 20, 40 e 60 parole ciascuna.
 
@@ -244,7 +244,7 @@ Sono stati calcolati i valori dei tre algoritmi di layout per tutte le combinazi
 
 Nei grafici si può notare come le rette siano crescenti o decrescenti, a seconda dei rispettivi valori della Coherence o della Distortion. Essendo due misure contrastanti, tali rette si intersecano spesso, per cui un algoritmo può comportarsi meglio su una metrica rispetto ad un altro algoritmo, e viceversa.
 
-In generale, l'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sempre Star Forest e CPWCV. In particolare, preserva piuttosto bene la mappa mentale, mentre, per quanto riguarda la Distortion, i valori assunti dai vari algoritmi tendono ad essere molto vicini e in ogni caso sono più che discreti (confermando i risultati del lavoro di Kobourov et al.\cite{kobourov}). Com'era lecito aspettarsi, i valori più alti si osservano nel caso di 20 parole estratte, mentre all'aumentare delle parole i valori decrescono. Star Forest ha un comportamento simile a Cycle Cover, assumendo valori leggermente inferiori sulla Coherence. CPWCV è invece l'algoritmo che, il più delle volte, si comporta peggio nella misura della coerenza della mappa mentale. Ciò fa si che le parole tendano a muoversi di più, migliorando d'altro canto la Distortion. La retta che rappresenta l'andamento della CPWCV, infatti, ha solitamente un andamento non decrescente.
+In generale, l'algoritmo che offre le performance migliori è Cycle Cover, superando quasi sempre Star Forest e CPWCV. In particolare, preserva piuttosto bene la mappa mentale, mentre, per quanto riguarda la Distortion, i valori assunti dai vari algoritmi tendono ad essere molto vicini e in ogni caso sono più che discreti (confermando i risultati del lavoro di Kobourov et al. in \cite{kobourov}). Com'era lecito aspettarsi, i valori più alti si osservano nel caso di 20 parole estratte, mentre all'aumentare delle parole i valori decrescono. Star Forest ha un comportamento simile a Cycle Cover, assumendo valori leggermente inferiori sulla Coherence. CPWCV è invece l'algoritmo che, il più delle volte, si comporta peggio nella misura della coerenza della mappa mentale. Ciò fa si che le parole tendano a muoversi di più, migliorando d'altro canto la Distortion. La retta che rappresenta l'andamento della CPWCV, infatti, ha solitamente un andamento non decrescente.
 
 \begin{figure}
 \centering

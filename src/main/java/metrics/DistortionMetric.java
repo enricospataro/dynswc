@@ -42,7 +42,6 @@ public class DistortionMetric implements QualityMetric {
 		double value=0.0;
 		double sum=0.0;
 
-		// va considerata tutta la matrice o solo metà, essendo simmetrica???
 		for(int i=0;i<n;i++)
 			for(int j=i+1;j<n;j++) {
 				distance = (1 - matrixGeometryDistance[i][j])*(1 - matrixGeometryDistance[i][j]);

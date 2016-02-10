@@ -3,17 +3,24 @@
 \chapter{Conclusioni e sviluppi futuri}\label{ch:end}
 
 \section{Risultati}
-Questa tesi di laurea presenta un nuovo approccio alla visualizzazione dinamica di una word cloud semantica. Sono stati valutati quantitativamente diversi algoritmi di disegno sulla base di varie metriche. Tali algoritmi, già esistenti in letteratura, sono stati arricchiti con un metodo force directed in modo da gestire al meglio, se possibile, la dinamicità della word cloud, tenendo conto della correlazione semantica tra le parole. L'algoritmo Cycle Cover sembra essere il migliore da questo punto di vista: la distanza geometrica tra le parole riflette la loro correlazione semantica, pur mantenendo abbastanza discretamente la mappa mentale dell'utente. 
+Questo lavoro di tesi si è posto come obiettivo quello di definire un nuovo approccio per la visualizzazione di word cloud dinamiche e semantiche, ovvero di word cloud che permettano di visualizzare in tempo reale l'evoluzione di un documento (estratto ad esempio da un discorso), o anche di un set di documenti nel tempo, considerando e preservando le relazioni semantiche fra le parole. 
+
+A tal fine, sono stati sperimentati diversi algoritmi di disegno, che sono stati valutati sulla base di varie metriche. Gli algoritmi presi in considerazione, esistenti in letteratura, ma originariamente pensati per la generazione di word cloud statiche, sono stati opportunamente modificati mediante l'utilizzo di un metodo force directed, che ha permesso di gestire la dinamicità delle word cloud, tenendo conto della correlazione semantica tra le parole. Dai risultati sperimentali, l'algoritmo Cycle Cover \cite{kobourov} è risultato essere il migliore: la distanza geometrica tra le parole riflette la loro correlazione semantica, pur mantenendo abbastanza discretamente la mappa mentale dell'utente. Tuttavia, anche gli altri due algoritmi considerati (Star Forest \cite{kobourov} e CPWCV \cite{cui}) forniscono prestazioni più che buone.
 
 Il calcolo della similarità tra cluster di word cloud successive, ha consentito una gestione ottimale delle variazioni dei cluster delle parole.
 
-Inoltre, l'applicazione delle procedure di morphing ha permesso di ottenere, tramite l'utilizzo di animazioni, una visualizzazione dinamica e gradevole della word cloud. 
+Inoltre, l'applicazione delle procedure di morphing (sulla posizione e sul colore delle parole) ha permesso di ottenere, tramite l'utilizzo di animazioni, una visualizzazione dinamica e gradevole della word cloud. 
 
-Il tutto è corredato da un'interfaccia grafica di semplice utilizzo, che permette all'utente di interagire con la word cloud e di modificare a proprio piacimento il layout, portando avanti o indietro la visualizzazione, così come un qualsiasi media player.
+Il tutto è corredato da un'interfaccia grafica di semplice utilizzo, che permette all'utente di interagire con la word cloud e di modificare a proprio piacimento il layout, fermando, portando avanti o indietro la visualizzazione, così come avviene in un qualsiasi media player.
 
 \section{Sviluppi futuri}
-In futuro, si può intervenire su diversi aspetti. Innanzitutto, si potrebbe testare tale lavoro da un punto di vista qualitativo, definendo nuove metriche che tengano conto dell'interfaccia grafica e affiancando magari uno user study, in modo da verificare l'efficacia e l'utilità del nostro lavoro sotto il profilo della quantità di informazione fornita all'utente e, possibilmente, di migliorare il sistema realizzato.
+In futuro, si può intervenire su diversi aspetti:
+\begin{itemize}
+\item si potrebbe testare tale lavoro da un punto di vista qualitativo, definendo nuove metriche che tengano conto dell'interfaccia grafica e affiancando magari uno user study, in modo da verificare l'efficacia e l'utilità del nostro lavoro sotto il profilo della quantità di informazione fornita all'utente e, possibilmente, di migliorare il sistema realizzato;
 
-Per quanto riguarda gli aspetti algoritmici, una parte fondamentale è costituita dal preprocessing del testo: l'utilizzo di tecniche più sofisticate di text mining (e.g. \textit{Part-of-Speech Tagging}, cioè l'assegnazione di categorie linguistiche alle parole), potrebbe meglio classificare le parole e catturare in modo più preciso le loro relazioni semantiche. Un'altra modifica da introdurre, è quella di considerare, tra parole in comune di word cloud consecutive, parole aventi la stessa radice. In tal caso, però, è necessario intervenire anche a livello di interfaccia grafica, poichè con la procedura di morphing, la trasformazione di una parola in un'altra dovrebbe avvenire in modo graduale.
+\item l'utilizzo di tecniche più sofisticate di text mining (e.g. \textit{Part-of-Speech Tagging}, cioè l'assegnazione di categorie linguistiche alle parole), potrebbe meglio classificare le parole e catturare in modo più preciso le loro relazioni semantiche;
 
-Anche l'interfaccia grafica è da migliorare. Ad esempio, potrebbe essere interessante sviluppare un'applicazione web, arricchendo il layout con statistiche riguardanti le parole e i cluster.
+\item sarebbe utile considerare, tra le parole in comune di word cloud consecutive, quelle aventi la stessa radice. In tal caso, però, è necessario intervenire anche a livello di interfaccia grafica, poichè con la procedura di morphing, la trasformazione di una parola in un'altra dovrebbe avvenire in modo graduale;
+
+\item dal punto di vista dell'interfaccia grafica, ad esempio, potrebbe essere interessante sviluppare un'applicazione web, arricchendo il layout con statistiche riguardanti le parole e i cluster.
+\end{itemize}

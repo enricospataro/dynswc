@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  8 FEB 2016 23:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.3)  10 FEB 2016 22:21
 entering extended mode
 **tesi.tex
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.tex
@@ -621,15 +621,15 @@ Package pdftex.def Info: img/logo.png used on input line 47.
 ifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \newpage
+l.83 \newpage
               [1]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 93.
+less on input line 91.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 94.
+less on input line 92.
 
 (C:\Users\Enrico\Documents\tesi\Tesi\tesi.toc)
 \tf@toc=\write4
@@ -689,14 +689,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
-<img/wc_statiche/obama_wc.png, id=413, 837.1275pt x 367.3725pt>
+<img/wc_statiche/obama_wc.png, id=414, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/obama_wc.png Graphic file (type png)
 
 <use img/wc_statiche/obama_wc.png>
 Package pdftex.def Info: img/wc_statiche/obama_wc.png used on input line 17.
 (pdftex.def)             Requested size: 418.56273pt x 183.68579pt.
 
-<img/wc_statiche/romney_wc.png, id=414, 837.1275pt x 367.3725pt>
+<img/wc_statiche/romney_wc.png, id=415, 837.1275pt x 367.3725pt>
 File: img/wc_statiche/romney_wc.png Graphic file (type png)
 
 <use img/wc_statiche/romney_wc.png>
@@ -708,7 +708,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 21--21
 tra i can-di-da-ti al-la pre-si-den-za
  []
 
-<img/wc_statiche/mattarella_wc.png, id=415, 740.7675pt x 463.7325pt>
+<img/wc_statiche/mattarella_wc.png, id=416, 740.7675pt x 463.7325pt>
 File: img/wc_statiche/mattarella_wc.png Graphic file (type png)
 
 <use img/wc_statiche/mattarella_wc.png>
@@ -1242,9 +1242,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.118 L
-       'algoritmo viene eseguito dalla classe \texttt{ClusterColorHandler} (...
- <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/layout_strategy.png>]
+l.117 
+       <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/layout_strategy.png>]
+
 Overfull \hbox (1.73846pt too wide) in paragraph at lines 123--124
 []\OT1/cmr/m/n/10.95 infine, il clu-ster cor-ren-te vie-ne mo-di-fi-ca-to in-vo
 -can-do \OT1/cmtt/m/n/10.95 updateClusters(bestPairs)\OT1/cmr/m/n/10.95 ,
@@ -1465,23 +1465,23 @@ Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/combo_60.png used
  on input line 281.
 (pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
-<img/impl_test/test_tf_extended/figures/combo_20.png, id=824, 1196.1931pt x 586
-.88225pt>
+<img/impl_test/test_tf_extended/figures/combo_20.png, id=824, 1196.1931pt x 554
+.48535pt>
 File: img/impl_test/test_tf_extended/figures/combo_20.png Graphic file (type pn
 g)
  <use img/impl_test/test_tf_extended/figures/combo_20.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_20.png us
 ed on input line 287.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
-<img/impl_test/test_tf_extended/figures/combo_40.png, id=825, 1196.1931pt x 586
-.88225pt>
+<img/impl_test/test_tf_extended/figures/combo_40.png, id=825, 1196.1931pt x 554
+.48535pt>
 File: img/impl_test/test_tf_extended/figures/combo_40.png Graphic file (type pn
 g)
  <use img/impl_test/test_tf_extended/figures/combo_40.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_40.png us
 ed on input line 293.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1574,14 +1574,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 l.297 \clearpage
                  <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tf_ext
 ended/figures/combo_40.png (PNG copy)>]
-<img/impl_test/test_tf_extended/figures/combo_60.png, id=847, 1196.1931pt x 586
-.88225pt>
+<img/impl_test/test_tf_extended/figures/combo_60.png, id=847, 1196.1931pt x 554
+.48535pt>
 File: img/impl_test/test_tf_extended/figures/combo_60.png Graphic file (type pn
 g)
  <use img/impl_test/test_tf_extended/figures/combo_60.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/combo_60.png us
 ed on input line 300.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_jaccard/figures/combo_20.png, id=848, 1196.1931pt x 5
 54.48535pt>
@@ -1894,178 +1894,178 @@ l.395 \clearpage
                  <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_lexran
 k_cosine/figures/combo_60.png (PNG copy)>]
 <img/impl_test/test_tf_jaccard/figures/spacemetric_20.png, id=900, 1196.1931pt 
-x 586.88225pt>
+x 554.48535pt>
 File: img/impl_test/test_tf_jaccard/figures/spacemetric_20.png Graphic file (ty
 pe png)
  <use img/impl_test/test_tf_jaccard/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_20.p
 ng used on input line 401.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_jaccard/figures/spacemetric_40.png, id=901, 1196.1931pt 
-x 586.88225pt>
+x 554.48535pt>
 File: img/impl_test/test_tf_jaccard/figures/spacemetric_40.png Graphic file (ty
 pe png)
  <use img/impl_test/test_tf_jaccard/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_40.p
 ng used on input line 407.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_jaccard/figures/spacemetric_60.png, id=902, 1196.1931pt 
-x 586.88225pt>
+x 554.48535pt>
 File: img/impl_test/test_tf_jaccard/figures/spacemetric_60.png Graphic file (ty
 pe png)
  <use img/impl_test/test_tf_jaccard/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tf_jaccard/figures/spacemetric_60.p
 ng used on input line 413.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_cosine/figures/spacemetric_20.png, id=903, 1196.1931pt x
- 586.88225pt>
+ 554.48535pt>
 File: img/impl_test/test_tf_cosine/figures/spacemetric_20.png Graphic file (typ
 e png)
  <use img/impl_test/test_tf_cosine/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_20.pn
 g used on input line 419.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_cosine/figures/spacemetric_40.png, id=904, 1196.1931pt x
- 586.88225pt>
+ 554.48535pt>
 File: img/impl_test/test_tf_cosine/figures/spacemetric_40.png Graphic file (typ
 e png)
  <use img/impl_test/test_tf_cosine/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_40.pn
 g used on input line 425.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_cosine/figures/spacemetric_60.png, id=905, 1196.1931pt x
- 586.88225pt>
+ 554.48535pt>
 File: img/impl_test/test_tf_cosine/figures/spacemetric_60.png Graphic file (typ
 e png)
  <use img/impl_test/test_tf_cosine/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tf_cosine/figures/spacemetric_60.pn
 g used on input line 431.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_extended/figures/spacemetric_20.png, id=906, 1196.1931pt
- x 586.88225pt>
+ x 554.48535pt>
 File: img/impl_test/test_tf_extended/figures/spacemetric_20.png Graphic file (t
 ype png)
 
 <use img/impl_test/test_tf_extended/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_20.
 png used on input line 437.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_extended/figures/spacemetric_40.png, id=907, 1196.1931pt
- x 586.88225pt>
+ x 554.48535pt>
 File: img/impl_test/test_tf_extended/figures/spacemetric_40.png Graphic file (t
 ype png)
 
 <use img/impl_test/test_tf_extended/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_40.
 png used on input line 443.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tf_extended/figures/spacemetric_60.png, id=908, 1196.1931pt
- x 586.88225pt>
+ x 554.48535pt>
 File: img/impl_test/test_tf_extended/figures/spacemetric_60.png Graphic file (t
 ype png)
 
 <use img/impl_test/test_tf_extended/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tf_extended/figures/spacemetric_60.
 png used on input line 450.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png, id=909, 1196.1931
-pt x 586.88225pt>
+pt x 554.48535pt>
 File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png Graphic file 
 (type png)
 
 <use img/impl_test/test_tfidf_jaccard/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_2
 0.png used on input line 456.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png, id=910, 1196.1931
-pt x 586.88225pt>
+pt x 554.48535pt>
 File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png Graphic file 
 (type png)
 
 <use img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_4
 0.png used on input line 462.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png, id=911, 1196.1931
-pt x 586.88225pt>
+pt x 554.48535pt>
 File: img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png Graphic file 
 (type png)
 
 <use img/impl_test/test_tfidf_jaccard/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_jaccard/figures/spacemetric_6
 0.png used on input line 468.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png, id=912, 1196.1931p
-t x 586.88225pt>
+t x 554.48535pt>
 File: img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png Graphic file (
 type png)
 
 <use img/impl_test/test_tfidf_cosine/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_20
 .png used on input line 474.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png, id=913, 1196.1931p
-t x 586.88225pt>
+t x 554.48535pt>
 File: img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png Graphic file (
 type png)
 
 <use img/impl_test/test_tfidf_cosine/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_40
 .png used on input line 480.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png, id=914, 1196.1931p
-t x 586.88225pt>
+t x 554.48535pt>
 File: img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png Graphic file (
 type png)
 
 <use img/impl_test/test_tfidf_cosine/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_cosine/figures/spacemetric_60
 .png used on input line 486.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_extended/figures/spacemetric_20.png, id=915, 1196.193
-1pt x 586.88225pt>
+1pt x 554.48535pt>
 File: img/impl_test/test_tfidf_extended/figures/spacemetric_20.png Graphic file
  (type png)
 
 <use img/impl_test/test_tfidf_extended/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
 20.png used on input line 492.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_extended/figures/spacemetric_40.png, id=916, 1196.193
-1pt x 586.88225pt>
+1pt x 554.48535pt>
 File: img/impl_test/test_tfidf_extended/figures/spacemetric_40.png Graphic file
  (type png)
 
 <use img/impl_test/test_tfidf_extended/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
 40.png used on input line 498.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_tfidf_extended/figures/spacemetric_60.png, id=917, 1196.193
-1pt x 586.88225pt>
+1pt x 554.48535pt>
 File: img/impl_test/test_tfidf_extended/figures/spacemetric_60.png Graphic file
  (type png)
 
 <use img/impl_test/test_tfidf_extended/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_tfidf_extended/figures/spacemetric_
 60.png used on input line 504.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2270,34 +2270,34 @@ l.508 \clearpage
                  <C:/Users/Enrico/Documents/tesi/Tesi/img/impl_test/test_tfidf_
 extended/figures/spacemetric_60.png (PNG copy)>]
 <img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png, id=961, 1196.19
-31pt x 586.88225pt>
+31pt x 554.48535pt>
 File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png Graphic fil
 e (type png)
 
 <use img/impl_test/test_lexrank_jaccard/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
 _20.png used on input line 511.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png, id=962, 1196.19
-31pt x 586.88225pt>
+31pt x 554.48535pt>
 File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png Graphic fil
 e (type png)
 
 <use img/impl_test/test_lexrank_jaccard/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
 _40.png used on input line 517.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png, id=963, 1196.19
-31pt x 586.88225pt>
+31pt x 554.48535pt>
 File: img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png Graphic fil
 e (type png)
 
 <use img/impl_test/test_lexrank_jaccard/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_jaccard/figures/spacemetric
 _60.png used on input line 523.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_cosine/figures/spacemetric_20.png, id=964, 1196.193
 1pt x 554.48535pt>
@@ -2330,34 +2330,34 @@ Package pdftex.def Info: img/impl_test/test_lexrank_cosine/figures/spacemetric_
 (pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_extended/figures/spacemetric_20.png, id=967, 1196.1
-931pt x 586.88225pt>
+931pt x 554.48535pt>
 File: img/impl_test/test_lexrank_extended/figures/spacemetric_20.png Graphic fi
 le (type png)
 
 <use img/impl_test/test_lexrank_extended/figures/spacemetric_20.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
 c_20.png used on input line 547.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_extended/figures/spacemetric_40.png, id=968, 1196.1
-931pt x 586.88225pt>
+931pt x 554.48535pt>
 File: img/impl_test/test_lexrank_extended/figures/spacemetric_40.png Graphic fi
 le (type png)
 
 <use img/impl_test/test_lexrank_extended/figures/spacemetric_40.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
 c_40.png used on input line 553.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 <img/impl_test/test_lexrank_extended/figures/spacemetric_60.png, id=969, 1196.1
-931pt x 586.88225pt>
+931pt x 554.48535pt>
 File: img/impl_test/test_lexrank_extended/figures/spacemetric_60.png Graphic fi
 le (type png)
 
 <use img/impl_test/test_lexrank_extended/figures/spacemetric_60.png>
 Package pdftex.def Info: img/impl_test/test_lexrank_extended/figures/spacemetri
 c_60.png used on input line 559.
-(pdftex.def)             Requested size: 418.67386pt x 205.41185pt.
+(pdftex.def)             Requested size: 418.67386pt x 194.07277pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2561,7 +2561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--162
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2570,10 +2570,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [86]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
  (C:\Users\Enrico\Documents\tesi\Tesi\tesi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `tesi.out' has not changed.
 (rerunfilecheck)             Checksum: 7EFC652DFD04FC6881E2B107CB46441A;2435.
 
@@ -2584,7 +2584,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  10864 strings out of 493921
  167078 string characters out of 3147280
- 264903 words of memory out of 3000000
+ 265903 words of memory out of 3000000
  13615 multiletter control sequences out of 15000+200000
  15209 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2606,9 +2606,9 @@ public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb>
-Output written on tesi.pdf (87 pages, 3157355 bytes).
+Output written on tesi.pdf (87 pages, 3240918 bytes).
 PDF statistics:
- 1162 PDF objects out of 1200 (max. 8388607)
+ 1165 PDF objects out of 1200 (max. 8388607)
  309 named destinations out of 1000 (max. 500000)
  639 words of extra memory for PDF output out of 10000 (max. 10000000)
 

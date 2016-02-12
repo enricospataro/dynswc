@@ -4,4 +4,4 @@
 \beamer@subsectionintoc {3}{1}{Word cloud statica}{8}{0}{2}
 \beamer@subsectionintoc {3}{2}{Word cloud dinamica}{13}{0}{2}
 \beamer@sectionintoc {4}{Risultati sperimentali}{23}{0}{3}
-\beamer@sectionintoc {5}{Conclusioni}{32}{0}{4}
+\beamer@sectionintoc {5}{Conclusioni}{31}{0}{4}

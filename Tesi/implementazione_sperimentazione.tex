@@ -573,7 +573,7 @@ Il tempo impiegato è il medesimo indipendentemente dal numero di parole estratte
 \setlength{\tabcolsep}{12pt}
 \begin{tabular}{cc}
 \toprule
-Algoritmo & Tempo [sec] \\
+Algoritmo & Tempo [s] \\
 \midrule
 Term Frequency 	&	$0.05$ \\						
 \midrule
@@ -595,9 +595,9 @@ Il tempo speso per il calcolo delle similarità tra coppie di parole è indicato i
 \cmidrule(lr){2-4}
 & Jaccard & Cosine & Extended Jaccard \\
 \midrule
-$20$ & $0.55$ & $0.34$& $0.36$\\
-$40$ & $1.65$ & $0.98$ & $1.08$ \\
-$60$ & $3$ & $1.88$ & $1.87$ \\
+$20$ & $0.55 \mu s$ & $0.34 \mu s$& $0.36 \mu s$\\
+$40$ & $1.65 \mu s$ & $0.98 \mu s$ & $1.08 \mu s$ \\
+$60$ & $3 \mu s$ & $1.88 \mu s$ & $1.87 \mu s$ \\
 \bottomrule
 \end{tabular}
 \caption{Tempo d'esecuzione medio (espresso in $\mu s$) per il calcolo della similarità per $20$,$40$ e $60$ parole estratte.}
@@ -613,12 +613,12 @@ In tabella \ref{tab:layout_time} sono riportati i tempi degli algoritmi di diseg
 \cmidrule(lr){2-4}
 & CPWCV & Star Forest & Cycle Cover \\
 \midrule
-$20$ & $3.93 \mu s$ & $0.095s$& $6.43 \mu s$\\
+$20$ & $3.93 \cdot 10^{-3} s$ & $0.095s$& $6.43 \cdot 10^{-3} s$\\
 $40$ & $0.016 s$ & $0.18 s$ & $0.024s$ \\
 $60$ & $0.048s$ & $0.274 s$ & $0.067 s$ \\
 \bottomrule
 \end{tabular}
-\caption{Tempo d'esecuzione medio per la creazione della word cloud con $20$,$40$ e $60$ parole.}
+\caption{Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole.}
 \label{tab:layout_time}
 \end{table}
 
@@ -711,9 +711,9 @@ I risultati ottenuti sono del tutto ragionevoli e sono riportati in tabella \ref
 \toprule
 Parole estratte & Caso peggiore & Caso migliore  \\
 \midrule
-$20$ & $2.65$ & $0.77$\\
-$40$ & $3.01$ & $0.94$\\
-$60$ & $3.66$ & $1.25$\\
+$20$ & $2.65s$ & $0.77s$\\
+$40$ & $3.01s$ & $0.94s$\\
+$60$ & $3.66s$ & $1.25s$\\
 \bottomrule
 \end{tabular}
 \caption[Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole.]{Tempo d'esecuzione medio (espresso in secondi) per la creazione della word cloud con $20$,$40$ e $60$ parole. Configurazione caso peggiore: TFIDF, Jaccard Similarity e Star Forest. Configurazione caso migliore: Term Frequency, Cosine Similarity e CPWCV.}

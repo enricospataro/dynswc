@@ -17,8 +17,8 @@
 %\titlegraphic{\pgfuseimage{logo}}
 \subtitle{Ingegneria Informatica e dell'Automazione \vspace{0.5cm}
 \\\textsc{\textcolor[rgb]{0.00,0.00,0.00} {Università degli Studi di Perugia \\Facoltà di Ingegneria}}}
-\author{\textbf{Candidato}: \textit{Enrico Spataro} \hspace{0.1cm} \\\textbf{Relatore}: \textit{Prof.ssa Carla Binucci} \hspace{0.2cm} \\
-\textbf{Correlatore}: \textit{Prof. Walter Didimo}}
+\author{\textbf{Candidato}: \textit{Enrico Spataro} \hspace{0.2cm} \\\textbf{Relatori}: \textit{Prof.ssa Carla Binucci} \hspace{0.2cm} \\
+\textit{Prof. Walter Didimo}}
 \date{\scriptsize 19.02.2016}
 
 \begin{document}
@@ -77,8 +77,8 @@ Mostrare l'evoluzione di un testo tramite:
 	\begin{enumerate}
 \item Estrazione parole chiave
 \item Calcolo similarità
-\item Disegno word cloud
 \item Clustering
+\item Disegno word cloud
 	\end{enumerate}
 \end{beamerboxesrounded}
 }
@@ -89,14 +89,15 @@ Mostrare l'evoluzione di un testo tramite:
 	\begin{enumerate}[<+-| alert@+>]
 \item <1| alert@+> Estrazione parole chiave
 \item <2| alert@+> Calcolo similarità
-\item <3| alert@+> Disegno word cloud
-\item <4| alert@+> Clustering
+\item <3| alert@+> Clustering
+\item <4| alert@+> Disegno word cloud
 	\end{enumerate}
 \end{beamerboxesrounded}
 \begin{center}
 \includegraphics<1>[scale=0.45]{img/wc_dinamiche/term_ext.png}
-\includegraphics<3>[scale=0.45]{img/wc_dinamiche/layout.png}
-\includegraphics<4>[scale=0.45]{img/wc_dinamiche/clustering.png}
+\includegraphics<2>[scale=0.45]{img/wc_dinamiche/matrix2.png}
+\includegraphics<4>[scale=0.45]{img/wc_dinamiche/layout.png}
+\includegraphics<3>[scale=0.45]{img/wc_dinamiche/clustering.png}
 \end{center}
 }
 
@@ -151,8 +152,8 @@ Le parole, tra una word cloud e la successiva, possono:
 	\end{enumerate}
 \end{beamerboxesrounded}
 \includegraphics<1>[scale=0.45]{img/wc_dinamiche/layout_mod.png}
+\includegraphics<2>[scale=0.45]{img/wc_dinamiche/clustersimil.png}
 }
-
 
 \frame{
 \frametitle{\textbf{Inserire video}}
@@ -161,38 +162,59 @@ Le parole, tra una word cloud e la successiva, possono:
 \section{Risultati sperimentali}
 \frame{
 \frametitle{\textbf{Risultati sperimentali}}
-Setup: 
+Test suite: 
 \begin{itemize}
-\item $200$ discorsi, lunghezza media $17$ minuti.
+\item $200$ discorsi estratti (file \textit{.txt}) dalla conferenza TED.
+\item Lunghezza media $17/18$ minuti.
 \item 4 campionamenti per ogni testo.
 \item Parole estratte: $20$,$40$,$60$
 \end{itemize}
-\begin{beamerboxesrounded}[shadow=true]{Metriche}
+}
+
+\frame{
+\frametitle{\textbf{Risultati sperimentali}}
+Metriche adottate:
+\begin{itemize}
+\item \textsf{Combination metric} $\, \Rightarrow  \nu = \dfrac{1}{K}\sum\limits_{k=1}^K (\alpha S^{k} + \beta\vartheta^{k,k-1}) $
 	\begin{itemize}
-\item Combination metric
-	\begin{itemize}
-	\item Distortion metric
-	\item Coherence metric
+	\item \textsf{Distortion metric} 
+$\, \Rightarrow S^{k} = \dfrac{\sum \nolimits_{ij} c_{ij}s_{ij}}{\sum \nolimits_{ij} s_{ij}}$
+	\item \textsf{Coherence metric }
+$\,\Rightarrow  \vartheta^{k,k-1} = 1 - \dfrac{\sum \limits_{i=1}^p \sigma(w_{i}^{k},w_{i}^{k-1})}{pD} $
 	\end{itemize}
-\item Space metric
-\item Tempo d'esecuzione
+\item \textsf{Space metric} $\Rightarrow  \gamma = 1 - \dfrac{\mu}{\varphi}$
+\item \textsf{Tempo d'esecuzione}
 \end{itemize}
-\end{beamerboxesrounded}
+}
+
+\frame{
+\frametitle{\textbf{Risultati sperimentali}}
+Algoritmi utilizzati:
+\begin{center}
+\includegraphics[scale=0.5]{img/wc_dinamiche/algorithms.png}
+\end{center}
 }
 
 \frame{
 \frametitle{\textbf{Combination metric}}
-\includegraphics<1>[scale=0.27]{img/impl_test/test_tfidf_jaccard/figures/combo_20.png}
-\includegraphics<2>[scale=0.27]{img/impl_test/test_tfidf_jaccard/figures/combo_40.png}
-\includegraphics<3>[scale=0.27]{img/impl_test/test_tfidf_jaccard/figures/combo_40.png}
-\includegraphics<4>[scale=0.27]{img/impl_test/test_lexrank_cosine/figures/combo_20.png}
-\includegraphics<5>[scale=0.27]{img/impl_test/test_lexrank_cosine/figures/combo_40.png}
-\includegraphics<6>[scale=0.27]{img/impl_test/test_lexrank_cosine/figures/combo_60.png}
+\includegraphics<1>[scale=0.25]{img/impl_test/test_tfidf_jaccard/figures/combo_20.png}
+\includegraphics<2>[scale=0.25]{img/impl_test/test_tfidf_jaccard/figures/combo_40.png}
+\includegraphics<3>[scale=0.25]{img/impl_test/test_tfidf_jaccard/figures/combo_60.png}
+
+\only<1>{Parole estratte: 20}
+\only<2>{Parole estratte: 40}
+\only<3>{Parole estratte: 60}
+
+Algoritmi utilizzati: TF-IDF Ranking, Jaccard Similarity
 }
 
 \frame{
 \frametitle{\textbf{Space metric}}
-\includegraphics<1>[scale=0.27]{img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png}
+\includegraphics<1>[scale=0.25]{img/impl_test/test_tfidf_jaccard/figures/spacemetric_40.png}
+
+{Parole estratte: 40}
+
+Algoritmi utilizzati: TF-IDF Ranking, Jaccard Similarity
 }
 
 \frame{
@@ -207,9 +229,9 @@ Setup:
 \hline
 Parole estratte & Caso peggiore & Caso migliore  \\
 \hline
-$20$ & $2.65$ & $0.77$\\
-$40$ & $3.01$ & $0.94$\\
-$60$ & $3.66$ & $1.25$\\
+$20$ & $2.65s$ & $0.77s$\\
+$40$ & $3.01s$ & $0.94s$\\
+$60$ & $3.66s$ & $1.25s$\\
 \hline
 \end{tabular}} 
 }

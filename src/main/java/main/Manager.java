@@ -47,65 +47,81 @@ import opennlp.tools.util.InvalidFormatException;
 public class Manager {
 	
 	public static void main(String[] args) throws IOException {
-		File[] files = new File("src/main/resources/speeches/txt").listFiles();
+		File[] files = new File("src/main/resources/speeches/othertxt").listFiles();
 		
 		int n=files.length;
-		long runningTime=0;
+	
+		RankingStrategy s1 = new TFRanking();
+		RankingStrategy s2 = new TFIDFRanking();
+		RankingStrategy s3 = new LexRankRanking();
+		RankingStrategy[] rankStrategies = {s1,s2,s3};
+		
+		SimilarityStrategy ss1 = new CosineSimilarity();
+		SimilarityStrategy ss2 = new JaccardSimilarity();
+		SimilarityStrategy ss3 = new ExtendedJaccardSimilarity();
+		SimilarityStrategy[] similStrategies = {ss1,ss2,ss3};
 
-		for(int i=0;i<1;i++) {
+		LayoutStrategy l1 = new ContextPreservingStrategy();
+		LayoutStrategy l2 = new StarForestStrategy();
+		LayoutStrategy l3 = new CycleCoverStrategy();
+		LayoutStrategy[] layoutStrategies = {l1,l2,l3};
+		
+		setLayoutStrategy(layoutStrategies[2]);
+		setRankingStrategy(rankStrategies[1]);
+		setSimilarityStrategy(similStrategies[1]);
+		
+		for(int i=0;i<n;i++) {
 			try{
-				long startTime = System.nanoTime();
 				new Manager().run(files[i]);
-				long endTime = System.nanoTime();
-				runningTime += (endTime-startTime);
 			}catch (Exception e){e.printStackTrace();}	
-		}
-//		
-//		double maxDiag = getMaxDiag();
-//		
-//		double maxDist = Double.MIN_VALUE;
-//		double minDist = Double.MAX_VALUE;
-//		double maxCoher = Double.MIN_VALUE;
-//		double minCoher = Double.MAX_VALUE;
-//		
-//		for(Result r:results) {
-//			r.test(maxDiag);
-//			if(maxDist<r.distValue) maxDist = r.distValue;
-//			if(minDist>r.distValue) minDist = r.distValue;
-//			if(maxCoher<r.coherValue) maxCoher = r.coherValue;
-//			if(minCoher>r.coherValue) minCoher = r.coherValue;
-//		}		
-//		long rankingRunningTime=0;
-//		long similRunningTime=0;
-//		long morphingRunningTime=0;
-//		long clusteringRunningTime=0;
-//		long colorMorphingRunningTime=0;
-//		long layoutRunningTime=0;
-//		long uiRunningTime=0;
-//		double distValue=0;
-//		double coherValue=0;
-//		double bbValue=0; 
-//		double chValue=0;
-//		
-//		for(Result r:results) {
-//			r.distValue = normalize(r.distValue,maxDist,minDist);
-//			r.coherValue = normalize(r.coherValue,maxCoher,minCoher);
-//			distValue += r.distValue;
-//			coherValue += r.coherValue;
-//			bbValue += r.bbValue;
-//			chValue += r.chValue;
-//			rankingRunningTime += r.meanRankingRunningTime;
-//			similRunningTime += r.meanSimilRunningTime;
-//			layoutRunningTime += r.meanRunningTime;
-//			morphingRunningTime += r.meanMorphingRunningTime;
-//			clusteringRunningTime += r.meanClusteringRunningTime;
-//			colorMorphingRunningTime += r.meanColorMorphingRunningTime;
-//			uiRunningTime += r.uiRunningTime;
-//		}
-//		createResult(distValue/n,coherValue/n,bbValue/n,chValue/n,rankingRunningTime/n,similRunningTime/n,
-//				layoutRunningTime/n,morphingRunningTime/n,clusteringRunningTime/n,colorMorphingRunningTime/n,
-//				uiRunningTime/n,runningTime/n);
-	}
+		}	
+		
+//		for(int c=0;c<layoutStrategies.length;c++) {
+//			setLayoutStrategy(layoutStrategies[c]);
+//			for(int a=0;a<rankStrategies.length;a++) {
+//				setRankingStrategy(rankStrategies[a]);
+//				for(int b=0;b<similStrategies.length;b++) {
+//					setSimilarityStrategy(similStrategies[b]);
+//					
+//					results = new ArrayList<>();
+//					diags = new ArrayList<>();
+//					
+//					for(int i=0;i<n;i++) {
+//						try{
+//							new Manager().run(files[i]);
+//						}catch (Exception e){e.printStackTrace();}	
+//					}				
+//			
+//			double maxDiag = getMaxDiag();
+//			
+//			for(Result r:results) r.test(maxDiag);
+			
+//			double maxDist = Double.MIN_VALUE;
+//			double minDist = Double.MAX_VALUE;
+//			double maxCoher = Double.MIN_VALUE;
+//			double minCoher = Double.MAX_VALUE;
+//
+//			for(Result r:results) {
+//				if(maxDist<r.distValue) maxDist = r.distValue;
+//				if(minDist>r.distValue) minDist = r.distValue;
+//				if(maxCoher<r.coherValue) maxCoher = r.coherValue;
+//				if(minCoher>r.coherValue) minCoher = r.coherValue;
+//			}	
+//			for(Result r:results) {
+//				r.distValue = normalize(r.distValue,maxDist,minDist);
+//				r.coherValue = normalize(r.coherValue,maxCoher,minCoher);
+//			}
+//			String s="";
+//			for(int j=0;j<results.size();j++) {
+//				s += results.get(j).createResult();
+//				if((j+1)% n == 0) {
+//					createResult(s);
+//					s="";
+//				}
+//			}
+//	}}}
+	
+	} //end main
 	
 	private static double normalize(double value, double maxValue, double minValue) {
 		return (value-minValue)/(maxValue-minValue);
@@ -134,7 +150,7 @@ public class Manager {
 	private List<ClusterResult> clusterResults;
 	private List<ClusterColorHandler> colorHandlers;
 	private List<ColorHandler> frameColorHandlers;
-	static int parts;
+	final static int PARTS=4;
 	private static int frames;
 	private static int words; 
 	private long rankingRunningTime;
@@ -144,11 +160,13 @@ public class Manager {
 	private long colorMorphingRunningTime;
 	private long clusteringRunningTime;
 	private long uiRunningTime;
-	private static List<Double> diags = new ArrayList<>();
-	private static List<Result> results = new ArrayList<>();
+	private long totalRunningTime;
+	private static List<Double> diags;
+	private static List<Result> results;
 	
 	private void run(File in) throws IOException { 
-
+		
+		long initialTime = System.nanoTime();
 		// 1 compute elaboration of a document 	
 		File sentModel = new File("src/main/resources/opennlp/en-sent.bin");
 //		// Text parsing if the input file is a .srt file
@@ -164,22 +182,18 @@ public class Manager {
 		File tokenModel = new File("src/main/resources/opennlp/en-token.bin");
 		tokenizer = getTokenizer(tokenModel);
 		
-		parts=4;
-		List<String> textParts=TextUtils.splitText(text,text.length()/parts);
+		List<String> textParts=TextUtils.splitText(text,text.length()/PARTS);
 		
-		setRankingStrategy(new TFRanking());
 		List<Document> docs=new ArrayList<>();
 		String t="";
 		for(int i=0;i<textParts.size();i++) {
 			t=t + " " +textParts.get(i);
-			setWords(20);
+			setWords(40);
 			Document doc = computeDocument(t);
 			docs.add(doc);
 		}
 
 		// 2 compute similarity of extracted words
-		setSimilarityStrategy(new ExtendedJaccardSimilarity());
-		setLayoutStrategy(new CycleCoverStrategy());
 		WordGraph wordGraph=null;
 		layoutResults = new ArrayList<>();
 		wordGraphs = new ArrayList<>();
@@ -221,34 +235,19 @@ public class Manager {
 		visualize(wordGraph,frameResults,frameColorHandlers); 	
 		long endTime = System.nanoTime();
 		uiRunningTime += (endTime-startTime);
+		totalRunningTime += (endTime-initialTime);
 		
-		computeBoundingBoxes();
-		results.add(new Result(wordGraphs,layoutResults,rankingRunningTime,similRunningTime,layoutRunningTime,
-				morphingRunningTime,clusteringRunningTime,colorMorphingRunningTime,uiRunningTime));
+//		computeBoundingBoxes();
+//		Result r = new Result(wordGraphs,layoutResults,rankingRunningTime,similRunningTime,layoutRunningTime,
+//				morphingRunningTime,clusteringRunningTime,colorMorphingRunningTime,uiRunningTime,totalRunningTime);
+//		results.add(r);
 	}
 
-	private static void createResult(double dist, double coher,	double bbValue, double chValue,	
-			long rankingRunningTime,long similRunningTime,long layoutRunningTime,
-			long morphingRunningTime,long clusteringRunningTime,long colorMorphingRunningTime, 
-			long uiRunningTime, long runningTime) throws IOException {
+	private static void createResult(String s) throws IOException {
 		File path = new File("src/main/resources/results");
-		File result = File.createTempFile("Test_2_",".txt",path);
+		File result = File.createTempFile("Test_1_",".txt",path);
 		BufferedWriter bw = new BufferedWriter(new FileWriter(result));
-		bw.write("Ranking: " + rankingStrategy.toString() + "\r\n" + "Similarity: " + 
-				similarityStrategy.toString() + "\r\n" + "Layout: " + layoutStrategy.toString() + "\r\n");
-		bw.write("Words: " + getWords() + "\r\n");
-		bw.write("DistortionMetric: " + dist + "\r\n");
-		bw.write("CoherenceMetric: " + coher + "\r\n");
-		bw.write("SpaceMetric BoundingBox: " + bbValue + "\r\n");
-		bw.write("SpaceMetric ConvexHull: " + chValue + "\r\n");
-		bw.write("Processing RunningTime: " + rankingRunningTime + "\r\n");
-		bw.write("Simil RunningTime: " + similRunningTime + "\r\n");
-		bw.write("Layout RunningTime: " + layoutRunningTime + "\r\n");
-		bw.write("Morphing RunningTime: " + morphingRunningTime + "\r\n");
-		bw.write("Clustering RunningTime: " + clusteringRunningTime + "\r\n");
-		bw.write("ColorMorphing RunningTime: " + colorMorphingRunningTime + "\r\n");
-		bw.write("UI RunningTime: " + uiRunningTime + "\r\n");
-		bw.write("Total RunningTime: " + runningTime + "\r\n");
+		bw.write(s);
 		bw.flush();
 		bw.close();
 	}
@@ -292,9 +291,9 @@ public class Manager {
 	}
 	
 	public void setSentenceDetector() {sentDetector = new SimpleSentenceDetector();}
-	public void setRankingStrategy(RankingStrategy ranking) {rankingStrategy=ranking;}
-	public void setSimilarityStrategy(SimilarityStrategy similarity) {similarityStrategy=similarity;}
-	public void setLayoutStrategy(LayoutStrategy layout) {layoutStrategy=layout;}
+	public static void setRankingStrategy(RankingStrategy ranking) {rankingStrategy=ranking;}
+	public static void setSimilarityStrategy(SimilarityStrategy similarity) {similarityStrategy=similarity;}
+	public static void setLayoutStrategy(LayoutStrategy layout) {layoutStrategy=layout;}
 	public void setMorphingStrategy(MorphingStrategy morphing) {morphingStrategy=morphing;}
 	public void setColorHandler(ColorHandler handler) {colorHandler=handler;}
 	public void setClusterSimilarityStrategy(ClusterSimilarityStrategy clusterSimilarity) {clusterSimilarityStrategy=clusterSimilarity;}

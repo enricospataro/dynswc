@@ -36,9 +36,9 @@ public interface ColorHandlerConstants {
     static final Color[] colorbrewer_1 = {
             new Color(166, 206, 227),
             new Color(31, 120, 180),
-            new Color(178, 223, 138),
+            new Color(197, 179, 88),
             new Color(51, 160, 44),
-            new Color(251, 154, 153),
+            new Color(100, 214, 223),
             new Color(227, 26, 28),
             new Color(253, 191, 111),
             new Color(255, 127, 0),
@@ -65,6 +65,18 @@ public interface ColorHandlerConstants {
             new Color(179, 222, 105),
             new Color(252, 205, 229),
             new Color(217, 217, 217) };
+    
+    static final Color[] new_color = {
+    		new Color(29, 146, 11),
+    		new Color(18, 41, 155),
+    		new Color(38, 227, 227),
+    		new Color(250, 151, 2),
+    		new Color(29, 146, 11),
+    		new Color(220, 12, 15),
+    		new Color(220, 215,38),
+    		new Color(93, 165, 192),
+    		new Color(92, 2, 195),
+    		new Color(103, 225, 21) };
 
     static final Color[] trischeme_1 = {
             new Color(255, 0, 0),

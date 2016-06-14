@@ -38,7 +38,8 @@ public class WordCloudFrame extends JFrame {
         
 		createLayout(results,colorHandlers);
 		
-		setVisible(true);
+		setVisible(true); 
+//		dispose();
 	}
 	
 	static Dimension getScreenDimension() {
@@ -64,10 +65,10 @@ public class WordCloudFrame extends JFrame {
 			List<RenderedWord> rw = RenderedWord.renderWords(res.getWords(),res,colorHandlers.get(i));
 
 			WordCloudPanel panel = new WordCloudPanel(rw,width,height,minX,minY,maxX,maxY);
-			WordCloudBarChart barChart = new WordCloudBarChart(res);
+//			WordCloudBarChart barChart = new WordCloudBarChart(res);
 		
 			panels.add(panel);
-			charts.add(barChart);
+//			charts.add(barChart);
 		}
 		setJMenuBar(new WordCloudMenuBar(charts));
 		WordCloudsContPanel cardsPanel = new WordCloudsContPanel(panels,charts,frames); 

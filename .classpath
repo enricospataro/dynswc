@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="C:/Users/Enrico/Downloads/apache-opennlp-1.6.0-bin/apache-opennlp-1.6.0/lib/opennlp-tools-1.6.0.jar" sourcepath="C:/Users/Enrico/Downloads/apache-opennlp-1.6.0-bin/apache-opennlp-1.6.0/lib/opennlp-tools-1.6.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Enrico/Downloads/jgrapht-0.9.1/jgrapht-0.9.1/lib/jgrapht-core-0.9.1.jar" sourcepath="C:/Users/Enrico/Downloads/jgrapht-0.9.1"/>
 	<classpathentry kind="lib" path="C:/Users/Enrico/Downloads/jgrapht-0.9.1/jgrapht-0.9.1/lib/jgrapht-ext-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Enrico/Downloads/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

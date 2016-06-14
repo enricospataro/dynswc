@@ -1,0 +1,27 @@
+CPWCV , Term Frequency , Cosine 
+CPWCV , Term Frequency , Jaccard 
+CPWCV , Term Frequency , ExtendedJaccard  
+CPWCV , TFIDF , Cosine 
+CPWCV , TFIDF , Jaccard 
+CPWCV , TFIDF , ExtendedJaccard  
+CPWCV , LexRank , Cosine 
+CPWCV , LexRank  , Jaccard 
+CPWCV , LexRank  , ExtendedJaccard  
+StarForest , Term Frequency , Cosine 
+StarForest , Term Frequency , Jaccard 
+StarForest , Term Frequency , ExtendedJaccard  
+StarForest , TFIDF , Cosine 
+StarForest , TFIDF , Jaccard 
+StarForest , TFIDF , ExtendedJaccard  
+StarForest , LexRank , Cosine 
+StarForest , LexRank  , Jaccard 
+StarForest , LexRank  , ExtendedJaccard  
+CycleCover, Term Frequency , Cosine 
+CycleCover , Term Frequency , Jaccard 
+CycleCover , Term Frequency , ExtendedJaccard  
+CycleCover , TFIDF , Cosine 
+CycleCover , TFIDF , Jaccard 
+CycleCover , TFIDF , ExtendedJaccard  
+CycleCover , LexRank , Cosine 
+CycleCover , LexRank  , Jaccard 
+CycleCover , LexRank  , ExtendedJaccard  

@@ -1,0 +1,19 @@
+- 3 fogli excel, rispettivamente per 20, 40 e 60 parole estratte. 
+
+- Ogni colonna riporta i risultati dell'intero dataset per ciascuna combinazione degli algoritmi di ranking, similarità e disegno.
+
+- In ogni colonna, ci sono i risultati di ogni speech, separati da una riga bianca. 
+
+- Ciascun risultato è composto da una sequenza di risultati sulle varie metriche così come segue:
+ 1) Distortion metric;
+ 2) Coherence metric;
+ 3) Space metric (Bounding box);
+ 4) Space metric (Convex hull);
+ 5) Running time medio dell'algoritmo di ranking;
+ 6) Running time medio dell'algoritmo di similarità;
+ 7) Running time medio dell'algoritmo di layout;
+ 8) Running time medio dell'algoritmo di morphing;
+ 9) Running time medio dell'algoritmo di clustering (con gestione delle variazioni dei cluster);
+ 10) Running time medio dell'algoritmo di gestione delle variazioni di colore;
+ 11) Running time totale per la generazione dell'interfaccia grafica;
+ 12) Running time totale per l'esecuzione del sistema.
